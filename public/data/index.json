@@ -1,0 +1,141 @@
+{
+  "categories": [
+    {
+      "id": "daily-life",
+      "name": "Daily Life",
+      "topics": [
+        { "id": "greetings",     "name": "Greetings & Introductions" },
+        { "id": "farewells",     "name": "Farewells" },
+        { "id": "politeness",    "name": "Politeness & Courtesy" },
+        { "id": "family",        "name": "Family Members" },
+        { "id": "emotions",      "name": "Emotions & Feelings" },
+        { "id": "daily-routines","name": "Daily Routines" },
+        { "id": "time",          "name": "Telling Time" },
+        { "id": "dates",         "name": "Days / Months / Dates" },
+        { "id": "weather",       "name": "Weather & Seasons" }
+      ]
+    },
+    {
+      "id": "going-out",
+      "name": "Going Out",
+      "topics": [
+        { "id": "directions",     "name": "Directions & Navigation" },
+        { "id": "transportation", "name": "Transportation" },
+        { "id": "airport",        "name": "At the Airport" },
+        { "id": "train-station",  "name": "At the Train Station" },
+        { "id": "taxis",          "name": "Taxis & Ride-hailing" },
+        { "id": "accommodation",  "name": "Accommodation & Hotels" }
+      ]
+    },
+    {
+      "id": "food-drink",
+      "name": "Food & Drink",
+      "topics": [
+        { "id": "ordering",    "name": "Ordering Food" },
+        { "id": "restaurant",  "name": "At a Restaurant" },
+        { "id": "street-food", "name": "Street Food" },
+        { "id": "drinks",      "name": "Drinks & Beverages" },
+        { "id": "cooking",     "name": "Cooking & Recipes" },
+        { "id": "dietary",     "name": "Dietary Restrictions" },
+        { "id": "paying",      "name": "Paying the Bill" }
+      ]
+    },
+    {
+      "id": "shopping",
+      "name": "Shopping",
+      "topics": [
+        { "id": "clothing",   "name": "Clothing & Fashion" },
+        { "id": "bargaining", "name": "Prices & Bargaining" },
+        { "id": "colors",     "name": "Colors & Sizes" },
+        { "id": "market",     "name": "At the Market" },
+        { "id": "online",     "name": "Online Shopping" }
+      ]
+    },
+    {
+      "id": "social",
+      "name": "Social",
+      "topics": [
+        { "id": "making-friends", "name": "Making Friends" },
+        { "id": "dating",         "name": "Dating & Relationships" },
+        { "id": "compliments",    "name": "Compliments" },
+        { "id": "invitations",    "name": "Invitations & Plans" },
+        { "id": "apologies",      "name": "Apologies & Misunderstandings" },
+        { "id": "hobbies",        "name": "Talking About Hobbies" }
+      ]
+    },
+    {
+      "id": "health",
+      "name": "Health",
+      "topics": [
+        { "id": "doctor",   "name": "At the Doctor" },
+        { "id": "symptoms", "name": "Symptoms & Illness" },
+        { "id": "pharmacy", "name": "Pharmacy" },
+        { "id": "body",     "name": "Body Parts" },
+        { "id": "fitness",  "name": "Exercise & Fitness" }
+      ]
+    },
+    {
+      "id": "work-study",
+      "name": "Work & Study",
+      "topics": [
+        { "id": "jobs",        "name": "Jobs & Occupations" },
+        { "id": "office",      "name": "In the Office" },
+        { "id": "study",       "name": "Studying & School" },
+        { "id": "meetings",    "name": "Meetings & Presentations" },
+        { "id": "phone-email", "name": "Phone & Email" }
+      ]
+    },
+    {
+      "id": "places",
+      "name": "Places",
+      "topics": [
+        { "id": "bank",     "name": "At the Bank" },
+        { "id": "hospital", "name": "Hospital" },
+        { "id": "museum",   "name": "Museum" },
+        { "id": "park",     "name": "Park & Outdoors" }
+      ]
+    },
+    {
+      "id": "entertainment",
+      "name": "Entertainment",
+      "topics": [
+        { "id": "movies",       "name": "Movies & TV" },
+        { "id": "music",        "name": "Music" },
+        { "id": "sports",       "name": "Sports" },
+        { "id": "travel",       "name": "Travel & Tourism" },
+        { "id": "festivals",    "name": "Festivals & Holidays" },
+        { "id": "social-media", "name": "Social Media" }
+      ]
+    },
+    {
+      "id": "language-grammar",
+      "name": "Language & Grammar",
+      "topics": [
+        { "id": "clarification", "name": "Asking for Clarification" },
+        { "id": "numbers",       "name": "Numbers & Counting" },
+        { "id": "measure-words", "name": "Measure Words (量词)" },
+        { "id": "connectors",    "name": "Sentence Connectors" }
+      ]
+    },
+    {
+      "id": "culture",
+      "name": "Culture",
+      "topics": [
+        { "id": "cny",         "name": "Chinese New Year" },
+        { "id": "mid-autumn",  "name": "Mid-Autumn Festival" },
+        { "id": "tea",         "name": "Tea Culture" },
+        { "id": "red-packets", "name": "Red Envelopes (红包)" },
+        { "id": "chengyu",     "name": "Chengyu (成语)" }
+      ]
+    },
+    {
+      "id": "advanced",
+      "name": "Advanced",
+      "topics": [
+        { "id": "opinions", "name": "Opinions & Debate" },
+        { "id": "business", "name": "Business Negotiation" },
+        { "id": "formal",   "name": "Formal Writing & Speech" }
+      ]
+    }
+  ]
+}

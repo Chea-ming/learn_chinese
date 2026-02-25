@@ -1,0 +1,35 @@
+{
+  "sentences": [
+    {
+      "chinese": "你好！",
+      "pinyin": "Nǐ hǎo!",
+      "translation": "Hello!",
+      "words": [
+        { "zh": "你", "py": "nǐ",  "meaning": "you" },
+        { "zh": "好", "py": "hǎo", "meaning": "good / well" }
+      ]
+    },
+    {
+      "chinese": "你叫什么名字？",
+      "pinyin": "Nǐ jiào shénme míngzì?",
+      "translation": "What is your name?",
+      "words": [
+        { "zh": "你",   "py": "nǐ",     "meaning": "you" },
+        { "zh": "叫",   "py": "jiào",   "meaning": "to be called" },
+        { "zh": "什么", "py": "shénme", "meaning": "what" },
+        { "zh": "名字", "py": "míngzì", "meaning": "name" }
+      ]
+    },
+    {
+      "chinese": "很高兴认识你。",
+      "pinyin": "Hěn gāoxìng rènshi nǐ.",
+      "translation": "Nice to meet you.",
+      "words": [
+        { "zh": "很",   "py": "hěn",     "meaning": "very" },
+        { "zh": "高兴", "py": "gāoxìng", "meaning": "happy / pleased" },
+        { "zh": "认识", "py": "rènshi",  "meaning": "to know / meet" },
+        { "zh": "你",   "py": "nǐ",      "meaning": "you" }
+      ]
+    }
+  ]
+}
