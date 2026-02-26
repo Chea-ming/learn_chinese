@@ -22,12 +22,13 @@ body {
   font-family: "Instrument Serif", Georgia, serif;
   min-height: 100vh;
   -webkit-font-smoothing: antialiased;
+  font-size: 18px;
 }
 
 /* ── HEADER ── */
 header {
-  padding: 0 48px;
-  height: 58px;
+  padding: 0 16px;
+  height: 64px;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -36,6 +37,13 @@ header {
   top: 0;
   background: var(--bg);
   z-index: 100;
+}
+
+@media (min-width: 768px) {
+  header {
+    padding: 0 48px;
+    height: 64px;
+  }
 }
 
 .logo {
@@ -50,14 +58,14 @@ header {
 
 .logo-zh {
   font-family: "Noto Serif SC", serif;
-  font-size: 20px;
+  font-size: 22px;
   font-weight: 700;
   letter-spacing: 4px;
 }
 
 .logo-en {
   font-family: "DM Mono", monospace;
-  font-size: 10px;
+  font-size: 11px;
   color: var(--muted);
   letter-spacing: 2px;
   text-transform: uppercase;
@@ -65,7 +73,7 @@ header {
 
 .breadcrumb {
   font-family: "DM Mono", monospace;
-  font-size: 11px;
+  font-size: 12px;
   color: var(--muted);
   display: flex;
   align-items: center;
@@ -110,7 +118,13 @@ header {
 .home-wrap {
   max-width: 1000px;
   margin: 0 auto;
-  padding: 60px 48px 80px;
+  padding: 32px 16px 80px;
+}
+
+@media (min-width: 768px) {
+  .home-wrap {
+    padding: 60px 48px 80px;
+  }
 }
 
 .home-hero {
@@ -118,10 +132,16 @@ header {
 }
 
 .home-hero h1 {
-  font-size: 46px;
+  font-size: 36px;
   font-weight: 400;
   line-height: 1.15;
   margin-bottom: 14px;
+}
+
+@media (min-width: 768px) {
+  .home-hero h1 {
+    font-size: 48px;
+  }
 }
 
 .home-hero h1 i {
@@ -130,22 +150,34 @@ header {
 
 .home-hero p {
   font-style: italic;
-  font-size: 15px;
+  font-size: 16px;
   color: var(--muted);
   line-height: 1.65;
 }
 
 .cat-grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: 1fr;
   border-top: 1px solid var(--border);
   border-left: 1px solid var(--border);
+}
+
+@media (min-width: 600px) {
+  .cat-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (min-width: 1024px) {
+  .cat-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
 }
 
 .cat-tile {
   border-right: 1px solid var(--border);
   border-bottom: 1px solid var(--border);
-  padding: 24px 26px 22px;
+  padding: 28px 20px 24px;
   cursor: pointer;
   transition: background 0.15s;
   text-decoration: none;
@@ -158,20 +190,20 @@ header {
 }
 
 .cat-tile-name {
-  font-size: 17px;
-  margin-bottom: 6px;
+  font-size: 18px;
+  margin-bottom: 8px;
 }
 
 .cat-tile-count {
   font-family: "DM Mono", monospace;
-  font-size: 10px;
+  font-size: 12px;
   color: var(--muted);
   margin-bottom: 8px;
 }
 
 .cat-tile-preview {
   font-style: italic;
-  font-size: 12.5px;
+  font-size: 14px;
   color: var(--muted);
   line-height: 1.55;
 }
@@ -180,18 +212,30 @@ header {
 .cat-wrap {
   max-width: 760px;
   margin: 0 auto;
-  padding: 52px 48px 80px;
+  padding: 32px 16px 80px;
+}
+
+@media (min-width: 768px) {
+  .cat-wrap {
+    padding: 52px 48px 80px;
+  }
 }
 
 .page-title {
-  font-size: 34px;
+  font-size: 32px;
   font-weight: 400;
-  margin-bottom: 6px;
+  margin-bottom: 8px;
+}
+
+@media (min-width: 768px) {
+  .page-title {
+    font-size: 36px;
+  }
 }
 
 .page-sub {
   font-family: "DM Mono", monospace;
-  font-size: 11px;
+  font-size: 13px;
   color: var(--muted);
   margin-bottom: 36px;
   padding-bottom: 28px;
@@ -202,7 +246,7 @@ header {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 16px 0;
+  padding: 20px 0;
   border-bottom: 1px solid var(--border);
   cursor: pointer;
   transition: padding-left 0.15s;
@@ -222,7 +266,7 @@ header {
 }
 
 .tr-name {
-  font-size: 16px;
+  font-size: 17px;
   transition: color 0.15s;
 }
 
@@ -239,7 +283,13 @@ header {
 .topic-wrap {
   max-width: 760px;
   margin: 0 auto;
-  padding: 52px 48px 80px;
+  padding: 32px 16px 80px;
+}
+
+@media (min-width: 768px) {
+  .topic-wrap {
+    padding: 52px 48px 80px;
+  }
 }
 
 .topic-head {
@@ -250,13 +300,19 @@ header {
 }
 
 .topic-head h2 {
-  font-size: 30px;
+  font-size: 28px;
   font-weight: 400;
+}
+
+@media (min-width: 768px) {
+  .topic-head h2 {
+    font-size: 32px;
+  }
 }
 
 .topic-count-label {
   font-family: "DM Mono", monospace;
-  font-size: 11px;
+  font-size: 13px;
   color: var(--muted);
   padding-bottom: 4px;
 }
@@ -269,17 +325,27 @@ header {
 
 /* ── Sentence blocks ── */
 .s-block {
-  padding: 30px 0;
+  padding: 32px 0;
   border-bottom: 1px solid var(--border);
   animation: up 0.2s ease both;
 }
 
 .s-top {
   display: flex;
+  flex-direction: column;
   align-items: flex-start;
-  justify-content: space-between;
-  gap: 16px;
-  margin-bottom: 14px;
+  justify-content: flex-start;
+  gap: 12px;
+  margin-bottom: 16px;
+}
+
+@media (min-width: 600px) {
+  .s-top {
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 16px;
+  }
 }
 
 .s-texts {
@@ -288,14 +354,20 @@ header {
 
 .s-zh {
   font-family: "Noto Serif SC", serif;
-  font-size: 26px;
+  font-size: 28px;
   font-weight: 700;
   letter-spacing: 2px;
   line-height: 1.45;
-  margin-bottom: 7px;
+  margin-bottom: 8px;
   cursor: pointer;
   transition: color 0.15s;
   display: inline-block;
+}
+
+@media (min-width: 768px) {
+  .s-zh {
+    font-size: 30px;
+  }
 }
 
 .s-zh:hover {
@@ -304,20 +376,37 @@ header {
 
 .s-py {
   font-style: italic;
-  font-size: 14px;
+  font-size: 15px;
   color: var(--gold);
-  margin-bottom: 3px;
+  margin-bottom: 4px;
 }
 
 .s-tr {
-  font-size: 13.5px;
+  font-size: 15px;
   color: var(--muted);
+}
+
+.s-usage {
+  font-size: 14px;
+  color: var(--muted);
+  line-height: 1.6;
+  margin-top: 10px;
+  font-style: italic;
+  padding: 10px 0;
+  border-top: 1px solid var(--border);
+}
+
+.s-formality {
+  font-size: 13px;
+  color: var(--gold);
+  font-family: "DM Mono", monospace;
+  margin-top: 6px;
 }
 
 /* ── Play button ── */
 .play-btn {
-  width: 36px;
-  height: 36px;
+  width: 40px;
+  height: 40px;
   border-radius: 50%;
   border: 1px solid var(--border);
   background: var(--white);
@@ -327,7 +416,7 @@ header {
   justify-content: center;
   color: var(--muted);
   flex-shrink: 0;
-  margin-top: 2px;
+  margin-top: 0;
   transition: all 0.15s;
 }
 
@@ -341,8 +430,79 @@ header {
   color: #fff;
 }
 .play-btn svg {
-  width: 12px;
-  height: 12px;
+  width: 14px;
+  height: 14px;
+}
+
+/* ── Controls group ── */
+.controls {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex-shrink: 0;
+  width: 100%;
+}
+
+@media (min-width: 600px) {
+  .controls {
+    width: auto;
+  }
+}
+
+/* ── Speed control ── */
+.speed-control {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  padding: 6px 10px;
+  transition: all 0.15s;
+  flex: 1;
+  justify-content: space-between;
+}
+
+@media (min-width: 600px) {
+  .speed-control {
+    flex: 0 1 auto;
+  }
+}
+
+.speed-control:hover {
+  border-color: var(--red);
+}
+
+.speed-btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 6px 8px;
+  color: var(--muted);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: color 0.15s;
+  font-size: 14px;
+  flex-shrink: 0;
+}
+
+.speed-btn:hover {
+  color: var(--red);
+}
+
+.speed-btn svg {
+  width: 14px;
+  height: 14px;
+}
+
+.speed-value {
+  font-family: "DM Mono", monospace;
+  font-size: 13px;
+  color: var(--muted);
+  min-width: 45px;
+  text-align: center;
+  user-select: none;
 }
 
 /* ── Word chips ── */
@@ -355,8 +515,8 @@ header {
 .wchip {
   position: relative;
   border: 1px solid var(--border);
-  border-radius: 2px;
-  padding: 4px 9px;
+  border-radius: 3px;
+  padding: 6px 11px;
   background: var(--white);
   transition: border-color 0.15s;
 }
@@ -368,7 +528,7 @@ header {
 
 .wc-zh {
   font-family: "Noto Serif SC", serif;
-  font-size: 14px;
+  font-size: 15px;
   font-weight: 700;
   display: block;
   line-height: 1.3;
@@ -376,7 +536,7 @@ header {
 
 .wc-py {
   font-style: italic;
-  font-size: 10px;
+  font-size: 11px;
   color: var(--gold);
   display: block;
 }
@@ -390,9 +550,9 @@ header {
   background: var(--ink);
   color: var(--bg);
   font-family: "DM Mono", monospace;
-  font-size: 11px;
-  padding: 5px 9px;
-  border-radius: 2px;
+  font-size: 12px;
+  padding: 6px 10px;
+  border-radius: 3px;
   white-space: nowrap;
   pointer-events: none;
   z-index: 100;
@@ -436,7 +596,7 @@ header {
 
 .empty-state p {
   font-style: italic;
-  font-size: 14px;
+  font-size: 15px;
   line-height: 1.7;
 }
 .empty-state code {

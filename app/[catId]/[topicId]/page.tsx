@@ -1,5 +1,6 @@
 import { notFound } from 'next/navigation';
 import { getIndex, getTopicData } from '@/lib/data';
+import { TTS_VOICES } from '@/lib/types';
 import { SiteHeader } from '@/app/layout';
 import SentenceBlock from '@/app/components/SentenceBlock';
 
@@ -59,7 +60,7 @@ export default async function TopicPage({ params }: Props) {
           </div>
         ) : (
           sentences.map((s, i) => (
-            <SentenceBlock key={i} sentence={s} index={i} />
+            <SentenceBlock key={i} sentence={s} index={i} voice={TTS_VOICES[i % TTS_VOICES.length]} />
           ))
         )}
       </div>

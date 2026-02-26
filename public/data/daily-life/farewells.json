@@ -1,0 +1,235 @@
+{
+  "sentences": [
+    {
+      "chinese": "再见！",
+      "pinyin": "Zàijiàn!",
+      "translation": "Goodbye!",
+      "usage": "The most common and standard way to say goodbye. Suitable for almost any situation.",
+      "formality": "Neutral",
+      "words": [
+        { "zh": "再", "py": "zài", "meaning": "again" },
+        { "zh": "见", "py": "jiàn", "meaning": "to see / to meet" }
+      ]
+    },
+    {
+      "chinese": "拜拜！",
+      "pinyin": "Bàibài!",
+      "translation": "Bye bye!",
+      "usage": "A casual, borrowed expression from English. Very common among younger people and in informal settings.",
+      "formality": "Informal",
+      "words": [
+        { "zh": "拜拜", "py": "bàibài", "meaning": "bye bye (loanword)" }
+      ]
+    },
+    {
+      "chinese": "明天见！",
+      "pinyin": "Míngtiān jiàn!",
+      "translation": "See you tomorrow!",
+      "usage": "Used when you expect to see the person again the next day.",
+      "formality": "Neutral",
+      "words": [
+        { "zh": "明天", "py": "míngtiān", "meaning": "tomorrow" },
+        { "zh": "见", "py": "jiàn", "meaning": "to see / to meet" }
+      ]
+    },
+    {
+      "chinese": "回头见！",
+      "pinyin": "Huítóu jiàn!",
+      "translation": "See you later!",
+      "usage": "A casual way to say you'll see someone again soon, without specifying when.",
+      "formality": "Informal",
+      "words": [
+        { "zh": "回头", "py": "huítóu", "meaning": "later / afterwards" },
+        { "zh": "见", "py": "jiàn", "meaning": "to see / to meet" }
+      ]
+    },
+    {
+      "chinese": "下次见！",
+      "pinyin": "Xiàcì jiàn!",
+      "translation": "See you next time!",
+      "usage": "Used when you expect to meet again, but not specifying when.",
+      "formality": "Neutral",
+      "words": [
+        { "zh": "下次", "py": "xiàcì", "meaning": "next time" },
+        { "zh": "见", "py": "jiàn", "meaning": "to see / to meet" }
+      ]
+    },
+    {
+      "chinese": "晚安！",
+      "pinyin": "Wǎn'ān!",
+      "translation": "Good night!",
+      "usage": "Used before going to sleep or when parting in the evening. Not used as a general evening greeting.",
+      "formality": "Neutral",
+      "words": [
+        { "zh": "晚", "py": "wǎn", "meaning": "evening / night" },
+        { "zh": "安", "py": "ān", "meaning": "peaceful / safe" }
+      ]
+    },
+    {
+      "chinese": "慢走！",
+      "pinyin": "Màn zǒu!",
+      "translation": "Take care! / Walk slowly!",
+      "usage": "A polite way to see someone off, often used by hosts to guests. Shows care for their journey.",
+      "formality": "Polite",
+      "words": [
+        { "zh": "慢", "py": "màn", "meaning": "slow" },
+        { "zh": "走", "py": "zǒu", "meaning": "to walk / to go" }
+      ]
+    },
+    {
+      "chinese": "保重！",
+      "pinyin": "Bǎozhòng!",
+      "translation": "Take care of yourself!",
+      "usage": "A warm farewell expressing concern for someone's well-being. Often used when parting for a longer time.",
+      "formality": "Neutral / Polite",
+      "words": [
+        { "zh": "保", "py": "bǎo", "meaning": "to protect / to keep" },
+        { "zh": "重", "py": "zhòng", "meaning": "heavy / important" }
+      ]
+    },
+    {
+      "chinese": "一路顺风！",
+      "pinyin": "Yīlù shùnfēng!",
+      "translation": "Have a safe trip! / Bon voyage!",
+      "usage": "Used when someone is about to travel. Wishes them a smooth journey.",
+      "formality": "Neutral",
+      "words": [
+        { "zh": "一路", "py": "yīlù", "meaning": "all the way / throughout the journey" },
+        { "zh": "顺风", "py": "shùnfēng", "meaning": "with the wind / favorable wind" }
+      ]
+    },
+    {
+      "chinese": "路上小心！",
+      "pinyin": "Lùshang xiǎoxīn!",
+      "translation": "Be careful on the way!",
+      "usage": "A caring farewell when someone is leaving, wishing them safety on their journey.",
+      "formality": "Neutral",
+      "words": [
+        { "zh": "路上", "py": "lùshang", "meaning": "on the way / on the road" },
+        { "zh": "小心", "py": "xiǎoxīn", "meaning": "be careful / cautious" }
+      ]
+    },
+    {
+      "chinese": "有空常联系！",
+      "pinyin": "Yǒu kòng cháng liánxì!",
+      "translation": "Keep in touch! / Contact me when you have time!",
+      "usage": "A friendly way to end a conversation, expressing desire to stay in contact.",
+      "formality": "Informal",
+      "words": [
+        { "zh": "有空", "py": "yǒu kòng", "meaning": "have free time" },
+        { "zh": "常", "py": "cháng", "meaning": "often / frequently" },
+        { "zh": "联系", "py": "liánxì", "meaning": "to contact / to get in touch" }
+      ]
+    },
+    {
+      "chinese": "我先走了。",
+      "pinyin": "Wǒ xiān zǒu le.",
+      "translation": "I'm leaving now. / I have to go.",
+      "usage": "A polite way to announce you are leaving before others.",
+      "formality": "Neutral",
+      "words": [
+        { "zh": "我", "py": "wǒ", "meaning": "I / me" },
+        { "zh": "先", "py": "xiān", "meaning": "first / before" },
+        { "zh": "走", "py": "zǒu", "meaning": "to leave / to go" },
+        { "zh": "了", "py": "le", "meaning": "(particle indicating completed action)" }
+      ]
+    },
+    {
+      "chinese": "不打扰你了。",
+      "pinyin": "Bù dǎrǎo nǐ le.",
+      "translation": "I won't bother you anymore.",
+      "usage": "A polite and humble way to end a conversation, showing respect for the other person's time.",
+      "formality": "Polite",
+      "words": [
+        { "zh": "不", "py": "bù", "meaning": "not" },
+        { "zh": "打扰", "py": "dǎrǎo", "meaning": "to disturb / to bother" },
+        { "zh": "你", "py": "nǐ", "meaning": "you" },
+        { "zh": "了", "py": "le", "meaning": "(particle)" }
+      ]
+    },
+    {
+      "chinese": "改天聊！",
+      "pinyin": "Gǎitiān liáo!",
+      "translation": "Let's talk another day!",
+      "usage": "A casual way to end a conversation with the intention to continue later.",
+      "formality": "Informal",
+      "words": [
+        { "zh": "改天", "py": "gǎitiān", "meaning": "another day / some other day" },
+        { "zh": "聊", "py": "liáo", "meaning": "to chat / to talk" }
+      ]
+    },
+    {
+      "chinese": "欢迎下次光临！",
+      "pinyin": "Huānyíng xiàcì guānglín!",
+      "translation": "Welcome again next time!",
+      "usage": "Commonly used by shop staff, restaurant workers, or hosts to customers/guests when they leave.",
+      "formality": "Formal / Polite",
+      "words": [
+        { "zh": "欢迎", "py": "huānyíng", "meaning": "welcome" },
+        { "zh": "下次", "py": "xiàcì", "meaning": "next time" },
+        { "zh": "光临", "py": "guānglín", "meaning": "to visit (honorific)" }
+      ]
+    },
+    {
+      "chinese": "有空来玩！",
+      "pinyin": "Yǒu kòng lái wán!",
+      "translation": "Come visit when you have time!",
+      "usage": "A friendly invitation to visit again, commonly used among friends.",
+      "formality": "Informal",
+      "words": [
+        { "zh": "有空", "py": "yǒu kòng", "meaning": "have free time" },
+        { "zh": "来", "py": "lái", "meaning": "to come" },
+        { "zh": "玩", "py": "wán", "meaning": "to play / to visit" }
+      ]
+    },
+    {
+      "chinese": "后会有期！",
+      "pinyin": "Hòuhuì yǒuqī!",
+      "translation": "We shall meet again!",
+      "usage": "A more literary and formal farewell, often used in dramatic or traditional contexts.",
+      "formality": "Very Formal",
+      "words": [
+        { "zh": "后会", "py": "hòuhuì", "meaning": "meet again in the future" },
+        { "zh": "有期", "py": "yǒuqī", "meaning": "have a set time" }
+      ]
+    },
+    {
+      "chinese": "多联系！",
+      "pinyin": "Duō liánxì!",
+      "translation": "Keep in touch!",
+      "usage": "A short and friendly way to encourage staying in contact.",
+      "formality": "Informal",
+      "words": [
+        { "zh": "多", "py": "duō", "meaning": "more / often" },
+        { "zh": "联系", "py": "liánxì", "meaning": "to contact / to get in touch" }
+      ]
+    },
+    {
+      "chinese": "祝你一路平安！",
+      "pinyin": "Zhù nǐ yīlù píng'ān!",
+      "translation": "Wish you a safe journey!",
+      "usage": "A warm farewell wish for someone traveling, emphasizing safety.",
+      "formality": "Neutral / Polite",
+      "words": [
+        { "zh": "祝", "py": "zhù", "meaning": "to wish" },
+        { "zh": "你", "py": "nǐ", "meaning": "you" },
+        { "zh": "一路", "py": "yīlù", "meaning": "all the way / throughout the journey" },
+        { "zh": "平安", "py": "píng'ān", "meaning": "safe / peaceful" }
+      ]
+    },
+    {
+      "chinese": "那我先回去了。",
+      "pinyin": "Nà wǒ xiān huíqù le.",
+      "translation": "Then I'll head back now.",
+      "usage": "A polite way to announce you're leaving to go home or back to where you came from.",
+      "formality": "Neutral",
+      "words": [
+        { "zh": "那", "py": "nà", "meaning": "then / in that case" },
+        { "zh": "我", "py": "wǒ", "meaning": "I / me" },
+        { "zh": "先", "py": "xiān", "meaning": "first" },
+        { "zh": "回去", "py": "huíqù", "meaning": "to go back / to return" },
+        { "zh": "了", "py": "le", "meaning": "(particle)" }
+      ]
+    }
+  ]
+}

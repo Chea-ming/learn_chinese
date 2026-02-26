@@ -1,0 +1,439 @@
+{
+  "sentences": [
+    {
+      "chinese": "你家有几口人？",
+      "pinyin": "Nǐ jiā yǒu jǐ kǒu rén?",
+      "translation": "How many people are in your family?",
+      "usage": "A very common question when getting to know someone. '口' (kǒu) is the measure word specifically for family members.",
+      "formality": "Neutral",
+      "words": [
+        { "zh": "你", "py": "nǐ", "meaning": "you" },
+        { "zh": "家", "py": "jiā", "meaning": "family / home" },
+        { "zh": "有", "py": "yǒu", "meaning": "have" },
+        { "zh": "几", "py": "jǐ", "meaning": "how many" },
+        { "zh": "口", "py": "kǒu", "meaning": "measure word for family members" },
+        { "zh": "人", "py": "rén", "meaning": "people" }
+      ]
+    },
+    {
+      "chinese": "我家有三口人。",
+      "pinyin": "Wǒ jiā yǒu sān kǒu rén.",
+      "translation": "There are three people in my family.",
+      "usage": "A standard response to the question about family size. Typically refers to parents and one child.",
+      "formality": "Neutral",
+      "words": [
+        { "zh": "我", "py": "wǒ", "meaning": "I / me" },
+        { "zh": "家", "py": "jiā", "meaning": "family / home" },
+        { "zh": "有", "py": "yǒu", "meaning": "have" },
+        { "zh": "三", "py": "sān", "meaning": "three" },
+        { "zh": "口", "py": "kǒu", "meaning": "measure word for family members" },
+        { "zh": "人", "py": "rén", "meaning": "people" }
+      ]
+    },
+    {
+      "chinese": "这是我的爸爸。",
+      "pinyin": "Zhè shì wǒ de bàba.",
+      "translation": "This is my dad.",
+      "usage": "Informal way to introduce your father. '爸爸' is used in daily conversation.",
+      "formality": "Informal",
+      "words": [
+        { "zh": "这", "py": "zhè", "meaning": "this" },
+        { "zh": "是", "py": "shì", "meaning": "is" },
+        { "zh": "我", "py": "wǒ", "meaning": "my" },
+        { "zh": "的", "py": "de", "meaning": "possessive particle" },
+        { "zh": "爸爸", "py": "bàba", "meaning": "dad / father" }
+      ]
+    },
+    {
+      "chinese": "这是我的妈妈。",
+      "pinyin": "Zhè shì wǒ de māma.",
+      "translation": "This is my mom.",
+      "usage": "Informal way to introduce your mother. '妈妈' is used in daily conversation.",
+      "formality": "Informal",
+      "words": [
+        { "zh": "这", "py": "zhè", "meaning": "this" },
+        { "zh": "是", "py": "shì", "meaning": "is" },
+        { "zh": "我", "py": "wǒ", "meaning": "my" },
+        { "zh": "的", "py": "de", "meaning": "possessive particle" },
+        { "zh": "妈妈", "py": "māma", "meaning": "mom / mother" }
+      ]
+    },
+    {
+      "chinese": "这是我的父亲。",
+      "pinyin": "Zhè shì wǒ de fùqin.",
+      "translation": "This is my father.",
+      "usage": "Formal way to refer to your father. Used in formal introductions or writing.",
+      "formality": "Formal",
+      "words": [
+        { "zh": "这", "py": "zhè", "meaning": "this" },
+        { "zh": "是", "py": "shì", "meaning": "is" },
+        { "zh": "我", "py": "wǒ", "meaning": "my" },
+        { "zh": "的", "py": "de", "meaning": "possessive particle" },
+        { "zh": "父亲", "py": "fùqin", "meaning": "father" }
+      ]
+    },
+    {
+      "chinese": "这是我的母亲。",
+      "pinyin": "Zhè shì wǒ de mǔqin.",
+      "translation": "This is my mother.",
+      "usage": "Formal way to refer to your mother. Used in formal introductions or writing.",
+      "formality": "Formal",
+      "words": [
+        { "zh": "这", "py": "zhè", "meaning": "this" },
+        { "zh": "是", "py": "shì", "meaning": "is" },
+        { "zh": "我", "py": "wǒ", "meaning": "my" },
+        { "zh": "的", "py": "de", "meaning": "possessive particle" },
+        { "zh": "母亲", "py": "mǔqin", "meaning": "mother" }
+      ]
+    },
+    {
+      "chinese": "我有一个哥哥。",
+      "pinyin": "Wǒ yǒu yí gè gēge.",
+      "translation": "I have an older brother.",
+      "usage": "Specifically refers to an older brother. Chinese distinguishes between older and younger siblings.",
+      "formality": "Neutral",
+      "words": [
+        { "zh": "我", "py": "wǒ", "meaning": "I" },
+        { "zh": "有", "py": "yǒu", "meaning": "have" },
+        { "zh": "一个", "py": "yí gè", "meaning": "one (measure word)" },
+        { "zh": "哥哥", "py": "gēge", "meaning": "older brother" }
+      ]
+    },
+    {
+      "chinese": "我有一个弟弟。",
+      "pinyin": "Wǒ yǒu yí gè dìdi.",
+      "translation": "I have a younger brother.",
+      "usage": "Specifically refers to a younger brother.",
+      "formality": "Neutral",
+      "words": [
+        { "zh": "我", "py": "wǒ", "meaning": "I" },
+        { "zh": "有", "py": "yǒu", "meaning": "have" },
+        { "zh": "一个", "py": "yí gè", "meaning": "one (measure word)" },
+        { "zh": "弟弟", "py": "dìdi", "meaning": "younger brother" }
+      ]
+    },
+    {
+      "chinese": "我有一个姐姐。",
+      "pinyin": "Wǒ yǒu yí gè jiějie.",
+      "translation": "I have an older sister.",
+      "usage": "Specifically refers to an older sister.",
+      "formality": "Neutral",
+      "words": [
+        { "zh": "我", "py": "wǒ", "meaning": "I" },
+        { "zh": "有", "py": "yǒu", "meaning": "have" },
+        { "zh": "一个", "py": "yí gè", "meaning": "one (measure word)" },
+        { "zh": "姐姐", "py": "jiějie", "meaning": "older sister" }
+      ]
+    },
+    {
+      "chinese": "我有一个妹妹。",
+      "pinyin": "Wǒ yǒu yí gè mèimei.",
+      "translation": "I have a younger sister.",
+      "usage": "Specifically refers to a younger sister.",
+      "formality": "Neutral",
+      "words": [
+        { "zh": "我", "py": "wǒ", "meaning": "I" },
+        { "zh": "有", "py": "yǒu", "meaning": "have" },
+        { "zh": "一个", "py": "yí gè", "meaning": "one (measure word)" },
+        { "zh": "妹妹", "py": "mèimei", "meaning": "younger sister" }
+      ]
+    },
+    {
+      "chinese": "你有兄弟姐妹吗？",
+      "pinyin": "Nǐ yǒu xiōngdì jiěmèi ma?",
+      "translation": "Do you have siblings?",
+      "usage": "A general question asking if someone has any brothers or sisters.",
+      "formality": "Neutral",
+      "words": [
+        { "zh": "你", "py": "nǐ", "meaning": "you" },
+        { "zh": "有", "py": "yǒu", "meaning": "have" },
+        { "zh": "兄弟姐妹", "py": "xiōngdì jiěmèi", "meaning": "siblings (brothers and sisters)" },
+        { "zh": "吗", "py": "ma", "meaning": "question particle" }
+      ]
+    },
+    {
+      "chinese": "我是独生子女。",
+      "pinyin": "Wǒ shì dúshēng zǐnǚ.",
+      "translation": "I am an only child.",
+      "usage": "Common phrase due to the former one-child policy. Means you have no siblings.",
+      "formality": "Neutral",
+      "words": [
+        { "zh": "我", "py": "wǒ", "meaning": "I" },
+        { "zh": "是", "py": "shì", "meaning": "am" },
+        { "zh": "独生子女", "py": "dúshēng zǐnǚ", "meaning": "only child" }
+      ]
+    },
+    {
+      "chinese": "这是我的爷爷。",
+      "pinyin": "Zhè shì wǒ de yéye.",
+      "translation": "This is my grandpa (paternal).",
+      "usage": "Refers specifically to father's father.",
+      "formality": "Informal",
+      "words": [
+        { "zh": "这", "py": "zhè", "meaning": "this" },
+        { "zh": "是", "py": "shì", "meaning": "is" },
+        { "zh": "我", "py": "wǒ", "meaning": "my" },
+        { "zh": "的", "py": "de", "meaning": "possessive particle" },
+        { "zh": "爷爷", "py": "yéye", "meaning": "grandpa (father's side)" }
+      ]
+    },
+    {
+      "chinese": "这是我的奶奶。",
+      "pinyin": "Zhè shì wǒ de nǎinai.",
+      "translation": "This is my grandma (paternal).",
+      "usage": "Refers specifically to father's mother.",
+      "formality": "Informal",
+      "words": [
+        { "zh": "这", "py": "zhè", "meaning": "this" },
+        { "zh": "是", "py": "shì", "meaning": "is" },
+        { "zh": "我", "py": "wǒ", "meaning": "my" },
+        { "zh": "的", "py": "de", "meaning": "possessive particle" },
+        { "zh": "奶奶", "py": "nǎinai", "meaning": "grandma (father's side)" }
+      ]
+    },
+    {
+      "chinese": "这是我的外公。",
+      "pinyin": "Zhè shì wǒ de wàigōng.",
+      "translation": "This is my grandpa (maternal).",
+      "usage": "Refers specifically to mother's father. Also called 姥姥 (lǎolao) in some regions.",
+      "formality": "Informal",
+      "words": [
+        { "zh": "这", "py": "zhè", "meaning": "this" },
+        { "zh": "是", "py": "shì", "meaning": "is" },
+        { "zh": "我", "py": "wǒ", "meaning": "my" },
+        { "zh": "的", "py": "de", "meaning": "possessive particle" },
+        { "zh": "外公", "py": "wàigōng", "meaning": "grandpa (mother's side)" }
+      ]
+    },
+    {
+      "chinese": "这是我的外婆。",
+      "pinyin": "Zhè shì wǒ de wàipó.",
+      "translation": "This is my grandma (maternal).",
+      "usage": "Refers specifically to mother's mother. Also called 姥姥 (lǎolao) in some regions.",
+      "formality": "Informal",
+      "words": [
+        { "zh": "这", "py": "zhè", "meaning": "this" },
+        { "zh": "是", "py": "shì", "meaning": "is" },
+        { "zh": "我", "py": "wǒ", "meaning": "my" },
+        { "zh": "的", "py": "de", "meaning": "possessive particle" },
+        { "zh": "外婆", "py": "wàipó", "meaning": "grandma (mother's side)" }
+      ]
+    },
+    {
+      "chinese": "你结婚了吗？",
+      "pinyin": "Nǐ jiéhūn le ma?",
+      "translation": "Are you married?",
+      "usage": "A common personal question, often asked by elders or acquaintances.",
+      "formality": "Neutral",
+      "words": [
+        { "zh": "你", "py": "nǐ", "meaning": "you" },
+        { "zh": "结婚", "py": "jiéhūn", "meaning": "to get married" },
+        { "zh": "了", "py": "le", "meaning": "particle indicating completed action" },
+        { "zh": "吗", "py": "ma", "meaning": "question particle" }
+      ]
+    },
+    {
+      "chinese": "这是我的丈夫。",
+      "pinyin": "Zhè shì wǒ de zhàngfu.",
+      "translation": "This is my husband.",
+      "usage": "Used by a wife to introduce her husband.",
+      "formality": "Neutral",
+      "words": [
+        { "zh": "这", "py": "zhè", "meaning": "this" },
+        { "zh": "是", "py": "shì", "meaning": "is" },
+        { "zh": "我", "py": "wǒ", "meaning": "my" },
+        { "zh": "的", "py": "de", "meaning": "possessive particle" },
+        { "zh": "丈夫", "py": "zhàngfu", "meaning": "husband" }
+      ]
+    },
+    {
+      "chinese": "这是我的妻子。",
+      "pinyin": "Zhè shì wǒ de qīzi.",
+      "translation": "This is my wife.",
+      "usage": "Used by a husband to introduce his wife.",
+      "formality": "Neutral",
+      "words": [
+        { "zh": "这", "py": "zhè", "meaning": "this" },
+        { "zh": "是", "py": "shì", "meaning": "is" },
+        { "zh": "我", "py": "wǒ", "meaning": "my" },
+        { "zh": "的", "py": "de", "meaning": "possessive particle" },
+        { "zh": "妻子", "py": "qīzi", "meaning": "wife" }
+      ]
+    },
+    {
+      "chinese": "你有孩子吗？",
+      "pinyin": "Nǐ yǒu háizi ma?",
+      "translation": "Do you have children?",
+      "usage": "A common follow-up question after asking about marriage.",
+      "formality": "Neutral",
+      "words": [
+        { "zh": "你", "py": "nǐ", "meaning": "you" },
+        { "zh": "有", "py": "yǒu", "meaning": "have" },
+        { "zh": "孩子", "py": "háizi", "meaning": "children / kids" },
+        { "zh": "吗", "py": "ma", "meaning": "question particle" }
+      ]
+    },
+    {
+      "chinese": "我有一个儿子。",
+      "pinyin": "Wǒ yǒu yí gè érzi.",
+      "translation": "I have a son.",
+      "usage": "Specifically refers to a male child.",
+      "formality": "Neutral",
+      "words": [
+        { "zh": "我", "py": "wǒ", "meaning": "I" },
+        { "zh": "有", "py": "yǒu", "meaning": "have" },
+        { "zh": "一个", "py": "yí gè", "meaning": "one" },
+        { "zh": "儿子", "py": "érzi", "meaning": "son" }
+      ]
+    },
+    {
+      "chinese": "我有一个女儿。",
+      "pinyin": "Wǒ yǒu yí gè nǚ'ér.",
+      "translation": "I have a daughter.",
+      "usage": "Specifically refers to a female child.",
+      "formality": "Neutral",
+      "words": [
+        { "zh": "我", "py": "wǒ", "meaning": "I" },
+        { "zh": "有", "py": "yǒu", "meaning": "have" },
+        { "zh": "一个", "py": "yí gè", "meaning": "one" },
+        { "zh": "女儿", "py": "nǚ'ér", "meaning": "daughter" }
+      ]
+    },
+    {
+      "chinese": "我的叔叔是医生。",
+      "pinyin": "Wǒ de shūshu shì yīshēng.",
+      "translation": "My uncle is a doctor.",
+      "usage": "叔叔 usually refers to father's younger brother, but can be used broadly for uncle.",
+      "formality": "Neutral",
+      "words": [
+        { "zh": "我", "py": "wǒ", "meaning": "my" },
+        { "zh": "的", "py": "de", "meaning": "possessive particle" },
+        { "zh": "叔叔", "py": "shūshu", "meaning": "uncle" },
+        { "zh": "是", "py": "shì", "meaning": "is" },
+        { "zh": "医生", "py": "yīshēng", "meaning": "doctor" }
+      ]
+    },
+    {
+      "chinese": "我的阿姨很漂亮。",
+      "pinyin": "Wǒ de āyí hěn piàoliang.",
+      "translation": "My aunt is very beautiful.",
+      "usage": "阿姨 usually refers to mother's sister, but also used for any middle-aged woman politely.",
+      "formality": "Neutral",
+      "words": [
+        { "zh": "我", "py": "wǒ", "meaning": "my" },
+        { "zh": "的", "py": "de", "meaning": "possessive particle" },
+        { "zh": "阿姨", "py": "āyí", "meaning": "aunt" },
+        { "zh": "很", "py": "hěn", "meaning": "very" },
+        { "zh": "漂亮", "py": "piàoliang", "meaning": "beautiful" }
+      ]
+    },
+    {
+      "chinese": "这是我们的全家福。",
+      "pinyin": "Zhè shì wǒmen de quánjiāfú.",
+      "translation": "This is our family photo.",
+      "usage": "Used when showing a picture of the whole family.",
+      "formality": "Neutral",
+      "words": [
+        { "zh": "这", "py": "zhè", "meaning": "this" },
+        { "zh": "是", "py": "shì", "meaning": "is" },
+        { "zh": "我们", "py": "wǒmen", "meaning": "our" },
+        { "zh": "的", "py": "de", "meaning": "possessive particle" },
+        { "zh": "全家福", "py": "quánjiāfú", "meaning": "family photo" }
+      ]
+    },
+    {
+      "chinese": "我们住在一起。",
+      "pinyin": "Wǒmen zhù zài yìqǐ.",
+      "translation": "We live together.",
+      "usage": "Indicates a multi-generational household or close living arrangement.",
+      "formality": "Neutral",
+      "words": [
+        { "zh": "我们", "py": "wǒmen", "meaning": "we" },
+        { "zh": "住", "py": "zhù", "meaning": "live" },
+        { "zh": "在一起", "py": "zài yìqǐ", "meaning": "together" }
+      ]
+    },
+    {
+      "chinese": "我长得像妈妈。",
+      "pinyin": "Wǒ zhǎng de xiàng māma.",
+      "translation": "I look like my mom.",
+      "usage": "Used to describe physical resemblance.",
+      "formality": "Informal",
+      "words": [
+        { "zh": "我", "py": "wǒ", "meaning": "I" },
+        { "zh": "长得", "py": "zhǎng de", "meaning": "look (appearance)" },
+        { "zh": "像", "py": "xiàng", "meaning": "like / resemble" },
+        { "zh": "妈妈", "py": "māma", "meaning": "mom" }
+      ]
+    },
+    {
+      "chinese": "他长得像爸爸。",
+      "pinyin": "Tā zhǎng de xiàng bàba.",
+      "translation": "He looks like his dad.",
+      "usage": "Used to describe physical resemblance.",
+      "formality": "Informal",
+      "words": [
+        { "zh": "他", "py": "tā", "meaning": "he" },
+        { "zh": "长得", "py": "zhǎng de", "meaning": "look (appearance)" },
+        { "zh": "像", "py": "xiàng", "meaning": "like / resemble" },
+        { "zh": "爸爸", "py": "bàba", "meaning": "dad" }
+      ]
+    },
+    {
+      "chinese": "我的家庭很幸福。",
+      "pinyin": "Wǒ de jiātíng hěn xìngfú.",
+      "translation": "My family is very happy.",
+      "usage": "Describes the emotional state or harmony of the family.",
+      "formality": "Neutral",
+      "words": [
+        { "zh": "我", "py": "wǒ", "meaning": "my" },
+        { "zh": "的", "py": "de", "meaning": "possessive particle" },
+        { "zh": "家庭", "py": "jiātíng", "meaning": "family" },
+        { "zh": "很", "py": "hěn", "meaning": "very" },
+        { "zh": "幸福", "py": "xìngfú", "meaning": "happy / blessed" }
+      ]
+    },
+    {
+      "chinese": "你父母住在哪里？",
+      "pinyin": "Nǐ fùmǔ zhù zài nǎlǐ?",
+      "translation": "Where do your parents live?",
+      "usage": "Uses the formal term '父母' for parents.",
+      "formality": "Neutral",
+      "words": [
+        { "zh": "你", "py": "nǐ", "meaning": "your" },
+        { "zh": "父母", "py": "fùmǔ", "meaning": "parents" },
+        { "zh": "住", "py": "zhù", "meaning": "live" },
+        { "zh": "在", "py": "zài", "meaning": "at" },
+        { "zh": "哪里", "py": "nǎlǐ", "meaning": "where" }
+      ]
+    },
+    {
+      "chinese": "这是我的表哥。",
+      "pinyin": "Zhè shì wǒ de biǎogē.",
+      "translation": "This is my older male cousin.",
+      "usage": "Specifically refers to an older male cousin (usually from aunt/uncle).",
+      "formality": "Neutral",
+      "words": [
+        { "zh": "这", "py": "zhè", "meaning": "this" },
+        { "zh": "是", "py": "shì", "meaning": "is" },
+        { "zh": "我", "py": "wǒ", "meaning": "my" },
+        { "zh": "的", "py": "de", "meaning": "possessive particle" },
+        { "zh": "表哥", "py": "biǎogē", "meaning": "older male cousin" }
+      ]
+    },
+    {
+      "chinese": "我爱我的家人。",
+      "pinyin": "Wǒ ài wǒ de jiārén.",
+      "translation": "I love my family members.",
+      "usage": "A direct expression of love for the family.",
+      "formality": "Neutral",
+      "words": [
+        { "zh": "我", "py": "wǒ", "meaning": "I" },
+        { "zh": "爱", "py": "ài", "meaning": "love" },
+        { "zh": "我", "py": "wǒ", "meaning": "my" },
+        { "zh": "的", "py": "de", "meaning": "possessive particle" },
+        { "zh": "家人", "py": "jiārén", "meaning": "family members" }
+      ]
+    }
+  ]
+}
