@@ -1,0 +1,221 @@
+{
+  "sentences": [
+    {
+      "chinese": "我吃饭。",
+      "pinyin": "Wǒ chī fàn.",
+      "translation": "I eat rice.",
+      "usage": "Basic SVO (Subject-Verb-Object) structure.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "吃",
+          "py": "chī",
+          "meaning": "eat"
+        },
+        {
+          "zh": "饭",
+          "py": "fàn",
+          "meaning": "rice/meal"
+        }
+      ]
+    },
+    {
+      "chinese": "昨天我去了北京。",
+      "pinyin": "Zuótiān wǒ qù le Běijīng.",
+      "translation": "Yesterday I went to Beijing.",
+      "usage": "Time phrase + Subject + Verb + Complement.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "昨天",
+          "py": "zuótiān",
+          "meaning": "yesterday"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "go"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed action"
+        },
+        {
+          "zh": "北京",
+          "py": "Běijīng",
+          "meaning": "Beijing"
+        }
+      ]
+    },
+    {
+      "chinese": "红色的苹果",
+      "pinyin": "Hóngsè de píngguǒ",
+      "translation": "Red apple",
+      "usage": "Adjective (red) before noun (apple).",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "红色",
+          "py": "hóngsè",
+          "meaning": "red"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive particle"
+        },
+        {
+          "zh": "苹果",
+          "py": "píngguǒ",
+          "meaning": "apple"
+        }
+      ]
+    },
+    {
+      "chinese": "我的书",
+      "pinyin": "Wǒ de shū",
+      "translation": "My book",
+      "usage": "Possessive structure: Subject + 的 + Object.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive particle"
+        },
+        {
+          "zh": "书",
+          "py": "shū",
+          "meaning": "book"
+        }
+      ]
+    },
+    {
+      "chinese": "我很快完成作业。",
+      "pinyin": "Wǒ hěn kuài wánchéng zuòyè.",
+      "translation": "I quickly finished homework.",
+      "usage": "Adverb (很快) before verb (完成).",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "快",
+          "py": "kuài",
+          "meaning": "fast"
+        },
+        {
+          "zh": "完成",
+          "py": "wánchéng",
+          "meaning": "complete"
+        },
+        {
+          "zh": "作业",
+          "py": "zuòyè",
+          "meaning": "homework"
+        }
+      ]
+    },
+    {
+      "chinese": "你去吗？",
+      "pinyin": "Nǐ qù ma?",
+      "translation": "Are you going?",
+      "usage": "Question word '吗' at the end.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "go"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "我不去。",
+      "pinyin": "Wǒ bù qù.",
+      "translation": "I don't go.",
+      "usage": "Negative word '不' before verb.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "不",
+          "py": "bù",
+          "meaning": "not"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "go"
+        }
+      ]
+    },
+    {
+      "chinese": "我喜欢的书",
+      "pinyin": "Wǒ xǐhuān de shū",
+      "translation": "The book I like",
+      "usage": "Relative clause (我喜歡的) before noun.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "喜欢",
+          "py": "xǐhuān",
+          "meaning": "like"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive particle"
+        },
+        {
+          "zh": "书",
+          "py": "shū",
+          "meaning": "book"
+        }
+      ]
+    }
+  ]
+}

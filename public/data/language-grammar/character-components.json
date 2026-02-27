@@ -1,0 +1,118 @@
+{
+  "sentences": [
+    {
+      "chinese": "部首是“木”的字很多。",
+      "pinyin": "Bùshǒu shì “mù” de zì hěn duō.",
+      "translation": "Many characters have the radical “木”.",
+      "usage": "Explaining the commonality of the radical 木 in Chinese characters.",
+      "formality": "Academic",
+      "words": [
+        {
+          "zh": "部首",
+          "py": "bùshǒu",
+          "meaning": "radical"
+        },
+        {
+          "zh": "木",
+          "py": "mù",
+          "meaning": "tree/wood"
+        }
+      ]
+    },
+    {
+      "chinese": "“火”作为偏旁表示与火有关。",
+      "pinyin": "“Huǒ” zuòwéi piānpáng biǎoshì yǔ huǒ yǒuguān.",
+      "translation": "The affix “火” indicates relation to fire.",
+      "usage": "Describing the meaning of the affix 火 in character components.",
+      "formality": "Academic",
+      "words": [
+        {
+          "zh": "偏旁",
+          "py": "piānpáng",
+          "meaning": "affix"
+        },
+        {
+          "zh": "火",
+          "py": "huǒ",
+          "meaning": "fire"
+        }
+      ]
+    },
+    {
+      "chinese": "汉字的结构分为左右、上下等。",
+      "pinyin": "Hànzì de jiéjiù fēnwéi zuǒyòu, shàngxià děng.",
+      "translation": "Chinese characters are structured into left-right, top-bottom, etc.",
+      "usage": "Classifying character composition types.",
+      "formality": "Academic",
+      "words": [
+        {
+          "zh": "结构",
+          "py": "jiéjiù",
+          "meaning": "structure"
+        },
+        {
+          "zh": "左右",
+          "py": "zuǒyòu",
+          "meaning": "left-right"
+        }
+      ]
+    },
+    {
+      "chinese": "形声字由形旁和声旁组成。",
+      "pinyin": "Xíngshēngzì yóu xíngpáng hé shēngpáng zǔchéng.",
+      "translation": "Phono-semantic compounds consist of shape and sound components.",
+      "usage": "Explaining the composition of 形声字 (phono-semantic characters).",
+      "formality": "Academic",
+      "words": [
+        {
+          "zh": "形声字",
+          "py": "xíngshēngzì",
+          "meaning": "phono-semantic character"
+        },
+        {
+          "zh": "形旁",
+          "py": "xíngpáng",
+          "meaning": "meaning component"
+        }
+      ]
+    },
+    {
+      "chinese": "“日”在字中常表示时间或光明。",
+      "pinyin": "“Rì” zài zì zhōng cháng biǎoshì shíjiān huò guāngmíng.",
+      "translation": "“日” often denotes time or light in characters.",
+      "usage": "Describing the semantic role of 日 in character components.",
+      "formality": "Academic",
+      "words": [
+        {
+          "zh": "日",
+          "py": "rì",
+          "meaning": "sun/day"
+        },
+        {
+          "zh": "时间",
+          "py": "shíjiān",
+          "meaning": "time"
+        }
+      ]
+    },
+    {
+      "chinese": "月字旁的字多与身体或时间有关。",
+      "pinyin": "Yuèzì páng de zì duō yǔ shēntǐ huò shíjiān yǒuguān.",
+      "translation": "Characters with the moon radical often relate to the body or time.",
+      "usage": "Linking the 月 radical to semantic themes.",
+      "formality": "Academic",
+      "words": [
+        {
+          "zh": "月字旁",
+          "py": "yuèzì páng",
+          "meaning": "moon radical"
+        },
+        {
+          "zh": "身体",
+          "py": "shēntǐ",
+          "meaning": "body"
+        }
+      ]
+    }
+  ]
+}

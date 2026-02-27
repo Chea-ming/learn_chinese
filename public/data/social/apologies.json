@@ -1,0 +1,799 @@
+{
+  "sentences": [
+    {
+      "chinese": "对不起，我错了。",
+      "pinyin": "Duì bu qǐ, wǒ cuò le.",
+      "translation": "I'm sorry, I was wrong.",
+      "usage": "Used when you realize you made a mistake or were incorrect in your statement or action.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "对",
+          "py": "duì",
+          "meaning": "correct / right"
+        },
+        {
+          "zh": "不",
+          "py": "bù",
+          "meaning": "not"
+        },
+        {
+          "zh": "起",
+          "py": "qǐ",
+          "meaning": "to start / to begin"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / me"
+        },
+        {
+          "zh": "错",
+          "py": "cuò",
+          "meaning": "wrong / mistake"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed / finished"
+        }
+      ]
+    },
+    {
+      "chinese": "不好意思，我理解错了。",
+      "pinyin": "Bù hǎo yì si, wǒ lǐ jiě cuò le.",
+      "translation": "I'm sorry, I misunderstood.",
+      "usage": "Used when you realize you misunderstood something someone said or did.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "不",
+          "py": "bù",
+          "meaning": "not"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good / well"
+        },
+        {
+          "zh": "意",
+          "py": "yì",
+          "meaning": "idea / intention"
+        },
+        {
+          "zh": "思",
+          "py": "si",
+          "meaning": "thought / thinking"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / me"
+        },
+        {
+          "zh": "理",
+          "py": "lǐ",
+          "meaning": "to understand"
+        },
+        {
+          "zh": "解",
+          "py": "jiě",
+          "meaning": "to understand / to interpret"
+        },
+        {
+          "zh": "错",
+          "py": "cuò",
+          "meaning": "wrong / mistake"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed / finished"
+        }
+      ]
+    },
+    {
+      "chinese": "请原谅我的疏忽。",
+      "pinyin": "Qǐng yuán liàng wǒ de shū hū.",
+      "translation": "Please forgive my negligence.",
+      "usage": "Used when you have made a mistake due to carelessness or oversight.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "原",
+          "py": "yuán",
+          "meaning": "to forgive"
+        },
+        {
+          "zh": "谅",
+          "py": "liàng",
+          "meaning": "to forgive / to excuse"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / me"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive particle"
+        },
+        {
+          "zh": "疏",
+          "py": "shū",
+          "meaning": "careless / negligent"
+        },
+        {
+          "zh": "忽",
+          "py": "hū",
+          "meaning": "negligence / oversight"
+        }
+      ]
+    },
+    {
+      "chinese": "我搞错了。",
+      "pinyin": "Wǒ gǎo cuò le.",
+      "translation": "I made a mistake.",
+      "usage": "Used when you realize you have made an error in something you said or did.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / me"
+        },
+        {
+          "zh": "搞",
+          "py": "gǎo",
+          "meaning": "to do / to make"
+        },
+        {
+          "zh": "错",
+          "py": "cuò",
+          "meaning": "wrong / mistake"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed / finished"
+        }
+      ]
+    },
+    {
+      "chinese": "我误会了你的意思。",
+      "pinyin": "Wǒ wù huì le nǐ de yì si.",
+      "translation": "I misunderstood what you meant.",
+      "usage": "Used when you realize you misunderstood someone's words or intentions.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / me"
+        },
+        {
+          "zh": "误",
+          "py": "wù",
+          "meaning": "mistake / misunderstanding"
+        },
+        {
+          "zh": "会",
+          "py": "huì",
+          "meaning": "to understand / to meet"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed / finished"
+        },
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive particle"
+        },
+        {
+          "zh": "意",
+          "py": "yì",
+          "meaning": "meaning / intention"
+        },
+        {
+          "zh": "思",
+          "py": "si",
+          "meaning": "thought / thinking"
+        }
+      ]
+    },
+    {
+      "chinese": "不好意思，我没听清楚。",
+      "pinyin": "Bù hǎo yì si, wǒ méi tīng qīng chu.",
+      "translation": "Sorry, I didn't hear clearly.",
+      "usage": "Used when you didn't understand what someone said because you couldn't hear it well.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "不",
+          "py": "bù",
+          "meaning": "not"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good / well"
+        },
+        {
+          "zh": "意",
+          "py": "yì",
+          "meaning": "idea / intention"
+        },
+        {
+          "zh": "思",
+          "py": "si",
+          "meaning": "thought / thinking"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / me"
+        },
+        {
+          "zh": "没",
+          "py": "méi",
+          "meaning": "not"
+        },
+        {
+          "zh": "听",
+          "py": "tīng",
+          "meaning": "to hear"
+        },
+        {
+          "zh": "清",
+          "py": "qīng",
+          "meaning": "clear"
+        },
+        {
+          "zh": "楚",
+          "py": "chu",
+          "meaning": "clearly"
+        }
+      ]
+    },
+    {
+      "chinese": "请原谅我的冒犯。",
+      "pinyin": "Qǐng yuán liàng wǒ de mào fàn.",
+      "translation": "Please forgive my offense.",
+      "usage": "Used when you have done something that might be considered impolite or offensive.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "原",
+          "py": "yuán",
+          "meaning": "to forgive"
+        },
+        {
+          "zh": "谅",
+          "py": "liàng",
+          "meaning": "to forgive / to excuse"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / me"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive particle"
+        },
+        {
+          "zh": "冒",
+          "py": "mào",
+          "meaning": "to risk / to venture"
+        },
+        {
+          "zh": "犯",
+          "py": "fàn",
+          "meaning": "to offend / to violate"
+        }
+      ]
+    },
+    {
+      "chinese": "我理解错了，对不起。",
+      "pinyin": "Wǒ lǐ jiě cuò le, duì bu qǐ.",
+      "translation": "I misunderstood, I'm sorry.",
+      "usage": "Used when you realize you misunderstood something and want to apologize for it.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / me"
+        },
+        {
+          "zh": "理",
+          "py": "lǐ",
+          "meaning": "to understand"
+        },
+        {
+          "zh": "解",
+          "py": "jiě",
+          "meaning": "to understand / to interpret"
+        },
+        {
+          "zh": "错",
+          "py": "cuò",
+          "meaning": "wrong / mistake"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed / finished"
+        },
+        {
+          "zh": "对",
+          "py": "duì",
+          "meaning": "correct / right"
+        },
+        {
+          "zh": "不",
+          "py": "bù",
+          "meaning": "not"
+        },
+        {
+          "zh": "起",
+          "py": "qǐ",
+          "meaning": "to start / to begin"
+        }
+      ]
+    },
+    {
+      "chinese": "抱歉，我迟到了。",
+      "pinyin": "Bào qiàn, wǒ chí dào le.",
+      "translation": "Sorry, I'm late.",
+      "usage": "Used when you arrive later than expected or agreed upon.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "报",
+          "py": "bào",
+          "meaning": "to report / to apologize"
+        },
+        {
+          "zh": "歉",
+          "py": "qiàn",
+          "meaning": "apology"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / me"
+        },
+        {
+          "zh": "迟",
+          "py": "chí",
+          "meaning": "late"
+        },
+        {
+          "zh": "到",
+          "py": "dào",
+          "meaning": "to arrive"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed / finished"
+        }
+      ]
+    },
+    {
+      "chinese": "不好意思，我忘了。",
+      "pinyin": "Bù hǎo yì si, wǒ wàng le.",
+      "translation": "Sorry, I forgot.",
+      "usage": "Used when you forget to do something or remember something important.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "不",
+          "py": "bù",
+          "meaning": "not"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good / well"
+        },
+        {
+          "zh": "意",
+          "py": "yì",
+          "meaning": "idea / intention"
+        },
+        {
+          "zh": "思",
+          "py": "si",
+          "meaning": "thought / thinking"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / me"
+        },
+        {
+          "zh": "忘",
+          "py": "wàng",
+          "meaning": "to forget"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed / finished"
+        }
+      ]
+    },
+    {
+      "chinese": "我道歉。",
+      "pinyin": "Wǒ dào qiàn.",
+      "translation": "I apologize.",
+      "usage": "Used when you want to formally apologize for something you did or said.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / me"
+        },
+        {
+          "zh": "道",
+          "py": "dào",
+          "meaning": "to apologize"
+        },
+        {
+          "zh": "歉",
+          "py": "qiàn",
+          "meaning": "apology"
+        }
+      ]
+    },
+    {
+      "chinese": "我错了，你对。",
+      "pinyin": "Wǒ cuò le, nǐ duì.",
+      "translation": "I was wrong, you were right.",
+      "usage": "Used when you admit that you made a mistake and the other person was correct.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / me"
+        },
+        {
+          "zh": "错",
+          "py": "cuò",
+          "meaning": "wrong / mistake"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed / finished"
+        },
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "对",
+          "py": "duì",
+          "meaning": "correct / right"
+        }
+      ]
+    },
+    {
+      "chinese": "我没有恶意。",
+      "pinyin": "Wǒ méi yǒu è yì.",
+      "translation": "I had no ill will.",
+      "usage": "Used when you want to clarify that your actions or words were not meant to hurt or offend anyone.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / me"
+        },
+        {
+          "zh": "没",
+          "py": "méi",
+          "meaning": "not"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "to have"
+        },
+        {
+          "zh": "恶",
+          "py": "è",
+          "meaning": "evil / bad"
+        },
+        {
+          "zh": "意",
+          "py": "yì",
+          "meaning": "intention / idea"
+        }
+      ]
+    },
+    {
+      "chinese": "我不是故意的。",
+      "pinyin": "Wǒ bù shì gù yì de.",
+      "translation": "I didn't do it on purpose.",
+      "usage": "Used when you want to clarify that something happened unintentionally.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / me"
+        },
+        {
+          "zh": "不",
+          "py": "bù",
+          "meaning": "not"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "to be"
+        },
+        {
+          "zh": "故",
+          "py": "gù",
+          "meaning": "intentionally"
+        },
+        {
+          "zh": "意",
+          "py": "yì",
+          "meaning": "intention"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "particle indicating state"
+        }
+      ]
+    },
+    {
+      "chinese": "请原谅我的过失。",
+      "pinyin": "Qǐng yuán liàng wǒ de guò shī.",
+      "translation": "Please forgive my mistake.",
+      "usage": "Used when you want to apologize for a mistake or error you made.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "原",
+          "py": "yuán",
+          "meaning": "to forgive"
+        },
+        {
+          "zh": "谅",
+          "py": "liàng",
+          "meaning": "to forgive / to excuse"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / me"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive particle"
+        },
+        {
+          "zh": "过",
+          "py": "guò",
+          "meaning": "to exceed / to make a mistake"
+        },
+        {
+          "zh": "失",
+          "py": "shī",
+          "meaning": "loss / mistake"
+        }
+      ]
+    },
+    {
+      "chinese": "我理解错了，谢谢。",
+      "pinyin": "Wǒ lǐ jiě cuò le, xiè xie.",
+      "translation": "I misunderstood, thank you.",
+      "usage": "Used when you realize you misunderstood something and want to acknowledge the correction.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / me"
+        },
+        {
+          "zh": "理",
+          "py": "lǐ",
+          "meaning": "to understand"
+        },
+        {
+          "zh": "解",
+          "py": "jiě",
+          "meaning": "to understand / to interpret"
+        },
+        {
+          "zh": "错",
+          "py": "cuò",
+          "meaning": "wrong / mistake"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed / finished"
+        },
+        {
+          "zh": "谢",
+          "py": "xiè",
+          "meaning": "to thank"
+        },
+        {
+          "zh": "谢",
+          "py": "xiè",
+          "meaning": "to thank"
+        }
+      ]
+    },
+    {
+      "chinese": "我误会了。",
+      "pinyin": "Wǒ wù huì le.",
+      "translation": "I misunderstood.",
+      "usage": "Used when you realize you misunderstood something or someone.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / me"
+        },
+        {
+          "zh": "误",
+          "py": "wù",
+          "meaning": "to misunderstand"
+        },
+        {
+          "zh": "会",
+          "py": "huì",
+          "meaning": "to understand"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed / finished"
+        }
+      ]
+    },
+    {
+      "chinese": "我太激动了。",
+      "pinyin": "Wǒ tài jī dòng le.",
+      "translation": "I got too excited.",
+      "usage": "Used when you want to explain that you were overly emotional or enthusiastic about something.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / me"
+        },
+        {
+          "zh": "太",
+          "py": "tài",
+          "meaning": "too"
+        },
+        {
+          "zh": "激",
+          "py": "jī",
+          "meaning": "to stimulate"
+        },
+        {
+          "zh": "动",
+          "py": "dòng",
+          "meaning": "to move / to excite"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed / finished"
+        }
+      ]
+    },
+    {
+      "chinese": "对不起，我错了。",
+      "pinyin": "Duì bu qǐ, wǒ cuò le.",
+      "translation": "I'm sorry, I was wrong.",
+      "usage": "Used when you want to apologize and admit that you made a mistake.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "对",
+          "py": "duì",
+          "meaning": "correct / right"
+        },
+        {
+          "zh": "不",
+          "py": "bù",
+          "meaning": "not"
+        },
+        {
+          "zh": "起",
+          "py": "qǐ",
+          "meaning": "to start / to begin"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / me"
+        },
+        {
+          "zh": "错",
+          "py": "cuò",
+          "meaning": "wrong / mistake"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed / finished"
+        }
+      ]
+    },
+    {
+      "chinese": "我失言了。",
+      "pinyin": "Wǒ shī yán le.",
+      "translation": "I spoke inappropriately.",
+      "usage": "Used when you want to apologize for something you said that was inappropriate or offensive.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / me"
+        },
+        {
+          "zh": "失",
+          "py": "shī",
+          "meaning": "to lose / to fail"
+        },
+        {
+          "zh": "言",
+          "py": "yán",
+          "meaning": "speech / words"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed / finished"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "sentences": [
+    {
+      "chinese": "我昨天去学校了",
+      "pinyin": "Wǒ zuótiān qù xuéxiào le",
+      "translation": "I went to school yesterday (incorrect '了' placement; correct: 我昨天去了学校)",
+      "usage": "Correct '了' should follow the verb for completed actions.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "Wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "昨天",
+          "py": "zuótiān",
+          "meaning": "yesterday"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "to go"
+        },
+        {
+          "zh": "学校",
+          "py": "xuéxiào",
+          "meaning": "school"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "particle indicating completion"
+        }
+      ]
+    },
+    {
+      "chinese": "你是中国人吗？",
+      "pinyin": "Nǐ shì Zhōngguó rén ma？",
+      "translation": "Are you Chinese? (correct usage)",
+      "usage": "Use '吗' after the full sentence to create a question.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "Nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "to be"
+        },
+        {
+          "zh": "中国人",
+          "py": "Zhōngguó rén",
+          "meaning": "Chinese person"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "我有苹果一个",
+      "pinyin": "Wǒ yǒu píngguǒ yī gè",
+      "translation": "I have an apple (incorrect word order; correct: 我有一个苹果)",
+      "usage": "Measure words precede the noun in Chinese.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "Wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "to have"
+        },
+        {
+          "zh": "苹果",
+          "py": "píngguǒ",
+          "meaning": "apple"
+        },
+        {
+          "zh": "一个",
+          "py": "yī gè",
+          "meaning": "a (measure word)"
+        }
+      ]
+    },
+    {
+      "chinese": "她漂亮很",
+      "pinyin": "Tā piàoliang hěn",
+      "translation": "She is very beautiful (incorrect '很' placement; correct: 她很漂亮)",
+      "usage": "Adjective modifiers like '很' precede the adjective.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "她",
+          "py": "Tā",
+          "meaning": "she"
+        },
+        {
+          "zh": "漂亮",
+          "py": "piàoliang",
+          "meaning": "beautiful"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        }
+      ]
+    },
+    {
+      "chinese": "我在吃饭了吗？",
+      "pinyin": "Wǒ zài chīfàn le ma？",
+      "translation": "Am I eating? (mix of present continuous and completed action; correct: 我在吃饭吗？ or 我吃饭了吗？)",
+      "usage": "'在' indicates ongoing actions, while '了' indicates completion. Do not combine.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "Wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "在",
+          "py": "zài",
+          "meaning": "at (continuous action)"
+        },
+        {
+          "zh": "吃饭",
+          "py": "chīfàn",
+          "meaning": "to eat a meal"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completion particle"
+        }
+      ]
+    }
+  ]
+}

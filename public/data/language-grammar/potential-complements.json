@@ -1,0 +1,144 @@
+{
+  "sentences": [
+    {
+      "chinese": "我能跑完马拉松。",
+      "pinyin": "Wǒ néng pǎo wán mǎlāsōng.",
+      "translation": "I can run a marathon.",
+      "usage": "Expressing ability to complete an action.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "能",
+          "py": "néng",
+          "meaning": "can (ability)"
+        },
+        {
+          "zh": "跑完",
+          "py": "pǎo wán",
+          "meaning": "run the whole way"
+        },
+        {
+          "zh": "马拉松",
+          "py": "mǎlāsōng",
+          "meaning": "marathon"
+        }
+      ]
+    },
+    {
+      "chinese": "他可以吃完蛋糕。",
+      "pinyin": "Tā kěyǐ chī wán dàntáng.",
+      "translation": "He can eat the whole cake.",
+      "usage": "Indicating permission or ability to finish something.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "他",
+          "py": "tā",
+          "meaning": "he"
+        },
+        {
+          "zh": "可以",
+          "py": "kěyǐ",
+          "meaning": "can (permission)"
+        },
+        {
+          "zh": "吃完",
+          "py": "chī wán",
+          "meaning": "eat the whole thing"
+        },
+        {
+          "zh": "蛋糕",
+          "py": "dàntáng",
+          "meaning": "cake"
+        }
+      ]
+    },
+    {
+      "chinese": "她愿意帮忙搬家。",
+      "pinyin": "Tā yuànyì bāngmáng yíjiā.",
+      "translation": "She is willing to help move.",
+      "usage": "Expressing willingness to assist.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "她",
+          "py": "tā",
+          "meaning": "she"
+        },
+        {
+          "zh": "愿意",
+          "py": "yuànyì",
+          "meaning": "willing"
+        },
+        {
+          "zh": "帮忙",
+          "py": "bāngmáng",
+          "meaning": "help"
+        },
+        {
+          "zh": "搬家",
+          "py": "yíjiā",
+          "meaning": "move house"
+        }
+      ]
+    },
+    {
+      "chinese": "我们买得起新车。",
+      "pinyin": "Wǒmen mǎi děi qǐ xīnchē.",
+      "translation": "We can afford a new car.",
+      "usage": "Indicating financial capability.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我们",
+          "py": "wǒmen",
+          "meaning": "we"
+        },
+        {
+          "zh": "买得起",
+          "py": "mǎi děi qǐ",
+          "meaning": "can afford"
+        },
+        {
+          "zh": "新车",
+          "py": "xīnchē",
+          "meaning": "new car"
+        }
+      ]
+    },
+    {
+      "chinese": "你能学会游泳。",
+      "pinyin": "Nǐ néng xuéhuì yóuyǒng.",
+      "translation": "You can learn to swim.",
+      "usage": "Expressing ability to acquire a skill.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "能",
+          "py": "néng",
+          "meaning": "can (ability)"
+        },
+        {
+          "zh": "学会",
+          "py": "xuéhuì",
+          "meaning": "learn to"
+        },
+        {
+          "zh": "游泳",
+          "py": "yóuyǒng",
+          "meaning": "swim"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,767 @@
+{
+  "sentences": [
+    {
+      "chinese": "生日快乐！",
+      "pinyin": "Shēng rì kuàilè!",
+      "translation": "Happy birthday!",
+      "usage": "Standard birthday wish for friends or family",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "生",
+          "py": "shēng",
+          "meaning": "life"
+        },
+        {
+          "zh": "日",
+          "py": "rì",
+          "meaning": "day"
+        },
+        {
+          "zh": "快",
+          "py": "kuài",
+          "meaning": "quick / happy"
+        },
+        {
+          "zh": "乐",
+          "py": "lè",
+          "meaning": "happiness"
+        }
+      ]
+    },
+    {
+      "chinese": "祝你生日快乐！",
+      "pinyin": "Zhù nǐ shēng rì kuàilè!",
+      "translation": "Wish you a happy birthday!",
+      "usage": "Formal way to express birthday wishes",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "祝",
+          "py": "zhù",
+          "meaning": "wish"
+        },
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "生",
+          "py": "shēng",
+          "meaning": "life"
+        },
+        {
+          "zh": "日",
+          "py": "rì",
+          "meaning": "day"
+        },
+        {
+          "zh": "快",
+          "py": "kuài",
+          "meaning": "quick / happy"
+        },
+        {
+          "zh": "乐",
+          "py": "lè",
+          "meaning": "happiness"
+        }
+      ]
+    },
+    {
+      "chinese": "今天是我的生日！",
+      "pinyin": "Jīn tiān shì wǒ de shēng rì!",
+      "translation": "Today is my birthday!",
+      "usage": "Announcing your own birthday",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "今",
+          "py": "jīn",
+          "meaning": "today"
+        },
+        {
+          "zh": "天",
+          "py": "tiān",
+          "meaning": "day"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "is"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive marker"
+        },
+        {
+          "zh": "生",
+          "py": "shēng",
+          "meaning": "life"
+        },
+        {
+          "zh": "日",
+          "py": "rì",
+          "meaning": "day"
+        }
+      ]
+    },
+    {
+      "chinese": "来参加我的生日派对吧！",
+      "pinyin": "Lái cān jiā wǒ de shēng rì pàiduì ba!",
+      "translation": "Come to my birthday party!",
+      "usage": "Inviting someone to a birthday celebration",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "来",
+          "py": "lái",
+          "meaning": "come"
+        },
+        {
+          "zh": "参",
+          "py": "cān",
+          "meaning": "participate"
+        },
+        {
+          "zh": "加",
+          "py": "jiā",
+          "meaning": "join"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive marker"
+        },
+        {
+          "zh": "生",
+          "py": "shēng",
+          "meaning": "life"
+        },
+        {
+          "zh": "日",
+          "py": "rì",
+          "meaning": "day"
+        },
+        {
+          "zh": "派",
+          "py": "pài",
+          "meaning": "party"
+        },
+        {
+          "zh": "对",
+          "py": "duì",
+          "meaning": "party"
+        }
+      ]
+    },
+    {
+      "chinese": "祝您生日快乐，万事如意！",
+      "pinyin": "Zhù nín shēng rì kuàilè, wàn shì rú yì!",
+      "translation": "Wish you a happy birthday and all goes well!",
+      "usage": "Formal birthday wish for elders or superiors",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "祝",
+          "py": "zhù",
+          "meaning": "wish"
+        },
+        {
+          "zh": "您",
+          "py": "nín",
+          "meaning": "you (formal)"
+        },
+        {
+          "zh": "生",
+          "py": "shēng",
+          "meaning": "life"
+        },
+        {
+          "zh": "日",
+          "py": "rì",
+          "meaning": "day"
+        },
+        {
+          "zh": "快",
+          "py": "kuài",
+          "meaning": "quick / happy"
+        },
+        {
+          "zh": "乐",
+          "py": "lè",
+          "meaning": "happiness"
+        },
+        {
+          "zh": "万",
+          "py": "wàn",
+          "meaning": "thousand (used for exaggeration)"
+        },
+        {
+          "zh": "事",
+          "py": "shì",
+          "meaning": "matter / thing"
+        },
+        {
+          "zh": "如",
+          "py": "rú",
+          "meaning": "like"
+        },
+        {
+          "zh": "意",
+          "py": "yì",
+          "meaning": "will / intention"
+        }
+      ]
+    },
+    {
+      "chinese": "我今年十岁了。",
+      "pinyin": "Wǒ jīn nián shí suì le.",
+      "translation": "I am ten years old this year.",
+      "usage": "Announcing your age on your birthday",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "今",
+          "py": "jīn",
+          "meaning": "this"
+        },
+        {
+          "zh": "年",
+          "py": "nián",
+          "meaning": "year"
+        },
+        {
+          "zh": "十",
+          "py": "shí",
+          "meaning": "ten"
+        },
+        {
+          "zh": "岁",
+          "py": "suì",
+          "meaning": "year(s) old"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completion marker"
+        }
+      ]
+    },
+    {
+      "chinese": "你今年几岁了？",
+      "pinyin": "Nǐ jīn nián jǐ suì le?",
+      "translation": "How old are you this year?",
+      "usage": "Asking someone's age on their birthday",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "今",
+          "py": "jīn",
+          "meaning": "this"
+        },
+        {
+          "zh": "年",
+          "py": "nián",
+          "meaning": "year"
+        },
+        {
+          "zh": "几",
+          "py": "jǐ",
+          "meaning": "how many"
+        },
+        {
+          "zh": "岁",
+          "py": "suì",
+          "meaning": "year(s) old"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completion marker"
+        }
+      ]
+    },
+    {
+      "chinese": "生日蛋糕真好吃！",
+      "pinyin": "Shēng rì dàng gāo zhēn hǎo chī!",
+      "translation": "The birthday cake is really delicious!",
+      "usage": "Complimenting birthday cake",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "生",
+          "py": "shēng",
+          "meaning": "life"
+        },
+        {
+          "zh": "日",
+          "py": "rì",
+          "meaning": "day"
+        },
+        {
+          "zh": "蛋",
+          "py": "dàng",
+          "meaning": "cake"
+        },
+        {
+          "zh": "糕",
+          "py": "gāo",
+          "meaning": "cake"
+        },
+        {
+          "zh": "真",
+          "py": "zhēn",
+          "meaning": "really"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good"
+        },
+        {
+          "zh": "吃",
+          "py": "chī",
+          "meaning": "to eat"
+        }
+      ]
+    },
+    {
+      "chinese": "生日蜡烛真漂亮！",
+      "pinyin": "Shēng rì là zhú zhēn piàoměi!",
+      "translation": "The birthday candles are so pretty!",
+      "usage": "Complimenting birthday candles",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "生",
+          "py": "shēng",
+          "meaning": "life"
+        },
+        {
+          "zh": "日",
+          "py": "rì",
+          "meaning": "day"
+        },
+        {
+          "zh": "蜡",
+          "py": "là",
+          "meaning": "wax"
+        },
+        {
+          "zh": "烛",
+          "py": "zhú",
+          "meaning": "candle"
+        },
+        {
+          "zh": "真",
+          "py": "zhēn",
+          "meaning": "really"
+        },
+        {
+          "zh": "漂",
+          "py": "piāo",
+          "meaning": "float / pretty"
+        },
+        {
+          "zh": "亮",
+          "py": "liàng",
+          "meaning": "bright / pretty"
+        }
+      ]
+    },
+    {
+      "chinese": "今天是我的大日子！",
+      "pinyin": "Jīn tiān shì wǒ de dà rìzi!",
+      "translation": "Today is my big day!",
+      "usage": "Expressing excitement about a birthday",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "今",
+          "py": "jīn",
+          "meaning": "today"
+        },
+        {
+          "zh": "天",
+          "py": "tiān",
+          "meaning": "day"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "is"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive marker"
+        },
+        {
+          "zh": "大",
+          "py": "dà",
+          "meaning": "big / important"
+        },
+        {
+          "zh": "日",
+          "py": "rì",
+          "meaning": "day"
+        },
+        {
+          "zh": "子",
+          "py": "zi",
+          "meaning": "day (diminutive)"
+        }
+      ]
+    },
+    {
+      "chinese": "祝你心想事成！",
+      "pinyin": "Zhù nǐ xīn xiǎng shì chéng!",
+      "translation": "Wish you all your heart's desires!",
+      "usage": "Complementary birthday wish",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "祝",
+          "py": "zhù",
+          "meaning": "wish"
+        },
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "心",
+          "py": "xīn",
+          "meaning": "heart"
+        },
+        {
+          "zh": "想",
+          "py": "xiǎng",
+          "meaning": "to think / desire"
+        },
+        {
+          "zh": "事",
+          "py": "shì",
+          "meaning": "matter / thing"
+        },
+        {
+          "zh": "成",
+          "py": "chéng",
+          "meaning": "to succeed"
+        }
+      ]
+    },
+    {
+      "chinese": "生日礼物真漂亮！",
+      "pinyin": "Shēng rì lǐ wù zhēn piàoměi!",
+      "translation": "The birthday gift is so pretty!",
+      "usage": "Complimenting a birthday gift",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "生",
+          "py": "shēng",
+          "meaning": "life"
+        },
+        {
+          "zh": "日",
+          "py": "rì",
+          "meaning": "day"
+        },
+        {
+          "zh": "礼",
+          "py": "lǐ",
+          "meaning": "gift"
+        },
+        {
+          "zh": "物",
+          "py": "wù",
+          "meaning": "thing / item"
+        },
+        {
+          "zh": "真",
+          "py": "zhēn",
+          "meaning": "really"
+        },
+        {
+          "zh": "漂",
+          "py": "piāo",
+          "meaning": "float / pretty"
+        },
+        {
+          "zh": "亮",
+          "py": "liàng",
+          "meaning": "bright / pretty"
+        }
+      ]
+    },
+    {
+      "chinese": "祝你健康长寿！",
+      "pinyin": "Zhù nǐ jiàn kāng cháng shòu!",
+      "translation": "Wish you health and longevity!",
+      "usage": "Traditional birthday wish for elders",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "祝",
+          "py": "zhù",
+          "meaning": "wish"
+        },
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "健",
+          "py": "jiàn",
+          "meaning": "healthy"
+        },
+        {
+          "zh": "康",
+          "py": "kāng",
+          "meaning": "health"
+        },
+        {
+          "zh": "长",
+          "py": "cháng",
+          "meaning": "long"
+        },
+        {
+          "zh": "寿",
+          "py": "shòu",
+          "meaning": "longevity"
+        }
+      ]
+    },
+    {
+      "chinese": "今天我满18岁了！",
+      "pinyin": "Jīn tiān wǒ mǎn 18 suì le!",
+      "translation": "Today I turned 18!",
+      "usage": "Announcing a birthday milestone",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "今",
+          "py": "jīn",
+          "meaning": "today"
+        },
+        {
+          "zh": "天",
+          "py": "tiān",
+          "meaning": "day"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "满",
+          "py": "mǎn",
+          "meaning": "full / reached"
+        },
+        {
+          "zh": "18",
+          "py": "18",
+          "meaning": "eighteen"
+        },
+        {
+          "zh": "岁",
+          "py": "suì",
+          "meaning": "year(s) old"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completion marker"
+        }
+      ]
+    },
+    {
+      "chinese": "生日快乐，万事顺遂！",
+      "pinyin": "Shēng rì kuàilè, wàn shì shùn suì!",
+      "translation": "Happy birthday, may all go smoothly!",
+      "usage": "Comprehensive birthday wish",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "生",
+          "py": "shēng",
+          "meaning": "life"
+        },
+        {
+          "zh": "日",
+          "py": "rì",
+          "meaning": "day"
+        },
+        {
+          "zh": "快",
+          "py": "kuài",
+          "meaning": "quick / happy"
+        },
+        {
+          "zh": "乐",
+          "py": "lè",
+          "meaning": "happiness"
+        },
+        {
+          "zh": "万",
+          "py": "wàn",
+          "meaning": "ten thousand / many"
+        },
+        {
+          "zh": "事",
+          "py": "shì",
+          "meaning": "matter / thing"
+        },
+        {
+          "zh": "顺",
+          "py": "shùn",
+          "meaning": "smooth / favorable"
+        },
+        {
+          "zh": "遂",
+          "py": "suì",
+          "meaning": "to be fulfilled"
+        }
+      ]
+    },
+    {
+      "chinese": "生日快乐，心想事成！",
+      "pinyin": "Shēng rì kuàilè, xīnxiǎng shì chéng!",
+      "translation": "Happy birthday, may all your wishes come true!",
+      "usage": "Popular birthday wish combination",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "生",
+          "py": "shēng",
+          "meaning": "life"
+        },
+        {
+          "zh": "日",
+          "py": "rì",
+          "meaning": "day"
+        },
+        {
+          "zh": "快",
+          "py": "kuài",
+          "meaning": "quick / happy"
+        },
+        {
+          "zh": "乐",
+          "py": "lè",
+          "meaning": "happiness"
+        },
+        {
+          "zh": "心",
+          "py": "xīn",
+          "meaning": "heart"
+        },
+        {
+          "zh": "想",
+          "py": "xiǎng",
+          "meaning": "to think / desire"
+        },
+        {
+          "zh": "事",
+          "py": "shì",
+          "meaning": "matter / thing"
+        },
+        {
+          "zh": "成",
+          "py": "chéng",
+          "meaning": "to succeed"
+        }
+      ]
+    },
+    {
+      "chinese": "祝你生日快乐，幸福美满！",
+      "pinyin": "Zhù nǐ shēng rì kuàilè, xìngfú měimǎn!",
+      "translation": "Wish you a happy birthday and a happy, fulfilling life!",
+      "usage": "Extended birthday wish",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "祝",
+          "py": "zhù",
+          "meaning": "wish"
+        },
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "生",
+          "py": "shēng",
+          "meaning": "life"
+        },
+        {
+          "zh": "日",
+          "py": "rì",
+          "meaning": "day"
+        },
+        {
+          "zh": "快",
+          "py": "kuài",
+          "meaning": "quick / happy"
+        },
+        {
+          "zh": "乐",
+          "py": "lè",
+          "meaning": "happiness"
+        },
+        {
+          "zh": "幸",
+          "py": "xìng",
+          "meaning": "good fortune"
+        },
+        {
+          "zh": "福",
+          "py": "fú",
+          "meaning": "happiness"
+        },
+        {
+          "zh": "美",
+          "py": "měi",
+          "meaning": "beautiful / good"
+        },
+        {
+          "zh": "满",
+          "py": "mǎn",
+          "meaning": "full / fulfilled"
+        }
+      ]
+    }
+  ]
+}

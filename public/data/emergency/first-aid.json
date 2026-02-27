@@ -1,0 +1,223 @@
+{
+  "sentences": [
+    {
+      "chinese": "紧急情况！",
+      "pinyin": "Jǐnjí qíngkuàng!",
+      "translation": "Emergency!",
+      "usage": "Used to alert others to an urgent situation.",
+      "formality": "Urgent",
+      "words": [
+        {
+          "zh": "紧急",
+          "py": "jǐnjí",
+          "meaning": "emergency"
+        },
+        {
+          "zh": "情况",
+          "py": "qíngkuàng",
+          "meaning": "situation"
+        }
+      ]
+    },
+    {
+      "chinese": "需要帮助！",
+      "pinyin": "Xūyào bāngzhù!",
+      "translation": "Need help!",
+      "usage": "Call for assistance in an emergency.",
+      "formality": "Urgent",
+      "words": [
+        {
+          "zh": "需要",
+          "py": "xūyào",
+          "meaning": "need"
+        },
+        {
+          "zh": "帮助",
+          "py": "bāngzhù",
+          "meaning": "help"
+        }
+      ]
+    },
+    {
+      "chinese": "拨打急救电话 120。",
+      "pinyin": "Dá bō jíjiù diànhuà 120.",
+      "translation": "Call the emergency number 120.",
+      "usage": "Instruct someone to contact emergency services.",
+      "formality": "Official",
+      "words": [
+        {
+          "zh": "拨打",
+          "py": "dá bō",
+          "meaning": "call"
+        },
+        {
+          "zh": "急救",
+          "py": "jíjiù",
+          "meaning": "emergency"
+        },
+        {
+          "zh": "电话",
+          "py": "diànhuà",
+          "meaning": "phone"
+        }
+      ]
+    },
+    {
+      "chinese": "伤口出血！",
+      "pinyin": "Shāngkǒu chūxiě!",
+      "translation": "Injury with bleeding!",
+      "usage": "Announce a wound with blood loss.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "伤口",
+          "py": "shāngkǒu",
+          "meaning": "wound"
+        },
+        {
+          "zh": "出血",
+          "py": "chūxiě",
+          "meaning": "bleeding"
+        }
+      ]
+    },
+    {
+      "chinese": "按压止血。",
+      "pinyin": "Àn yā zhǐxiě.",
+      "translation": "Apply pressure to stop bleeding.",
+      "usage": "Instructions for controlling bleeding.",
+      "formality": "Instructional",
+      "words": [
+        {
+          "zh": "按压",
+          "py": "àn yā",
+          "meaning": "press"
+        },
+        {
+          "zh": "止血",
+          "py": "zhǐxiě",
+          "meaning": "stop bleeding"
+        }
+      ]
+    },
+    {
+      "chinese": "不要移动伤者。",
+      "pinyin": "Bùyào yídòng shāngzhě.",
+      "translation": "Do not move the injured person.",
+      "usage": "Prevent worsening injury in emergencies.",
+      "formality": "Urgent",
+      "words": [
+        {
+          "zh": "不要",
+          "py": "bùyào",
+          "meaning": "do not"
+        },
+        {
+          "zh": "移动",
+          "py": "yídòng",
+          "meaning": "move"
+        },
+        {
+          "zh": "伤者",
+          "py": "shāngzhě",
+          "meaning": "injured person"
+        }
+      ]
+    },
+    {
+      "chinese": "检查呼吸。",
+      "pinyin": "Jiǎnchá hūxī.",
+      "translation": "Check breathing.",
+      "usage": "Assess if someone is breathing properly.",
+      "formality": "Instructional",
+      "words": [
+        {
+          "zh": "检查",
+          "py": "jiǎnchá",
+          "meaning": "check"
+        },
+        {
+          "zh": "呼吸",
+          "py": "hūxī",
+          "meaning": "breathing"
+        }
+      ]
+    },
+    {
+      "chinese": "人工呼吸。",
+      "pinyin": "Rénshū hūxī.",
+      "translation": "Artificial respiration.",
+      "usage": "Administer emergency breathing for unconscious victims.",
+      "formality": "Medical",
+      "words": [
+        {
+          "zh": "人工",
+          "py": "rénshū",
+          "meaning": "manual"
+        },
+        {
+          "zh": "呼吸",
+          "py": "hūxī",
+          "meaning": "breathing"
+        }
+      ]
+    },
+    {
+      "chinese": "骨折了！",
+      "pinyin": "Gǔzhé le!",
+      "translation": "Broken bone!",
+      "usage": "Announce a fracture during an injury.",
+      "formality": "Urgent",
+      "words": [
+        {
+          "zh": "骨折",
+          "py": "gǔzhé",
+          "meaning": "fracture"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed action"
+        }
+      ]
+    },
+    {
+      "chinese": "固定伤处。",
+      "pinyin": "Gùdìng shāngchù.",
+      "translation": "Stabilize the injury.",
+      "usage": "Immobilize a broken limb to prevent further damage.",
+      "formality": "Instructional",
+      "words": [
+        {
+          "zh": "固定",
+          "py": "gùdìng",
+          "meaning": "stabilize"
+        },
+        {
+          "zh": "伤处",
+          "py": "shāngchù",
+          "meaning": "injury site"
+        }
+      ]
+    },
+    {
+      "chinese": "烫伤用冷水冲洗。",
+      "pinyin": "Tàngshāng yòng lěngshuǐ chōngxǐ.",
+      "translation": "Rinse burns with cold water.",
+      "usage": "Cool a burn to reduce tissue damage.",
+      "formality": "Instructional",
+      "words": [
+        {
+          "zh": "烫伤",
+          "py": "tàngshāng",
+          "meaning": "burn"
+        },
+        {
+          "zh": "用",
+          "py": "yòng",
+          "meaning": "use"
+        }
+      ]
+    }
+  ]
+}

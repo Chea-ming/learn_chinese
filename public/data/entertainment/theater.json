@@ -1,0 +1,37 @@
+{
+  "sentences": [
+    {
+      "chinese": "话动",
+      "pinyin": "Huàjù",
+      "translation": "Drama (play)",
+      "usage": "Refers to modern Chinese plays.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "话",
+          "py": "Huà",
+          "meaning": "speech, dialogue"
+        },
+        {
+          "zh": "动",
+          "py": "jù",
+          "meaning": "play, drama"
+        }
+      ]
+    },
+    {
+      "chinese": "我声",
+      "pinyin": "Xìqǔ",
+      "translation": "Traditional Chinese opera",
+      "usage": "Includes forms like Peking opera and regional operas.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "Xì",
+          "meaning": "play, performance"
+        }
+      ]
+    }
+  ]
+}

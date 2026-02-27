@@ -1,0 +1,714 @@
+{
+  "sentences": [
+    {
+      "chinese": "你有什么爱好吗？",
+      "pinyin": "Nǐ yǒu shénme àihào ma?",
+      "translation": "Do you have any hobbies?",
+      "usage": "Asks about someone's hobbies in a casual conversation",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "have"
+        },
+        {
+          "zh": "什么",
+          "py": "shénme",
+          "meaning": "what"
+        },
+        {
+          "zh": "爱好",
+          "py": "àihào",
+          "meaning": "hobby"
+        }
+      ]
+    },
+    {
+      "chinese": "我喜欢读书。",
+      "pinyin": "Wǒ xǐhuān dúshū.",
+      "translation": "I like reading books.",
+      "usage": "Expresses a personal hobby in a simple, direct way",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "喜欢",
+          "py": "xǐhuān",
+          "meaning": "like"
+        },
+        {
+          "zh": "读书",
+          "py": "dúshū",
+          "meaning": "read books"
+        }
+      ]
+    },
+    {
+      "chinese": "他业余时间喜欢打篮球。",
+      "pinyin": "Tā yèyú shíjiān xǐhuān dǎ lánqiú.",
+      "translation": "He likes playing basketball in his spare time.",
+      "usage": "Describes someone's hobby using the phrase 'in spare time'",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "他",
+          "py": "tā",
+          "meaning": "he"
+        },
+        {
+          "zh": "业余",
+          "py": "yèyú",
+          "meaning": "spare time /业余"
+        },
+        {
+          "zh": "时间",
+          "py": "shíjiān",
+          "meaning": "time"
+        },
+        {
+          "zh": "喜欢",
+          "py": "xǐhuān",
+          "meaning": "like"
+        },
+        {
+          "zh": "打",
+          "py": "dǎ",
+          "meaning": "play"
+        },
+        {
+          "zh": "篮球",
+          "py": "lánqiú",
+          "meaning": "basketball"
+        }
+      ]
+    },
+    {
+      "chinese": "你平时喜欢做什么？",
+      "pinyin": "Nǐ píngshí xǐhuān zuò shénme?",
+      "translation": "What do you usually like to do?",
+      "usage": "Asks about someone's regular activities or hobbies",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "平时",
+          "py": "píngshí",
+          "meaning": "usually / normally"
+        },
+        {
+          "zh": "喜欢",
+          "py": "xǐhuān",
+          "meaning": "like"
+        },
+        {
+          "zh": "做",
+          "py": "zuò",
+          "meaning": "do"
+        },
+        {
+          "zh": "什么",
+          "py": "shénme",
+          "meaning": "what"
+        }
+      ]
+    },
+    {
+      "chinese": "我的爱好是画画。",
+      "pinyin": "Wǒ de àihào shì huàhuà.",
+      "translation": "My hobby is drawing.",
+      "usage": "States one's hobby using the structure 'my hobby is...'",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive particle"
+        },
+        {
+          "zh": "爱好",
+          "py": "àihào",
+          "meaning": "hobby"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "is"
+        },
+        {
+          "zh": "画画",
+          "py": "huàhuà",
+          "meaning": "draw"
+        }
+      ]
+    },
+    {
+      "chinese": "我们经常一起打游戏。",
+      "pinyin": "Wǒmen jīngcháng yīqǐ dǎ yóuxì.",
+      "translation": "We often play games together.",
+      "usage": "Describes a shared hobby or activity with others",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我们",
+          "py": "wǒmen",
+          "meaning": "we"
+        },
+        {
+          "zh": "经常",
+          "py": "jīngcháng",
+          "meaning": "often"
+        },
+        {
+          "zh": "一起",
+          "py": "yīqǐ",
+          "meaning": "together"
+        },
+        {
+          "zh": "打",
+          "py": "dǎ",
+          "meaning": "play"
+        },
+        {
+          "zh": "游戏",
+          "py": "yóuxì",
+          "meaning": "game"
+        }
+      ]
+    },
+    {
+      "chinese": "你有空的时候做什么？",
+      "pinyin": "Nǐ yǒu kòng de shíhou zuò shénme?",
+      "translation": "What do you do when you're free?",
+      "usage": "Asks about someone's activities during free time",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "have"
+        },
+        {
+          "zh": "空",
+          "py": "kòng",
+          "meaning": "free time"
+        },
+        {
+          "zh": "时候",
+          "py": "shíhou",
+          "meaning": "time"
+        },
+        {
+          "zh": "做",
+          "py": "zuò",
+          "meaning": "do"
+        },
+        {
+          "zh": "什么",
+          "py": "shénme",
+          "meaning": "what"
+        }
+      ]
+    },
+    {
+      "chinese": "她最喜欢的是唱歌。",
+      "pinyin": "Tā zuìxǐhuān de shì chànggē.",
+      "translation": "Her favorite hobby is singing.",
+      "usage": "Expresses someone's favorite hobby using 'favorite is...'",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "她",
+          "py": "tā",
+          "meaning": "she"
+        },
+        {
+          "zh": "最",
+          "py": "zuì",
+          "meaning": "most"
+        },
+        {
+          "zh": "喜欢",
+          "py": "xǐhuān",
+          "meaning": "like"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "is"
+        },
+        {
+          "zh": "唱歌",
+          "py": "chànggē",
+          "meaning": "sing"
+        }
+      ]
+    },
+    {
+      "chinese": "周末我通常去爬山。",
+      "pinyin": "Zhōumò wǒ tōngcháng qù páshān.",
+      "translation": "On weekends I usually go hiking.",
+      "usage": "Describes weekend hobby or activity",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "周末",
+          "py": "zhōumò",
+          "meaning": "weekend"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "通常",
+          "py": "tōngcháng",
+          "meaning": "usually"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "go"
+        },
+        {
+          "zh": "爬山",
+          "py": "páshān",
+          "meaning": "hike"
+        }
+      ]
+    },
+    {
+      "chinese": "这个周末我们打算去钓鱼。",
+      "pinyin": "Zhège zhōumò wǒmen dǎsuàn qù diào yú.",
+      "translation": "We plan to go fishing this weekend.",
+      "usage": "Talks about future plans or activities for a hobby",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这个",
+          "py": "zhège",
+          "meaning": "this"
+        },
+        {
+          "zh": "周末",
+          "py": "zhōumò",
+          "meaning": "weekend"
+        },
+        {
+          "zh": "我们",
+          "py": "wǒmen",
+          "meaning": "we"
+        },
+        {
+          "zh": "打算",
+          "py": "dǎsuàn",
+          "meaning": "plan to"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "go"
+        },
+        {
+          "zh": "钓鱼",
+          "py": "diào yú",
+          "meaning": "fish"
+        }
+      ]
+    },
+    {
+      "chinese": "我最喜欢的是旅游。",
+      "pinyin": "Wǒ zuìxǐhuān de shì lǚyóu.",
+      "translation": "My favorite hobby is traveling.",
+      "usage": "States one's favorite hobby using 'favorite is...'",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "最",
+          "py": "zuì",
+          "meaning": "most"
+        },
+        {
+          "zh": "喜欢",
+          "py": "xǐhuān",
+          "meaning": "like"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "is"
+        },
+        {
+          "zh": "旅游",
+          "py": "lǚyóu",
+          "meaning": "travel"
+        }
+      ]
+    },
+    {
+      "chinese": "你什么时候开始学画画的？",
+      "pinyin": "Nǐ shénme shíhou kāishǐ xué huàhuà de?",
+      "translation": "When did you start learning to draw?",
+      "usage": "Asks about when someone started a particular hobby",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "什么",
+          "py": "shénme",
+          "meaning": "what"
+        },
+        {
+          "zh": "时候",
+          "py": "shíhou",
+          "meaning": "time"
+        },
+        {
+          "zh": "开始",
+          "py": "kāishǐ",
+          "meaning": "start"
+        },
+        {
+          "zh": "学",
+          "py": "xué",
+          "meaning": "learn"
+        },
+        {
+          "zh": "画画",
+          "py": "huàhuà",
+          "meaning": "draw"
+        }
+      ]
+    },
+    {
+      "chinese": "我的爱好很广泛。",
+      "pinyin": "Wǒ de àihào hěn guǎngfàn.",
+      "translation": "My hobbies are very diverse.",
+      "usage": "Describes having many different hobbies",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive particle"
+        },
+        {
+          "zh": "爱好",
+          "py": "àihào",
+          "meaning": "hobby"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "广泛",
+          "py": "guǎngfàn",
+          "meaning": "wide / broad"
+        }
+      ]
+    },
+    {
+      "chinese": "我们班的同学都喜欢音乐。",
+      "pinyin": "Wǒmen bān de tóngxué dōu xǐhuān yīnyuè.",
+      "translation": "All the students in our class like music.",
+      "usage": "Talks about a shared hobby among a group of people",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我们",
+          "py": "wǒmen",
+          "meaning": "we"
+        },
+        {
+          "zh": "班",
+          "py": "bān",
+          "meaning": "class"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive particle"
+        },
+        {
+          "zh": "同学",
+          "py": "tóngxué",
+          "meaning": "classmate"
+        },
+        {
+          "zh": "都",
+          "py": "dōu",
+          "meaning": "all"
+        },
+        {
+          "zh": "喜欢",
+          "py": "xǐhuān",
+          "meaning": "like"
+        },
+        {
+          "zh": "音乐",
+          "py": "yīnyuè",
+          "meaning": "music"
+        }
+      ]
+    },
+    {
+      "chinese": "他业余时间喜欢收集邮票。",
+      "pinyin": "Tā yèyú shíjiān xǐhuān shōují yóupiao.",
+      "translation": "He likes collecting stamps in his spare time.",
+      "usage": "Describes a specific hobby using the structure 'like to do something in spare time'",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "他",
+          "py": "tā",
+          "meaning": "he"
+        },
+        {
+          "zh": "业余",
+          "py": "yèyú",
+          "meaning": "spare time"
+        },
+        {
+          "zh": "时间",
+          "py": "shíjiān",
+          "meaning": "time"
+        },
+        {
+          "zh": "喜欢",
+          "py": "xǐhuān",
+          "meaning": "like"
+        },
+        {
+          "zh": "收集",
+          "py": "shōují",
+          "meaning": "collect"
+        },
+        {
+          "zh": "邮票",
+          "py": "yóupiao",
+          "meaning": "stamp"
+        }
+      ]
+    },
+    {
+      "chinese": "你有时间一起去看电影吗？",
+      "pinyin": "Nǐ yǒu shíjiān yīqǐ qù kàn diànyǐng ma?",
+      "translation": "Do you have time to go watch a movie together?",
+      "usage": "Invites someone to share a hobby activity",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "have"
+        },
+        {
+          "zh": "时间",
+          "py": "shíjiān",
+          "meaning": "time"
+        },
+        {
+          "zh": "一起",
+          "py": "yīqǐ",
+          "meaning": "together"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "go"
+        },
+        {
+          "zh": "看",
+          "py": "kàn",
+          "meaning": "watch"
+        },
+        {
+          "zh": "电影",
+          "py": "diànyǐng",
+          "meaning": "movie"
+        }
+      ]
+    },
+    {
+      "chinese": "我的爱好是摄影。",
+      "pinyin": "Wǒ de àihào shì shèyǐng.",
+      "translation": "My hobby is photography.",
+      "usage": "States one's hobby using 'my hobby is...'",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive particle"
+        },
+        {
+          "zh": "爱好",
+          "py": "àihào",
+          "meaning": "hobby"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "is"
+        },
+        {
+          "zh": "摄影",
+          "py": "shèyǐng",
+          "meaning": "photography"
+        }
+      ]
+    },
+    {
+      "chinese": "他最近迷上了网球。",
+      "pinyin": "Tā zuìjìn mí shàng le wǎngqiú.",
+      "translation": "He has recently become interested in tennis.",
+      "usage": "Talks about someone starting a new hobby",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "他",
+          "py": "tā",
+          "meaning": "he"
+        },
+        {
+          "zh": "最近",
+          "py": "zuìjìn",
+          "meaning": "recently"
+        },
+        {
+          "zh": "迷上",
+          "py": "mí shàng",
+          "meaning": "become interested in"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed action marker"
+        },
+        {
+          "zh": "网球",
+          "py": "wǎngqiú",
+          "meaning": "tennis"
+        }
+      ]
+    },
+    {
+      "chinese": "我们经常一起打篮球。",
+      "pinyin": "Wǒmen jīngcháng yīqǐ dǎ lánqiú.",
+      "translation": "We often play basketball together.",
+      "usage": "Describes sharing a hobby activity with others",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我们",
+          "py": "wǒmen",
+          "meaning": "we"
+        },
+        {
+          "zh": "经常",
+          "py": "jīngcháng",
+          "meaning": "often"
+        },
+        {
+          "zh": "一起",
+          "py": "yīqǐ",
+          "meaning": "together"
+        },
+        {
+          "zh": "打",
+          "py": "dǎ",
+          "meaning": "play"
+        },
+        {
+          "zh": "篮球",
+          "py": "lánqiú",
+          "meaning": "basketball"
+        }
+      ]
+    },
+    {
+      "chinese": "你的爱好是什么？",
+      "pinyin": "Nǐ de àihào shì shénme?",
+      "translation": "What are your hobbies?",
+      "usage": "Asks about someone's hobbies",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive particle"
+        },
+        {
+          "zh": "爱好",
+          "py": "àihào",
+          "meaning": "hobby"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "is"
+        },
+        {
+          "zh": "什么",
+          "py": "shénme",
+          "meaning": "what"
+        }
+      ]
+    }
+  ]
+}

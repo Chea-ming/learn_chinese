@@ -1,0 +1,866 @@
+{
+  "sentences": [
+    {
+      "chinese": "这件衣服多少钱？",
+      "pinyin": "Zhè jiàn yīfu duōshǎo qián?",
+      "translation": "How much does this piece of clothing cost?",
+      "usage": "Used when asking for the price of an item in a store",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "件",
+          "py": "jiàn",
+          "meaning": "piece"
+        },
+        {
+          "zh": "衣",
+          "py": "yī",
+          "meaning": "clothing"
+        },
+        {
+          "zh": "服",
+          "py": "fu",
+          "meaning": "clothes"
+        },
+        {
+          "zh": "多",
+          "py": "duō",
+          "meaning": "how much"
+        },
+        {
+          "zh": "少",
+          "py": "shǎo",
+          "meaning": "few"
+        },
+        {
+          "zh": "钱",
+          "py": "qián",
+          "meaning": "money"
+        }
+      ]
+    },
+    {
+      "chinese": "我想要买一件新衬衫。",
+      "pinyin": "Wǒ xiǎng yào mǎi yī jiàn xīn chènshān.",
+      "translation": "I want to buy a new shirt.",
+      "usage": "Used when expressing desire to purchase clothing in a store",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "想",
+          "py": "xiǎng",
+          "meaning": "want"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "to want"
+        },
+        {
+          "zh": "买",
+          "py": "mǎi",
+          "meaning": "buy"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "件",
+          "py": "jiàn",
+          "meaning": "piece"
+        },
+        {
+          "zh": "新",
+          "py": "xīn",
+          "meaning": "new"
+        },
+        {
+          "zh": "衬",
+          "py": "chèn",
+          "meaning": "shirt"
+        },
+        {
+          "zh": "衫",
+          "py": "shān",
+          "meaning": "shirt"
+        }
+      ]
+    },
+    {
+      "chinese": "这个颜色太深了。",
+      "pinyin": "Zhège yánsè tài shēn le.",
+      "translation": "This color is too dark.",
+      "usage": "Used when commenting on the color of clothing",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "个",
+          "py": "ge",
+          "meaning": "a (classifier)"
+        },
+        {
+          "zh": "颜",
+          "py": "yán",
+          "meaning": "color"
+        },
+        {
+          "zh": "色",
+          "py": "sè",
+          "meaning": "color"
+        },
+        {
+          "zh": "太",
+          "py": "tài",
+          "meaning": "too"
+        },
+        {
+          "zh": "深",
+          "py": "shēn",
+          "meaning": "dark"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "already"
+        }
+      ]
+    },
+    {
+      "chinese": "请问这件衣服有大号吗？",
+      "pinyin": "Qǐngwèn zhè jiàn yīfu yǒu dà hào ma?",
+      "translation": "Excuse me, does this piece of clothing have a large size?",
+      "usage": "Used when asking about clothing sizes in a store",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "问",
+          "py": "wèn",
+          "meaning": "ask"
+        },
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "件",
+          "py": "jiàn",
+          "meaning": "piece"
+        },
+        {
+          "zh": "衣",
+          "py": "yī",
+          "meaning": "clothing"
+        },
+        {
+          "zh": "服",
+          "py": "fu",
+          "meaning": "clothes"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "have"
+        },
+        {
+          "zh": "大",
+          "py": "dà",
+          "meaning": "large"
+        },
+        {
+          "zh": "号",
+          "py": "hào",
+          "meaning": "size"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "这个价格太贵了。",
+      "pinyin": "Zhège jiàgé tài guì le.",
+      "translation": "This price is too expensive.",
+      "usage": "Used when expressing that an item is too costly",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "个",
+          "py": "ge",
+          "meaning": "a (classifier)"
+        },
+        {
+          "zh": "价",
+          "py": "jià",
+          "meaning": "price"
+        },
+        {
+          "zh": "格",
+          "py": "gé",
+          "meaning": "price"
+        },
+        {
+          "zh": "太",
+          "py": "tài",
+          "meaning": "too"
+        },
+        {
+          "zh": "贵",
+          "py": "guì",
+          "meaning": "expensive"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "already"
+        }
+      ]
+    },
+    {
+      "chinese": "我能试穿一下吗？",
+      "pinyin": "Wǒ néng shì chuān yīxià ma?",
+      "translation": "Can I try it on?",
+      "usage": "Used when requesting to try on clothing in a store",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "能",
+          "py": "néng",
+          "meaning": "can"
+        },
+        {
+          "zh": "试",
+          "py": "shì",
+          "meaning": "try"
+        },
+        {
+          "zh": "穿",
+          "py": "chuān",
+          "meaning": "wear"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "下",
+          "py": "xià",
+          "meaning": "a little"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "这套衣服很适合我。",
+      "pinyin": "Zhè tào yīfu hěn shìhé wǒ.",
+      "translation": "This set of clothes fits me very well.",
+      "usage": "Used when describing how well clothing fits",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "套",
+          "py": "tào",
+          "meaning": "set"
+        },
+        {
+          "zh": "衣",
+          "py": "yī",
+          "meaning": "clothing"
+        },
+        {
+          "zh": "服",
+          "py": "fu",
+          "meaning": "clothes"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "适",
+          "py": "shì",
+          "meaning": "fit"
+        },
+        {
+          "zh": "合",
+          "py": "hé",
+          "meaning": "fit"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "me"
+        }
+      ]
+    },
+    {
+      "chinese": "我需要一件毛衣。",
+      "pinyin": "Wǒ xūyào yī jiàn máoyī.",
+      "translation": "I need a sweater.",
+      "usage": "Used when stating need for a specific type of clothing",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "需",
+          "py": "xū",
+          "meaning": "need"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "want"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "件",
+          "py": "jiàn",
+          "meaning": "piece"
+        },
+        {
+          "zh": "毛",
+          "py": "máo",
+          "meaning": "wool"
+        },
+        {
+          "zh": "衣",
+          "py": "yī",
+          "meaning": "clothing"
+        }
+      ]
+    },
+    {
+      "chinese": "这件衣服的材质很好。",
+      "pinyin": "Zhè jiàn yīfu de cáizhì hěn hǎo.",
+      "translation": "The material of this piece of clothing is very good.",
+      "usage": "Used when commenting on the quality of fabric",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "件",
+          "py": "jiàn",
+          "meaning": "piece"
+        },
+        {
+          "zh": "衣",
+          "py": "yī",
+          "meaning": "clothing"
+        },
+        {
+          "zh": "服",
+          "py": "fu",
+          "meaning": "clothes"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "of"
+        },
+        {
+          "zh": "材",
+          "py": "cái",
+          "meaning": "material"
+        },
+        {
+          "zh": "质",
+          "py": "zhì",
+          "meaning": "quality"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good"
+        }
+      ]
+    },
+    {
+      "chinese": "这件裙子太短了。",
+      "pinyin": "Zhè jiàn qúnnǐ tài duǎn le.",
+      "translation": "This skirt is too short.",
+      "usage": "Used when commenting on the length of a skirt",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "件",
+          "py": "jiàn",
+          "meaning": "piece"
+        },
+        {
+          "zh": "裙",
+          "py": "qún",
+          "meaning": "skirt"
+        },
+        {
+          "zh": "子",
+          "py": "zi",
+          "meaning": "particle"
+        },
+        {
+          "zh": "太",
+          "py": "tài",
+          "meaning": "too"
+        },
+        {
+          "zh": "短",
+          "py": "duǎn",
+          "meaning": "short"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "already"
+        }
+      ]
+    },
+    {
+      "chinese": "我想要买一件连衣裙。",
+      "pinyin": "Wǒ xiǎng yào mǎi yī jiàn lián yīqún.",
+      "translation": "I want to buy a dress.",
+      "usage": "Used when expressing desire to purchase a dress",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "想",
+          "py": "xiǎng",
+          "meaning": "want"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "to want"
+        },
+        {
+          "zh": "买",
+          "py": "mǎi",
+          "meaning": "buy"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "件",
+          "py": "jiàn",
+          "meaning": "piece"
+        },
+        {
+          "zh": "连",
+          "py": "lián",
+          "meaning": "connected"
+        },
+        {
+          "zh": "衣",
+          "py": "yī",
+          "meaning": "clothing"
+        },
+        {
+          "zh": "裙",
+          "py": "qún",
+          "meaning": "skirt"
+        }
+      ]
+    },
+    {
+      "chinese": "这个尺寸合适吗？",
+      "pinyin": "Zhège chǐcùn héshì ma?",
+      "translation": "Is this size appropriate?",
+      "usage": "Used when checking if clothing size fits",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "个",
+          "py": "ge",
+          "meaning": "a (classifier)"
+        },
+        {
+          "zh": "尺",
+          "py": "chǐ",
+          "meaning": "size"
+        },
+        {
+          "zh": "寸",
+          "py": "cùn",
+          "meaning": "size"
+        },
+        {
+          "zh": "合",
+          "py": "hé",
+          "meaning": "fit"
+        },
+        {
+          "zh": "适",
+          "py": "shì",
+          "meaning": "fit"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "这件衣服太紧了。",
+      "pinyin": "Zhè jiàn yīfu tài jǐn le.",
+      "translation": "This piece of clothing is too tight.",
+      "usage": "Used when commenting on clothing being too tight",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "件",
+          "py": "jiàn",
+          "meaning": "piece"
+        },
+        {
+          "zh": "衣",
+          "py": "yī",
+          "meaning": "clothing"
+        },
+        {
+          "zh": "服",
+          "py": "fu",
+          "meaning": "clothes"
+        },
+        {
+          "zh": "太",
+          "py": "tài",
+          "meaning": "too"
+        },
+        {
+          "zh": "紧",
+          "py": "jǐn",
+          "meaning": "tight"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "already"
+        }
+      ]
+    },
+    {
+      "chinese": "我可以看看其他颜色吗？",
+      "pinyin": "Wǒ kěyǐ kàn kàn qítā yánsè ma?",
+      "translation": "Can I see other colors?",
+      "usage": "Used when requesting to see different color options",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "可",
+          "py": "kě",
+          "meaning": "can"
+        },
+        {
+          "zh": "以",
+          "py": "yǐ",
+          "meaning": "to"
+        },
+        {
+          "zh": "看",
+          "py": "kàn",
+          "meaning": "see"
+        },
+        {
+          "zh": "看",
+          "py": "kàn",
+          "meaning": "see"
+        },
+        {
+          "zh": "其",
+          "py": "qí",
+          "meaning": "other"
+        },
+        {
+          "zh": "他",
+          "py": "tā",
+          "meaning": "other"
+        },
+        {
+          "zh": "颜",
+          "py": "yán",
+          "meaning": "color"
+        },
+        {
+          "zh": "色",
+          "py": "sè",
+          "meaning": "color"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "这套衣服多少钱？",
+      "pinyin": "Zhè tào yīfu duōshǎo qián?",
+      "translation": "How much does this set of clothes cost?",
+      "usage": "Used when asking about price of clothing",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "套",
+          "py": "tào",
+          "meaning": "set"
+        },
+        {
+          "zh": "衣",
+          "py": "yī",
+          "meaning": "clothing"
+        },
+        {
+          "zh": "服",
+          "py": "fu",
+          "meaning": "clothes"
+        },
+        {
+          "zh": "多",
+          "py": "duō",
+          "meaning": "how much"
+        },
+        {
+          "zh": "少",
+          "py": "shǎo",
+          "meaning": "few"
+        },
+        {
+          "zh": "钱",
+          "py": "qián",
+          "meaning": "money"
+        }
+      ]
+    },
+    {
+      "chinese": "这件外套很保暖。",
+      "pinyin": "Zhè jiàn wàitào hěn bǎoennuǎn.",
+      "translation": "This coat is very warm.",
+      "usage": "Used when commenting on how warm a coat is",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "件",
+          "py": "jiàn",
+          "meaning": "piece"
+        },
+        {
+          "zh": "外",
+          "py": "wài",
+          "meaning": "outer"
+        },
+        {
+          "zh": "套",
+          "py": "tào",
+          "meaning": "coat"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "保",
+          "py": "bǎo",
+          "meaning": "protect"
+        },
+        {
+          "zh": "温",
+          "py": "wēn",
+          "meaning": "warm"
+        }
+      ]
+    },
+    {
+      "chinese": "这件衣服是新买的。",
+      "pinyin": "Zhè jiàn yīfu shì xīn mǎi de.",
+      "translation": "This piece of clothing was newly bought.",
+      "usage": "Used when describing recently purchased clothing",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "件",
+          "py": "jiàn",
+          "meaning": "piece"
+        },
+        {
+          "zh": "衣",
+          "py": "yī",
+          "meaning": "clothing"
+        },
+        {
+          "zh": "服",
+          "py": "fu",
+          "meaning": "clothes"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "is"
+        },
+        {
+          "zh": "新",
+          "py": "xīn",
+          "meaning": "new"
+        },
+        {
+          "zh": "买",
+          "py": "mǎi",
+          "meaning": "buy"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "particle"
+        }
+      ]
+    },
+    {
+      "chinese": "这件衣服有折扣。",
+      "pinyin": "Zhè jiàn yīfu yǒu zhékòu.",
+      "translation": "This piece of clothing has a discount.",
+      "usage": "Used when describing clothing with a discount",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "件",
+          "py": "jiàn",
+          "meaning": "piece"
+        },
+        {
+          "zh": "衣",
+          "py": "yī",
+          "meaning": "clothing"
+        },
+        {
+          "zh": "服",
+          "py": "fu",
+          "meaning": "clothes"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "have"
+        },
+        {
+          "zh": "折",
+          "py": "zhé",
+          "meaning": "discount"
+        },
+        {
+          "zh": "扣",
+          "py": "kòu",
+          "meaning": "discount"
+        }
+      ]
+    }
+  ]
+}

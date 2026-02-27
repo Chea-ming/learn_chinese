@@ -1,0 +1,279 @@
+{
+  "sentences": [
+    {
+      "chinese": "方法论",
+      "pinyin": "Fāngfǎ lùn",
+      "translation": "Methodology",
+      "usage": "Used to describe the systematic methods used to research a topic.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "方",
+          "py": "Fāng",
+          "meaning": "method"
+        },
+        {
+          "zh": "法",
+          "py": "Fǎ",
+          "meaning": "rule/law"
+        },
+        {
+          "zh": "论",
+          "py": "Lùn",
+          "meaning": "theory/discussion"
+        }
+      ]
+    },
+    {
+      "chinese": "文献综述",
+      "pinyin": "Wénxiàn zōngshù",
+      "translation": "Literature Review",
+      "usage": "Section summarizing existing research on a topic.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "文",
+          "py": "Wén",
+          "meaning": "literature"
+        },
+        {
+          "zh": "献",
+          "py": "Xiàn",
+          "meaning": "references"
+        },
+        {
+          "zh": "综",
+          "py": "Zōng",
+          "meaning": "summary"
+        },
+        {
+          "zh": "述",
+          "py": "Shù",
+          "meaning": "review"
+        }
+      ]
+    },
+    {
+      "chinese": "理论框架",
+      "pinyin": "Lǐlùn kuàngjià",
+      "translation": "Theoretical Framework",
+      "usage": "Structure guiding the research design and analysis.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "理",
+          "py": "Lǐ",
+          "meaning": "theory"
+        },
+        {
+          "zh": "论",
+          "py": "Lùn",
+          "meaning": "discussion"
+        },
+        {
+          "zh": "框",
+          "py": "Kuàng",
+          "meaning": "frame"
+        },
+        {
+          "zh": "架",
+          "py": "Jià",
+          "meaning": "structure"
+        }
+      ]
+    },
+    {
+      "chinese": "假设",
+      "pinyin": "Chǎnsè",
+      "translation": "Hypothesis",
+      "usage": "A provisional explanation to be tested.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "假",
+          "py": "Jiǎ",
+          "meaning": "false (context-dependent)"
+        },
+        {
+          "zh": "设",
+          "py": "Shè",
+          "meaning": "setup/assumption"
+        }
+      ]
+    },
+    {
+      "chinese": "实证证据",
+      "pinyin": "Shízhèng zhèngjù",
+      "translation": "Empirical Evidence",
+      "usage": "Data collected through observation or experimentation.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "实",
+          "py": "Shí",
+          "meaning": "actual"
+        },
+        {
+          "zh": "证",
+          "py": "Zhèng",
+          "meaning": "evidence"
+        },
+        {
+          "zh": "证",
+          "py": "Zhèng",
+          "meaning": "evidence"
+        },
+        {
+          "zh": "据",
+          "py": "Jù",
+          "meaning": "basis"
+        }
+      ]
+    },
+    {
+      "chinese": "同行评审",
+      "pinyin": "Tóngxíng píngshěn",
+      "translation": "Peer Review",
+      "usage": "Evaluation of research by experts in the field.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "同",
+          "py": "Tóng",
+          "meaning": "same"
+        },
+        {
+          "zh": "行",
+          "py": "Xíng",
+          "meaning": "field"
+        },
+        {
+          "zh": "评",
+          "py": "Píng",
+          "meaning": "evaluation"
+        },
+        {
+          "zh": "审",
+          "py": "Shěn",
+          "meaning": "review"
+        }
+      ]
+    },
+    {
+      "chinese": "研究局限性",
+      "pinyin": "Yánjiū xiàngxiàngxìng",
+      "translation": "Research Limitations",
+      "usage": "Section acknowledging constraints of the study.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "研",
+          "py": "Yán",
+          "meaning": "research"
+        },
+        {
+          "zh": "究",
+          "py": "Jiū",
+          "meaning": "study"
+        },
+        {
+          "zh": "局",
+          "py": "Jú",
+          "meaning": "limit"
+        },
+        {
+          "zh": "限",
+          "py": "Xiàn",
+          "meaning": "restriction"
+        },
+        {
+          "zh": "性",
+          "py": "Xìng",
+          "meaning": "nature"
+        }
+      ]
+    },
+    {
+      "chinese": "定量分析",
+      "pinyin": "Liàngdàng fēnxī",
+      "translation": "Quantitative Analysis",
+      "usage": "Statistical analysis of numerical data.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "定",
+          "py": "Dìng",
+          "meaning": "fixed"
+        },
+        {
+          "zh": "量",
+          "py": "Liàng",
+          "meaning": "quantity"
+        },
+        {
+          "zh": "分",
+          "py": "Fēn",
+          "meaning": "analyzing"
+        },
+        {
+          "zh": "析",
+          "py": "Xī",
+          "meaning": "breaking down"
+        }
+      ]
+    },
+    {
+      "chinese": "批判性分析",
+      "pinyin": "Pīpíngxìng fēnxī",
+      "translation": "Critical Analysis",
+      "usage": "Evaluating strengths and weaknesses of evidence.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "批",
+          "py": "Pī",
+          "meaning": "critique"
+        },
+        {
+          "zh": "判",
+          "py": "Pàn",
+          "meaning": "judgment"
+        },
+        {
+          "zh": "性",
+          "py": "Xìng",
+          "meaning": "nature"
+        },
+        {
+          "zh": "分",
+          "py": "Fēn",
+          "meaning": "analyze"
+        },
+        {
+          "zh": "析",
+          "py": "Xī",
+          "meaning": "break down"
+        }
+      ]
+    },
+    {
+      "chinese": "跨学科方法",
+      "pinyin": "Kuàxuékē fāngfǎ",
+      "translation": "Interdisciplinary Approach",
+      "usage": "Combining methods from multiple academic fields.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "跨",
+          "py": "Kuà",
+          "meaning": "cross"
+        },
+        {
+          "zh": "学",
+          "py": "Xué",
+          "meaning": "academic"
+        }
+      ]
+    }
+  ]
+}

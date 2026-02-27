@@ -1,0 +1,232 @@
+{
+  "sentences": [
+    {
+      "chinese": "理发店",
+      "pinyin": "Lǐfà diàn",
+      "translation": "Barber Shop",
+      "usage": "Used to refer to a place providing barber services.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "理发",
+          "py": "lǐfà",
+          "meaning": "to cut hair"
+        },
+        {
+          "zh": "店",
+          "py": "diàn",
+          "meaning": "shop"
+        }
+      ]
+    },
+    {
+      "chinese": "理发师",
+      "pinyin": "Lǐfà shī",
+      "translation": "Barber",
+      "usage": "Refers to a professional who cuts hair.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "理发",
+          "py": "lǐfà",
+          "meaning": "to cut hair"
+        },
+        {
+          "zh": "师",
+          "py": "shī",
+          "meaning": "professional"
+        }
+      ]
+    },
+    {
+      "chinese": "剃发",
+      "pinyin": "Tì fà",
+      "translation": "Haircut",
+      "usage": "Used to request a hair trim.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "剃",
+          "py": "tì",
+          "meaning": "to shave"
+        },
+        {
+          "zh": "发",
+          "py": "fà",
+          "meaning": "hair"
+        }
+      ]
+    },
+    {
+      "chinese": "剃须",
+      "pinyin": "Tì xū",
+      "translation": "Shave",
+      "usage": "Used to request facial hair removal.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "剃",
+          "py": "tì",
+          "meaning": "to shave"
+        },
+        {
+          "zh": "须",
+          "py": "xū",
+          "meaning": "beard"
+        }
+      ]
+    },
+    {
+      "chinese": "椅子",
+      "pinyin": "Yǐ zi",
+      "translation": "Chair",
+      "usage": "Refers to the customer's seating.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "椅",
+          "py": "yǐ",
+          "meaning": "chair"
+        },
+        {
+          "zh": "子",
+          "py": "zi",
+          "meaning": "child (classifier)"
+        }
+      ]
+    },
+    {
+      "chinese": "剃刀",
+      "pinyin": "Tì dāo",
+      "translation": "Razor",
+      "usage": "Used to describe the tool for shaving.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "剃",
+          "py": "tì",
+          "meaning": "to shave"
+        },
+        {
+          "zh": "刀",
+          "py": "dāo",
+          "meaning": "knife"
+        }
+      ]
+    },
+    {
+      "chinese": "剪刀",
+      "pinyin": "Jiǎn dāo",
+      "translation": "Scissors",
+      "usage": "Used to describe cutting tools.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "剪",
+          "py": "jiǎn",
+          "meaning": "to cut"
+        },
+        {
+          "zh": "刀",
+          "py": "dāo",
+          "meaning": "knife"
+        }
+      ]
+    },
+    {
+      "chinese": "洗头",
+      "pinyin": "Xǐ tóu",
+      "translation": "Shampoo",
+      "usage": "Used to request a head wash.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "洗",
+          "py": "xǐ",
+          "meaning": "to wash"
+        },
+        {
+          "zh": "头",
+          "py": "tóu",
+          "meaning": "head"
+        }
+      ]
+    },
+    {
+      "chinese": "烫发",
+      "pinyin": "Tàng fà",
+      "translation": "Perm",
+      "usage": "Used to request hair styling.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "烫",
+          "py": "tàng",
+          "meaning": "to heat"
+        },
+        {
+          "zh": "发",
+          "py": "fà",
+          "meaning": "hair"
+        }
+      ]
+    },
+    {
+      "chinese": "染发",
+      "pinyin": "Rǎn fà",
+      "translation": "Hair Dye",
+      "usage": "Used to request hair color change.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "染",
+          "py": "rǎn",
+          "meaning": "to dye"
+        },
+        {
+          "zh": "发",
+          "py": "fà",
+          "meaning": "hair"
+        }
+      ]
+    },
+    {
+      "chinese": "梳子",
+      "pinyin": "Shū zi",
+      "translation": "Comb",
+      "usage": "Used to describe the tool for hair management.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "梳",
+          "py": "shū",
+          "meaning": "to comb"
+        },
+        {
+          "zh": "子",
+          "py": "zi",
+          "meaning": "child (classifier)"
+        }
+      ]
+    },
+    {
+      "chinese": "洗发水",
+      "pinyin": "Xǐ fà shuǐ",
+      "translation": "Shampoo",
+      "usage": "Used to describe the product for hair washing.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "洗发",
+          "py": "xǐfà",
+          "meaning": "to wash hair"
+        },
+        {
+          "zh": "水",
+          "py": "shuǐ",
+          "meaning": "water"
+        }
+      ]
+    }
+  ]
+}

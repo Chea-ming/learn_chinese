@@ -1,0 +1,123 @@
+{
+  "sentences": [
+    {
+      "chinese": "开始写博客",
+      "pinyin": "Kāishǐ xiě kēngbó",
+      "translation": "Start a blog",
+      "usage": "Used to initiate a blog-writing activity.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "开始",
+          "py": "Kāishǐ",
+          "meaning": "start"
+        },
+        {
+          "zh": "写",
+          "py": "Xiě",
+          "meaning": "write"
+        },
+        {
+          "zh": "博客",
+          "py": "Kēngbó",
+          "meaning": "blog"
+        }
+      ]
+    },
+    {
+      "chinese": "录制视频",
+      "pinyin": "Lùzhì shìpín",
+      "translation": "Record a video",
+      "usage": "For vlog production.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "录制",
+          "py": "Lùzhì",
+          "meaning": "record"
+        },
+        {
+          "zh": "视频",
+          "py": "Shìpín",
+          "meaning": "video"
+        }
+      ]
+    },
+    {
+      "chinese": "上传视频",
+      "pinyin": "Shàngchuán shìpín",
+      "translation": "Upload a video",
+      "usage": "After filming, upload to platforms.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "上传",
+          "py": "Shàngchuán",
+          "meaning": "upload"
+        },
+        {
+          "zh": "视频",
+          "py": "Shìpín",
+          "meaning": "video"
+        }
+      ]
+    },
+    {
+      "chinese": "网络日志",
+      "pinyin": "Wǎngluò rìzhì",
+      "translation": "Blog",
+      "usage": "Term for a personal blog.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "网络",
+          "py": "Wǎngluò",
+          "meaning": "internet"
+        },
+        {
+          "zh": "日志",
+          "py": "Rìzhì",
+          "meaning": "diary/log"
+        }
+      ]
+    },
+    {
+      "chinese": "视频博客",
+      "pinyin": "Shìpín kēngbó",
+      "translation": "Vlog",
+      "usage": "Video-based blog format.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "视频",
+          "py": "Shìpín",
+          "meaning": "video"
+        },
+        {
+          "zh": "博客",
+          "py": "Kēngbó",
+          "meaning": "blog"
+        }
+      ]
+    },
+    {
+      "chinese": "内容创作者",
+      "pinyin": "Nèiróng chuàngzào zhě",
+      "translation": "Content creator",
+      "usage": "Describes bloggers/vloggers.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "内容",
+          "py": "Nèiróng",
+          "meaning": "content"
+        },
+        {
+          "zh": "创作者",
+          "py": "Chuàngzào zhě",
+          "meaning": "creator"
+        }
+      ]
+    }
+  ]
+}

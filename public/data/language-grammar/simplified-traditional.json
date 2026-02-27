@@ -1,0 +1,202 @@
+{
+  "sentences": [
+    {
+      "chinese": "简体字",
+      "pinyin": "Jiǎn tǐ zì",
+      "translation": "Simplified character",
+      "usage": "Refers to Chinese characters simplified for easier writing.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "简",
+          "py": "jiǎn",
+          "meaning": "simplified"
+        },
+        {
+          "zh": "体",
+          "py": "tǐ",
+          "meaning": "type/style"
+        },
+        {
+          "zh": "字",
+          "py": "zì",
+          "meaning": "character"
+        }
+      ]
+    },
+    {
+      "chinese": "繁体字",
+      "pinyin": "Fán tǐ zì",
+      "translation": "Traditional character",
+      "usage": "Refers to original Chinese characters with full strokes.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "繁",
+          "py": "fán",
+          "meaning": "complex"
+        },
+        {
+          "zh": "体",
+          "py": "tǐ",
+          "meaning": "type/style"
+        },
+        {
+          "zh": "字",
+          "py": "zì",
+          "meaning": "character"
+        }
+      ]
+    },
+    {
+      "chinese": "简繁转换",
+      "pinyin": "Jiǎn fán zhuǎn huàn",
+      "translation": "Simplified-Traditional conversion",
+      "usage": "Process of converting between character sets.",
+      "formality": "Technical",
+      "words": [
+        {
+          "zh": "简",
+          "py": "jiǎn",
+          "meaning": "simplified"
+        },
+        {
+          "zh": "繁",
+          "py": "fán",
+          "meaning": "traditional"
+        },
+        {
+          "zh": "转",
+          "py": "zhuǎn",
+          "meaning": "convert"
+        },
+        {
+          "zh": "换",
+          "py": "huàn",
+          "meaning": "exchange"
+        }
+      ]
+    },
+    {
+      "chinese": "简体字用于中国大陆",
+      "pinyin": "Jiǎn tǐ zì yòng yú Zhōngguó dà lù dì",
+      "translation": "Simplified characters are used in Mainland China",
+      "usage": "Geographical context for character usage.",
+      "formality": "Explanatory",
+      "words": [
+        {
+          "zh": "简体字",
+          "py": "jiǎn tǐ zì",
+          "meaning": "simplified characters"
+        },
+        {
+          "zh": "用于",
+          "py": "yòng yú",
+          "meaning": "used in"
+        },
+        {
+          "zh": "中国大陆",
+          "py": "zhōngguó dà lù dì",
+          "meaning": "Mainland China"
+        }
+      ]
+    },
+    {
+      "chinese": "繁体字用于香港、台湾和澳门",
+      "pinyin": "Fán tǐ zì yòng yú Xiānggǎng, Táiwān hé Àozhōu",
+      "translation": "Traditional characters are used in Hong Kong, Taiwan and Macau",
+      "usage": "Geographical context for character usage.",
+      "formality": "Explanatory",
+      "words": [
+        {
+          "zh": "繁体字",
+          "py": "fán tǐ zì",
+          "meaning": "traditional characters"
+        },
+        {
+          "zh": "用于",
+          "py": "yòng yú",
+          "meaning": "used in"
+        },
+        {
+          "zh": "香港",
+          "py": "xiānggǎng",
+          "meaning": "Hong Kong"
+        },
+        {
+          "zh": "台湾",
+          "py": "tái wān",
+          "meaning": "Taiwan"
+        },
+        {
+          "zh": "澳门",
+          "py": "ào zhōu",
+          "meaning": "Macau"
+        }
+      ]
+    },
+    {
+      "chinese": "简体字更容易学习",
+      "pinyin": "Jiǎn tǐ zì gèng róng yì xué xí",
+      "translation": "Simplified characters are easier to learn",
+      "usage": "Comparative statement about learning difficulty.",
+      "formality": "Opinion",
+      "words": [
+        {
+          "zh": "简体字",
+          "py": "jiǎn tǐ zì",
+          "meaning": "simplified characters"
+        },
+        {
+          "zh": "更",
+          "py": "gèng",
+          "meaning": "more"
+        },
+        {
+          "zh": "容易",
+          "py": "róng yì",
+          "meaning": "easy"
+        },
+        {
+          "zh": "学习",
+          "py": "xué xí",
+          "meaning": "to learn"
+        }
+      ]
+    },
+    {
+      "chinese": "繁体字的历史更悠久",
+      "pinyin": "Fán tǐ zì de lì shǐ gèng yōu jiǔ",
+      "translation": "Traditional characters have a longer history",
+      "usage": "Historical context comparison.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "繁体字",
+          "py": "fán tǐ zì",
+          "meaning": "traditional characters"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive"
+        },
+        {
+          "zh": "历史",
+          "py": "lì shǐ",
+          "meaning": "history"
+        },
+        {
+          "zh": "更",
+          "py": "gèng",
+          "meaning": "more"
+        },
+        {
+          "zh": "悠久",
+          "py": "yōu jiǔ",
+          "meaning": "long-standing"
+        }
+      ]
+    }
+  ]
+}

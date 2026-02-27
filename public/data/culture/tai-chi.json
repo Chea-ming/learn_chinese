@@ -1,0 +1,84 @@
+{
+  "sentences": [
+    {
+      "chinese": "太极",
+      "pinyin": "Tàijí",
+      "translation": "Tai Chi (the concept)",
+      "usage": "The philosophical foundation of Tai Chi, representing balance and duality.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "太",
+          "py": "tài",
+          "meaning": "extreme"
+        },
+        {
+          "zh": "极",
+          "py": "jí",
+          "meaning": "pole, extremity"
+        }
+      ]
+    },
+    {
+      "chinese": "太极拳",
+      "pinyin": "Tàijí quán",
+      "translation": "Tai Chi (the martial art)",
+      "usage": "Refers to the slow, flowing martial art derived from Tai Chi philosophy.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "拳",
+          "py": "quán",
+          "meaning": "fist (martial art style)"
+        }
+      ]
+    },
+    {
+      "chinese": "太极推手",
+      "pinyin": "Tàijí tuīshǒu",
+      "translation": "Tai Chi Push Hands",
+      "usage": "A two-person practice to develop sensitivity and balance.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "推",
+          "py": "tuī",
+          "meaning": "push"
+        },
+        {
+          "zh": "手",
+          "py": "shǒu",
+          "meaning": "hand"
+        }
+      ]
+    },
+    {
+      "chinese": "太极剑",
+      "pinyin": "Tàijí jiàn",
+      "translation": "Tai Chi sword",
+      "usage": "A form of Tai Chi using a sword, emphasizing grace and precision.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "剑",
+          "py": "jiàn",
+          "meaning": "sword"
+        }
+      ]
+    },
+    {
+      "chinese": "太极扇",
+      "pinyin": "Tàijí shàn",
+      "translation": "Tai Chi with a fan",
+      "usage": "A performance variation incorporating a fan for visual flair.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "扇",
+          "py": "shàn",
+          "meaning": "fan"
+        }
+      ]
+    }
+  ]
+}

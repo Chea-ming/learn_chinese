@@ -1,0 +1,579 @@
+{
+  "sentences": [
+    {
+      "chinese": "哎呀！",
+      "pinyin": "Aīyā!",
+      "translation": "Oh no!",
+      "usage": "Expresses sudden surprise, disappointment, or frustration.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "哎",
+          "py": "āi",
+          "meaning": "oh"
+        },
+        {
+          "zh": "呀",
+          "py": "ya",
+          "meaning": "exclamation particle"
+        }
+      ]
+    },
+    {
+      "chinese": "哇！",
+      "pinyin": "Wā!",
+      "translation": "Wow!",
+      "usage": "Expresses amazement, excitement, or admiration.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "哇",
+          "py": "wā",
+          "meaning": "exclamation of amazement"
+        }
+      ]
+    },
+    {
+      "chinese": "天哪！",
+      "pinyin": "Tiān nǎ!",
+      "translation": "Oh my God!",
+      "usage": "Expresses shock, disbelief, or exasperation.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "天",
+          "py": "tiān",
+          "meaning": "heaven"
+        },
+        {
+          "zh": "哪",
+          "py": "nǎ",
+          "meaning": "what"
+        }
+      ]
+    },
+    {
+      "chinese": "哎哟！",
+      "pinyin": "Aīyō!",
+      "translation": "Ouch!",
+      "usage": "Expresses pain or discomfort.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "哎",
+          "py": "āi",
+          "meaning": "oh"
+        },
+        {
+          "zh": "哟",
+          "py": "yo",
+          "meaning": "exclamation particle"
+        }
+      ]
+    },
+    {
+      "chinese": "真的吗？",
+      "pinyin": "Zhēn de ma?",
+      "translation": "Really?",
+      "usage": "Expresses disbelief or surprise at something someone said.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "真",
+          "py": "zhēn",
+          "meaning": "really"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "particle indicating affirmation"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "太好了！",
+      "pinyin": "Tài hǎo le!",
+      "translation": "That's great!",
+      "usage": "Expresses happiness or approval about something.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "太",
+          "py": "tài",
+          "meaning": "too"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "particle indicating completion"
+        }
+      ]
+    },
+    {
+      "chinese": "哈哈！",
+      "pinyin": "Hā hā!",
+      "translation": "Ha ha!",
+      "usage": "Expresses laughter or amusement.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "哈",
+          "py": "hā",
+          "meaning": "laugh"
+        },
+        {
+          "zh": "哈",
+          "py": "hā",
+          "meaning": "laugh"
+        }
+      ]
+    },
+    {
+      "chinese": "哎呀呀！",
+      "pinyin": "Aīyā yā!",
+      "translation": "Oh my goodness!",
+      "usage": "Expresses strong surprise or exasperation.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "哎",
+          "py": "āi",
+          "meaning": "oh"
+        },
+        {
+          "zh": "呀",
+          "py": "ya",
+          "meaning": "exclamation particle"
+        },
+        {
+          "zh": "呀",
+          "py": "ya",
+          "meaning": "exclamation particle"
+        }
+      ]
+    },
+    {
+      "chinese": "什么？",
+      "pinyin": "Shénme?",
+      "translation": "What?",
+      "usage": "Used to express confusion or disbelief.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "什",
+          "py": "shén",
+          "meaning": "what"
+        },
+        {
+          "zh": "么",
+          "py": "me",
+          "meaning": "particle indicating question"
+        }
+      ]
+    },
+    {
+      "chinese": "啊！",
+      "pinyin": "Ā!",
+      "translation": "Ah!",
+      "usage": "Expresses realization, surprise, or emphasis.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "啊",
+          "py": "ā",
+          "meaning": "exclamation of realization"
+        }
+      ]
+    },
+    {
+      "chinese": "快看！",
+      "pinyin": "Kuài kàn!",
+      "translation": "Look!",
+      "usage": "Used to draw attention to something.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "快",
+          "py": "kuài",
+          "meaning": "quickly"
+        },
+        {
+          "zh": "看",
+          "py": "kàn",
+          "meaning": "look"
+        }
+      ]
+    },
+    {
+      "chinese": "对不起！",
+      "pinyin": "Duì bu qǐ!",
+      "translation": "I'm sorry!",
+      "usage": "Used to apologize or express regret.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "对",
+          "py": "duì",
+          "meaning": "to apologize"
+        },
+        {
+          "zh": "不",
+          "py": "bu",
+          "meaning": "not"
+        },
+        {
+          "zh": "起",
+          "py": "qǐ",
+          "meaning": "to rise"
+        }
+      ]
+    },
+    {
+      "chinese": "太棒了！",
+      "pinyin": "Tài bàng le!",
+      "translation": "That's amazing!",
+      "usage": "Expresses enthusiasm or approval.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "太",
+          "py": "tài",
+          "meaning": "too"
+        },
+        {
+          "zh": "棒",
+          "py": "bàng",
+          "meaning": "great"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "particle indicating completion"
+        }
+      ]
+    },
+    {
+      "chinese": "真好！",
+      "pinyin": "Zhēn hǎo!",
+      "translation": "That's really good!",
+      "usage": "Expresses appreciation or satisfaction.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "真",
+          "py": "zhēn",
+          "meaning": "really"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good"
+        }
+      ]
+    },
+    {
+      "chinese": "真的假的？",
+      "pinyin": "Zhēn de jiǎ de?",
+      "translation": "Is that true?",
+      "usage": "Used to question the truth of something.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "真",
+          "py": "zhēn",
+          "meaning": "true"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "particle indicating affirmation"
+        },
+        {
+          "zh": "假",
+          "py": "jiǎ",
+          "meaning": "false"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "particle indicating affirmation"
+        }
+      ]
+    },
+    {
+      "chinese": "哎呀呀呀！",
+      "pinyin": "Aīyā yā yā!",
+      "translation": "Oh my goodness!",
+      "usage": "Expresses strong emotion or frustration.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "哎",
+          "py": "āi",
+          "meaning": "oh"
+        },
+        {
+          "zh": "呀",
+          "py": "ya",
+          "meaning": "exclamation particle"
+        },
+        {
+          "zh": "呀",
+          "py": "ya",
+          "meaning": "exclamation particle"
+        }
+      ]
+    },
+    {
+      "chinese": "太不可思议了！",
+      "pinyin": "Tài bù kě yì sī yì sī le!",
+      "translation": "That's incredible!",
+      "usage": "Expresses amazement at something unexpected.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "太",
+          "py": "tài",
+          "meaning": "too"
+        },
+        {
+          "zh": "不",
+          "py": "bù",
+          "meaning": "not"
+        },
+        {
+          "zh": "可",
+          "py": "kě",
+          "meaning": "able to"
+        },
+        {
+          "zh": "意",
+          "py": "yì",
+          "meaning": "think"
+        },
+        {
+          "zh": "思",
+          "py": "sī",
+          "meaning": "think"
+        },
+        {
+          "zh": "思",
+          "py": "sī",
+          "meaning": "think"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "particle indicating completion"
+        }
+      ]
+    },
+    {
+      "chinese": "真是的！",
+      "pinyin": "Zhēn shì de!",
+      "translation": "Really!",
+      "usage": "Expresses frustration or exasperation.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "真",
+          "py": "zhēn",
+          "meaning": "really"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "to be"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "particle indicating affirmation"
+        }
+      ]
+    },
+    {
+      "chinese": "哇塞！",
+      "pinyin": "Wā sāi!",
+      "translation": "Wow!",
+      "usage": "Expresses amazement or shock.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "哇",
+          "py": "wā",
+          "meaning": "exclamation of amazement"
+        },
+        {
+          "zh": "塞",
+          "py": "sāi",
+          "meaning": "exclamation of amazement"
+        }
+      ]
+    },
+    {
+      "chinese": "你看看！",
+      "pinyin": "Nǐ kàn kàn!",
+      "translation": "Look at this!",
+      "usage": "Used to draw attention to something.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "看",
+          "py": "kàn",
+          "meaning": "look"
+        },
+        {
+          "zh": "看",
+          "py": "kàn",
+          "meaning": "look"
+        }
+      ]
+    },
+    {
+      "chinese": "哎哟喂！",
+      "pinyin": "Aīyō wéi!",
+      "translation": "Ouch!",
+      "usage": "Expresses pain or discomfort.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "哎",
+          "py": "āi",
+          "meaning": "oh"
+        },
+        {
+          "zh": "哟",
+          "py": "yo",
+          "meaning": "exclamation particle"
+        },
+        {
+          "zh": "喂",
+          "py": "wéi",
+          "meaning": "exclamation of pain"
+        }
+      ]
+    },
+    {
+      "chinese": "太好了！",
+      "pinyin": "Tài hǎo le!",
+      "translation": "That's great!",
+      "usage": "Expresses happiness or approval about something.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "太",
+          "py": "tài",
+          "meaning": "too"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "particle indicating completion"
+        }
+      ]
+    },
+    {
+      "chinese": "你听！",
+      "pinyin": "Nǐ tīng!",
+      "translation": "Listen!",
+      "usage": "Used to get someone's attention to hear something.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "听",
+          "py": "tīng",
+          "meaning": "listen"
+        }
+      ]
+    },
+    {
+      "chinese": "真是的！",
+      "pinyin": "Zhēn shì de!",
+      "translation": "Really!",
+      "usage": "Expresses frustration or exasperation.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "真",
+          "py": "zhēn",
+          "meaning": "really"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "to be"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "particle indicating affirmation"
+        }
+      ]
+    },
+    {
+      "chinese": "太让人激动了！",
+      "pinyin": "Tài ràng rén jī dòng le!",
+      "translation": "That's so exciting!",
+      "usage": "Expresses enthusiasm or excitement.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "太",
+          "py": "tài",
+          "meaning": "too"
+        },
+        {
+          "zh": "让",
+          "py": "ràng",
+          "meaning": "to let"
+        },
+        {
+          "zh": "人",
+          "py": "rén",
+          "meaning": "person"
+        },
+        {
+          "zh": "激",
+          "py": "jī",
+          "meaning": "excite"
+        },
+        {
+          "zh": "动",
+          "py": "dòng",
+          "meaning": "move"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "particle indicating completion"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "sentences": [
+    {
+      "chinese": "茶艺",
+      "pinyin": "Chá yì",
+      "translation": "Tea art",
+      "usage": "A traditional Chinese performance of tea preparation emphasizing aesthetics.",
+      "formality": "Cultural",
+      "words": [
+        {
+          "zh": "茶",
+          "py": "Chá",
+          "meaning": "tea"
+        },
+        {
+          "zh": "艺",
+          "py": "Yì",
+          "meaning": "art"
+        }
+      ]
+    },
+    {
+      "chinese": "泡茶",
+      "pinyin": "Pào chá",
+      "translation": "To brew tea",
+      "usage": "Common term for preparing tea in the ceremony.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "泡",
+          "py": "Pào",
+          "meaning": "to steep"
+        },
+        {
+          "zh": "茶",
+          "py": "Chá",
+          "meaning": "tea"
+        }
+      ]
+    },
+    {
+      "chinese": "龙井茶",
+      "pinyin": "Lóng jǐng chá",
+      "translation": "Longjing tea",
+      "usage": "A famous green tea from Hangzhou, often used in ceremonies.",
+      "formality": "Cultural",
+      "words": [
+        {
+          "zh": "龙",
+          "py": "Lóng",
+          "meaning": "dragon"
+        },
+        {
+          "zh": "井",
+          "py": "Jǐng",
+          "meaning": "well"
+        },
+        {
+          "zh": "茶",
+          "py": "Chá",
+          "meaning": "tea"
+        }
+      ]
+    },
+    {
+      "chinese": "温杯",
+      "pinyin": "Wēn bēi",
+      "translation": "Warm the cup",
+      "usage": "Step to preheat tea wares for optimal brewing.",
+      "formality": "Cultural",
+      "words": [
+        {
+          "zh": "温",
+          "py": "Wēn",
+          "meaning": "to warm"
+        },
+        {
+          "zh": "杯",
+          "py": "Bēi",
+          "meaning": "cup"
+        }
+      ]
+    },
+    {
+      "chinese": "茶道",
+      "pinyin": "Chá dào",
+      "translation": "The way of tea",
+      "usage": "Philosophical practice combining tea preparation and mindfulness.",
+      "formality": "Spiritual",
+      "words": [
+        {
+          "zh": "茶",
+          "py": "Chá",
+          "meaning": "tea"
+        },
+        {
+          "zh": "道",
+          "py": "Dào",
+          "meaning": "path/way"
+        }
+      ]
+    },
+    {
+      "chinese": "斟茶",
+      "pinyin": "Zhēn chá",
+      "translation": "To pour tea",
+      "usage": "Technique for evenly distributing tea in the ceremony.",
+      "formality": "Cultural",
+      "words": [
+        {
+          "zh": "斟",
+          "py": "Zhēn",
+          "meaning": "to pour"
+        },
+        {
+          "zh": "茶",
+          "py": "Chá",
+          "meaning": "tea"
+        }
+      ]
+    },
+    {
+      "chinese": "敬茶",
+      "pinyin": "Jìng chá",
+      "translation": "Presenting tea",
+      "usage": "Ceremonial act of offering tea to elders or guests.",
+      "formality": "Respectful",
+      "words": [
+        {
+          "zh": "敬",
+          "py": "Jìng",
+          "meaning": "to respect"
+        },
+        {
+          "zh": "茶",
+          "py": "Chá",
+          "meaning": "tea"
+        }
+      ]
+    },
+    {
+      "chinese": "茶点",
+      "pinyin": "Chá diǎn",
+      "translation": "Tea snacks",
+      "usage": "Small desserts served alongside tea during ceremonies.",
+      "formality": "Cultural",
+      "words": [
+        {
+          "zh": "茶",
+          "py": "Chá",
+          "meaning": "tea"
+        },
+        {
+          "zh": "点",
+          "py": "Diǎn",
+          "meaning": "snack"
+        }
+      ]
+    }
+  ]
+}

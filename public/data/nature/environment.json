@@ -1,0 +1,266 @@
+{
+  "sentences": [
+    {
+      "chinese": "环境保护",
+      "pinyin": "Huán jìng bǎo hù",
+      "translation": "Environmental protection",
+      "usage": "General term for protecting the natural environment",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "环境",
+          "py": "Huán jìng",
+          "meaning": "environment"
+        },
+        {
+          "zh": "保护",
+          "py": "Bǎo hù",
+          "meaning": "protection"
+        }
+      ]
+    },
+    {
+      "chinese": "节约用水",
+      "pinyin": "Jié yuē yòng shuǐ",
+      "translation": "Save water",
+      "usage": "Promoting responsible water consumption",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "节约",
+          "py": "Jié yuē",
+          "meaning": "save"
+        },
+        {
+          "zh": "用水",
+          "py": "Yòng shuǐ",
+          "meaning": "water usage"
+        }
+      ]
+    },
+    {
+      "chinese": "空气污染",
+      "pinyin": "Kōng qì wū rǎn",
+      "translation": "Air pollution",
+      "usage": "Describing contaminated atmospheric conditions",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "空气",
+          "py": "Kōng qì",
+          "meaning": "air"
+        },
+        {
+          "zh": "污染",
+          "py": "Wū rǎn",
+          "meaning": "pollution"
+        }
+      ]
+    },
+    {
+      "chinese": "森林砍伐",
+      "pinyin": "Sēn lín kǎn fá",
+      "translation": "Deforestation",
+      "usage": "Referring to destruction of forest ecosystems",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "森林",
+          "py": "Sēn lín",
+          "meaning": "forest"
+        },
+        {
+          "zh": "砍伐",
+          "py": "Kǎn fá",
+          "meaning": "logging"
+        }
+      ]
+    },
+    {
+      "chinese": "垃圾分类",
+      "pinyin": "Lá圾 fèn lèi",
+      "translation": "Waste sorting",
+      "usage": "Modern waste management practice",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "垃圾",
+          "py": "Lá",
+          "meaning": "waste"
+        },
+        {
+          "zh": "分类",
+          "py": "Fēn lèi",
+          "meaning": "classification"
+        }
+      ]
+    },
+    {
+      "chinese": "碳中和",
+      "pinyin": "Tàn zhōng hé",
+      "translation": "Carbon neutrality",
+      "usage": "Climate policy goal",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "碳",
+          "py": "Tàn",
+          "meaning": "carbon"
+        },
+        {
+          "zh": "中和",
+          "py": "Zhōng hé",
+          "meaning": "neutralization"
+        }
+      ]
+    },
+    {
+      "chinese": "生物多样性",
+      "pinyin": "Shēng wù duō yàng xìng",
+      "translation": "Biodiversity",
+      "usage": "Ecological terminology",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "生物",
+          "py": "Shēng wù",
+          "meaning": "life"
+        },
+        {
+          "zh": "多样",
+          "py": "Duō yàng",
+          "meaning": "diverse"
+        },
+        {
+          "zh": "性",
+          "py": "Xìng",
+          "meaning": "nature"
+        }
+      ]
+    },
+    {
+      "chinese": "可再生能源",
+      "pinyin": "Kě zài shēng néng yuán",
+      "translation": "Renewable energy",
+      "usage": "Energy policy discussion",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "可",
+          "py": "Kě",
+          "meaning": "renewable"
+        },
+        {
+          "zh": "再生",
+          "py": "Zài shēng",
+          "meaning": "renewable"
+        },
+        {
+          "zh": "能源",
+          "py": "Néng yuán",
+          "meaning": "energy"
+        }
+      ]
+    },
+    {
+      "chinese": "海洋塑料",
+      "pinyin": "Hǎi yáng sù lì",
+      "translation": "Marine plastic pollution",
+      "usage": "Environmental conservation focus",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "海洋",
+          "py": "Hǎi yáng",
+          "meaning": "ocean"
+        },
+        {
+          "zh": "塑料",
+          "py": "Sù lì",
+          "meaning": "plastic"
+        }
+      ]
+    },
+    {
+      "chinese": "生态平衡",
+      "pinyin": "Shēng tài píng héng",
+      "translation": "Ecological balance",
+      "usage": "Environmental science concept",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "生态",
+          "py": "Shēng tài",
+          "meaning": "ecosystem"
+        },
+        {
+          "zh": "平衡",
+          "py": "Píng héng",
+          "meaning": "balance"
+        }
+      ]
+    },
+    {
+      "chinese": "可持续发展",
+      "pinyin": "Kě chí xù fā zhǎn",
+      "translation": "Sustainable development",
+      "usage": "Global policy framework",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "可",
+          "py": "Kě",
+          "meaning": "capable"
+        },
+        {
+          "zh": "持续",
+          "py": "Chí xù",
+          "meaning": "sustained"
+        },
+        {
+          "zh": "发展",
+          "py": "Fā zhǎn",
+          "meaning": "development"
+        }
+      ]
+    },
+    {
+      "chinese": "节能减排",
+      "pinyin": "Jié néng shǎo fā",
+      "translation": "Energy conservation",
+      "usage": "Environmental policy implementation",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "节能",
+          "py": "Jié néng",
+          "meaning": "energy saving"
+        },
+        {
+          "zh": "减排",
+          "py": "Shǎo fā",
+          "meaning": "emission reduction"
+        }
+      ]
+    },
+    {
+      "chinese": "绿色出行",
+      "pinyin": "Lǜ sè chū xíng",
+      "translation": "Green transportation",
+      "usage": "Encouraging eco-friendly transportation",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "绿色",
+          "py": "Lǜ sè",
+          "meaning": "green"
+        },
+        {
+          "zh": "出行",
+          "py": "Chū xíng",
+          "meaning": "travel"
+        }
+      ]
+    }
+  ]
+}

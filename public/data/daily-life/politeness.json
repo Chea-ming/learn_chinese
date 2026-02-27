@@ -1,215 +1,73 @@
 {
   "sentences": [
     {
-      "chinese": "谢谢！",
-      "pinyin": "Xièxie!",
-      "translation": "Thank you!",
-      "usage": "The most common and standard way to express gratitude in any situation.",
-      "formality": "Neutral",
+      "chinese": "你好！",
+      "pinyin": "Nǐ hǎo!",
+      "translation": "Hello!",
+      "usage": "The standard, all-purpose greeting. Suitable for almost any situation.",
+      "formality": "Neutral / Informal",
       "words": [
         {
-          "zh": "谢谢",
-          "py": "xièxie",
-          "meaning": "thank you"
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good / well"
         }
       ]
     },
     {
-      "chinese": "非常感谢！",
-      "pinyin": "Fēicháng gǎnxiè!",
-      "translation": "Thank you very much!",
-      "usage": "Used to express deeper gratitude than just 谢谢。Suitable for significant favors.",
+      "chinese": "谢谢！",
+      "pinyin": "Xiè xiè!",
+      "translation": "Thank you!",
+      "usage": "Used to express gratitude in any situation. Very common and essential.",
+      "formality": "Neutral / Informal",
+      "words": [
+        {
+          "zh": "谢",
+          "py": "xiè",
+          "meaning": "thanks / thank"
+        },
+        {
+          "zh": "谢",
+          "py": "xiè",
+          "meaning": "thanks / thank"
+        }
+      ]
+    },
+    {
+      "chinese": "不客气。",
+      "pinyin": "Bù kè qì.",
+      "translation": "You're welcome.",
+      "usage": "Used in response to someone's thanks. Shows that you are not bothered by their gratitude.",
       "formality": "Neutral / Formal",
       "words": [
         {
-          "zh": "非常",
-          "py": "fēicháng",
-          "meaning": "very / extremely"
-        },
-        {
-          "zh": "感谢",
-          "py": "gǎnxiè",
-          "meaning": "to thank / gratitude"
-        }
-      ]
-    },
-    {
-      "chinese": "多谢！",
-      "pinyin": "Duōxiè!",
-      "translation": "Thanks a lot!",
-      "usage": "A slightly more casual way to say thank you, often used among friends or colleagues.",
-      "formality": "Informal / Neutral",
-      "words": [
-        {
-          "zh": "多",
-          "py": "duō",
-          "meaning": "many / much"
-        },
-        {
-          "zh": "谢",
-          "py": "xiè",
-          "meaning": "to thank"
-        }
-      ]
-    },
-    {
-      "chinese": "辛苦你了！",
-      "pinyin": "Xīnkǔ nǐ le!",
-      "translation": "Thanks for your hard work!",
-      "usage": "Used to acknowledge someone's effort or labor on your behalf. Very common in work contexts.",
-      "formality": "Neutral",
-      "words": [
-        {
-          "zh": "辛苦",
-          "py": "xīnkǔ",
-          "meaning": "hard work / toil"
-        },
-        {
-          "zh": "你",
-          "py": "nǐ",
-          "meaning": "you"
-        },
-        {
-          "zh": "了",
-          "py": "le",
-          "meaning": "(particle indicating completed action)"
-        }
-      ]
-    },
-    {
-      "chinese": "麻烦你了！",
-      "pinyin": "Máfan nǐ le!",
-      "translation": "Sorry to trouble you! / Thanks for the trouble!",
-      "usage": "Used when asking for a favor or after someone has done something inconvenient for you.",
-      "formality": "Neutral",
-      "words": [
-        {
-          "zh": "麻烦",
-          "py": "máfan",
-          "meaning": "trouble / bother"
-        },
-        {
-          "zh": "你",
-          "py": "nǐ",
-          "meaning": "you"
-        },
-        {
-          "zh": "了",
-          "py": "le",
-          "meaning": "(particle)"
-        }
-      ]
-    },
-    {
-      "chinese": "不客气！",
-      "pinyin": "Bú kèqi!",
-      "translation": "You're welcome!",
-      "usage": "The standard response to 谢谢。Literally means 'no politeness needed'.",
-      "formality": "Neutral",
-      "words": [
-        {
           "zh": "不",
-          "py": "bú",
-          "meaning": "no / not"
+          "py": "bù",
+          "meaning": "not"
         },
         {
-          "zh": "客气",
-          "py": "kèqi",
-          "meaning": "polite / courteous"
-        }
-      ]
-    },
-    {
-      "chinese": "不用谢！",
-      "pinyin": "Bú yòng xiè!",
-      "translation": "No need to thank me!",
-      "usage": "Another common response to 谢谢，implying the favor was no big deal.",
-      "formality": "Neutral",
-      "words": [
-        {
-          "zh": "不用",
-          "py": "bú yòng",
-          "meaning": "no need"
+          "zh": "客",
+          "py": "kè",
+          "meaning": "guest / courtesy"
         },
         {
-          "zh": "谢",
-          "py": "xiè",
-          "meaning": "to thank"
+          "zh": "气",
+          "py": "qì",
+          "meaning": "spirit / air"
         }
       ]
     },
     {
-      "chinese": "没关系！",
-      "pinyin": "Méi guānxi!",
-      "translation": "It's okay! / No problem!",
-      "usage": "Used to respond to an apology, meaning 'it doesn't matter'. Can also mean 'no problem' for requests.",
-      "formality": "Neutral",
-      "words": [
-        {
-          "zh": "没",
-          "py": "méi",
-          "meaning": "no / not have"
-        },
-        {
-          "zh": "关系",
-          "py": "guānxi",
-          "meaning": "relation / matter"
-        }
-      ]
-    },
-    {
-      "chinese": "应该的！",
-      "pinyin": "Yīnggāi de!",
-      "translation": "It's my duty! / It's what I should do!",
-      "usage": "A humble response to thanks, often used by service staff or colleagues.",
-      "formality": "Neutral / Polite",
-      "words": [
-        {
-          "zh": "应该",
-          "py": "yīnggāi",
-          "meaning": "should / ought to"
-        },
-        {
-          "zh": "的",
-          "py": "de",
-          "meaning": "(particle)"
-        }
-      ]
-    },
-    {
-      "chinese": "对不起！",
-      "pinyin": "Duìbuqǐ!",
-      "translation": "I'm sorry!",
-      "usage": "The standard apology for mistakes or inconveniences caused to others.",
-      "formality": "Neutral",
-      "words": [
-        {
-          "zh": "对不起",
-          "py": "duìbuqǐ",
-          "meaning": "sorry / to apologize"
-        }
-      ]
-    },
-    {
-      "chinese": "抱歉！",
-      "pinyin": "Bàoqiàn!",
-      "translation": "Apologies! / Sorry!",
-      "usage": "Slightly more formal than 对不起。Often used in written contexts or professional settings.",
-      "formality": "Formal / Neutral",
-      "words": [
-        {
-          "zh": "抱歉",
-          "py": "bàoqiàn",
-          "meaning": "sorry / apologize"
-        }
-      ]
-    },
-    {
-      "chinese": "不好意思！",
-      "pinyin": "Bù hǎo yìsi!",
-      "translation": "Excuse me! / Sorry!",
-      "usage": "Versatile phrase. Used for minor apologies, getting attention, or expressing embarrassment.",
-      "formality": "Informal / Neutral",
+      "chinese": "不好意思。",
+      "pinyin": "Bù hǎo yì si.",
+      "translation": "I'm sorry.",
+      "usage": "Used to apologize for minor inconvenience or to politely interrupt someone.",
+      "formality": "Neutral / Formal",
       "words": [
         {
           "zh": "不",
@@ -219,64 +77,64 @@
         {
           "zh": "好",
           "py": "hǎo",
-          "meaning": "good"
+          "meaning": "good / well"
         },
         {
-          "zh": "意思",
-          "py": "yìsi",
-          "meaning": "meaning / idea"
+          "zh": "意",
+          "py": "yì",
+          "meaning": "intention / meaning"
+        },
+        {
+          "zh": "思",
+          "py": "si",
+          "meaning": "thought / idea"
         }
       ]
     },
     {
-      "chinese": "我错了！",
-      "pinyin": "Wǒ cuò le!",
-      "translation": "I was wrong!",
-      "usage": "A direct admission of fault. Used when you made a specific mistake.",
-      "formality": "Neutral",
-      "words": [
-        {
-          "zh": "我",
-          "py": "wǒ",
-          "meaning": "I"
-        },
-        {
-          "zh": "错",
-          "py": "cuò",
-          "meaning": "wrong / mistake"
-        },
-        {
-          "zh": "了",
-          "py": "le",
-          "meaning": "(particle)"
-        }
-      ]
-    },
-    {
-      "chinese": "请原谅！",
-      "pinyin": "Qǐng yuánliàng!",
-      "translation": "Please forgive me!",
-      "usage": "A sincere request for forgiveness for a more serious offense.",
-      "formality": "Formal",
+      "chinese": "请。",
+      "pinyin": "Qǐng.",
+      "translation": "Please.",
+      "usage": "Used to make a polite request or invitation. Common in formal and neutral situations.",
+      "formality": "Neutral / Formal",
       "words": [
         {
           "zh": "请",
           "py": "qǐng",
           "meaning": "please"
-        },
-        {
-          "zh": "原谅",
-          "py": "yuánliàng",
-          "meaning": "to forgive"
         }
       ]
     },
     {
-      "chinese": "请问...",
-      "pinyin": "Qǐngwèn...",
-      "translation": "May I ask... / Excuse me...",
-      "usage": "Used to politely start a question or get someone's attention.",
-      "formality": "Neutral",
+      "chinese": "麻烦您。",
+      "pinyin": "Má fan nín.",
+      "translation": "Excuse me.",
+      "usage": "Used to politely interrupt someone or to ask for help. More formal than '不好意思'.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "麻",
+          "py": "má",
+          "meaning": "troublesome / busy"
+        },
+        {
+          "zh": "烦",
+          "py": "fán",
+          "meaning": "annoyance / trouble"
+        },
+        {
+          "zh": "您",
+          "py": "nín",
+          "meaning": "you (respectful)"
+        }
+      ]
+    },
+    {
+      "chinese": "请问。",
+      "pinyin": "Qǐng wèn.",
+      "translation": "Excuse me.",
+      "usage": "Used when asking for information or directions. Very polite and common.",
+      "formality": "Neutral / Formal",
       "words": [
         {
           "zh": "请",
@@ -286,54 +144,40 @@
         {
           "zh": "问",
           "py": "wèn",
-          "meaning": "to ask"
+          "meaning": "ask / question"
         }
       ]
     },
     {
-      "chinese": "打扰一下！",
-      "pinyin": "Dǎrǎo yíxià!",
-      "translation": "Excuse me! / Sorry to disturb!",
-      "usage": "Used when interrupting someone or getting their attention politely.",
-      "formality": "Neutral",
+      "chinese": "没关系。",
+      "pinyin": "Méi guān xi.",
+      "translation": "It's okay.",
+      "usage": "Used to tell someone not to worry about something, or to respond to an apology.",
+      "formality": "Neutral / Informal",
       "words": [
         {
-          "zh": "打扰",
-          "py": "dǎrǎo",
-          "meaning": "to disturb"
+          "zh": "没",
+          "py": "méi",
+          "meaning": "not"
         },
         {
-          "zh": "一下",
-          "py": "yíxià",
-          "meaning": "a little bit / briefly"
+          "zh": "关",
+          "py": "guān",
+          "meaning": "relation / concern"
+        },
+        {
+          "zh": "系",
+          "py": "xi",
+          "meaning": "connection / relationship"
         }
       ]
     },
     {
-      "chinese": "借过！",
-      "pinyin": "Jièguò!",
-      "translation": "Excuse me (passing through)!",
-      "usage": "Used when you need to pass by someone in a crowded space.",
-      "formality": "Neutral",
-      "words": [
-        {
-          "zh": "借",
-          "py": "jiè",
-          "meaning": "to borrow"
-        },
-        {
-          "zh": "过",
-          "py": "guò",
-          "meaning": "to pass"
-        }
-      ]
-    },
-    {
-      "chinese": "请坐！",
-      "pinyin": "Qǐng zuò!",
-      "translation": "Please sit!",
-      "usage": "A polite invitation for a guest to take a seat.",
-      "formality": "Neutral",
+      "chinese": "请稍等。",
+      "pinyin": "Qǐng shāo děng.",
+      "translation": "Please wait a moment.",
+      "usage": "Used when asking someone to wait briefly. Common in service situations.",
+      "formality": "Neutral / Formal",
       "words": [
         {
           "zh": "请",
@@ -341,100 +185,464 @@
           "meaning": "please"
         },
         {
-          "zh": "坐",
-          "py": "zuò",
-          "meaning": "to sit"
+          "zh": "稍",
+          "py": "shāo",
+          "meaning": "a little / slightly"
+        },
+        {
+          "zh": "等",
+          "py": "děng",
+          "meaning": "wait"
         }
       ]
     },
     {
-      "chinese": "您先请！",
-      "pinyin": "Nín xiān qǐng!",
-      "translation": "After you!",
-      "usage": "Used to let someone else go first through a door or in a line. Very polite.",
-      "formality": "Polite",
+      "chinese": "不好意思，我迟到了。",
+      "pinyin": "Bù hǎo yì si, wǒ chí dào le.",
+      "translation": "I'm sorry, I'm late.",
+      "usage": "Used when apologizing for being late. Shows respect for the person you're addressing.",
+      "formality": "Neutral / Formal",
       "words": [
         {
-          "zh": "您",
-          "py": "nín",
-          "meaning": "you (polite)"
+          "zh": "不",
+          "py": "bù",
+          "meaning": "not"
         },
         {
-          "zh": "先",
-          "py": "xiān",
-          "meaning": "first"
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good / well"
         },
         {
-          "zh": "请",
-          "py": "qǐng",
-          "meaning": "please"
-        }
-      ]
-    },
-    {
-      "chinese": "别客气！",
-      "pinyin": "Bié kèqi!",
-      "translation": "Don't be polite! / Make yourself at home!",
-      "usage": "Told to guests to encourage them to relax and not feel restricted by formalities.",
-      "formality": "Informal / Neutral",
-      "words": [
-        {
-          "zh": "别",
-          "py": "bié",
-          "meaning": "do not"
+          "zh": "意",
+          "py": "yì",
+          "meaning": "intention / meaning"
         },
         {
-          "zh": "客气",
-          "py": "kèqi",
-          "meaning": "polite"
-        }
-      ]
-    },
-    {
-      "chinese": "哪里哪里！",
-      "pinyin": "Nǎlǐ nǎlǐ!",
-      "translation": "You flatter me! / Not at all!",
-      "usage": "A traditional modest response to a compliment. Literally means 'Where? Where?'.",
-      "formality": "Neutral",
-      "words": [
-        {
-          "zh": "哪里",
-          "py": "nǎlǐ",
-          "meaning": "where"
-        }
-      ]
-    },
-    {
-      "chinese": "过奖了！",
-      "pinyin": "Guòjiǎng le!",
-      "translation": "You overpraise me!",
-      "usage": "Another modest response to compliments, implying the praise is too high.",
-      "formality": "Formal / Polite",
-      "words": [
-        {
-          "zh": "过",
-          "py": "guò",
-          "meaning": "excessive"
+          "zh": "思",
+          "py": "si",
+          "meaning": "thought / idea"
         },
         {
-          "zh": "奖",
-          "py": "jiǎng",
-          "meaning": "praise"
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / me"
+        },
+        {
+          "zh": "迟",
+          "py": "chí",
+          "meaning": "late"
+        },
+        {
+          "zh": "到",
+          "py": "dào",
+          "meaning": "arrive"
         },
         {
           "zh": "了",
           "py": "le",
-          "meaning": "(particle)"
+          "meaning": "completed / finished"
         }
       ]
     },
     {
-      "chinese": "慢走！",
-      "pinyin": "Màn zǒu!",
-      "translation": "Take care! / Walk slowly!",
-      "usage": "A standard phrase said to guests when they are leaving. Shows care for their safety.",
-      "formality": "Neutral",
+      "chinese": "您请。",
+      "pinyin": "Nín qǐng.",
+      "translation": "You go first.",
+      "usage": "Used to politely invite someone to go ahead of you, showing respect.",
+      "formality": "Formal",
       "words": [
+        {
+          "zh": "您",
+          "py": "nín",
+          "meaning": "you (respectful)"
+        },
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        }
+      ]
+    },
+    {
+      "chinese": "不用谢。",
+      "pinyin": "Bù yòng xiè.",
+      "translation": "No need to thank me.",
+      "usage": "Used when someone thanks you, showing that you don't expect thanks in return.",
+      "formality": "Neutral / Informal",
+      "words": [
+        {
+          "zh": "不",
+          "py": "bù",
+          "meaning": "not"
+        },
+        {
+          "zh": "用",
+          "py": "yòng",
+          "meaning": "use / need"
+        },
+        {
+          "zh": "谢",
+          "py": "xiè",
+          "meaning": "thanks / thank"
+        }
+      ]
+    },
+    {
+      "chinese": "祝您愉快。",
+      "pinyin": "Zhù nín yú kuài.",
+      "translation": "I wish you a pleasant day.",
+      "usage": "Used when parting ways or in formal greetings. Shows good wishes.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "祝",
+          "py": "zhù",
+          "meaning": "wish / hope"
+        },
+        {
+          "zh": "您",
+          "py": "nín",
+          "meaning": "you (respectful)"
+        },
+        {
+          "zh": "愉",
+          "py": "yú",
+          "meaning": "happy / pleasant"
+        },
+        {
+          "zh": "快",
+          "py": "kuài",
+          "meaning": "quick / happy"
+        }
+      ]
+    },
+    {
+      "chinese": "请原谅。",
+      "pinyin": "Qǐng yuán liàng.",
+      "translation": "Please forgive me.",
+      "usage": "Used when asking for forgiveness, especially in formal or serious situations.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "原",
+          "py": "yuán",
+          "meaning": "forgive / original"
+        },
+        {
+          "zh": "谅",
+          "py": "liàng",
+          "meaning": "forgive / understand"
+        }
+      ]
+    },
+    {
+      "chinese": "请问您是哪位？",
+      "pinyin": "Qǐng wèn nín shì nǎ wèi?",
+      "translation": "Excuse me, who are you?",
+      "usage": "Used when meeting someone you don't know, especially in formal situations.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "问",
+          "py": "wèn",
+          "meaning": "ask / question"
+        },
+        {
+          "zh": "您",
+          "py": "nín",
+          "meaning": "you (respectful)"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "be / is"
+        },
+        {
+          "zh": "哪",
+          "py": "nǎ",
+          "meaning": "which / what"
+        },
+        {
+          "zh": "位",
+          "py": "wèi",
+          "meaning": "person / place"
+        }
+      ]
+    },
+    {
+      "chinese": "祝您生日快乐！",
+      "pinyin": "Zhù nín shēng rì kuài lè!",
+      "translation": "Happy birthday to you!",
+      "usage": "Used when greeting someone on their birthday. Very polite and warm.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "祝",
+          "py": "zhù",
+          "meaning": "wish / hope"
+        },
+        {
+          "zh": "您",
+          "py": "nín",
+          "meaning": "you (respectful)"
+        },
+        {
+          "zh": "生",
+          "py": "shēng",
+          "meaning": "birth / live"
+        },
+        {
+          "zh": "日",
+          "py": "rì",
+          "meaning": "day"
+        },
+        {
+          "zh": "快",
+          "py": "kuài",
+          "meaning": "quick / happy"
+        },
+        {
+          "zh": "乐",
+          "py": "lè",
+          "meaning": "happy / joy"
+        }
+      ]
+    },
+    {
+      "chinese": "请多关照。",
+      "pinyin": "Qǐng duō guān zhào.",
+      "translation": "Please take care of me.",
+      "usage": "Used when asking for someone's favor or attention. Shows respect and dependence.",
+      "formality": "Neutral / Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "多",
+          "py": "duō",
+          "meaning": "many / much"
+        },
+        {
+          "zh": "关",
+          "py": "guān",
+          "meaning": "relation / concern"
+        },
+        {
+          "zh": "照",
+          "py": "zhào",
+          "meaning": "look after / care for"
+        }
+      ]
+    },
+    {
+      "chinese": "您辛苦了。",
+      "pinyin": "Nín xīn kǔ le.",
+      "translation": "You've worked hard.",
+      "usage": "Used when acknowledging someone's effort or work. Shows appreciation.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "您",
+          "py": "nín",
+          "meaning": "you (respectful)"
+        },
+        {
+          "zh": "辛",
+          "py": "xīn",
+          "meaning": "hard / laborious"
+        },
+        {
+          "zh": "苦",
+          "py": "kǔ",
+          "meaning": "bitter / hard"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed / finished"
+        }
+      ]
+    },
+    {
+      "chinese": "麻烦您了。",
+      "pinyin": "Má fan nín le.",
+      "translation": "Thank you for the trouble.",
+      "usage": "Used when someone has done something for you that required effort. Shows gratitude.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "麻",
+          "py": "má",
+          "meaning": "troublesome / busy"
+        },
+        {
+          "zh": "烦",
+          "py": "fán",
+          "meaning": "annoyance / trouble"
+        },
+        {
+          "zh": "您",
+          "py": "nín",
+          "meaning": "you (respectful)"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed / finished"
+        }
+      ]
+    },
+    {
+      "chinese": "打扰了。",
+      "pinyin": "Dǎ rǎo le.",
+      "translation": "Excuse me.",
+      "usage": "Used when interrupting someone or when you need to ask for something politely.",
+      "formality": "Neutral / Formal",
+      "words": [
+        {
+          "zh": "打",
+          "py": "dǎ",
+          "meaning": "hit / disturb"
+        },
+        {
+          "zh": "扰",
+          "py": "rǎo",
+          "meaning": "disturb / interfere"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed / finished"
+        }
+      ]
+    },
+    {
+      "chinese": "请进。",
+      "pinyin": "Qǐng jìn.",
+      "translation": "Please come in.",
+      "usage": "Used when inviting someone into a room or building. Very polite and common.",
+      "formality": "Neutral / Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "进",
+          "py": "jìn",
+          "meaning": "enter"
+        }
+      ]
+    },
+    {
+      "chinese": "再见。",
+      "pinyin": "Zài jiàn.",
+      "translation": "Goodbye.",
+      "usage": "Used when leaving someone. Common in both formal and informal situations.",
+      "formality": "Neutral / Informal",
+      "words": [
+        {
+          "zh": "再",
+          "py": "zài",
+          "meaning": "again / once more"
+        },
+        {
+          "zh": "见",
+          "py": "jiàn",
+          "meaning": "see / meet"
+        }
+      ]
+    },
+    {
+      "chinese": "祝您身体健康。",
+      "pinyin": "Zhù nín shēn tǐ jiàn kāng.",
+      "translation": "I wish you good health.",
+      "usage": "Used when greeting someone or in formal situations. Shows care and respect.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "祝",
+          "py": "zhù",
+          "meaning": "wish / hope"
+        },
+        {
+          "zh": "您",
+          "py": "nín",
+          "meaning": "you (respectful)"
+        },
+        {
+          "zh": "身",
+          "py": "shēn",
+          "meaning": "body"
+        },
+        {
+          "zh": "体",
+          "py": "tǐ",
+          "meaning": "body / physical"
+        },
+        {
+          "zh": "健",
+          "py": "jiàn",
+          "meaning": "healthy / strong"
+        },
+        {
+          "zh": "康",
+          "py": "kāng",
+          "meaning": "health / sound"
+        }
+      ]
+    },
+    {
+      "chinese": "请稍等。",
+      "pinyin": "Qǐng shāo děng.",
+      "translation": "Please wait a moment.",
+      "usage": "Used when asking someone to wait briefly. Shows politeness and consideration.",
+      "formality": "Neutral / Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "稍",
+          "py": "shāo",
+          "meaning": "a little / slightly"
+        },
+        {
+          "zh": "等",
+          "py": "děng",
+          "meaning": "wait"
+        }
+      ]
+    },
+    {
+      "chinese": "您慢走。",
+      "pinyin": "Nín màn zǒu.",
+      "translation": "Please walk slowly.",
+      "usage": "Used when someone is leaving, especially in formal situations. Shows care.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "您",
+          "py": "nín",
+          "meaning": "you (respectful)"
+        },
         {
           "zh": "慢",
           "py": "màn",
@@ -443,189 +651,7 @@
         {
           "zh": "走",
           "py": "zǒu",
-          "meaning": "to walk / go"
-        }
-      ]
-    },
-    {
-      "chinese": "保重！",
-      "pinyin": "Bǎozhòng!",
-      "translation": "Take care of yourself!",
-      "usage": "Used when saying goodbye, especially if parting for a long time or to someone older.",
-      "formality": "Neutral / Polite",
-      "words": [
-        {
-          "zh": "保重",
-          "py": "bǎozhòng",
-          "meaning": "take care"
-        }
-      ]
-    },
-    {
-      "chinese": "祝您愉快！",
-      "pinyin": "Zhù nín yúkuài!",
-      "translation": "Wish you happiness! / Have a nice day!",
-      "usage": "A polite closing wish, often used in service contexts or formal goodbyes.",
-      "formality": "Formal",
-      "words": [
-        {
-          "zh": "祝",
-          "py": "zhù",
-          "meaning": "to wish"
-        },
-        {
-          "zh": "您",
-          "py": "nín",
-          "meaning": "you (polite)"
-        },
-        {
-          "zh": "愉快",
-          "py": "yúkuài",
-          "meaning": "happy / pleasant"
-        }
-      ]
-    },
-    {
-      "chinese": "欢迎光临！",
-      "pinyin": "Huānyíng guānglín!",
-      "translation": "Welcome!",
-      "usage": "Standard greeting used by staff when customers enter a shop or restaurant.",
-      "formality": "Neutral / Formal",
-      "words": [
-        {
-          "zh": "欢迎",
-          "py": "huānyíng",
-          "meaning": "welcome"
-        },
-        {
-          "zh": "光临",
-          "py": "guānglín",
-          "meaning": "to visit (honorably)"
-        }
-      ]
-    },
-    {
-      "chinese": "请慢用！",
-      "pinyin": "Qǐng màn yòng!",
-      "translation": "Enjoy your meal!",
-      "usage": "Said by servers after serving food. Literally 'Please use slowly'.",
-      "formality": "Neutral",
-      "words": [
-        {
-          "zh": "请",
-          "py": "qǐng",
-          "meaning": "please"
-        },
-        {
-          "zh": "慢",
-          "py": "màn",
-          "meaning": "slowly"
-        },
-        {
-          "zh": "用",
-          "py": "yòng",
-          "meaning": "to use / eat"
-        }
-      ]
-    },
-    {
-      "chinese": "我先走了！",
-      "pinyin": "Wǒ xiān zǒu le!",
-      "translation": "I'm leaving now!",
-      "usage": "A polite way to announce your departure from a group.",
-      "formality": "Neutral",
-      "words": [
-        {
-          "zh": "我",
-          "py": "wǒ",
-          "meaning": "I"
-        },
-        {
-          "zh": "先",
-          "py": "xiān",
-          "meaning": "first"
-        },
-        {
-          "zh": "走",
-          "py": "zǒu",
-          "meaning": "go"
-        },
-        {
-          "zh": "了",
-          "py": "le",
-          "meaning": "(particle)"
-        }
-      ]
-    },
-    {
-      "chinese": "有空常来！",
-      "pinyin": "Yǒu kòng cháng lái!",
-      "translation": "Come often when you're free!",
-      "usage": "A friendly invitation said to guests when they leave.",
-      "formality": "Informal",
-      "words": [
-        {
-          "zh": "有",
-          "py": "yǒu",
-          "meaning": "have"
-        },
-        {
-          "zh": "空",
-          "py": "kòng",
-          "meaning": "free time"
-        },
-        {
-          "zh": "常",
-          "py": "cháng",
-          "meaning": "often"
-        },
-        {
-          "zh": "来",
-          "py": "lái",
-          "meaning": "come"
-        }
-      ]
-    },
-    {
-      "chinese": "失陪了！",
-      "pinyin": "Shīpéi le!",
-      "translation": "Excuse me for leaving!",
-      "usage": "A polite phrase used when you need to leave a social gathering temporarily or permanently.",
-      "formality": "Formal",
-      "words": [
-        {
-          "zh": "失陪",
-          "py": "shīpéi",
-          "meaning": "excuse me for not accompanying"
-        },
-        {
-          "zh": "了",
-          "py": "le",
-          "meaning": "(particle)"
-        }
-      ]
-    },
-    {
-      "chinese": "久等了！",
-      "pinyin": "Jiǔ děng le!",
-      "translation": "Sorry to keep you waiting!",
-      "usage": "Used when you return to someone who has been waiting for you.",
-      "formality": "Neutral",
-      "words": [
-        {
-          "zh": "久",
-          "py": "jiǔ",
-          "meaning": "long time"
-        },
-        {
-          "zh": "等",
-          "py": "děng",
-          "meaning": "wait"
-        },
-        {
-          "zh": "了",
-          "py": "le",
-          "meaning": "(particle)"
+          "meaning": "walk / go"
         }
       ]
     }

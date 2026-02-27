@@ -1,0 +1,170 @@
+{
+  "sentences": [
+    {
+      "chinese": "寻找实习",
+      "pinyin": "Xúnzhǎo shíxí",
+      "translation": "To seek an internship",
+      "usage": "Used by students or job seekers to describe their intent to find internship opportunities.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "寻找",
+          "py": "xúnzhǎo",
+          "meaning": "to seek"
+        },
+        {
+          "zh": "实习",
+          "py": "shíxí",
+          "meaning": "internship"
+        }
+      ]
+    },
+    {
+      "chinese": "申请实习",
+      "pinyin": "Shēnqǐng shíxí",
+      "translation": "To apply for an internship",
+      "usage": "Describes the action of submitting an application for an internship position.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "申请",
+          "py": "shēnqǐng",
+          "meaning": "to apply"
+        },
+        {
+          "zh": "实习",
+          "py": "shíxí",
+          "meaning": "internship"
+        }
+      ]
+    },
+    {
+      "chinese": "实习面试",
+      "pinyin": "Shíxí miànshì",
+      "translation": "Internship interview",
+      "usage": "The interview process for an internship position.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "实习",
+          "py": "shíxí",
+          "meaning": "internship"
+        },
+        {
+          "zh": "面试",
+          "py": "miànshì",
+          "meaning": "interview"
+        }
+      ]
+    },
+    {
+      "chinese": "实习生",
+      "pinyin": "Shíxí shēng",
+      "translation": "Intern",
+      "usage": "Refers to a person undergoing an internship.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "实习",
+          "py": "shíxí",
+          "meaning": "internship"
+        },
+        {
+          "zh": "生",
+          "py": "shēng",
+          "meaning": "student"
+        }
+      ]
+    },
+    {
+      "chinese": "实习经历",
+      "pinyin": "Shíxí jīlì",
+      "translation": "Internship experience",
+      "usage": "Used to describe the experiences gained during an internship.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "实习",
+          "py": "shíxí",
+          "meaning": "internship"
+        },
+        {
+          "zh": "经历",
+          "py": "jīlì",
+          "meaning": "experience"
+        }
+      ]
+    },
+    {
+      "chinese": "实习项目",
+      "pinyin": "Shíxí xiàngmù",
+      "translation": "Internship program",
+      "usage": "A structured internship program offered by an organization.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "实习",
+          "py": "shíxí",
+          "meaning": "internship"
+        },
+        {
+          "zh": "项目",
+          "py": "xiàngmù",
+          "meaning": "project"
+        }
+      ]
+    },
+    {
+      "chinese": "实习任务",
+      "pinyin": "Shíxí rènwù",
+      "translation": "Internship tasks",
+      "usage": "The specific duties assigned to an intern.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "实习",
+          "py": "shíxí",
+          "meaning": "internship"
+        },
+        {
+          "zh": "任务",
+          "py": "rènwù",
+          "meaning": "task"
+        }
+      ]
+    },
+    {
+      "chinese": "实习准备",
+      "pinyin": "Shíxí zhǔnbèi",
+      "translation": "Internship preparation",
+      "usage": "Preparations made before starting an internship.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "实习",
+          "py": "shíxí",
+          "meaning": "internship"
+        },
+        {
+          "zh": "准备",
+          "py": "zhǔnbèi",
+          "meaning": "preparation"
+        }
+      ]
+    },
+    {
+      "chinese": "实习时间",
+      "pinyin": "Shíxí shíjiān",
+      "translation": "Internship duration",
+      "usage": "Refers to the length or timing of an internship.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "实习",
+          "py": "shíxí",
+          "meaning": "internship"
+        }
+      ]
+    }
+  ]
+}

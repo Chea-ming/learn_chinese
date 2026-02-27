@@ -1,0 +1,94 @@
+{
+  "sentences": [
+    {
+      "chinese": "绘画",
+      "pinyin": "Huìhuà",
+      "translation": "Painting/Art",
+      "usage": "General term for visual art forms.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "绘",
+          "py": "huì",
+          "meaning": "to paint"
+        },
+        {
+          "zh": "画",
+          "py": "huà",
+          "meaning": "painting"
+        }
+      ]
+    },
+    {
+      "chinese": "画画",
+      "pinyin": "Huàhuà",
+      "translation": "To draw/paint",
+      "usage": "Casual term for creating art.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "画",
+          "py": "huà",
+          "meaning": "paint"
+        },
+        {
+          "zh": "画",
+          "py": "huà",
+          "meaning": "paint"
+        }
+      ]
+    },
+    {
+      "chinese": "画笔",
+      "pinyin": "Huàbǐ",
+      "translation": "Paintbrush",
+      "usage": "Tool for drawing or painting.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "画",
+          "py": "huà",
+          "meaning": "painting"
+        },
+        {
+          "zh": "笔",
+          "py": "bǐ",
+          "meaning": "brush"
+        }
+      ]
+    },
+    {
+      "chinese": "画纸",
+      "pinyin": "Huàzhǐ",
+      "translation": "Drawing paper",
+      "usage": "Paper used for sketching or painting.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "画",
+          "py": "huà",
+          "meaning": "painting"
+        },
+        {
+          "zh": "纸",
+          "py": "zhǐ",
+          "meaning": "paper"
+        }
+      ]
+    },
+    {
+      "chinese": "水彩",
+      "pinyin": "Shuǐcǎi",
+      "translation": "Watercolor",
+      "usage": "Type of painting medium.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "水",
+          "py": "shuǐ",
+          "meaning": "water"
+        }
+      ]
+    }
+  ]
+}

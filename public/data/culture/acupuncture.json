@@ -1,0 +1,289 @@
+{
+  "sentences": [
+    {
+      "chinese": "针灸",
+      "pinyin": "Zhēn jiǔ",
+      "translation": "Acupuncture",
+      "usage": "Term for the traditional Chinese medical practice.",
+      "words": [
+        {
+          "zh": "针",
+          "py": "Zhēn",
+          "meaning": "needle"
+        },
+        {
+          "zh": "灸",
+          "py": "Jiǔ",
+          "meaning": "moxibustion"
+        }
+      ]
+    },
+    {
+      "chinese": "经络",
+      "pinyin": "Jīng luò",
+      "translation": "Meridians",
+      "usage": "Refers to energy pathways in the body.",
+      "words": [
+        {
+          "zh": "经",
+          "py": "Jīng",
+          "meaning": "channel"
+        },
+        {
+          "zh": "络",
+          "py": "Luò",
+          "meaning": "network"
+        }
+      ]
+    },
+    {
+      "chinese": "穴位",
+      "pinyin": "Xué wèi",
+      "translation": "Acupoints",
+      "usage": "Specific points on meridians for needle insertion.",
+      "words": [
+        {
+          "zh": "穴",
+          "py": "Xué",
+          "meaning": "cavity"
+        },
+        {
+          "zh": "位",
+          "py": "Wèi",
+          "meaning": "position"
+        }
+      ]
+    },
+    {
+      "chinese": "针灸治疗",
+      "pinyin": "Zhēn jiǔ zhì liáo",
+      "translation": "Acupuncture treatment",
+      "usage": "Used in clinical settings.",
+      "words": [
+        {
+          "zh": "治疗",
+          "py": "Zhì liáo",
+          "meaning": "treatment"
+        }
+      ]
+    },
+    {
+      "chinese": "传统医学",
+      "pinyin": "Chuán tǒng yī xué",
+      "translation": "Traditional medicine",
+      "usage": "Cultural context for acupuncture.",
+      "words": [
+        {
+          "zh": "传统",
+          "py": "Chuán tǒng",
+          "meaning": "traditional"
+        },
+        {
+          "zh": "医学",
+          "py": "Yī xué",
+          "meaning": "medicine"
+        }
+      ]
+    },
+    {
+      "chinese": "针灸师",
+      "pinyin": "Zhēn jiǔ shī",
+      "translation": "Acupuncturist",
+      "usage": "Professional practitioner.",
+      "words": [
+        {
+          "zh": "师",
+          "py": "Shī",
+          "meaning": "specialist"
+        }
+      ]
+    },
+    {
+      "chinese": "针刺疗法",
+      "pinyin": "Zhēn cì liáo fǎ",
+      "translation": "Needle therapy",
+      "usage": "Technical term for acupuncture.",
+      "words": [
+        {
+          "zh": "疗法",
+          "py": "Liáo fǎ",
+          "meaning": "therapy"
+        }
+      ]
+    },
+    {
+      "chinese": "艾草",
+      "pinyin": "Ài cǎo",
+      "translation": "Mugwort",
+      "usage": "Used in moxibustion.",
+      "words": [
+        {
+          "zh": "艾",
+          "py": "Ài",
+          "meaning": "mugwort"
+        },
+        {
+          "zh": "草",
+          "py": "Cǎo",
+          "meaning": "herb"
+        }
+      ]
+    },
+    {
+      "chinese": "针灸铜人",
+      "pinyin": "Zhēn jiǔ tóng rén",
+      "translation": "Bronze acupuncture mannequin",
+      "usage": "Cultural artifact for teaching.",
+      "words": [
+        {
+          "zh": "铜人",
+          "py": "Tóng rén",
+          "meaning": "bronze figure"
+        }
+      ]
+    },
+    {
+      "chinese": "经络学说",
+      "pinyin": "Jīng luò xué shuō",
+      "translation": "Meridian theory",
+      "usage": "Foundational concept in TCM.",
+      "words": [
+        {
+          "zh": "学说",
+          "py": "Xué shuō",
+          "meaning": "theoretical system"
+        }
+      ]
+    },
+    {
+      "chinese": "针灸铜人模型",
+      "pinyin": "Zhēn jiǔ tóng rén mó xíng",
+      "translation": "Acupuncture bronze mannequin model",
+      "usage": "Training tool for acupoint location.",
+      "words": [
+        {
+          "zh": "模型",
+          "py": "Mó xíng",
+          "meaning": "model"
+        }
+      ]
+    },
+    {
+      "chinese": "子午流注",
+      "pinyin": "Zǐ wǔ liú zhù",
+      "translation": "Hourly energy flow",
+      "usage": "Timing principles in acupuncture.",
+      "words": [
+        {
+          "zh": "流注",
+          "py": "Liú zhù",
+          "meaning": "flow and injection"
+        }
+      ]
+    },
+    {
+      "chinese": "针灸推拿",
+      "pinyin": "Zhēn jiǔ tuī ná",
+      "translation": "Acupuncture and Tui na massage",
+      "usage": "Combined therapeutic techniques.",
+      "words": [
+        {
+          "zh": "推拿",
+          "py": "Tuī ná",
+          "meaning": "Tui na massage"
+        }
+      ]
+    },
+    {
+      "chinese": "针灸铜人图",
+      "pinyin": "Zhēn jiǔ tóng rén tú",
+      "translation": "Bronze mannequin chart",
+      "usage": "Historical medical illustration.",
+      "words": [
+        {
+          "zh": "图",
+          "py": "Tú",
+          "meaning": "chart"
+        }
+      ]
+    },
+    {
+      "chinese": "针灸穴位图",
+      "pinyin": "Zhēn jiǔ xué wèi tú",
+      "translation": "Acupuncture point chart",
+      "usage": "Study material for acupoint locations.",
+      "words": [
+        {
+          "zh": "图",
+          "py": "Tú",
+          "meaning": "diagram"
+        }
+      ]
+    },
+    {
+      "chinese": "针灸疗法",
+      "pinyin": "Zhēn jiǔ liáo fǎ",
+      "translation": "Acupuncture therapy",
+      "usage": "Modern term for the practice.",
+      "words": [
+        {
+          "zh": "疗法",
+          "py": "Liáo fǎ",
+          "meaning": "therapy"
+        }
+      ]
+    },
+    {
+      "chinese": "针灸针",
+      "pinyin": "Zhēn jiǔ zhēn",
+      "translation": "Acupuncture needle",
+      "usage": "Specialized medical tool.",
+      "words": [
+        {
+          "zh": "针",
+          "py": "Zhēn",
+          "meaning": "needle"
+        }
+      ]
+    },
+    {
+      "chinese": "针灸医书",
+      "pinyin": "Zhēn jiǔ yī shū",
+      "translation": "Acupuncture medical text",
+      "usage": "Ancient literature on the subject.",
+      "words": [
+        {
+          "zh": "医书",
+          "py": "Yī shū",
+          "meaning": "medical book"
+        }
+      ]
+    },
+    {
+      "chinese": "针灸美容",
+      "pinyin": "Zhēn jiǔ měi róng",
+      "translation": "Acupuncture for beauty",
+      "usage": "Modern application in aesthetics.",
+      "words": [
+        {
+          "zh": "美容",
+          "py": "Měi róng",
+          "meaning": "beauty"
+        }
+      ]
+    },
+    {
+      "chinese": "针灸减肥",
+      "pinyin": "Zhēn jiǔ jiǎn fú",
+      "translation": "Acupuncture for weight loss",
+      "usage": "Contemporary wellness trend.",
+      "words": [
+        {
+          "zh": "减肥",
+          "py": "Jiǎn fú",
+          "meaning": "weight loss"
+        }
+      ]
+    }
+  ]
+}

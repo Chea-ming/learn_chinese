@@ -1,0 +1,195 @@
+{
+  "sentences": [
+    {
+      "chinese": "直译",
+      "pinyin": "Zhí yì",
+      "translation": "Direct translation",
+      "usage": "Translating word-for-word without adjusting for cultural or grammatical differences.",
+      "formality": "Advanced",
+      "words": [
+        {
+          "zh": "直",
+          "py": "zhí",
+          "meaning": "direct"
+        },
+        {
+          "zh": "译",
+          "py": "yì",
+          "meaning": "translation"
+        }
+      ]
+    },
+    {
+      "chinese": "意译",
+      "pinyin": "Yì yì",
+      "translation": "Free translation",
+      "usage": "Conveying the meaning rather than literal wording, adapting for target language context.",
+      "formality": "Advanced",
+      "words": [
+        {
+          "zh": "意",
+          "py": "yì",
+          "meaning": "meaning"
+        },
+        {
+          "zh": "译",
+          "py": "yì",
+          "meaning": "translation"
+        }
+      ]
+    },
+    {
+      "chinese": "补偿法",
+      "pinyin": "Bǔcháng fǎ",
+      "translation": "Compensation method",
+      "usage": "Adding extra information in translation to offset omissions from source text.",
+      "formality": "Advanced",
+      "words": [
+        {
+          "zh": "补",
+          "py": "bǔ",
+          "meaning": "compensate"
+        },
+        {
+          "zh": "偿",
+          "py": "cháng",
+          "meaning": "make up"
+        },
+        {
+          "zh": "法",
+          "py": "fǎ",
+          "meaning": "method"
+        }
+      ]
+    },
+    {
+      "chinese": "加注法",
+      "pinyin": "Jiāzhù fǎ",
+      "translation": "Annotation method",
+      "usage": "Including footnotes or explanations to clarify cultural or linguistic nuances.",
+      "formality": "Advanced",
+      "words": [
+        {
+          "zh": "加",
+          "py": "jiā",
+          "meaning": "add"
+        },
+        {
+          "zh": "注",
+          "py": "zhù",
+          "meaning": "note"
+        },
+        {
+          "zh": "法",
+          "py": "fǎ",
+          "meaning": "method"
+        }
+      ]
+    },
+    {
+      "chinese": "语境适应",
+      "pinyin": "Yǔjìng shìyīng",
+      "translation": "Context adaptation",
+      "usage": "Adjusting translation to fit the target language's cultural or situational context.",
+      "formality": "Advanced",
+      "words": [
+        {
+          "zh": "语境",
+          "py": "yǔjìng",
+          "meaning": "context"
+        },
+        {
+          "zh": "适应",
+          "py": "shìyīng",
+          "meaning": "adapt"
+        }
+      ]
+    },
+    {
+      "chinese": "文化负载词",
+      "pinyin": "Wénhuà fùzài cí",
+      "translation": "Culture-loaded terms",
+      "usage": "Words deeply tied to specific cultural concepts requiring special handling in translation.",
+      "formality": "Advanced",
+      "words": [
+        {
+          "zh": "文化",
+          "py": "wénhuà",
+          "meaning": "culture"
+        },
+        {
+          "zh": "负载",
+          "py": "fùzài",
+          "meaning": "loaded"
+        },
+        {
+          "zh": "词",
+          "py": "cí",
+          "meaning": "term"
+        }
+      ]
+    },
+    {
+      "chinese": "语序调整",
+      "pinyin": "Yǔxù tiáozhěng",
+      "translation": "Sentence order adjustment",
+      "usage": "Reorganizing sentence structure to match target language grammatical rules.",
+      "formality": "Advanced",
+      "words": [
+        {
+          "zh": "语序",
+          "py": "yǔxù",
+          "meaning": "sentence order"
+        },
+        {
+          "zh": "调整",
+          "py": "tiáozhěng",
+          "meaning": "adjust"
+        }
+      ]
+    },
+    {
+      "chinese": "语体转换",
+      "pinyin": "Yǔtǐ zhuǎnhuàn",
+      "translation": "Register transformation",
+      "usage": "Matching the formality or style of the source text in the target language.",
+      "formality": "Advanced",
+      "words": [
+        {
+          "zh": "语体",
+          "py": "yǔtǐ",
+          "meaning": "register"
+        },
+        {
+          "zh": "转换",
+          "py": "zhuǎnhuàn",
+          "meaning": "transform"
+        }
+      ]
+    },
+    {
+      "chinese": "归化与异化",
+      "pinyin": "Guīhuà yǔ yìhuà",
+      "translation": "Domestication and foreignization",
+      "usage": "Choosing to either adapt to target culture (domestication) or preserve source culture (foreignization).",
+      "formality": "Advanced",
+      "words": [
+        {
+          "zh": "归化",
+          "py": "guīhuà",
+          "meaning": "domestication"
+        },
+        {
+          "zh": "与",
+          "py": "yǔ",
+          "meaning": "and"
+        },
+        {
+          "zh": "异化",
+          "py": "yìhuà",
+          "meaning": "foreignization"
+        }
+      ]
+    }
+  ]
+}

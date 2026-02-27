@@ -1,0 +1,138 @@
+{
+  "sentences": [
+    {
+      "chinese": "医院",
+      "pinyin": "Yī yuàn",
+      "translation": "Hospital",
+      "usage": "General term for a medical facility.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "医",
+          "py": "Yī",
+          "meaning": "Medical"
+        },
+        {
+          "zh": "院",
+          "py": "Yuàn",
+          "meaning": "Building/institution"
+        }
+      ]
+    },
+    {
+      "chinese": "急诊室",
+      "pinyin": "Jí zhěn shì",
+      "translation": "Emergency room",
+      "usage": "For urgent medical care.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "急",
+          "py": "Jí",
+          "meaning": "Urgent"
+        },
+        {
+          "zh": "诊",
+          "py": "Zhěn",
+          "meaning": "Diagnosis"
+        },
+        {
+          "zh": "室",
+          "py": "Shì",
+          "meaning": "Room"
+        }
+      ]
+    },
+    {
+      "chinese": "门诊部",
+      "pinyin": "Mén zhěn bù",
+      "translation": "Outpatient clinic",
+      "usage": "For non-hospitalized patients.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "门",
+          "py": "Mén",
+          "meaning": "Door/Outpatient"
+        },
+        {
+          "zh": "诊",
+          "py": "Zhěn",
+          "meaning": "Consultation"
+        },
+        {
+          "zh": "部",
+          "py": "Bù",
+          "meaning": "Department"
+        }
+      ]
+    },
+    {
+      "chinese": "药房",
+      "pinyin": "Yào fáng",
+      "translation": "Pharmacy",
+      "usage": "Where medications are dispensed.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "药",
+          "py": "Yào",
+          "meaning": "Medicine"
+        },
+        {
+          "zh": "房",
+          "py": "Fáng",
+          "meaning": "Room/store"
+        }
+      ]
+    },
+    {
+      "chinese": "护士站",
+      "pinyin": "Hù shì zhàn",
+      "translation": "Nurses' station",
+      "usage": "Central point for nursing staff.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "护",
+          "py": "Hù",
+          "meaning": "Nursing"
+        },
+        {
+          "zh": "士",
+          "py": "Shì",
+          "meaning": "Nurse"
+        },
+        {
+          "zh": "站",
+          "py": "Zhàn",
+          "meaning": "Station"
+        }
+      ]
+    },
+    {
+      "chinese": "住院部",
+      "pinyin": "Zhù yuàn bù",
+      "translation": "Inpatient department",
+      "usage": "For patients staying overnight.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "住",
+          "py": "Zhù",
+          "meaning": "To stay"
+        },
+        {
+          "zh": "院",
+          "py": "Yuàn",
+          "meaning": "Hospital"
+        },
+        {
+          "zh": "部",
+          "py": "Bù",
+          "meaning": "Department"
+        }
+      ]
+    }
+  ]
+}

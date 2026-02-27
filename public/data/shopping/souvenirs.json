@@ -1,0 +1,654 @@
+{
+  "sentences": [
+    {
+      "chinese": "这里有什么特产吗？",
+      "pinyin": "Zhè lǐ yǒu shén me tè chǎn ma?",
+      "translation": "What local specialties are there here?",
+      "usage": "Ask about local products or items unique to the area",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "里",
+          "py": "lǐ",
+          "meaning": "inside / here"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "to have / there is"
+        },
+        {
+          "zh": "什么",
+          "py": "shén me",
+          "meaning": "what"
+        },
+        {
+          "zh": "特产",
+          "py": "tè chǎn",
+          "meaning": "specialty / local product"
+        }
+      ]
+    },
+    {
+      "chinese": "我想买一些纪念品。",
+      "pinyin": "Wǒ xiǎng mǎi yī xiē jì niàn pǐn.",
+      "translation": "I want to buy some souvenirs.",
+      "usage": "Expressing intention to purchase souvenirs",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / me"
+        },
+        {
+          "zh": "想",
+          "py": "xiǎng",
+          "meaning": "to want / to think"
+        },
+        {
+          "zh": "买",
+          "py": "mǎi",
+          "meaning": "to buy"
+        },
+        {
+          "zh": "一些",
+          "py": "yī xiē",
+          "meaning": "some / a few"
+        },
+        {
+          "zh": "纪念品",
+          "py": "jì niàn pǐn",
+          "meaning": "souvenir"
+        }
+      ]
+    },
+    {
+      "chinese": "这个多少钱？",
+      "pinyin": "Zhège duō shǎo qián?",
+      "translation": "How much is this?",
+      "usage": "Asking for the price of an item",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这个",
+          "py": "zhège",
+          "meaning": "this one"
+        },
+        {
+          "zh": "多",
+          "py": "duō",
+          "meaning": "how much / many"
+        },
+        {
+          "zh": "少",
+          "py": "shǎo",
+          "meaning": "few / little"
+        },
+        {
+          "zh": "钱",
+          "py": "qián",
+          "meaning": "money"
+        }
+      ]
+    },
+    {
+      "chinese": "可以便宜一点吗？",
+      "pinyin": "Kě yǐ pián yi yī diǎn ma?",
+      "translation": "Can it be a little cheaper?",
+      "usage": "Negotiating the price politely",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "可以",
+          "py": "kě yǐ",
+          "meaning": "can / may"
+        },
+        {
+          "zh": "便宜",
+          "py": "pián yi",
+          "meaning": "cheap / inexpensive"
+        },
+        {
+          "zh": "一点",
+          "py": "yī diǎn",
+          "meaning": "a little"
+        }
+      ]
+    },
+    {
+      "chinese": "这个很适合做礼物。",
+      "pinyin": "Zhège hěn shì hé zuò lǐ wù.",
+      "translation": "This is very suitable as a gift.",
+      "usage": "Commenting that an item would make a good gift",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这个",
+          "py": "zhège",
+          "meaning": "this one"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "适合",
+          "py": "shì hé",
+          "meaning": "suitable / fit"
+        },
+        {
+          "zh": "做",
+          "py": "zuò",
+          "meaning": "to make / to do"
+        },
+        {
+          "zh": "礼物",
+          "py": "lǐ wù",
+          "meaning": "gift"
+        }
+      ]
+    },
+    {
+      "chinese": "我需要买个礼品包装。",
+      "pinyin": "Wǒ xū yào mǎi gè lǐ pǐn bāo zhuāng.",
+      "translation": "I need to buy a gift wrapper.",
+      "usage": "Requesting or mentioning gift wrapping materials",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / me"
+        },
+        {
+          "zh": "需要",
+          "py": "xū yào",
+          "meaning": "need"
+        },
+        {
+          "zh": "买",
+          "py": "mǎi",
+          "meaning": "to buy"
+        },
+        {
+          "zh": "个",
+          "py": "gè",
+          "meaning": "classifier for objects"
+        },
+        {
+          "zh": "礼品",
+          "py": "lǐ pǐn",
+          "meaning": "gift"
+        },
+        {
+          "zh": "包装",
+          "py": "bāo zhuāng",
+          "meaning": "packaging"
+        }
+      ]
+    },
+    {
+      "chinese": "这些纪念品真漂亮！",
+      "pinyin": "Zhè xiē jì niàn pǐn zhēn piào liang!",
+      "translation": "These souvenirs are really beautiful!",
+      "usage": "Expressing admiration for souvenirs",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这些",
+          "py": "zhè xiē",
+          "meaning": "these"
+        },
+        {
+          "zh": "纪念品",
+          "py": "jì niàn pǐn",
+          "meaning": "souvenir"
+        },
+        {
+          "zh": "真",
+          "py": "zhēn",
+          "meaning": "really / truly"
+        },
+        {
+          "zh": "漂亮",
+          "py": "piào liang",
+          "meaning": "beautiful / pretty"
+        }
+      ]
+    },
+    {
+      "chinese": "送给朋友的礼物",
+      "pinyin": "Sòng gěi péng you de lǐ wù",
+      "translation": "Gift for a friend",
+      "usage": "Describing a gift intended for a friend",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "送",
+          "py": "sòng",
+          "meaning": "to give"
+        },
+        {
+          "zh": "给",
+          "py": "gěi",
+          "meaning": "to / for"
+        },
+        {
+          "zh": "朋友",
+          "py": "péng you",
+          "meaning": "friend"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive particle"
+        },
+        {
+          "zh": "礼物",
+          "py": "lǐ wù",
+          "meaning": "gift"
+        }
+      ]
+    },
+    {
+      "chinese": "这里有很多特色商品。",
+      "pinyin": "Zhè lǐ yǒu hěn duō tè sè shāng pǐn.",
+      "translation": "There are many specialty goods here.",
+      "usage": "Describing a place with many local products",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这里",
+          "py": "zhè lǐ",
+          "meaning": "here"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "to have / there is"
+        },
+        {
+          "zh": "很多",
+          "py": "hěn duō",
+          "meaning": "many / a lot of"
+        },
+        {
+          "zh": "特色",
+          "py": "tè sè",
+          "meaning": "special / characteristic"
+        },
+        {
+          "zh": "商品",
+          "py": "shāng pǐn",
+          "meaning": "commodity / goods"
+        }
+      ]
+    },
+    {
+      "chinese": "这些商品质量很好。",
+      "pinyin": "Zhè xiē shāng pǐn zhì liàng hěn hǎo.",
+      "translation": "These goods have very good quality.",
+      "usage": "Commenting on the quality of items",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这些",
+          "py": "zhè xiē",
+          "meaning": "these"
+        },
+        {
+          "zh": "商品",
+          "py": "shāng pǐn",
+          "meaning": "goods"
+        },
+        {
+          "zh": "质量",
+          "py": "zhì liàng",
+          "meaning": "quality"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good"
+        }
+      ]
+    },
+    {
+      "chinese": "这个礼品盒很精美。",
+      "pinyin": "Zhège lǐ pǐn hé hěn jīng měi.",
+      "translation": "This gift box is very exquisite.",
+      "usage": "Commenting on the quality or appearance of a gift box",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这个",
+          "py": "zhège",
+          "meaning": "this one"
+        },
+        {
+          "zh": "礼品",
+          "py": "lǐ pǐn",
+          "meaning": "gift"
+        },
+        {
+          "zh": "盒",
+          "py": "hé",
+          "meaning": "box"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "精美",
+          "py": "jīng měi",
+          "meaning": "exquisite / beautiful"
+        }
+      ]
+    },
+    {
+      "chinese": "我想要买一些小礼品。",
+      "pinyin": "Wǒ xiǎng yào mǎi yī xiē xiǎo lǐ wù.",
+      "translation": "I want to buy some small gifts.",
+      "usage": "Expressing desire to purchase small gifts",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / me"
+        },
+        {
+          "zh": "想要",
+          "py": "xiǎng yào",
+          "meaning": "want to"
+        },
+        {
+          "zh": "买",
+          "py": "mǎi",
+          "meaning": "to buy"
+        },
+        {
+          "zh": "一些",
+          "py": "yī xiē",
+          "meaning": "some / a few"
+        },
+        {
+          "zh": "小",
+          "py": "xiǎo",
+          "meaning": "small"
+        },
+        {
+          "zh": "礼品",
+          "py": "lǐ wù",
+          "meaning": "gift"
+        }
+      ]
+    },
+    {
+      "chinese": "请问，这里可以刷卡吗？",
+      "pinyin": "Qǐng wèn, zhè lǐ kě yǐ shuā kǎ ma?",
+      "translation": "Excuse me, can I pay by card here?",
+      "usage": "Asking about payment methods",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请问",
+          "py": "qǐng wèn",
+          "meaning": "excuse me / please"
+        },
+        {
+          "zh": "这里",
+          "py": "zhè lǐ",
+          "meaning": "here"
+        },
+        {
+          "zh": "可以",
+          "py": "kě yǐ",
+          "meaning": "can / may"
+        },
+        {
+          "zh": "刷卡",
+          "py": "shuā kǎ",
+          "meaning": "to swipe card"
+        }
+      ]
+    },
+    {
+      "chinese": "这些手工艺品很特别。",
+      "pinyin": "Zhè xiē shǒu gōng yì pǐn hěn tè bié.",
+      "translation": "These handicrafts are very special.",
+      "usage": "Commenting on the uniqueness of handicrafts",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这些",
+          "py": "zhè xiē",
+          "meaning": "these"
+        },
+        {
+          "zh": "手工",
+          "py": "shǒu gōng",
+          "meaning": "handmade"
+        },
+        {
+          "zh": "工艺",
+          "py": "yì pǐn",
+          "meaning": "craft / skill"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "特别",
+          "py": "tè bié",
+          "meaning": "special / particular"
+        }
+      ]
+    },
+    {
+      "chinese": "这个纪念品很有意义。",
+      "pinyin": "Zhège jì niàn pǐn hěn yǒu yì yì.",
+      "translation": "This souvenir has great meaning.",
+      "usage": "Commenting on the significance of a souvenir",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这个",
+          "py": "zhège",
+          "meaning": "this one"
+        },
+        {
+          "zh": "纪念品",
+          "py": "jì niàn pǐn",
+          "meaning": "souvenir"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "to have / there is"
+        },
+        {
+          "zh": "意义",
+          "py": "yì yì",
+          "meaning": "meaning / significance"
+        }
+      ]
+    },
+    {
+      "chinese": "这个商品包装精美。",
+      "pinyin": "Zhège shāng pǐn bāo zhuāng jīng měi.",
+      "translation": "This product has beautiful packaging.",
+      "usage": "Commenting on the appearance of product packaging",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这个",
+          "py": "zhège",
+          "meaning": "this one"
+        },
+        {
+          "zh": "商品",
+          "py": "shāng pǐn",
+          "meaning": "product / goods"
+        },
+        {
+          "zh": "包装",
+          "py": "bāo zhuāng",
+          "meaning": "packaging"
+        },
+        {
+          "zh": "精美",
+          "py": "jīng měi",
+          "meaning": "exquisite / beautiful"
+        }
+      ]
+    },
+    {
+      "chinese": "我正在寻找纪念品。",
+      "pinyin": "Wǒ zhèng zài xún zhǎo jì niàn pǐn.",
+      "translation": "I am looking for souvenirs.",
+      "usage": "Expressing current activity of searching for souvenirs",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / me"
+        },
+        {
+          "zh": "正在",
+          "py": "zhèng zài",
+          "meaning": "currently / in the process of"
+        },
+        {
+          "zh": "寻找",
+          "py": "xún zhǎo",
+          "meaning": "to look for"
+        },
+        {
+          "zh": "纪念品",
+          "py": "jì niàn pǐn",
+          "meaning": "souvenir"
+        }
+      ]
+    },
+    {
+      "chinese": "这些商品价格合理。",
+      "pinyin": "Zhè xiē shāng pǐn jià gé hé lǐ.",
+      "translation": "These products have reasonable prices.",
+      "usage": "Commenting on the pricing of products",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这些",
+          "py": "zhè xiē",
+          "meaning": "these"
+        },
+        {
+          "zh": "商品",
+          "py": "shāng pǐn",
+          "meaning": "goods"
+        },
+        {
+          "zh": "价格",
+          "py": "jià gé",
+          "meaning": "price"
+        },
+        {
+          "zh": "合理",
+          "py": "hé lǐ",
+          "meaning": "reasonable"
+        }
+      ]
+    },
+    {
+      "chinese": "这个礼品店很受欢迎。",
+      "pinyin": "Zhège lǐ pǐn diàn hěn shǒu huān.",
+      "translation": "This gift shop is very popular.",
+      "usage": "Commenting on the popularity of a gift shop",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这个",
+          "py": "zhège",
+          "meaning": "this one"
+        },
+        {
+          "zh": "礼品",
+          "py": "lǐ pǐn",
+          "meaning": "gift"
+        },
+        {
+          "zh": "店",
+          "py": "diàn",
+          "meaning": "shop"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "受欢迎",
+          "py": "shǒu huān",
+          "meaning": "popular"
+        }
+      ]
+    },
+    {
+      "chinese": "我需要买一些纪念品。",
+      "pinyin": "Wǒ xū yào mǎi yī xiē jì niàn pǐn.",
+      "translation": "I need to buy some souvenirs.",
+      "usage": "Expressing necessity to purchase souvenirs",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / me"
+        },
+        {
+          "zh": "需要",
+          "py": "xū yào",
+          "meaning": "need"
+        },
+        {
+          "zh": "买",
+          "py": "mǎi",
+          "meaning": "to buy"
+        },
+        {
+          "zh": "一些",
+          "py": "yī xiē",
+          "meaning": "some / a few"
+        },
+        {
+          "zh": "纪念品",
+          "py": "jì niàn pǐn",
+          "meaning": "souvenir"
+        }
+      ]
+    }
+  ]
+}

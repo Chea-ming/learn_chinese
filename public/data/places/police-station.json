@@ -1,0 +1,76 @@
+{
+  "sentences": [
+    {
+      "chinese": "派出所",
+      "pinyin": "Pài chū suǒ",
+      "translation": "Police station",
+      "usage": "This is the standard term for a local police station in China.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "派",
+          "py": "pài",
+          "meaning": "dispatch"
+        },
+        {
+          "zh": "出",
+          "py": "chū",
+          "meaning": "out"
+        },
+        {
+          "zh": "所",
+          "py": "suǒ",
+          "meaning": "office"
+        }
+      ]
+    },
+    {
+      "chinese": "我要报案。",
+      "pinyin": "Wǒ yào bào àn.",
+      "translation": "I need to report a case.",
+      "usage": "Used when informing the police about an incident.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "want to"
+        },
+        {
+          "zh": "报案",
+          "py": "bào àn",
+          "meaning": "report a case"
+        }
+      ]
+    },
+    {
+      "chinese": "请填写表格。",
+      "pinyin": "Qǐng tián xiě biǎo gé.",
+      "translation": "Please fill out the form.",
+      "usage": "Instructs someone to complete a form at the police station.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "填写",
+          "py": "tián xiě",
+          "meaning": "fill out"
+        },
+        {
+          "zh": "表格",
+          "py": "biǎo gé",
+          "meaning": "form"
+        }
+      ]
+    }
+  ]
+}

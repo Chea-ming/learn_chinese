@@ -1,0 +1,744 @@
+{
+  "sentences": [
+    {
+      "chinese": "我们开车去旅行吧！",
+      "pinyin": "Wǒmen kāichē qù lǚxíng ba!",
+      "translation": "Let's go on a road trip!",
+      "usage": "Used to suggest going on a road trip with others, informal and friendly",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "我们",
+          "py": "wǒmen",
+          "meaning": "we"
+        },
+        {
+          "zh": "开车",
+          "py": "kāichē",
+          "meaning": "to drive"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "to go"
+        },
+        {
+          "zh": "旅行",
+          "py": "lǚxíng",
+          "meaning": "travel"
+        },
+        {
+          "zh": "吧",
+          "py": "ba",
+          "meaning": "let's"
+        }
+      ]
+    },
+    {
+      "chinese": "开车前请检查轮胎气压。",
+      "pinyin": "Kāichē qián qǐng jiǎnchá lútāi qìyā.",
+      "translation": "Please check tire pressure before driving.",
+      "usage": "Used in formal or safety contexts, reminding someone to check tires before driving",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "开车",
+          "py": "kāichē",
+          "meaning": "to drive"
+        },
+        {
+          "zh": "前",
+          "py": "qián",
+          "meaning": "before"
+        },
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "检查",
+          "py": "jiǎnchá",
+          "meaning": "to check"
+        },
+        {
+          "zh": "轮胎",
+          "py": "lútāi",
+          "meaning": "tire"
+        },
+        {
+          "zh": "气压",
+          "py": "qìyā",
+          "meaning": "air pressure"
+        }
+      ]
+    },
+    {
+      "chinese": "这辆车开起来很平稳。",
+      "pinyin": "Zhè liàng chē kāi qǐlái hěn píngběn.",
+      "translation": "This car drives very smoothly.",
+      "usage": "Used to describe how a car handles, can be formal or informal",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "辆",
+          "py": "liàng",
+          "meaning": "vehicle"
+        },
+        {
+          "zh": "车",
+          "py": "chē",
+          "meaning": "car"
+        },
+        {
+          "zh": "开",
+          "py": "kāi",
+          "meaning": "to drive"
+        },
+        {
+          "zh": "起来",
+          "py": "qǐlái",
+          "meaning": "to start"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "平稳",
+          "py": "píngběn",
+          "meaning": "smooth"
+        }
+      ]
+    },
+    {
+      "chinese": "开车时不要分心。",
+      "pinyin": "Kāichē shí bùyào fēn xīn.",
+      "translation": "Don't be distracted while driving.",
+      "usage": "Used as a safety warning, informal but serious",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "开车",
+          "py": "kāichē",
+          "meaning": "to drive"
+        },
+        {
+          "zh": "时",
+          "py": "shí",
+          "meaning": "time"
+        },
+        {
+          "zh": "不要",
+          "py": "bùyào",
+          "meaning": "don't"
+        },
+        {
+          "zh": "分心",
+          "py": "fēn xīn",
+          "meaning": "to be distracted"
+        }
+      ]
+    },
+    {
+      "chinese": "高速公路上车速不能太快。",
+      "pinyin": "Gāosù gōnglù shàng chēsù bùnéng tài kuài.",
+      "translation": "Vehicle speed cannot be too fast on highways.",
+      "usage": "Used in formal or educational contexts about highway driving rules",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "高速公路",
+          "py": "gāosù gōnglù",
+          "meaning": "highway"
+        },
+        {
+          "zh": "上",
+          "py": "shàng",
+          "meaning": "on"
+        },
+        {
+          "zh": "车速",
+          "py": "chēsù",
+          "meaning": "vehicle speed"
+        },
+        {
+          "zh": "不能",
+          "py": "bùnéng",
+          "meaning": "cannot"
+        },
+        {
+          "zh": "太",
+          "py": "tài",
+          "meaning": "too"
+        },
+        {
+          "zh": "快",
+          "py": "kuài",
+          "meaning": "fast"
+        }
+      ]
+    },
+    {
+      "chinese": "开车要系安全带。",
+      "pinyin": "Kāichē yào xì ānquán dài.",
+      "translation": "You must wear a seat belt while driving.",
+      "usage": "Used as a safety instruction, formal or neutral",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "开车",
+          "py": "kāichē",
+          "meaning": "to drive"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "must"
+        },
+        {
+          "zh": "系",
+          "py": "xì",
+          "meaning": "to fasten"
+        },
+        {
+          "zh": "安全带",
+          "py": "ānquán dài",
+          "meaning": "seat belt"
+        }
+      ]
+    },
+    {
+      "chinese": "这辆车太旧了，需要维修。",
+      "pinyin": "Zhè liàng chē tài jiù le, xūyào wéixiū.",
+      "translation": "This car is too old and needs repair.",
+      "usage": "Used to describe an old car that needs maintenance",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "辆",
+          "py": "liàng",
+          "meaning": "vehicle"
+        },
+        {
+          "zh": "车",
+          "py": "chē",
+          "meaning": "car"
+        },
+        {
+          "zh": "太",
+          "py": "tài",
+          "meaning": "too"
+        },
+        {
+          "zh": "旧",
+          "py": "jiù",
+          "meaning": "old"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "already"
+        },
+        {
+          "zh": "需要",
+          "py": "xūyào",
+          "meaning": "need"
+        },
+        {
+          "zh": "维修",
+          "py": "wéixiū",
+          "meaning": "repair"
+        }
+      ]
+    },
+    {
+      "chinese": "开车时请保持安全距离。",
+      "pinyin": "Kāichē shí qǐng bǎochí ānquán jùlí.",
+      "translation": "Please maintain a safe distance while driving.",
+      "usage": "Used as a driving safety instruction, formal or neutral",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "开车",
+          "py": "kāichē",
+          "meaning": "to drive"
+        },
+        {
+          "zh": "时",
+          "py": "shí",
+          "meaning": "time"
+        },
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "保持",
+          "py": "bǎochí",
+          "meaning": "to maintain"
+        },
+        {
+          "zh": "安全",
+          "py": "ānquán",
+          "meaning": "safe"
+        },
+        {
+          "zh": "距离",
+          "py": "jùlí",
+          "meaning": "distance"
+        }
+      ]
+    },
+    {
+      "chinese": "开车要小心，特别是在雨天。",
+      "pinyin": "Kāichē yào xiǎoxīn, tèbié shì yǔtiān.",
+      "translation": "Drive carefully, especially in the rain.",
+      "usage": "Used as a safety reminder, informal but helpful",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "开车",
+          "py": "kāichē",
+          "meaning": "to drive"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "to need"
+        },
+        {
+          "zh": "小心",
+          "py": "xiǎoxīn",
+          "meaning": "careful"
+        },
+        {
+          "zh": "特别",
+          "py": "tèbié",
+          "meaning": "especially"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "is"
+        },
+        {
+          "zh": "雨天",
+          "py": "yǔtiān",
+          "meaning": "rainy day"
+        }
+      ]
+    },
+    {
+      "chinese": "我们计划在周末自驾游。",
+      "pinyin": "Wǒmen jìhuà zài zhōumò zìjià yóu.",
+      "translation": "We plan to go on a self-driving trip on the weekend.",
+      "usage": "Used to describe weekend travel plans, neutral",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我们",
+          "py": "wǒmen",
+          "meaning": "we"
+        },
+        {
+          "zh": "计划",
+          "py": "jìhuà",
+          "meaning": "plan"
+        },
+        {
+          "zh": "在",
+          "py": "zài",
+          "meaning": "on"
+        },
+        {
+          "zh": "周末",
+          "py": "zhōumò",
+          "meaning": "weekend"
+        },
+        {
+          "zh": "自驾",
+          "py": "zìjià",
+          "meaning": "self-drive"
+        },
+        {
+          "zh": "游",
+          "py": "yóu",
+          "meaning": "trip"
+        }
+      ]
+    },
+    {
+      "chinese": "开车前要确保油量充足。",
+      "pinyin": "Kāichē qián yào quèbǎo yóuliàng chōngzú.",
+      "translation": "Before driving, ensure fuel level is sufficient.",
+      "usage": "Used in formal or safety contexts about vehicle preparation",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "开车",
+          "py": "kāichē",
+          "meaning": "to drive"
+        },
+        {
+          "zh": "前",
+          "py": "qián",
+          "meaning": "before"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "to need"
+        },
+        {
+          "zh": "确保",
+          "py": "quèbǎo",
+          "meaning": "ensure"
+        },
+        {
+          "zh": "油量",
+          "py": "yóuliàng",
+          "meaning": "fuel level"
+        },
+        {
+          "zh": "充足",
+          "py": "chōngzú",
+          "meaning": "sufficient"
+        }
+      ]
+    },
+    {
+      "chinese": "开车时请勿使用手机。",
+      "pinyin": "Kāichē shí qǐng wù shǐyòng shǒujī.",
+      "translation": "Please do not use your phone while driving.",
+      "usage": "Used as a formal driving rule, very serious",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "开车",
+          "py": "kāichē",
+          "meaning": "to drive"
+        },
+        {
+          "zh": "时",
+          "py": "shí",
+          "meaning": "time"
+        },
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "勿",
+          "py": "wù",
+          "meaning": "do not"
+        },
+        {
+          "zh": "使用",
+          "py": "shǐyòng",
+          "meaning": "to use"
+        },
+        {
+          "zh": "手机",
+          "py": "shǒujī",
+          "meaning": "mobile phone"
+        }
+      ]
+    },
+    {
+      "chinese": "开车要保持专注。",
+      "pinyin": "Kāichē yào bǎochí zhùzhuān.",
+      "translation": "Driving requires focus.",
+      "usage": "Used to emphasize the need for concentration while driving",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "开车",
+          "py": "kāichē",
+          "meaning": "to drive"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "to need"
+        },
+        {
+          "zh": "保持",
+          "py": "bǎochí",
+          "meaning": "to maintain"
+        },
+        {
+          "zh": "专注",
+          "py": "zhùzhuān",
+          "meaning": "focus"
+        }
+      ]
+    },
+    {
+      "chinese": "我们开车经过了很多美丽的风景。",
+      "pinyin": "Wǒmen kāichē jīngguò le hěnduō měilì de fēngjǐng.",
+      "translation": "We drove through many beautiful landscapes.",
+      "usage": "Used to describe scenic driving experiences, informal",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "我们",
+          "py": "wǒmen",
+          "meaning": "we"
+        },
+        {
+          "zh": "开车",
+          "py": "kāichē",
+          "meaning": "to drive"
+        },
+        {
+          "zh": "经过",
+          "py": "jīngguò",
+          "meaning": "to pass through"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed"
+        },
+        {
+          "zh": "很多",
+          "py": "hěnduō",
+          "meaning": "many"
+        },
+        {
+          "zh": "美丽",
+          "py": "měilì",
+          "meaning": "beautiful"
+        },
+        {
+          "zh": "风景",
+          "py": "fēngjǐng",
+          "meaning": "scenery"
+        }
+      ]
+    },
+    {
+      "chinese": "开车时要遵守交通规则。",
+      "pinyin": "Kāichē shí yào zūnshǒu jiāotōng guīzé.",
+      "translation": "You must follow traffic rules while driving.",
+      "usage": "Used as a general driving instruction, formal or neutral",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "开车",
+          "py": "kāichē",
+          "meaning": "to drive"
+        },
+        {
+          "zh": "时",
+          "py": "shí",
+          "meaning": "time"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "to need"
+        },
+        {
+          "zh": "遵守",
+          "py": "zūnshǒu",
+          "meaning": "to follow"
+        },
+        {
+          "zh": "交通",
+          "py": "jiāotōng",
+          "meaning": "traffic"
+        },
+        {
+          "zh": "规则",
+          "py": "guīzé",
+          "meaning": "rules"
+        }
+      ]
+    },
+    {
+      "chinese": "开车前检查轮胎气压。",
+      "pinyin": "Kāichē qián jiǎnchá lúntāi qìyā.",
+      "translation": "Check tire pressure before driving.",
+      "usage": "Used as a vehicle maintenance instruction, formal",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "开车",
+          "py": "kāichē",
+          "meaning": "to drive"
+        },
+        {
+          "zh": "前",
+          "py": "qián",
+          "meaning": "before"
+        },
+        {
+          "zh": "检查",
+          "py": "jiǎnchá",
+          "meaning": "to check"
+        },
+        {
+          "zh": "轮胎",
+          "py": "lúntāi",
+          "meaning": "tire"
+        },
+        {
+          "zh": "气压",
+          "py": "qìyā",
+          "meaning": "pressure"
+        }
+      ]
+    },
+    {
+      "chinese": "开车时注意路况。",
+      "pinyin": "Kāichē shí zhùyì lùqíng.",
+      "translation": "Be aware of road conditions while driving.",
+      "usage": "Used as a general driving safety reminder, informal",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "开车",
+          "py": "kāichē",
+          "meaning": "to drive"
+        },
+        {
+          "zh": "时",
+          "py": "shí",
+          "meaning": "time"
+        },
+        {
+          "zh": "注意",
+          "py": "zhùyì",
+          "meaning": "to notice"
+        },
+        {
+          "zh": "路况",
+          "py": "lùqíng",
+          "meaning": "road condition"
+        }
+      ]
+    },
+    {
+      "chinese": "我们开车去旅行了。",
+      "pinyin": "Wǒmen kāichē qù lǚxíng le.",
+      "translation": "We drove to travel.",
+      "usage": "Used to describe a driving trip, informal",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "我们",
+          "py": "wǒmen",
+          "meaning": "we"
+        },
+        {
+          "zh": "开车",
+          "py": "kāichē",
+          "meaning": "to drive"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "to go"
+        },
+        {
+          "zh": "旅行",
+          "py": "lǚxíng",
+          "meaning": "travel"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed"
+        }
+      ]
+    },
+    {
+      "chinese": "开车时要保持冷静。",
+      "pinyin": "Kāichē shí yào bǎochí lěngjìng.",
+      "translation": "Stay calm while driving.",
+      "usage": "Used as a driving safety tip, informal",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "开车",
+          "py": "kāichē",
+          "meaning": "to drive"
+        },
+        {
+          "zh": "时",
+          "py": "shí",
+          "meaning": "time"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "to need"
+        },
+        {
+          "zh": "保持",
+          "py": "bǎochí",
+          "meaning": "to maintain"
+        },
+        {
+          "zh": "冷静",
+          "py": "lěngjìng",
+          "meaning": "calm"
+        }
+      ]
+    },
+    {
+      "chinese": "开车前要检查刹车系统。",
+      "pinyin": "Kāichē qián yào jiǎnchá shāchē xìtǒng.",
+      "translation": "Check brake system before driving.",
+      "usage": "Used as a vehicle safety instruction, formal",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "开车",
+          "py": "kāichē",
+          "meaning": "to drive"
+        },
+        {
+          "zh": "前",
+          "py": "qián",
+          "meaning": "before"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "to need"
+        },
+        {
+          "zh": "检查",
+          "py": "jiǎnchá",
+          "meaning": "to check"
+        },
+        {
+          "zh": "刹车",
+          "py": "shāchē",
+          "meaning": "brake"
+        },
+        {
+          "zh": "系统",
+          "py": "xìtǒng",
+          "meaning": "system"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "sentences": [
+    {
+      "chinese": "引言",
+      "pinyin": "Yǐn yán",
+      "translation": "Introduction",
+      "usage": "Used in the opening section of a research paper to present background information.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "引",
+          "py": "yǐn",
+          "meaning": "introduce"
+        },
+        {
+          "zh": "言",
+          "py": "yán",
+          "meaning": "words"
+        }
+      ]
+    },
+    {
+      "chinese": "方法论",
+      "pinyin": "Fāngfǎ lùn",
+      "translation": "Methodology",
+      "usage": "Describes the research methods and procedures in academic writing.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "方法",
+          "py": "fāngfǎ",
+          "meaning": "method"
+        },
+        {
+          "zh": "论",
+          "py": "lùn",
+          "meaning": "theory"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,724 @@
+{
+  "sentences": [
+    {
+      "chinese": "买单吧。",
+      "pinyin": "Mai dan ba.",
+      "translation": "Let's pay the bill.",
+      "usage": "Used when you want to settle the payment for a meal with others.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "买",
+          "py": "mǎi",
+          "meaning": "to buy"
+        },
+        {
+          "zh": "单",
+          "py": "dān",
+          "meaning": "bill"
+        },
+        {
+          "zh": "吧",
+          "py": "ba",
+          "meaning": "particle indicating suggestion"
+        }
+      ]
+    },
+    {
+      "chinese": "我来付账。",
+      "pinyin": "Wǒ lái fù zhàng.",
+      "translation": "I'll pay the bill.",
+      "usage": "Used when offering to pay for a meal or service.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "来",
+          "py": "lái",
+          "meaning": "to come"
+        },
+        {
+          "zh": "付",
+          "py": "fù",
+          "meaning": "to pay"
+        },
+        {
+          "zh": "账",
+          "py": "zhàng",
+          "meaning": "account / bill"
+        }
+      ]
+    },
+    {
+      "chinese": "请客！",
+      "pinyin": "Qǐng kè!",
+      "translation": "I'm treating you!",
+      "usage": "Used when offering to pay for someone else's meal.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "to invite"
+        },
+        {
+          "zh": "客",
+          "py": "kè",
+          "meaning": "guest"
+        }
+      ]
+    },
+    {
+      "chinese": "我们一起付账。",
+      "pinyin": "Wǒ men yī qǐ fù zhàng.",
+      "translation": "We'll pay the bill together.",
+      "usage": "Used when splitting the bill among a group of people.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "们",
+          "py": "men",
+          "meaning": "plural marker"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "起",
+          "py": "qǐ",
+          "meaning": "together"
+        },
+        {
+          "zh": "付",
+          "py": "fù",
+          "meaning": "to pay"
+        },
+        {
+          "zh": "账",
+          "py": "zhàng",
+          "meaning": "account / bill"
+        }
+      ]
+    },
+    {
+      "chinese": "这顿饭多少钱？",
+      "pinyin": "Zhè dùn fàn duō shǎo qián?",
+      "translation": "How much does this meal cost?",
+      "usage": "Used when asking for the price of a meal before paying.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "顿",
+          "py": "dùn",
+          "meaning": "meal"
+        },
+        {
+          "zh": "饭",
+          "py": "fàn",
+          "meaning": "rice / meal"
+        },
+        {
+          "zh": "多",
+          "py": "duō",
+          "meaning": "how much"
+        },
+        {
+          "zh": "少",
+          "py": "shǎo",
+          "meaning": "few / little"
+        },
+        {
+          "zh": "钱",
+          "py": "qián",
+          "meaning": "money"
+        }
+      ]
+    },
+    {
+      "chinese": "能帮我结账吗？",
+      "pinyin": "Néng bāng wǒ jié zhàng ma?",
+      "translation": "Can you help me pay the bill?",
+      "usage": "Used when asking someone to help you pay for your meal.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "能",
+          "py": "néng",
+          "meaning": "can"
+        },
+        {
+          "zh": "帮",
+          "py": "bāng",
+          "meaning": "to help"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "me"
+        },
+        {
+          "zh": "结",
+          "py": "jié",
+          "meaning": "to settle"
+        },
+        {
+          "zh": "账",
+          "py": "zhàng",
+          "meaning": "account / bill"
+        }
+      ]
+    },
+    {
+      "chinese": "刷卡吧。",
+      "pinyin": "Shuā kǎ ba.",
+      "translation": "Let's pay by card.",
+      "usage": "Used when suggesting to pay with a credit or debit card.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "刷",
+          "py": "shuā",
+          "meaning": "to swipe"
+        },
+        {
+          "zh": "卡",
+          "py": "kǎ",
+          "meaning": "card"
+        },
+        {
+          "zh": "吧",
+          "py": "ba",
+          "meaning": "particle indicating suggestion"
+        }
+      ]
+    },
+    {
+      "chinese": "现金支付。",
+      "pinyin": "Xiàn jīn zhī fù.",
+      "translation": "Cash payment.",
+      "usage": "Used when indicating you want to pay with cash.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "现",
+          "py": "xiàn",
+          "meaning": "cash"
+        },
+        {
+          "zh": "金",
+          "py": "jīn",
+          "meaning": "money"
+        },
+        {
+          "zh": "支",
+          "py": "zhī",
+          "meaning": "to pay"
+        },
+        {
+          "zh": "付",
+          "py": "fù",
+          "meaning": "to pay"
+        }
+      ]
+    },
+    {
+      "chinese": "我请客，不用客气。",
+      "pinyin": "Wǒ qǐng kè, bù yòng kè qì.",
+      "translation": "I'm treating you, don't be shy.",
+      "usage": "Used when offering to pay for someone else and encouraging them to accept.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "to invite"
+        },
+        {
+          "zh": "客",
+          "py": "kè",
+          "meaning": "guest"
+        },
+        {
+          "zh": "不",
+          "py": "bù",
+          "meaning": "not"
+        },
+        {
+          "zh": "用",
+          "py": "yòng",
+          "meaning": "to use"
+        },
+        {
+          "zh": "客",
+          "py": "kè",
+          "meaning": "guest"
+        },
+        {
+          "zh": "气",
+          "py": "qì",
+          "meaning": "shyness"
+        }
+      ]
+    },
+    {
+      "chinese": "我们分摊。",
+      "pinyin": "Wǒ men fēn tān.",
+      "translation": "We'll split the cost.",
+      "usage": "Used when agreeing to share the cost of a meal.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "们",
+          "py": "men",
+          "meaning": "plural marker"
+        },
+        {
+          "zh": "分",
+          "py": "fēn",
+          "meaning": "to divide"
+        },
+        {
+          "zh": "摊",
+          "py": "tān",
+          "meaning": "to share"
+        }
+      ]
+    },
+    {
+      "chinese": "我买单，不用谢。",
+      "pinyin": "Wǒ mài dān, bù yòng xiè.",
+      "translation": "I'll pay, no need to thank me.",
+      "usage": "Used when paying for a meal and indicating that gratitude is not necessary.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "买",
+          "py": "mǎi",
+          "meaning": "to buy"
+        },
+        {
+          "zh": "单",
+          "py": "dān",
+          "meaning": "bill"
+        },
+        {
+          "zh": "不",
+          "py": "bù",
+          "meaning": "not"
+        },
+        {
+          "zh": "用",
+          "py": "yòng",
+          "meaning": "to use"
+        },
+        {
+          "zh": "谢",
+          "py": "xiè",
+          "meaning": "to thank"
+        }
+      ]
+    },
+    {
+      "chinese": "这顿饭太贵了。",
+      "pinyin": "Zhè dùn fàn tài guì le.",
+      "translation": "This meal is too expensive.",
+      "usage": "Used when expressing that a meal costs more than expected.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "顿",
+          "py": "dùn",
+          "meaning": "meal"
+        },
+        {
+          "zh": "饭",
+          "py": "fàn",
+          "meaning": "rice / meal"
+        },
+        {
+          "zh": "太",
+          "py": "tài",
+          "meaning": "too"
+        },
+        {
+          "zh": "贵",
+          "py": "guì",
+          "meaning": "expensive"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "particle indicating completion"
+        }
+      ]
+    },
+    {
+      "chinese": "我来买单，你别客气。",
+      "pinyin": "Wǒ lái mài dān, nǐ bié kè qì.",
+      "translation": "I'll pay the bill, don't be shy.",
+      "usage": "Used when offering to pay and telling someone not to feel obligated.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "来",
+          "py": "lái",
+          "meaning": "to come"
+        },
+        {
+          "zh": "买",
+          "py": "mǎi",
+          "meaning": "to buy"
+        },
+        {
+          "zh": "单",
+          "py": "dān",
+          "meaning": "bill"
+        },
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "别",
+          "py": "bié",
+          "meaning": "don't"
+        },
+        {
+          "zh": "客",
+          "py": "kè",
+          "meaning": "guest"
+        },
+        {
+          "zh": "气",
+          "py": "qì",
+          "meaning": "shyness"
+        }
+      ]
+    },
+    {
+      "chinese": "请给我一张发票。",
+      "pinyin": "Qǐng gěi wǒ yī zhāng fā piào.",
+      "translation": "Please give me an invoice.",
+      "usage": "Used when asking for a receipt or invoice for a purchase.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "给",
+          "py": "gěi",
+          "meaning": "to give"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "me"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "张",
+          "py": "zhāng",
+          "meaning": "sheet"
+        },
+        {
+          "zh": "发",
+          "py": "fā",
+          "meaning": "to issue"
+        },
+        {
+          "zh": "票",
+          "py": "piào",
+          "meaning": "ticket / receipt"
+        }
+      ]
+    },
+    {
+      "chinese": "我们AA制。",
+      "pinyin": "Wǒ men AA zhì.",
+      "translation": "We'll split the bill.",
+      "usage": "Used when suggesting to split the cost equally among everyone.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "们",
+          "py": "men",
+          "meaning": "plural marker"
+        },
+        {
+          "zh": "AA",
+          "py": "AA",
+          "meaning": "equal sharing"
+        },
+        {
+          "zh": "制",
+          "py": "zhì",
+          "meaning": "system"
+        }
+      ]
+    },
+    {
+      "chinese": "我带了现金。",
+      "pinyin": "Wǒ dài le xiàn jīn.",
+      "translation": "I brought cash.",
+      "usage": "Used when informing someone that you have cash to pay with.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "带",
+          "py": "dài",
+          "meaning": "to bring"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "particle indicating completion"
+        },
+        {
+          "zh": "现",
+          "py": "xiàn",
+          "meaning": "cash"
+        },
+        {
+          "zh": "金",
+          "py": "jīn",
+          "meaning": "money"
+        }
+      ]
+    },
+    {
+      "chinese": "能不能刷卡？",
+      "pinyin": "Néng bù néng shuā kǎ?",
+      "translation": "Can we pay by card?",
+      "usage": "Used when asking if card payment is possible for a meal.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "能",
+          "py": "néng",
+          "meaning": "can"
+        },
+        {
+          "zh": "不",
+          "py": "bù",
+          "meaning": "not"
+        },
+        {
+          "zh": "能",
+          "py": "néng",
+          "meaning": "can"
+        },
+        {
+          "zh": "刷",
+          "py": "shuā",
+          "meaning": "to swipe"
+        },
+        {
+          "zh": "卡",
+          "py": "kǎ",
+          "meaning": "card"
+        }
+      ]
+    },
+    {
+      "chinese": "我们请客，不用客气。",
+      "pinyin": "Wǒ men qǐng kè, bù yòng kè qì.",
+      "translation": "We're treating you, don't be shy.",
+      "usage": "Used when offering to pay for others and encouraging them to accept.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "们",
+          "py": "men",
+          "meaning": "plural marker"
+        },
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "to invite"
+        },
+        {
+          "zh": "客",
+          "py": "kè",
+          "meaning": "guest"
+        },
+        {
+          "zh": "不",
+          "py": "bù",
+          "meaning": "not"
+        },
+        {
+          "zh": "用",
+          "py": "yòng",
+          "meaning": "to use"
+        },
+        {
+          "zh": "客",
+          "py": "kè",
+          "meaning": "guest"
+        },
+        {
+          "zh": "气",
+          "py": "qì",
+          "meaning": "shyness"
+        }
+      ]
+    },
+    {
+      "chinese": "我们AA，这样公平。",
+      "pinyin": "Wǒ men AA, zhè yàng gōng píng.",
+      "translation": "We'll split it, that's fair.",
+      "usage": "Used when suggesting to split the cost equally and explaining that it's fair.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "们",
+          "py": "men",
+          "meaning": "plural marker"
+        },
+        {
+          "zh": "AA",
+          "py": "AA",
+          "meaning": "equal sharing"
+        },
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "样",
+          "py": "yàng",
+          "meaning": "way"
+        },
+        {
+          "zh": "公",
+          "py": "gōng",
+          "meaning": "fair"
+        },
+        {
+          "zh": "平",
+          "py": "píng",
+          "meaning": "equal"
+        }
+      ]
+    },
+    {
+      "chinese": "我们请客，你别客气。",
+      "pinyin": "Wǒ men qǐng kè, nǐ bié kè qì.",
+      "translation": "We're treating you, don't be shy.",
+      "usage": "Used when offering to pay and telling someone not to feel obligated.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "们",
+          "py": "men",
+          "meaning": "plural marker"
+        },
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "to invite"
+        },
+        {
+          "zh": "客",
+          "py": "kè",
+          "meaning": "guest"
+        },
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "别",
+          "py": "bié",
+          "meaning": "don't"
+        },
+        {
+          "zh": "客",
+          "py": "kè",
+          "meaning": "guest"
+        },
+        {
+          "zh": "气",
+          "py": "qì",
+          "meaning": "shyness"
+        }
+      ]
+    }
+  ]
+}

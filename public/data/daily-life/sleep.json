@@ -1,0 +1,994 @@
+{
+  "sentences": [
+    {
+      "chinese": "我每天晚上都睡得很香。",
+      "pinyin": "Wǒ měi tiān wǎn shàng dōu shuì dé hěn xiāng.",
+      "translation": "I sleep very well every night.",
+      "usage": "Used to describe good sleep quality regularly.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "每",
+          "py": "měi",
+          "meaning": "every"
+        },
+        {
+          "zh": "天",
+          "py": "tiān",
+          "meaning": "day"
+        },
+        {
+          "zh": "晚",
+          "py": "wǎn",
+          "meaning": "evening/night"
+        },
+        {
+          "zh": "都",
+          "py": "dōu",
+          "meaning": "all/always"
+        },
+        {
+          "zh": "睡",
+          "py": "shuì",
+          "meaning": "to sleep"
+        },
+        {
+          "zh": "得",
+          "py": "dé",
+          "meaning": "to get/achieve"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "香",
+          "py": "xiāng",
+          "meaning": "fragrant/sound"
+        }
+      ]
+    },
+    {
+      "chinese": "你昨晚睡得好吗？",
+      "pinyin": "Nǐ zuó wǎn shuì dé hǎo ma?",
+      "translation": "Did you sleep well last night?",
+      "usage": "Asking about someone's sleep quality from the previous night.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "昨",
+          "py": "zuó",
+          "meaning": "yesterday"
+        },
+        {
+          "zh": "晚",
+          "py": "wǎn",
+          "meaning": "night"
+        },
+        {
+          "zh": "睡",
+          "py": "shuì",
+          "meaning": "to sleep"
+        },
+        {
+          "zh": "得",
+          "py": "dé",
+          "meaning": "to get/achieve"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "well"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "我睡不着觉。",
+      "pinyin": "Wǒ shuì bù zháo jué.",
+      "translation": "I can't fall asleep.",
+      "usage": "Used when someone is having trouble sleeping.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "睡",
+          "py": "shuì",
+          "meaning": "to sleep"
+        },
+        {
+          "zh": "不",
+          "py": "bù",
+          "meaning": "not"
+        },
+        {
+          "zh": "着",
+          "py": "zháo",
+          "meaning": "to fall asleep"
+        },
+        {
+          "zh": "觉",
+          "py": "jué",
+          "meaning": "sleep/sleeping"
+        }
+      ]
+    },
+    {
+      "chinese": "他工作到很晚才睡觉。",
+      "pinyin": "Tā gōng zuò dào hěn wǎn cái shuì jiào.",
+      "translation": "He works until very late and then goes to bed.",
+      "usage": "Describing someone's work schedule and bedtime.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "他",
+          "py": "tā",
+          "meaning": "he"
+        },
+        {
+          "zh": "工",
+          "py": "gōng",
+          "meaning": "work"
+        },
+        {
+          "zh": "作",
+          "py": "zuò",
+          "meaning": "to work"
+        },
+        {
+          "zh": "到",
+          "py": "dào",
+          "meaning": "until"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "晚",
+          "py": "wǎn",
+          "meaning": "late"
+        },
+        {
+          "zh": "才",
+          "py": "cái",
+          "meaning": "only then"
+        },
+        {
+          "zh": "睡",
+          "py": "shuì",
+          "meaning": "to sleep"
+        },
+        {
+          "zh": "觉",
+          "py": "jiào",
+          "meaning": "sleep"
+        }
+      ]
+    },
+    {
+      "chinese": "我昨晚做了个奇怪的梦。",
+      "pinyin": "Wǒ zuó wǎn zuò le gè qí guài de mèng.",
+      "translation": "I had a strange dream last night.",
+      "usage": "Talking about having a strange dream recently.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "昨",
+          "py": "zuó",
+          "meaning": "yesterday"
+        },
+        {
+          "zh": "晚",
+          "py": "wǎn",
+          "meaning": "night"
+        },
+        {
+          "zh": "做",
+          "py": "zuò",
+          "meaning": "to make/do"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed"
+        },
+        {
+          "zh": "个",
+          "py": "gè",
+          "meaning": "a unit classifier"
+        },
+        {
+          "zh": "奇",
+          "py": "qí",
+          "meaning": "strange"
+        },
+        {
+          "zh": "怪",
+          "py": "guài",
+          "meaning": "odd"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive particle"
+        },
+        {
+          "zh": "梦",
+          "py": "mèng",
+          "meaning": "dream"
+        }
+      ]
+    },
+    {
+      "chinese": "你梦见什么了吗？",
+      "pinyin": "Nǐ mèng jiàn shén me le ma?",
+      "translation": "Did you dream about anything?",
+      "usage": "Asking someone what they dreamed about.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "梦",
+          "py": "mèng",
+          "meaning": "dream"
+        },
+        {
+          "zh": "见",
+          "py": "jiàn",
+          "meaning": "to see"
+        },
+        {
+          "zh": "什",
+          "py": "shén",
+          "meaning": "what"
+        },
+        {
+          "zh": "么",
+          "py": "me",
+          "meaning": "something"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "我经常做梦。",
+      "pinyin": "Wǒ jīng cháng zuò mèng.",
+      "translation": "I often dream.",
+      "usage": "Describing frequent dreaming.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "经",
+          "py": "jīng",
+          "meaning": "often"
+        },
+        {
+          "zh": "常",
+          "py": "cháng",
+          "meaning": "often"
+        },
+        {
+          "zh": "做",
+          "py": "zuò",
+          "meaning": "to make/do"
+        },
+        {
+          "zh": "梦",
+          "py": "mèng",
+          "meaning": "dream"
+        }
+      ]
+    },
+    {
+      "chinese": "梦里梦见自己在飞。",
+      "pinyin": "Mèng lǐ mèng jiàn zì jǐ zài fēi.",
+      "translation": "In my dream, I dreamed I was flying.",
+      "usage": "Describing a specific dream content.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "梦",
+          "py": "mèng",
+          "meaning": "dream"
+        },
+        {
+          "zh": "里",
+          "py": "lǐ",
+          "meaning": "inside"
+        },
+        {
+          "zh": "梦",
+          "py": "mèng",
+          "meaning": "dream"
+        },
+        {
+          "zh": "见",
+          "py": "jiàn",
+          "meaning": "to see"
+        },
+        {
+          "zh": "自",
+          "py": "zì",
+          "meaning": "self"
+        },
+        {
+          "zh": "己",
+          "py": "jǐ",
+          "meaning": "oneself"
+        },
+        {
+          "zh": "在",
+          "py": "zài",
+          "meaning": "in"
+        },
+        {
+          "zh": "飞",
+          "py": "fēi",
+          "meaning": "to fly"
+        }
+      ]
+    },
+    {
+      "chinese": "睡觉前我总是要洗个脸。",
+      "pinyin": "Shuì jiào qián wǒ zǒng shì yào xǐ gè liǎn.",
+      "translation": "Before going to bed, I always wash my face.",
+      "usage": "Describing a bedtime routine.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "睡",
+          "py": "shuì",
+          "meaning": "to sleep"
+        },
+        {
+          "zh": "觉",
+          "py": "jiào",
+          "meaning": "sleep"
+        },
+        {
+          "zh": "前",
+          "py": "qián",
+          "meaning": "before"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "总",
+          "py": "zǒng",
+          "meaning": "always"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "is"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "to want"
+        },
+        {
+          "zh": "洗",
+          "py": "xǐ",
+          "meaning": "to wash"
+        },
+        {
+          "zh": "个",
+          "py": "gè",
+          "meaning": "a unit classifier"
+        },
+        {
+          "zh": "脸",
+          "py": "liǎn",
+          "meaning": "face"
+        }
+      ]
+    },
+    {
+      "chinese": "你睡得好吗？",
+      "pinyin": "Nǐ shuì dé hǎo ma?",
+      "translation": "Are you sleeping well?",
+      "usage": "Asking about someone's current sleep quality.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "睡",
+          "py": "shuì",
+          "meaning": "to sleep"
+        },
+        {
+          "zh": "得",
+          "py": "dé",
+          "meaning": "to get/achieve"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "well"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "我每天睡八个小时。",
+      "pinyin": "Wǒ měi tiān shuì bā gè xiǎo shí.",
+      "translation": "I sleep eight hours every day.",
+      "usage": "Describing regular sleep duration.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "每",
+          "py": "měi",
+          "meaning": "every"
+        },
+        {
+          "zh": "天",
+          "py": "tiān",
+          "meaning": "day"
+        },
+        {
+          "zh": "睡",
+          "py": "shuì",
+          "meaning": "to sleep"
+        },
+        {
+          "zh": "八",
+          "py": "bā",
+          "meaning": "eight"
+        },
+        {
+          "zh": "个",
+          "py": "gè",
+          "meaning": "a unit classifier"
+        },
+        {
+          "zh": "小",
+          "py": "xiǎo",
+          "meaning": "small"
+        },
+        {
+          "zh": "时",
+          "py": "shí",
+          "meaning": "hour"
+        }
+      ]
+    },
+    {
+      "chinese": "我最近睡得很少。",
+      "pinyin": "Wǒ zuì jìn shuì dé hěn shǎo.",
+      "translation": "I haven't been sleeping much lately.",
+      "usage": "Describing recent poor sleep habits.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "最",
+          "py": "zuì",
+          "meaning": "most"
+        },
+        {
+          "zh": "近",
+          "py": "jìn",
+          "meaning": "recently"
+        },
+        {
+          "zh": "睡",
+          "py": "shuì",
+          "meaning": "to sleep"
+        },
+        {
+          "zh": "得",
+          "py": "dé",
+          "meaning": "to get/achieve"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "少",
+          "py": "shǎo",
+          "meaning": "few/less"
+        }
+      ]
+    },
+    {
+      "chinese": "他晚上睡不着，总是翻来覆去。",
+      "pinyin": "Tā wǎn shàng shuì bù zháo, zǒng shì fān lái fù qù.",
+      "translation": "He can't fall asleep at night, always tossing and turning.",
+      "usage": "Describing someone's restless sleep.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "他",
+          "py": "tā",
+          "meaning": "he"
+        },
+        {
+          "zh": "晚",
+          "py": "wǎn",
+          "meaning": "evening"
+        },
+        {
+          "zh": "上",
+          "py": "shàng",
+          "meaning": "on"
+        },
+        {
+          "zh": "睡",
+          "py": "shuì",
+          "meaning": "to sleep"
+        },
+        {
+          "zh": "不",
+          "py": "bù",
+          "meaning": "not"
+        },
+        {
+          "zh": "着",
+          "py": "zháo",
+          "meaning": "to fall asleep"
+        },
+        {
+          "zh": "总",
+          "py": "zǒng",
+          "meaning": "always"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "is"
+        },
+        {
+          "zh": "翻",
+          "py": "fān",
+          "meaning": "to turn over"
+        },
+        {
+          "zh": "来",
+          "py": "lái",
+          "meaning": "come"
+        },
+        {
+          "zh": "覆",
+          "py": "fù",
+          "meaning": "to cover"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "go"
+        }
+      ]
+    },
+    {
+      "chinese": "我需要充足睡眠。",
+      "pinyin": "Wǒ xū yào chōng zú shuì mián.",
+      "translation": "I need sufficient sleep.",
+      "usage": "Expressing the need for good sleep.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "需",
+          "py": "xū",
+          "meaning": "need"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "to want"
+        },
+        {
+          "zh": "充",
+          "py": "chōng",
+          "meaning": "full"
+        },
+        {
+          "zh": "足",
+          "py": "zú",
+          "meaning": "sufficient"
+        },
+        {
+          "zh": "睡",
+          "py": "shuì",
+          "meaning": "to sleep"
+        },
+        {
+          "zh": "眠",
+          "py": "mián",
+          "meaning": "sleep"
+        }
+      ]
+    },
+    {
+      "chinese": "我睡着了，没听见你说话。",
+      "pinyin": "Wǒ shuì zháo le, méi tīng jiàn nǐ shuō huà.",
+      "translation": "I fell asleep and didn't hear you talking.",
+      "usage": "Explaining why someone didn't respond.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "睡",
+          "py": "shuì",
+          "meaning": "to sleep"
+        },
+        {
+          "zh": "着",
+          "py": "zháo",
+          "meaning": "to fall asleep"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed"
+        },
+        {
+          "zh": "没",
+          "py": "méi",
+          "meaning": "not"
+        },
+        {
+          "zh": "听",
+          "py": "tīng",
+          "meaning": "to hear"
+        },
+        {
+          "zh": "见",
+          "py": "jiàn",
+          "meaning": "to see"
+        },
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "说",
+          "py": "shuō",
+          "meaning": "to speak"
+        },
+        {
+          "zh": "话",
+          "py": "huà",
+          "meaning": "words"
+        }
+      ]
+    },
+    {
+      "chinese": "我昨晚睡得特别好。",
+      "pinyin": "Wǒ zuó wǎn shuì dé tè bié hǎo.",
+      "translation": "I slept very well last night.",
+      "usage": "Describing good sleep from the past.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "昨",
+          "py": "zuó",
+          "meaning": "yesterday"
+        },
+        {
+          "zh": "晚",
+          "py": "wǎn",
+          "meaning": "evening"
+        },
+        {
+          "zh": "睡",
+          "py": "shuì",
+          "meaning": "to sleep"
+        },
+        {
+          "zh": "得",
+          "py": "dé",
+          "meaning": "to get/achieve"
+        },
+        {
+          "zh": "特",
+          "py": "tè",
+          "meaning": "special"
+        },
+        {
+          "zh": "别",
+          "py": "bié",
+          "meaning": "especially"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good"
+        }
+      ]
+    },
+    {
+      "chinese": "我睡不着的时候就看书。",
+      "pinyin": "Wǒ shuì bù zháo de shí hòu jiù kàn shū.",
+      "translation": "When I can't fall asleep, I read books.",
+      "usage": "Describing bedtime activities.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "睡",
+          "py": "shuì",
+          "meaning": "to sleep"
+        },
+        {
+          "zh": "不",
+          "py": "bù",
+          "meaning": "not"
+        },
+        {
+          "zh": "着",
+          "py": "zháo",
+          "meaning": "to fall asleep"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "of"
+        },
+        {
+          "zh": "时",
+          "py": "shí",
+          "meaning": "time"
+        },
+        {
+          "zh": "候",
+          "py": "hòu",
+          "meaning": "when"
+        },
+        {
+          "zh": "就",
+          "py": "jiù",
+          "meaning": "then"
+        },
+        {
+          "zh": "看",
+          "py": "kàn",
+          "meaning": "to read"
+        },
+        {
+          "zh": "书",
+          "py": "shū",
+          "meaning": "book"
+        }
+      ]
+    },
+    {
+      "chinese": "我睡了一觉就醒了。",
+      "pinyin": "Wǒ shuì le yī jué jiù xǐng le.",
+      "translation": "I slept for a while and woke up.",
+      "usage": "Describing a brief sleep period.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "睡",
+          "py": "shuì",
+          "meaning": "to sleep"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "觉",
+          "py": "jué",
+          "meaning": "sleep"
+        },
+        {
+          "zh": "就",
+          "py": "jiù",
+          "meaning": "then"
+        },
+        {
+          "zh": "醒",
+          "py": "xǐng",
+          "meaning": "to wake up"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed"
+        }
+      ]
+    },
+    {
+      "chinese": "他睡着了，没听见电话铃响。",
+      "pinyin": "Tā shuì zháo le, méi tīng jiàn diàn huà líng xiǎng.",
+      "translation": "He fell asleep and didn't hear the phone ringing.",
+      "usage": "Explaining why someone didn't answer the phone.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "他",
+          "py": "tā",
+          "meaning": "he"
+        },
+        {
+          "zh": "睡",
+          "py": "shuì",
+          "meaning": "to sleep"
+        },
+        {
+          "zh": "着",
+          "py": "zháo",
+          "meaning": "to fall asleep"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed"
+        },
+        {
+          "zh": "没",
+          "py": "méi",
+          "meaning": "not"
+        },
+        {
+          "zh": "听",
+          "py": "tīng",
+          "meaning": "to hear"
+        },
+        {
+          "zh": "见",
+          "py": "jiàn",
+          "meaning": "to see"
+        },
+        {
+          "zh": "电",
+          "py": "diàn",
+          "meaning": "electric"
+        },
+        {
+          "zh": "话",
+          "py": "huà",
+          "meaning": "phone"
+        },
+        {
+          "zh": "铃",
+          "py": "líng",
+          "meaning": "bell"
+        },
+        {
+          "zh": "响",
+          "py": "xiǎng",
+          "meaning": "to ring"
+        }
+      ]
+    },
+    {
+      "chinese": "我睡了一整夜。",
+      "pinyin": "Wǒ shuì le yī zhěng yè.",
+      "translation": "I slept all night.",
+      "usage": "Describing sleeping through the night.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "睡",
+          "py": "shuì",
+          "meaning": "to sleep"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "整",
+          "py": "zhěng",
+          "meaning": "whole"
+        },
+        {
+          "zh": "夜",
+          "py": "yè",
+          "meaning": "night"
+        }
+      ]
+    }
+  ]
+}

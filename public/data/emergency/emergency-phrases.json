@@ -1,0 +1,301 @@
+{
+  "sentences": [
+    {
+      "chinese": "救命！",
+      "pinyin": "Jǐng mìng!",
+      "translation": "Save me!",
+      "usage": "Used when in immediate danger.",
+      "formality": "Urgent",
+      "words": [
+        {
+          "zh": "救",
+          "py": "Jǐu",
+          "meaning": "save"
+        },
+        {
+          "zh": "命",
+          "py": "mìng",
+          "meaning": "life"
+        }
+      ]
+    },
+    {
+      "chinese": "紧急！",
+      "pinyin": "Jǐng jí!",
+      "translation": "Emergency!",
+      "usage": "General alarm for urgent situations.",
+      "formality": "Urgent",
+      "words": [
+        {
+          "zh": "紧",
+          "py": "jǐn",
+          "meaning": "urgent"
+        },
+        {
+          "zh": "急",
+          "py": "jí",
+          "meaning": "emergency"
+        }
+      ]
+    },
+    {
+      "chinese": "火！",
+      "pinyin": "Huǒ!",
+      "translation": "Fire!",
+      "usage": "Alert others to a fire.",
+      "formality": "Urgent",
+      "words": [
+        {
+          "zh": "火",
+          "py": "huǒ",
+          "meaning": "fire"
+        }
+      ]
+    },
+    {
+      "chinese": "着火了！",
+      "pinyin": "Zhēo huǒ le!",
+      "translation": "It's on fire!",
+      "usage": "Indicates a fire is occurring.",
+      "formality": "Urgent",
+      "words": [
+        {
+          "zh": "着",
+          "py": "zhēo",
+          "meaning": "catch fire"
+        },
+        {
+          "zh": "火",
+          "py": "huǒ",
+          "meaning": "fire"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "state change"
+        }
+      ]
+    },
+    {
+      "chinese": "地震了！",
+      "pinyin": "Dìzhèn le!",
+      "translation": "Earthquake!",
+      "usage": "Alert to an earthquake.",
+      "formality": "Urgent",
+      "words": [
+        {
+          "zh": "地",
+          "py": "dì",
+          "meaning": "earth"
+        },
+        {
+          "zh": "震",
+          "py": "zhèn",
+          "meaning": "shake"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "state change"
+        }
+      ]
+    },
+    {
+      "chinese": "不要靠近！",
+      "pinyin": "Bù yào kào jìn!",
+      "translation": "Don't approach!",
+      "usage": "Safety warning to stay away.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "不",
+          "py": "bù",
+          "meaning": "not"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "want"
+        },
+        {
+          "zh": "靠",
+          "py": "kào",
+          "meaning": "approach"
+        },
+        {
+          "zh": "近",
+          "py": "jìn",
+          "meaning": "near"
+        }
+      ]
+    },
+    {
+      "chinese": "小心！",
+      "pinyin": "Xǎo xīn!",
+      "translation": "Be careful!",
+      "usage": "General warning of danger.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "小",
+          "py": "xiǎo",
+          "meaning": "small"
+        },
+        {
+          "zh": "心",
+          "py": "xīn",
+          "meaning": "heart"
+        }
+      ]
+    },
+    {
+      "chinese": "危险！",
+      "pinyin": "Wēixían!",
+      "translation": "Danger!",
+      "usage": "Alert to immediate danger.",
+      "formality": "Urgent",
+      "words": [
+        {
+          "zh": "危",
+          "py": "wēi",
+          "meaning": "peril"
+        },
+        {
+          "zh": "险",
+          "py": "xiǎn",
+          "meaning": "danger"
+        }
+      ]
+    },
+    {
+      "chinese": "紧急出口！",
+      "pinyin": "Jǐngjí chūkǒu!",
+      "translation": "Emergency exit!",
+      "usage": "Identifies an exit during emergencies.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "紧急",
+          "py": "jǐnjí",
+          "meaning": "emergency"
+        },
+        {
+          "zh": "出口",
+          "py": "chūkǒu",
+          "meaning": "exit"
+        }
+      ]
+    },
+    {
+      "chinese": "拨打110！",
+      "pinyin": "Dàbō 110!",
+      "translation": "Call 110 (police)!",
+      "usage": "Emergency police contact.",
+      "formality": "Urgent",
+      "words": [
+        {
+          "zh": "拨",
+          "py": "bō",
+          "meaning": "dial"
+        },
+        {
+          "zh": "打",
+          "py": "dǎ",
+          "meaning": "call"
+        },
+        {
+          "zh": "110",
+          "py": "110",
+          "meaning": "police number"
+        }
+      ]
+    },
+    {
+      "chinese": "拨打120！",
+      "pinyin": "Dàbō 120!",
+      "translation": "Call 120 (ambulance)!",
+      "usage": "Emergency medical contact.",
+      "formality": "Urgent",
+      "words": [
+        {
+          "zh": "拨",
+          "py": "bō",
+          "meaning": "dial"
+        },
+        {
+          "zh": "打",
+          "py": "dǎ",
+          "meaning": "call"
+        },
+        {
+          "zh": "120",
+          "py": "120",
+          "meaning": "ambulance number"
+        }
+      ]
+    },
+    {
+      "chinese": "我受伤了！",
+      "pinyin": "Wǒ shòu shāng le!",
+      "translation": "I'm hurt!",
+      "usage": "Medical emergency announcement.",
+      "formality": "Urgent",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "受",
+          "py": "shòu",
+          "meaning": "receive"
+        },
+        {
+          "zh": "伤",
+          "py": "shāng",
+          "meaning": "injury"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "state change"
+        }
+      ]
+    },
+    {
+      "chinese": "有人晕倒了！",
+      "pinyin": "Yǒu rén yūn dǎo le!",
+      "translation": "Someone fainted!",
+      "usage": "Medical alert for fainting.",
+      "formality": "Urgent",
+      "words": [
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "there is"
+        },
+        {
+          "zh": "人",
+          "py": "rén",
+          "meaning": "person"
+        },
+        {
+          "zh": "晕",
+          "py": "yūn",
+          "meaning": "faint"
+        },
+        {
+          "zh": "倒",
+          "py": "dǎo",
+          "meaning": "fall"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "state change"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "sentences": [
+    {
+      "chinese": "游乐园",
+      "pinyin": "Yóu lè yuán",
+      "translation": "Amusement park",
+      "usage": "General term for amusement parks.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "游",
+          "py": "yóu",
+          "meaning": "play"
+        },
+        {
+          "zh": "乐",
+          "py": "lè",
+          "meaning": "joy"
+        },
+        {
+          "zh": "园",
+          "py": "yuán",
+          "meaning": "garden/park"
+        }
+      ]
+    },
+    {
+      "chinese": "过山车",
+      "pinyin": "Guò shān chē",
+      "translation": "Roller coaster",
+      "usage": "Refers to the roller coaster ride.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "过",
+          "py": "guò",
+          "meaning": "over"
+        },
+        {
+          "zh": "山",
+          "py": "shān",
+          "meaning": "mountain"
+        },
+        {
+          "zh": "车",
+          "py": "chē",
+          "meaning": "car"
+        }
+      ]
+    },
+    {
+      "chinese": "旋转木马",
+      "pinyin": "Xuán zhuǎn mù mǎ",
+      "translation": "Carousel",
+      "usage": "A traditional amusement ride with horse figures.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "旋转",
+          "py": "xuánzhuǎn",
+          "meaning": "spinning"
+        },
+        {
+          "zh": "木马",
+          "py": "mùmǎ",
+          "meaning": "wooden horse"
+        }
+      ]
+    },
+    {
+      "chinese": "碰碰车",
+      "pinyin": "Pèng pèng chē",
+      "translation": "Bumper cars",
+      "usage": "Electric cars that bump into each other.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "碰碰",
+          "py": "pèngpèng",
+          "meaning": "bumping"
+        },
+        {
+          "zh": "车",
+          "py": "chē",
+          "meaning": "car"
+        }
+      ]
+    },
+    {
+      "chinese": "摩天轮",
+      "pinyin": "Mó tiān lún",
+      "translation": "Ferris wheel",
+      "usage": "A giant wheel ride for scenic views.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "摩天",
+          "py": "mótiān",
+          "meaning": "sky-high"
+        },
+        {
+          "zh": "轮",
+          "py": "lún",
+          "meaning": "wheel"
+        }
+      ]
+    },
+    {
+      "chinese": "水上乐园",
+      "pinyin": "Shuǐ shàng lè yuán",
+      "translation": "Water park",
+      "usage": "A water-based amusement area.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "水上",
+          "py": "shuǐshàng",
+          "meaning": "water-based"
+        },
+        {
+          "zh": "乐园",
+          "py": "lèyuán",
+          "meaning": "pleasure garden"
+        }
+      ]
+    },
+    {
+      "chinese": "鬼屋",
+      "pinyin": "Guǐ wū",
+      "translation": "Haunted house",
+      "usage": "A horror-themed attraction.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "鬼",
+          "py": "guǐ",
+          "meaning": "ghost"
+        },
+        {
+          "zh": "屋",
+          "py": "wū",
+          "meaning": "house"
+        }
+      ]
+    },
+    {
+      "chinese": "门票",
+      "pinyin": "Mén piào",
+      "translation": "Entrance ticket",
+      "usage": "Ticket for entry to the park.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "门",
+          "py": "mén",
+          "meaning": "gate"
+        },
+        {
+          "zh": "票",
+          "py": "piào",
+          "meaning": "ticket"
+        }
+      ]
+    },
+    {
+      "chinese": "排队",
+      "pinyin": "Dāi děi",
+      "translation": "To queue",
+      "usage": "Waiting in line for a ride.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "排",
+          "py": "pái",
+          "meaning": "line up"
+        },
+        {
+          "zh": "队",
+          "py": "dèi",
+          "meaning": "team/line"
+        }
+      ]
+    },
+    {
+      "chinese": "小吃",
+      "pinyin": "Xiǎo chī",
+      "translation": "Snack",
+      "usage": "Food sold at the park.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "小",
+          "py": "xiǎo",
+          "meaning": "small"
+        },
+        {
+          "zh": "吃",
+          "py": "chī",
+          "meaning": "eat"
+        }
+      ]
+    },
+    {
+      "chinese": "纪念品",
+      "pinyin": "Jì niàn pǐn",
+      "translation": "Souvenir",
+      "usage": "Gift shops sell these.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "纪念",
+          "py": "jìniàn",
+          "meaning": "commemorative"
+        },
+        {
+          "zh": "品",
+          "py": "pǐn",
+          "meaning": "item"
+        }
+      ]
+    },
+    {
+      "chinese": "安全须知",
+      "pinyin": "Ān quán xū zhī",
+      "translation": "Safety rules",
+      "usage": "Posters displayed at ride entrances.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "安全",
+          "py": "ānquán",
+          "meaning": "safety"
+        },
+        {
+          "zh": "须知",
+          "py": "xūzhī",
+          "meaning": "things to know"
+        }
+      ]
+    },
+    {
+      "chinese": "洗手间",
+      "pinyin": "Xǐ shǒu jiān",
+      "translation": "Restroom",
+      "usage": "Restroom signage in parks.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "洗手",
+          "py": "xǐshǒu",
+          "meaning": "wash hands"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,724 @@
+{
+  "sentences": [
+    {
+      "chinese": "周末有空吗？",
+      "pinyin": "Zhōumò yǒu kòng ma?",
+      "translation": "Are you free this weekend?",
+      "usage": "Asks if someone has time to do something on the weekend",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "周",
+          "py": "zhōu",
+          "meaning": "week"
+        },
+        {
+          "zh": "末",
+          "py": "mò",
+          "meaning": "end"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "to have"
+        },
+        {
+          "zh": "空",
+          "py": "kòng",
+          "meaning": "free time"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "我们一起去参加音乐会吧。",
+      "pinyin": "Wǒmen yīqǐ qù cānjiā yīnyuèhuì ba.",
+      "translation": "Let's go to the concert together.",
+      "usage": "Suggests doing an activity with others",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我们",
+          "py": "wǒmen",
+          "meaning": "we"
+        },
+        {
+          "zh": "一起",
+          "py": "yīqǐ",
+          "meaning": "together"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "to go"
+        },
+        {
+          "zh": "参加",
+          "py": "cānjiā",
+          "meaning": "to participate in"
+        },
+        {
+          "zh": "音乐",
+          "py": "yīnyuè",
+          "meaning": "music"
+        },
+        {
+          "zh": "会",
+          "py": "huì",
+          "meaning": "meeting"
+        },
+        {
+          "zh": "吧",
+          "py": "ba",
+          "meaning": "let's"
+        }
+      ]
+    },
+    {
+      "chinese": "这个展览很有趣。",
+      "pinyin": "Zhège zhǎnlǎn hěn yǒuqù.",
+      "translation": "This exhibition is very interesting.",
+      "usage": "Describes an art or cultural event",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "个",
+          "py": "gè",
+          "meaning": "classifier for objects"
+        },
+        {
+          "zh": "展览",
+          "py": "zhǎnlǎn",
+          "meaning": "exhibition"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "有趣",
+          "py": "yǒuqù",
+          "meaning": "interesting"
+        }
+      ]
+    },
+    {
+      "chinese": "你要不要去看电影？",
+      "pinyin": "Nǐ yào bù yào qù kàn diànyǐng?",
+      "translation": "Do you want to go see a movie?",
+      "usage": "Asks if someone wants to go to a movie",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "want to"
+        },
+        {
+          "zh": "不",
+          "py": "bù",
+          "meaning": "not"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "want to"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "to go"
+        },
+        {
+          "zh": "看",
+          "py": "kàn",
+          "meaning": "to watch"
+        },
+        {
+          "zh": "电影",
+          "py": "diànyǐng",
+          "meaning": "movie"
+        }
+      ]
+    },
+    {
+      "chinese": "公园里正在举办花卉展。",
+      "pinyin": "Gōngyuán lǐ zhèngzài jǔbàn huāhuì zhǎnlǎn.",
+      "translation": "A flower exhibition is being held in the park.",
+      "usage": "Describes a local event happening in a public space",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "公园",
+          "py": "gōngyuán",
+          "meaning": "park"
+        },
+        {
+          "zh": "里",
+          "py": "lǐ",
+          "meaning": "inside"
+        },
+        {
+          "zh": "正在",
+          "py": "zhèngzài",
+          "meaning": "currently"
+        },
+        {
+          "zh": "举办",
+          "py": "jǔbàn",
+          "meaning": "to hold"
+        },
+        {
+          "zh": "花卉",
+          "py": "huāhuì",
+          "meaning": "flowers"
+        },
+        {
+          "zh": "展",
+          "py": "zhǎnlǎn",
+          "meaning": "exhibition"
+        }
+      ]
+    },
+    {
+      "chinese": "听说下周有音乐节。",
+      "pinyin": "Tīngshuō xiàzhōu yǒu yīnyuèjié.",
+      "translation": "I heard there's a music festival next week.",
+      "usage": "Shares information about an upcoming event",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "听说",
+          "py": "tīngshuō",
+          "meaning": "I heard"
+        },
+        {
+          "zh": "下周",
+          "py": "xiàzhōu",
+          "meaning": "next week"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "to have"
+        },
+        {
+          "zh": "音乐",
+          "py": "yīnyuè",
+          "meaning": "music"
+        },
+        {
+          "zh": "节",
+          "py": "jié",
+          "meaning": "festival"
+        }
+      ]
+    },
+    {
+      "chinese": "我们去爬山怎么样？",
+      "pinyin": "Wǒmen qù páshān zěnme yàng?",
+      "translation": "How about going hiking?",
+      "usage": "Suggests doing an outdoor activity",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我们",
+          "py": "wǒmen",
+          "meaning": "we"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "to go"
+        },
+        {
+          "zh": "爬山",
+          "py": "páshān",
+          "meaning": "to hike"
+        },
+        {
+          "zh": "怎么样",
+          "py": "zěnme yàng",
+          "meaning": "how about"
+        }
+      ]
+    },
+    {
+      "chinese": "这个周末有市集。",
+      "pinyin": "Zhège zhōumò yǒu shìjí.",
+      "translation": "There's a market this weekend.",
+      "usage": "Informs about a local gathering or marketplace",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "个",
+          "py": "gè",
+          "meaning": "classifier"
+        },
+        {
+          "zh": "周末",
+          "py": "zhōumò",
+          "meaning": "weekend"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "to have"
+        },
+        {
+          "zh": "市集",
+          "py": "shìjí",
+          "meaning": "market"
+        }
+      ]
+    },
+    {
+      "chinese": "你有参加过马拉松吗？",
+      "pinyin": "Nǐ yǒu cānjiā guò mǎlāsōng ma?",
+      "translation": "Have you ever participated in a marathon?",
+      "usage": "Asks about experience with running events",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "to have"
+        },
+        {
+          "zh": "参加",
+          "py": "cānjiā",
+          "meaning": "to participate"
+        },
+        {
+          "zh": "过",
+          "py": "guò",
+          "meaning": "past tense"
+        },
+        {
+          "zh": "马拉松",
+          "py": "mǎlāsōng",
+          "meaning": "marathon"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "我们可以去游泳池。",
+      "pinyin": "Wǒmen kěyǐ qù yóuyǒngchí.",
+      "translation": "We can go to the swimming pool.",
+      "usage": "Suggests a recreational activity",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我们",
+          "py": "wǒmen",
+          "meaning": "we"
+        },
+        {
+          "zh": "可以",
+          "py": "kěyǐ",
+          "meaning": "can"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "to go"
+        },
+        {
+          "zh": "游泳",
+          "py": "yóuyǒng",
+          "meaning": "swimming"
+        },
+        {
+          "zh": "池",
+          "py": "chí",
+          "meaning": "pool"
+        }
+      ]
+    },
+    {
+      "chinese": "这个活动免费入场。",
+      "pinyin": "Zhège huódòng miǎnfèi rùchǎng.",
+      "translation": "This event has free admission.",
+      "usage": "Describes an event that doesn't require payment",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "个",
+          "py": "gè",
+          "meaning": "classifier"
+        },
+        {
+          "zh": "活动",
+          "py": "huódòng",
+          "meaning": "activity"
+        },
+        {
+          "zh": "免费",
+          "py": "miǎnfèi",
+          "meaning": "free of charge"
+        },
+        {
+          "zh": "入场",
+          "py": "rùchǎng",
+          "meaning": "entry"
+        }
+      ]
+    },
+    {
+      "chinese": "你打算什么时候去？",
+      "pinyin": "Nǐ dǎsuàn shénme shíhou qù?",
+      "translation": "When do you plan to go?",
+      "usage": "Asks about someone's schedule for an event",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "打算",
+          "py": "dǎsuàn",
+          "meaning": "plan to"
+        },
+        {
+          "zh": "什么",
+          "py": "shénme",
+          "meaning": "what"
+        },
+        {
+          "zh": "时候",
+          "py": "shíhou",
+          "meaning": "time"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "to go"
+        }
+      ]
+    },
+    {
+      "chinese": "我们去参加社区聚会吧。",
+      "pinyin": "Wǒmen qù cānjiā shèqū jùhuì ba.",
+      "translation": "Let's go to the community gathering.",
+      "usage": "Suggests attending a local social event",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我们",
+          "py": "wǒmen",
+          "meaning": "we"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "to go"
+        },
+        {
+          "zh": "参加",
+          "py": "cānjiā",
+          "meaning": "to participate"
+        },
+        {
+          "zh": "社区",
+          "py": "shèqū",
+          "meaning": "community"
+        },
+        {
+          "zh": "聚会",
+          "py": "jùhuì",
+          "meaning": "gathering"
+        },
+        {
+          "zh": "吧",
+          "py": "ba",
+          "meaning": "let's"
+        }
+      ]
+    },
+    {
+      "chinese": "这周末有户外音乐节。",
+      "pinyin": "Zhè zhōumò yǒu hùwài yīnyuèjié.",
+      "translation": "There's an outdoor music festival this weekend.",
+      "usage": "Describes a specific type of outdoor event",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "周末",
+          "py": "zhōumò",
+          "meaning": "weekend"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "to have"
+        },
+        {
+          "zh": "户外",
+          "py": "hùwài",
+          "meaning": "outdoor"
+        },
+        {
+          "zh": "音乐",
+          "py": "yīnyuè",
+          "meaning": "music"
+        },
+        {
+          "zh": "节",
+          "py": "jié",
+          "meaning": "festival"
+        }
+      ]
+    },
+    {
+      "chinese": "我们去逛逛街吧。",
+      "pinyin": "Wǒmen qù guàngjiējiē ba.",
+      "translation": "Let's go shopping.",
+      "usage": "Suggests going to a shopping district or mall",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "我们",
+          "py": "wǒmen",
+          "meaning": "we"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "to go"
+        },
+        {
+          "zh": "逛街",
+          "py": "guàngjiē",
+          "meaning": "to go shopping"
+        },
+        {
+          "zh": "吧",
+          "py": "ba",
+          "meaning": "let's"
+        }
+      ]
+    },
+    {
+      "chinese": "这个节日有传统表演。",
+      "pinyin": "Zhège jiérì yǒu chuántǒng biǎoyǎn.",
+      "translation": "This festival has traditional performances.",
+      "usage": "Describes cultural events with traditional elements",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "个",
+          "py": "gè",
+          "meaning": "classifier"
+        },
+        {
+          "zh": "节日",
+          "py": "jiérì",
+          "meaning": "festival"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "to have"
+        },
+        {
+          "zh": "传统",
+          "py": "chuántǒng",
+          "meaning": "traditional"
+        },
+        {
+          "zh": "表演",
+          "py": "biǎoyǎn",
+          "meaning": "performance"
+        }
+      ]
+    },
+    {
+      "chinese": "我们去海边玩。",
+      "pinyin": "Wǒmen qù hǎibiān wán.",
+      "translation": "Let's go play by the sea.",
+      "usage": "Suggests a recreational activity at the coast",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "我们",
+          "py": "wǒmen",
+          "meaning": "we"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "to go"
+        },
+        {
+          "zh": "海边",
+          "py": "hǎibiān",
+          "meaning": "beach"
+        },
+        {
+          "zh": "玩",
+          "py": "wán",
+          "meaning": "to play"
+        }
+      ]
+    },
+    {
+      "chinese": "你有收到活动邀请吗？",
+      "pinyin": "Nǐ yǒu shōudào huódòng yāoqǐng ma?",
+      "translation": "Have you received an event invitation?",
+      "usage": "Asks about whether someone has been invited to an event",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "to have"
+        },
+        {
+          "zh": "收到",
+          "py": "shōudào",
+          "meaning": "to receive"
+        },
+        {
+          "zh": "活动",
+          "py": "huódòng",
+          "meaning": "activity"
+        },
+        {
+          "zh": "邀请",
+          "py": "yāoqǐng",
+          "meaning": "invitation"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "这个活动在市中心举行。",
+      "pinyin": "Zhège huódòng zài shìzhōngxīn jǔxíng.",
+      "translation": "This event is held in the city center.",
+      "usage": "Describes the location of an event",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "个",
+          "py": "gè",
+          "meaning": "classifier"
+        },
+        {
+          "zh": "活动",
+          "py": "huódòng",
+          "meaning": "activity"
+        },
+        {
+          "zh": "在",
+          "py": "zài",
+          "meaning": "at"
+        },
+        {
+          "zh": "市中心",
+          "py": "shìzhōngxīn",
+          "meaning": "city center"
+        },
+        {
+          "zh": "举行",
+          "py": "jǔxíng",
+          "meaning": "to hold"
+        }
+      ]
+    },
+    {
+      "chinese": "我们可以去参加讲座。",
+      "pinyin": "Wǒmen kěyǐ qù cānjiā jiǎngzuò.",
+      "translation": "We can go to attend a lecture.",
+      "usage": "Suggests attending an educational event",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我们",
+          "py": "wǒmen",
+          "meaning": "we"
+        },
+        {
+          "zh": "可以",
+          "py": "kěyǐ",
+          "meaning": "can"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "to go"
+        },
+        {
+          "zh": "参加",
+          "py": "cānjiā",
+          "meaning": "to participate"
+        },
+        {
+          "zh": "讲座",
+          "py": "jiǎngzuò",
+          "meaning": "lecture"
+        }
+      ]
+    }
+  ]
+}

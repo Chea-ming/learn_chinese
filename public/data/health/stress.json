@@ -1,0 +1,260 @@
+{
+  "sentences": [
+    {
+      "chinese": "我压佐了，这一一的求你好！",
+      "pinyin": "wǒ shì sài le, yīxià yīxià de fēnzhōng nǐ hǎo!",
+      "translation": "I'm exhausted, see you later!",
+      "usage": "A casual goodbye when one is feeling stressed.",
+      "formality": "Casual",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "压",
+          "py": "shì",
+          "meaning": "feel",
+          "variant": "exhausted"
+        },
+        {
+          "zh": "佐",
+          "py": "sài",
+          "meaning": "stressed"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "exhaustion"
+        },
+        {
+          "zh": "这丁一的",
+          "py": "yīxià",
+          "meaning": "later"
+        },
+        {
+          "zh": "了",
+          "py": "yīxià",
+          "meaning": "again"
+        },
+        {
+          "zh": "求你",
+          "py": "fēnzhōng nǐ",
+          "meaning": "see you"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "goodbye"
+        }
+      ]
+    },
+    {
+      "chinese": "我很了了，想一一的求我佐了！",
+      "pinyin": "wǒ xiǎng le, zhěng yīxià de fēnzhōng wǒ shì sài le!",
+      "translation": "I'm tired, I just want to rest!",
+      "usage": "A phrase to express the desire for rest and relaxation.",
+      "formality": "Casual",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "很",
+          "py": "xiǎng",
+          "meaning": "tired",
+          "variant": "want to rest"
+        },
+        {
+          "zh": "了了",
+          "py": "le",
+          "meaning": "exhaustion"
+        },
+        {
+          "zh": "想",
+          "py": "zhěng",
+          "meaning": "just"
+        },
+        {
+          "zh": "丁一的",
+          "py": "yīxià",
+          "meaning": "later"
+        },
+        {
+          "zh": "求佐",
+          "py": "fēnzhōng wǒ shì sài",
+          "meaning": "see you, I'm stressed"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "exhaustion"
+        }
+      ]
+    },
+    {
+      "chinese": "我很了了，想一一的求我很了了！",
+      "pinyin": "wǒ xiǎng le, zhěng yīxià de fēnzhōng wǒ xiǎng le!",
+      "translation": "I'm tired, I just want to rest!",
+      "usage": "A phrase to express the desire for rest and relaxation.",
+      "formality": "Casual",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "很",
+          "py": "xiǎng",
+          "meaning": "tired",
+          "variant": "want to rest"
+        },
+        {
+          "zh": "了了",
+          "py": "le",
+          "meaning": "exhaustion"
+        },
+        {
+          "zh": "想",
+          "py": "zhěng",
+          "meaning": "just"
+        },
+        {
+          "zh": "丁一的",
+          "py": "yīxià",
+          "meaning": "later"
+        },
+        {
+          "zh": "求很",
+          "py": "fēnzhōng wǒ xiǎng",
+          "meaning": "see you, I'm tired"
+        },
+        {
+          "zh": "了了",
+          "py": "le",
+          "meaning": "exhaustion"
+        }
+      ]
+    },
+    {
+      "chinese": "浏觉我了了！",
+      "pinyin": "xiǎng wǒ le!",
+      "translation": "I'm tired!",
+      "usage": "A simple expression of exhaustion.",
+      "formality": "Casual",
+      "words": [
+        {
+          "zh": "浏觉",
+          "py": "xiǎng",
+          "meaning": "tired"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "了了",
+          "py": "le",
+          "meaning": "exhaustion"
+        }
+      ]
+    },
+    {
+      "chinese": "我了了了，想一一的求我佐了了了！",
+      "pinyin": "wǒ xiǎng le, zhěng yīxià de fēnzhōng wǒ shì sài le, xiǎng le!",
+      "translation": "I'm tired, I just want to rest, I'm stressed, I'm tired!",
+      "usage": "A phrase to express the desire for rest and relaxation, and the feeling of being stressed.",
+      "formality": "Casual",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "很",
+          "py": "xiǎng",
+          "meaning": "tired",
+          "variant": "want to rest"
+        },
+        {
+          "zh": "了了",
+          "py": "le",
+          "meaning": "exhaustion"
+        },
+        {
+          "zh": "想",
+          "py": "zhěng",
+          "meaning": "just"
+        },
+        {
+          "zh": "丁一的",
+          "py": "yīxià",
+          "meaning": "later"
+        },
+        {
+          "zh": "求佐",
+          "py": "fēnzhōng wǒ shì sài",
+          "meaning": "see you, I'm stressed"
+        },
+        {
+          "zh": "了了",
+          "py": "le",
+          "meaning": "exhaustion"
+        },
+        {
+          "zh": "很",
+          "py": "xiǎng",
+          "meaning": "tired",
+          "variant": "want to rest"
+        },
+        {
+          "zh": "了了",
+          "py": "le",
+          "meaning": "exhaustion"
+        }
+      ]
+    },
+    {
+      "chinese": "我很了了了了了，想一一的求我佐了了了了了！",
+      "pinyin": "wǒ xiǎng le, xiǎng le, xiǎng le, zhěng yīxià de fēnzhōng wǒ shì sài le!",
+      "translation": "I'm tired, I'm tired, I'm tired, I'm stressed, I'm tired!",
+      "usage": "A phrase to express the desire for rest and relaxation, and the feeling of being stressed.",
+      "formality": "Casual",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "很",
+          "py": "xiǎng",
+          "meaning": "tired",
+          "variant": "want to rest"
+        },
+        {
+          "zh": "了了",
+          "py": "le",
+          "meaning": "exhaustion"
+        },
+        {
+          "zh": "很",
+          "py": "xiǎng",
+          "meaning": "tired",
+          "variant": "want to rest"
+        },
+        {
+          "zh": "了了",
+          "py": "le",
+          "meaning": "exhaustion"
+        }
+      ]
+    }
+  ]
+}

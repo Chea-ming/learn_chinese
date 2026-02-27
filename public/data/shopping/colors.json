@@ -1,0 +1,661 @@
+{
+  "sentences": [
+    {
+      "chinese": "请问有红色的吗？",
+      "pinyin": "Qǐngwèn yǒu hóngsè de ma?",
+      "translation": "Do you have red?",
+      "usage": "Asking about color availability in a store, formal tone",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请问",
+          "py": "qǐngwèn",
+          "meaning": "please ask"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "have"
+        },
+        {
+          "zh": "红色",
+          "py": "hóngsè",
+          "meaning": "red color"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive particle"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "你有大号的吗？",
+      "pinyin": "Nǐ yǒu dàhào de ma?",
+      "translation": "Do you have a large size?",
+      "usage": "Asking about size availability in an informal setting",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "have"
+        },
+        {
+          "zh": "大号",
+          "py": "dàhào",
+          "meaning": "large size"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive particle"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "我想要一个蓝色的小号。",
+      "pinyin": "Wǒ xiǎng yào yī gè lánsè de xiǎohào.",
+      "translation": "I want a small blue one.",
+      "usage": "Specifying color and size preference in a neutral tone",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "想要",
+          "py": "xiǎng yào",
+          "meaning": "want"
+        },
+        {
+          "zh": "一个",
+          "py": "yī gè",
+          "meaning": "a"
+        },
+        {
+          "zh": "蓝色",
+          "py": "lánsè",
+          "meaning": "blue color"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive particle"
+        },
+        {
+          "zh": "小号",
+          "py": "xiǎohào",
+          "meaning": "small size"
+        }
+      ]
+    },
+    {
+      "chinese": "这个颜色和尺寸适合你吗？",
+      "pinyin": "Zhège yánsè hé chǐcùn shìhé nǐ ma?",
+      "translation": "Is this color and size suitable for you?",
+      "usage": "Asking about color and size fit in a neutral context",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这个",
+          "py": "zhège",
+          "meaning": "this"
+        },
+        {
+          "zh": "颜色",
+          "py": "yánsè",
+          "meaning": "color"
+        },
+        {
+          "zh": "和",
+          "py": "hé",
+          "meaning": "and"
+        },
+        {
+          "zh": "尺寸",
+          "py": "chǐcùn",
+          "meaning": "size"
+        },
+        {
+          "zh": "适合",
+          "py": "shìhé",
+          "meaning": "suitable"
+        },
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "有没有绿色的中号？",
+      "pinyin": "Yǒu méi yǒu lǜsè de zhōnghào?",
+      "translation": "Do you have green medium size?",
+      "usage": "Asking about a specific color and size in informal tone",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "have"
+        },
+        {
+          "zh": "没有",
+          "py": "méi yǒu",
+          "meaning": "don't have"
+        },
+        {
+          "zh": "绿色",
+          "py": "lǜsè",
+          "meaning": "green color"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive particle"
+        },
+        {
+          "zh": "中号",
+          "py": "zhōnghào",
+          "meaning": "medium size"
+        }
+      ]
+    },
+    {
+      "chinese": "请帮我找一件黑色的外套。",
+      "pinyin": "Qǐng bān wǒ zhǎo yī jiàn hēisè de wàitào.",
+      "translation": "Please help me find a black coat.",
+      "usage": "Asking for assistance in finding a specific item",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "帮",
+          "py": "bān",
+          "meaning": "help"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "me"
+        },
+        {
+          "zh": "找",
+          "py": "zhǎo",
+          "meaning": "find"
+        },
+        {
+          "zh": "一件",
+          "py": "yī jiàn",
+          "meaning": "an item"
+        },
+        {
+          "zh": "黑色",
+          "py": "hēisè",
+          "meaning": "black color"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive particle"
+        },
+        {
+          "zh": "外套",
+          "py": "wàitào",
+          "meaning": "coat"
+        }
+      ]
+    },
+    {
+      "chinese": "这个产品有多种颜色可选。",
+      "pinyin": "Zhège chǎnchǎn yǒu duōzhǒng yánsè kě xuǎn.",
+      "translation": "This product has multiple color options.",
+      "usage": "Describing product color options in a neutral tone",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这个",
+          "py": "zhège",
+          "meaning": "this"
+        },
+        {
+          "zh": "产品",
+          "py": "chǎnchǎn",
+          "meaning": "product"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "have"
+        },
+        {
+          "zh": "多种",
+          "py": "duōzhǒng",
+          "meaning": "multiple"
+        },
+        {
+          "zh": "颜色",
+          "py": "yánsè",
+          "meaning": "color"
+        },
+        {
+          "zh": "可选",
+          "py": "kě xuǎn",
+          "meaning": "available for selection"
+        }
+      ]
+    },
+    {
+      "chinese": "你有S码吗？",
+      "pinyin": "Nǐ yǒu S mǎ ma?",
+      "translation": "Do you have S size?",
+      "usage": "Asking about a specific size code in informal tone",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "have"
+        },
+        {
+          "zh": "S码",
+          "py": "S mǎ",
+          "meaning": "S size code"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "我要买一个黄色的。",
+      "pinyin": "Wǒ yào mǎi yī gè huángsè de.",
+      "translation": "I want to buy a yellow one.",
+      "usage": "Expressing purchase intent for a specific color",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "want"
+        },
+        {
+          "zh": "买",
+          "py": "mǎi",
+          "meaning": "buy"
+        },
+        {
+          "zh": "一个",
+          "py": "yī gè",
+          "meaning": "a"
+        },
+        {
+          "zh": "黄色",
+          "py": "huángsè",
+          "meaning": "yellow color"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive particle"
+        }
+      ]
+    },
+    {
+      "chinese": "请展示一下红色的大号。",
+      "pinyin": "Qǐng zhǎnshì yīxià hóngsè de dàhào.",
+      "translation": "Please show me the red large size.",
+      "usage": "Asking to display a specific product variant",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "展示",
+          "py": "zhǎnshì",
+          "meaning": "display"
+        },
+        {
+          "zh": "一下",
+          "py": "yīxià",
+          "meaning": "a little"
+        },
+        {
+          "zh": "红色",
+          "py": "hóngsè",
+          "meaning": "red color"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive particle"
+        },
+        {
+          "zh": "大号",
+          "py": "dàhào",
+          "meaning": "large size"
+        }
+      ]
+    },
+    {
+      "chinese": "这个尺寸太小了。",
+      "pinyin": "Zhège chǐcùn tài xiǎole.",
+      "translation": "This size is too small.",
+      "usage": "Commenting on size fit in a neutral tone",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这个",
+          "py": "zhège",
+          "meaning": "this"
+        },
+        {
+          "zh": "尺寸",
+          "py": "chǐcùn",
+          "meaning": "size"
+        },
+        {
+          "zh": "太",
+          "py": "tài",
+          "meaning": "too"
+        },
+        {
+          "zh": "小了",
+          "py": "xiǎole",
+          "meaning": "small"
+        }
+      ]
+    },
+    {
+      "chinese": "有没有白色的中号？",
+      "pinyin": "Yǒu méi yǒu báisè de zhōnghào?",
+      "translation": "Do you have white medium size?",
+      "usage": "Asking about a specific color and size in informal tone",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "have"
+        },
+        {
+          "zh": "没有",
+          "py": "méi yǒu",
+          "meaning": "don't have"
+        },
+        {
+          "zh": "白色",
+          "py": "báisè",
+          "meaning": "white color"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive particle"
+        },
+        {
+          "zh": "中号",
+          "py": "zhōnghào",
+          "meaning": "medium size"
+        }
+      ]
+    },
+    {
+      "chinese": "我需要一个合适的尺寸。",
+      "pinyin": "Wǒ xūyào yī gè héshì de chǐcùn.",
+      "translation": "I need an appropriate size.",
+      "usage": "Expressing need for proper sizing in neutral tone",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "需要",
+          "py": "xūyào",
+          "meaning": "need"
+        },
+        {
+          "zh": "一个",
+          "py": "yī gè",
+          "meaning": "a"
+        },
+        {
+          "zh": "合适",
+          "py": "héshì",
+          "meaning": "appropriate"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive particle"
+        },
+        {
+          "zh": "尺寸",
+          "py": "chǐcùn",
+          "meaning": "size"
+        }
+      ]
+    },
+    {
+      "chinese": "这个颜色真好看。",
+      "pinyin": "Zhège yánsè zhēn hǎnkàn.",
+      "translation": "This color looks nice.",
+      "usage": "Complimenting a color in neutral tone",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这个",
+          "py": "zhège",
+          "meaning": "this"
+        },
+        {
+          "zh": "颜色",
+          "py": "yánsè",
+          "meaning": "color"
+        },
+        {
+          "zh": "真",
+          "py": "zhēn",
+          "meaning": "really"
+        },
+        {
+          "zh": "好看",
+          "py": "hǎnkàn",
+          "meaning": "looks nice"
+        }
+      ]
+    },
+    {
+      "chinese": "请帮我看看这个尺寸。",
+      "pinyin": "Qǐng bān wǒ kàn kàn zhège chǐcùn.",
+      "translation": "Please help me check this size.",
+      "usage": "Asking for assistance in verifying size",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "帮",
+          "py": "bān",
+          "meaning": "help"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "me"
+        },
+        {
+          "zh": "看看",
+          "py": "kàn kàn",
+          "meaning": "look at"
+        },
+        {
+          "zh": "这个",
+          "py": "zhège",
+          "meaning": "this"
+        },
+        {
+          "zh": "尺寸",
+          "py": "chǐcùn",
+          "meaning": "size"
+        }
+      ]
+    },
+    {
+      "chinese": "这种颜色适合你。",
+      "pinyin": "Zhè zhǒng yánsè shìhé nǐ.",
+      "translation": "This color suits you.",
+      "usage": "Commenting on color suitability in neutral tone",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这种",
+          "py": "zhè zhǒng",
+          "meaning": "this kind of"
+        },
+        {
+          "zh": "颜色",
+          "py": "yánsè",
+          "meaning": "color"
+        },
+        {
+          "zh": "适合",
+          "py": "shìhé",
+          "meaning": "suitable"
+        },
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        }
+      ]
+    },
+    {
+      "chinese": "这个尺寸你穿起来合适吗？",
+      "pinyin": "Zhège chǐcùn nǐ chuān qǐlái héshì ma?",
+      "translation": "Does this size fit you?",
+      "usage": "Asking about size fit in neutral tone",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这个",
+          "py": "zhège",
+          "meaning": "this"
+        },
+        {
+          "zh": "尺寸",
+          "py": "chǐcùn",
+          "meaning": "size"
+        },
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "穿起来",
+          "py": "chuān qǐlái",
+          "meaning": "to wear"
+        },
+        {
+          "zh": "合适",
+          "py": "héshì",
+          "meaning": "appropriate"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "我想要一个更小的尺寸。",
+      "pinyin": "Wǒ xiǎng yào yī gè gèng xiǎo de chǐcùn.",
+      "translation": "I want a smaller size.",
+      "usage": "Expressing desire for smaller size in neutral tone",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "想要",
+          "py": "xiǎng yào",
+          "meaning": "want"
+        },
+        {
+          "zh": "一个",
+          "py": "yī gè",
+          "meaning": "a"
+        },
+        {
+          "zh": "更小",
+          "py": "gèng xiǎo",
+          "meaning": "smaller"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive particle"
+        },
+        {
+          "zh": "尺寸",
+          "py": "chǐcùn",
+          "meaning": "size"
+        }
+      ]
+    }
+  ]
+}

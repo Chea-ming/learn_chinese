@@ -1,0 +1,142 @@
+{
+  "sentences": [
+    {
+      "chinese": "地震",
+      "pinyin": "Dìzhèn",
+      "translation": "Earthquake",
+      "usage": "Used to describe the sudden shaking of the ground caused by tectonic activity.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "地",
+          "py": "dì",
+          "meaning": "ground"
+        },
+        {
+          "zh": "震",
+          "py": "zhèn",
+          "meaning": "shake"
+        }
+      ]
+    },
+    {
+      "chinese": "洪水",
+      "pinyin": "Hóngshuǐ",
+      "translation": "Flood",
+      "usage": "Refers to overflowing water from rivers, lakes, or heavy rains.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "洪",
+          "py": "hóng",
+          "meaning": "overflowing"
+        },
+        {
+          "zh": "水",
+          "py": "shuǐ",
+          "meaning": "water"
+        }
+      ]
+    },
+    {
+      "chinese": "台风",
+      "pinyin": "Táifēng",
+      "translation": "Typhoon",
+      "usage": "A tropical cyclone in the Northwest Pacific region.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "台",
+          "py": "tái",
+          "meaning": "platform (metaphorically, large)"
+        },
+        {
+          "zh": "风",
+          "py": "fēng",
+          "meaning": "wind"
+        }
+      ]
+    },
+    {
+      "chinese": "海啸",
+      "pinyin": "Hǎixiào",
+      "translation": "Tsunami",
+      "usage": "A massive ocean wave caused by underwater earthquakes or volcanic eruptions.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "海",
+          "py": "hǎi",
+          "meaning": "sea"
+        },
+        {
+          "zh": "啸",
+          "py": "xiào",
+          "meaning": "howl"
+        }
+      ]
+    },
+    {
+      "chinese": "山火",
+      "pinyin": "Shānhuǒ",
+      "translation": "Wildfire",
+      "usage": "Uncontrolled fire spreading through forests or mountains.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "山",
+          "py": "shān",
+          "meaning": "mountain"
+        },
+        {
+          "zh": "火",
+          "py": "huǒ",
+          "meaning": "fire"
+        }
+      ]
+    },
+    {
+      "chinese": "干旱",
+      "pinyin": "Gānhàn",
+      "translation": "Drought",
+      "usage": "Prolonged lack of rainfall causing water shortages.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "干",
+          "py": "gān",
+          "meaning": "dry"
+        },
+        {
+          "zh": "旱",
+          "py": "hàn",
+          "meaning": "drought"
+        }
+      ]
+    },
+    {
+      "chinese": "泥石流",
+      "pinyin": "Níshíliú",
+      "translation": "Landslide",
+      "usage": "Mass movement of rock, earth, or debris down a slope.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "泥",
+          "py": "ní",
+          "meaning": "mud"
+        },
+        {
+          "zh": "石",
+          "py": "shí",
+          "meaning": "stone"
+        },
+        {
+          "zh": "流",
+          "py": "liú",
+          "meaning": "flow"
+        }
+      ]
+    }
+  ]
+}

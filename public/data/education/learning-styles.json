@@ -1,0 +1,232 @@
+{
+  "sentences": [
+    {
+      "chinese": "视觉学习",
+      "pinyin": "Shìjué xuéxí",
+      "translation": "Visual learning",
+      "usage": "Used to describe learning through visual aids like diagrams or videos.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "视觉",
+          "py": "Shìjué",
+          "meaning": "visual"
+        },
+        {
+          "zh": "学习",
+          "py": "Xuéxí",
+          "meaning": "learning"
+        }
+      ]
+    },
+    {
+      "chinese": "听觉学习",
+      "pinyin": "Tīngjué xuéxí",
+      "translation": "Auditory learning",
+      "usage": "Refers to learning by listening to lectures or audio materials.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "听觉",
+          "py": "Tīngjué",
+          "meaning": "auditory"
+        },
+        {
+          "zh": "学习",
+          "py": "Xuéxí",
+          "meaning": "learning"
+        }
+      ]
+    },
+    {
+      "chinese": "动觉学习",
+      "pinyin": "Dòngjué xuéxí",
+      "translation": "Kinesthetic learning",
+      "usage": "Describes learning through physical activity or hands-on practice.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "动觉",
+          "py": "Dòngjué",
+          "meaning": "kinesthetic"
+        },
+        {
+          "zh": "学习",
+          "py": "Xuéxí",
+          "meaning": "learning"
+        }
+      ]
+    },
+    {
+      "chinese": "主动学习",
+      "pinyin": "Zhǔdòng xuéxí",
+      "translation": "Active learning",
+      "usage": "Emphasizes student engagement and participation in the learning process.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "主动",
+          "py": "Zhǔdòng",
+          "meaning": "proactive"
+        },
+        {
+          "zh": "学习",
+          "py": "Xuéxí",
+          "meaning": "learning"
+        }
+      ]
+    },
+    {
+      "chinese": "合作学习",
+      "pinyin": "Hézuò xuéxí",
+      "translation": "Collaborative learning",
+      "usage": "Involves group work and peer interaction to achieve learning goals.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "合作",
+          "py": "Hézuò",
+          "meaning": "collaborative"
+        },
+        {
+          "zh": "学习",
+          "py": "Xuéxí",
+          "meaning": "learning"
+        }
+      ]
+    },
+    {
+      "chinese": "独立学习",
+      "pinyin": "Dúlì xuéxí",
+      "translation": "Independent learning",
+      "usage": "Refers to self-directed study without direct teacher guidance.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "独立",
+          "py": "Dúlì",
+          "meaning": "independent"
+        },
+        {
+          "zh": "学习",
+          "py": "Xuéxí",
+          "meaning": "learning"
+        }
+      ]
+    },
+    {
+      "chinese": "多感官学习",
+      "pinyin": "Duō gān guān xuéxí",
+      "translation": "Multisensory learning",
+      "usage": "Uses multiple senses (sight, sound, touch) simultaneously for better retention.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "多感官",
+          "py": "Duō gān guān",
+          "meaning": "multi-sensory"
+        },
+        {
+          "zh": "学习",
+          "py": "Xuéxí",
+          "meaning": "learning"
+        }
+      ]
+    },
+    {
+      "chinese": "探究式学习",
+      "pinyin": "Tànjiū shì xuéxí",
+      "translation": "Inquiry-based learning",
+      "usage": "Encourages students to ask questions and explore solutions independently.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "探究式",
+          "py": "Tànjiū shì",
+          "meaning": "inquiry-based"
+        },
+        {
+          "zh": "学习",
+          "py": "Xuéxí",
+          "meaning": "learning"
+        }
+      ]
+    },
+    {
+      "chinese": "混合学习",
+      "pinyin": "Hùnhé xuéxí",
+      "translation": "Blended learning",
+      "usage": "Combines online and offline teaching methods.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "混合",
+          "py": "Hùnhé",
+          "meaning": "blended"
+        },
+        {
+          "zh": "学习",
+          "py": "Xuéxí",
+          "meaning": "learning"
+        }
+      ]
+    },
+    {
+      "chinese": "自主学习",
+      "pinyin": "Zìzhǔ xuéxí",
+      "translation": "Self-directed learning",
+      "usage": "Students take ownership of their learning process.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "自主",
+          "py": "Zìzhǔ",
+          "meaning": "self-directed"
+        },
+        {
+          "zh": "学习",
+          "py": "Xuéxí",
+          "meaning": "learning"
+        }
+      ]
+    },
+    {
+      "chinese": "项目式学习",
+      "pinyin": "Mùxiàng shì xuéxí",
+      "translation": "Project-based learning",
+      "usage": "Focuses on completing real-world projects to apply knowledge.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "项目式",
+          "py": "Mùxiàng shì",
+          "meaning": "project-based"
+        },
+        {
+          "zh": "学习",
+          "py": "Xuéxí",
+          "meaning": "learning"
+        }
+      ]
+    },
+    {
+      "chinese": "情境学习",
+      "pinyin": "Qíngjìng xuéxí",
+      "translation": "Situated learning",
+      "usage": "Learning occurs in real-life contexts or scenarios.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "情境",
+          "py": "Qíngjìng",
+          "meaning": "situated"
+        },
+        {
+          "zh": "学习",
+          "py": "Xuéxí",
+          "meaning": "learning"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "sentences": [
+    {
+      "chinese": "人参养荣汤",
+      "pinyin": "Rénshēn Yǎngróng Tāng",
+      "translation": "Ginseng Nourishing Decoction",
+      "usage": "A traditional herbal formula to boost energy and vitality.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "人",
+          "py": "rén",
+          "meaning": "human"
+        },
+        {
+          "zh": "参",
+          "py": "shēn",
+          "meaning": "ginseng"
+        },
+        {
+          "zh": "养",
+          "py": "yǎng",
+          "meaning": "to nourish"
+        },
+        {
+          "zh": "荣",
+          "py": "róng",
+          "meaning": "vitality"
+        },
+        {
+          "zh": "汤",
+          "py": "tāng",
+          "meaning": "decoction"
+        }
+      ]
+    },
+    {
+      "chinese": "黄芪补气",
+      "pinyin": "Huángqí Bǔqì",
+      "translation": "Astragalus Qi Tonic",
+      "usage": "Used to strengthen the immune system and improve energy.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "黄",
+          "py": "huáng",
+          "meaning": "yellow"
+        },
+        {
+          "zh": "芪",
+          "py": "qí",
+          "meaning": "astragalus root"
+        },
+        {
+          "zh": "补",
+          "py": "bǔ",
+          "meaning": "to supplement"
+        },
+        {
+          "zh": "气",
+          "py": "qì",
+          "meaning": "Qi (vital energy)"
+        }
+      ]
+    },
+    {
+      "chinese": "草本疗法",
+      "pinyin": "Cǎoběn Liáofǎ",
+      "translation": "Herbal Therapy",
+      "usage": "Refers to the use of plants for medicinal purposes.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "草",
+          "py": "cǎo",
+          "meaning": "herb"
+        },
+        {
+          "zh": "本",
+          "py": "běn",
+          "meaning": "origin"
+        },
+        {
+          "zh": "疗",
+          "py": "liáo",
+          "meaning": "therapy"
+        },
+        {
+          "zh": "法",
+          "py": "fǎ",
+          "meaning": "method"
+        }
+      ]
+    },
+    {
+      "chinese": "针灸与草药",
+      "pinyin": "Zhēnjiǔ yǔ Cǎoyào",
+      "translation": "Acupuncture and Herbs",
+      "usage": "Combined traditional practices for healing.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "针",
+          "py": "zhēn",
+          "meaning": "needle"
+        },
+        {
+          "zh": "灸",
+          "py": "jiǔ",
+          "meaning": "moxibustion"
+        },
+        {
+          "zh": "与",
+          "py": "yǔ",
+          "meaning": "and"
+        },
+        {
+          "zh": "草",
+          "py": "cǎo",
+          "meaning": "herb"
+        },
+        {
+          "zh": "药",
+          "py": "yào",
+          "meaning": "medicine"
+        }
+      ]
+    },
+    {
+      "chinese": "气血双补",
+      "pinyin": "Qìxuè Shuāngbǔ",
+      "translation": "Dual Nourishment of Qi and Blood",
+      "usage": "A treatment to balance both Qi and blood in TCM.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "气",
+          "py": "qì",
+          "meaning": "Qi (vital energy)"
+        },
+        {
+          "zh": "血",
+          "py": "xuè",
+          "meaning": "blood"
+        },
+        {
+          "zh": "双",
+          "py": "shuāng",
+          "meaning": "both"
+        },
+        {
+          "zh": "补",
+          "py": "bǔ",
+          "meaning": "to supplement"
+        }
+      ]
+    },
+    {
+      "chinese": "煎药",
+      "pinyin": "jiānyào",
+      "translation": "To decoct medicine",
+      "usage": "Describes the process of preparing herbal medicine.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "煎",
+          "py": "jiān",
+          "meaning": "to simmer"
+        },
+        {
+          "zh": "药",
+          "py": "yào",
+          "meaning": "medicine"
+        }
+      ]
+    },
+    {
+      "chinese": "三七止血",
+      "pinyin": "Sānqī Zhǐxuè",
+      "translation": "Notoginseng to Stop Bleeding",
+      "usage": "A herb used for its hemostatic properties.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "三",
+          "py": "sān",
+          "meaning": "three"
+        },
+        {
+          "zh": "七",
+          "py": "qī",
+          "meaning": "seven"
+        },
+        {
+          "zh": "止",
+          "py": "zhǐ",
+          "meaning": "to stop"
+        },
+        {
+          "zh": "血",
+          "py": "xuè",
+          "meaning": "blood"
+        }
+      ]
+    },
+    {
+      "chinese": "阴阳平衡",
+      "pinyin": "Yīnyáng Pínghéng",
+      "translation": "Yin-Yang Balance",
+      "usage": "Fundamental principle in traditional medicine for health.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "阴",
+          "py": "yīn",
+          "meaning": "Yin (passive, cool)"
+        },
+        {
+          "zh": "阳",
+          "py": "yáng",
+          "meaning": "Yang (active, warm)"
+        },
+        {
+          "zh": "平",
+          "py": "píng",
+          "meaning": "balance"
+        },
+        {
+          "zh": "衡",
+          "py": "héng",
+          "meaning": "measure"
+        }
+      ]
+    }
+  ]
+}

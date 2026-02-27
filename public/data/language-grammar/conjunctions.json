@@ -1,0 +1,271 @@
+{
+  "sentences": [
+    {
+      "chinese": "然后我们去了公园。",
+      "pinyin": "Ránhòu wǒmen qùle gōngyuán.",
+      "translation": "Then we went to the park.",
+      "usage": "Used to indicate sequence in narrative.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "然后",
+          "py": "Ránhòu",
+          "meaning": "then"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "to go"
+        },
+        {
+          "zh": "公园",
+          "py": "gōngyuán",
+          "meaning": "park"
+        }
+      ]
+    },
+    {
+      "chinese": "但是天气很糟糕。",
+      "pinyin": "Dànshì tiānqì hěn zāogāo.",
+      "translation": "But the weather was terrible.",
+      "usage": "Contrasts with a previous statement.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "但是",
+          "py": "Dànshì",
+          "meaning": "but"
+        },
+        {
+          "zh": "天气",
+          "py": "tiānqì",
+          "meaning": "weather"
+        },
+        {
+          "zh": "糟糕",
+          "py": "zāogāo",
+          "meaning": "terrible"
+        }
+      ]
+    },
+    {
+      "chinese": "因为下雨我们取消了计划。",
+      "pinyin": "Yīnwèi xià yǔ wǒmen qǔxiāo le jìhuà.",
+      "translation": "We canceled the plan because it rained.",
+      "usage": "Indicates cause and effect.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "因为",
+          "py": "Yīnwèi",
+          "meaning": "because"
+        },
+        {
+          "zh": "下雨",
+          "py": "xià yǔ",
+          "meaning": "to rain"
+        },
+        {
+          "zh": "取消",
+          "py": "qǔxiāo",
+          "meaning": "to cancel"
+        }
+      ]
+    },
+    {
+      "chinese": "虽然他很累，但他完成了工作。",
+      "pinyin": "Suīrán tā hěn lèi, dàn tā wánchéng le gōngzuò.",
+      "translation": "Although he was tired, he finished the work.",
+      "usage": "Shows contrast despite circumstances.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "虽然",
+          "py": "Suīrán",
+          "meaning": "although"
+        },
+        {
+          "zh": "但是",
+          "py": "dànshì",
+          "meaning": "but"
+        },
+        {
+          "zh": "完成",
+          "py": "wánchéng",
+          "meaning": "to complete"
+        }
+      ]
+    },
+    {
+      "chinese": "如果明天晴天，我们就去露营。",
+      "pinyin": "Rúguǒ míngtiān qíngtiān, wǒmen jiù qù lùyíng.",
+      "translation": "If it's sunny tomorrow, we'll go camping.",
+      "usage": "Conditional statement.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "如果",
+          "py": "Rúguǒ",
+          "meaning": "if"
+        },
+        {
+          "zh": "晴天",
+          "py": "qíngtiān",
+          "meaning": "sunny day"
+        },
+        {
+          "zh": "露营",
+          "py": "lùyíng",
+          "meaning": "camping"
+        }
+      ]
+    },
+    {
+      "chinese": "所以你现在应该明白了。",
+      "pinyin": "Suyǐ nǐ xiànzi yīnggāi míngbái le.",
+      "translation": "So you should understand now.",
+      "usage": "Concludes a logical explanation.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "所以",
+          "py": "Suǒyǐ",
+          "meaning": "so"
+        },
+        {
+          "zh": "明白",
+          "py": "míngbái",
+          "meaning": "to understand"
+        }
+      ]
+    },
+    {
+      "chinese": "或者你可以试试这个方法。",
+      "pinyin": "Huòzhě nǐ kěyǐ shìshì zhè ge fāngfǎ.",
+      "translation": "Or you can try this method.",
+      "usage": "Offers an alternative option.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "或者",
+          "py": "Huòzhě",
+          "meaning": "or"
+        },
+        {
+          "zh": "试试",
+          "py": "shìshì",
+          "meaning": "to try"
+        }
+      ]
+    },
+    {
+      "chinese": "不仅你错了，他也错了。",
+      "pinyin": "Bùjǐn nǐ cuò le, tā yě cuò le.",
+      "translation": "Not only are you wrong, he is wrong too.",
+      "usage": "Emphasizes multiple errors.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "不仅",
+          "py": "Bùjǐn",
+          "meaning": "not only"
+        },
+        {
+          "zh": "而且",
+          "py": "érqiě",
+          "meaning": "but also"
+        }
+      ]
+    },
+    {
+      "chinese": "因此我们需要重新计划。",
+      "pinyin": "Yīncǐ wǒmen xūyào chóngxīn jìhuà.",
+      "translation": "Therefore we need to replan.",
+      "usage": "Concludes a logical consequence.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "因此",
+          "py": "Yīncǐ",
+          "meaning": "therefore"
+        },
+        {
+          "zh": "重新",
+          "py": "chóngxīn",
+          "meaning": "to re-"
+        }
+      ]
+    },
+    {
+      "chinese": "然而结果并不理想。",
+      "pinyin": "Ránér jiéguǒ bìng bù lǐxiàng.",
+      "translation": "However, the result was not ideal.",
+      "usage": "Introduces an unexpected outcome.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "然而",
+          "py": "Ránér",
+          "meaning": "however"
+        },
+        {
+          "zh": "理想",
+          "py": "lǐxiàng",
+          "meaning": "ideal"
+        }
+      ]
+    },
+    {
+      "chinese": "尽管困难很多，我们坚持到底。",
+      "pinyin": "Jǐnguǎn kùnnán hěn duō, wǒmen jīchí dào dǐ.",
+      "translation": "Despite many difficulties, we persisted.",
+      "usage": "Shows determination despite challenges.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "尽管",
+          "py": "Jǐnguǎn",
+          "meaning": "despite"
+        },
+        {
+          "zh": "坚持",
+          "py": "jīchí",
+          "meaning": "to persist"
+        }
+      ]
+    },
+    {
+      "chinese": "除非你道歉，否则我不会原谅你。",
+      "pinyin": "Chúfēi nǐ dàoqiàn, fǒuzé wǒ bú huì yuánliàng nǐ.",
+      "translation": "Unless you apologize, I won't forgive you.",
+      "usage": "Conditional negative statement.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "除非",
+          "py": "Chúfēi",
+          "meaning": "unless"
+        },
+        {
+          "zh": "否则",
+          "py": "fǒuzé",
+          "meaning": "otherwise"
+        }
+      ]
+    },
+    {
+      "chinese": "总之，这次会议很重要。",
+      "pinyin": "Zǒngzhī, zhè cì huìyì hěn zhòngyào.",
+      "translation": "In summary, this meeting is important.",
+      "usage": "Concludes a discussion.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "总之",
+          "py": "Zǒngzhī",
+          "meaning": "in summary"
+        }
+      ]
+    }
+  ]
+}

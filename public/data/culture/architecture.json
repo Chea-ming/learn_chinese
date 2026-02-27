@@ -1,0 +1,104 @@
+{
+  "sentences": [
+    {
+      "chinese": "紫禁城",
+      "pinyin": "Zǐjìn chéng",
+      "translation": "The Forbidden City",
+      "usage": "A major example of imperial Chinese architecture.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "紫",
+          "py": "zǐ",
+          "meaning": "purple"
+        },
+        {
+          "zh": "禁",
+          "py": "jìn",
+          "meaning": "prohibited"
+        },
+        {
+          "zh": "城",
+          "py": "chéng",
+          "meaning": "city"
+        }
+      ]
+    },
+    {
+      "chinese": "宝塔",
+      "pinyin": "Bǎo tǎ",
+      "translation": "Pagoda",
+      "usage": "A multi-tiered, tiered tower with eaves.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "宝",
+          "py": "bǎo",
+          "meaning": "treasure"
+        },
+        {
+          "zh": "塔",
+          "py": "tǎ",
+          "meaning": "pagoda"
+        }
+      ]
+    },
+    {
+      "chinese": "四合院",
+      "pinyin": "Sìhé yuàn",
+      "translation": "Siheyuan courtyard house",
+      "usage": "A traditional Beijing house with rooms surrounding a central courtyard.",
+      "formality": "Cultural",
+      "words": [
+        {
+          "zh": "四",
+          "py": "sì",
+          "meaning": "four"
+        },
+        {
+          "zh": "合",
+          "py": "hé",
+          "meaning": "unified"
+        },
+        {
+          "zh": "院",
+          "py": "yuàn",
+          "meaning": "courtyard"
+        }
+      ]
+    },
+    {
+      "chinese": "木结构",
+      "pinyin": "Mù jié gòu",
+      "translation": "Timber structure",
+      "usage": "Describes traditional wooden architectural frameworks.",
+      "formality": "Technical",
+      "words": [
+        {
+          "zh": "木",
+          "py": "mù",
+          "meaning": "wood"
+        },
+        {
+          "zh": "结构",
+          "py": "jié gòu",
+          "meaning": "structure"
+        }
+      ]
+    },
+    {
+      "chinese": "飞檐",
+      "pinyin": "Fēi yán",
+      "translation": "Upturned eaves",
+      "usage": "Characteristic curved roof edges in traditional buildings.",
+      "formality": "Cultural",
+      "words": [
+        {
+          "zh": "飞",
+          "py": "fēi",
+          "meaning": "flying"
+        }
+      ]
+    }
+  ]
+}

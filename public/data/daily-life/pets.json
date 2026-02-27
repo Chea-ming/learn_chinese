@@ -1,0 +1,879 @@
+{
+  "sentences": [
+    {
+      "chinese": "我家有两只可爱的小猫咪。",
+      "pinyin": "Wǒ jiā yǒu liǎng zhī kě'ài de xiǎo māo mī.",
+      "translation": "I have two cute little kittens at home.",
+      "usage": "Used to describe having pets at home, especially cats.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / me"
+        },
+        {
+          "zh": "家",
+          "py": "jiā",
+          "meaning": "home"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "have"
+        },
+        {
+          "zh": "两",
+          "py": "liǎng",
+          "meaning": "two"
+        },
+        {
+          "zh": "只",
+          "py": "zhī",
+          "meaning": "measure word for animals"
+        },
+        {
+          "zh": "可爱",
+          "py": "kě'ài",
+          "meaning": "cute"
+        },
+        {
+          "zh": "小",
+          "py": "xiǎo",
+          "meaning": "small"
+        },
+        {
+          "zh": "猫",
+          "py": "māo",
+          "meaning": "cat"
+        },
+        {
+          "zh": "咪",
+          "py": "mī",
+          "meaning": "sound a cat makes"
+        }
+      ]
+    },
+    {
+      "chinese": "小狗在公园里跑来跑去。",
+      "pinyin": "Xiǎo gǒu zài gōng yuán lǐ pǎo lái pǎo qù.",
+      "translation": "The little dog is running around in the park.",
+      "usage": "Describing a dog playing or moving freely in an open space.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "小",
+          "py": "xiǎo",
+          "meaning": "small"
+        },
+        {
+          "zh": "狗",
+          "py": "gǒu",
+          "meaning": "dog"
+        },
+        {
+          "zh": "在",
+          "py": "zài",
+          "meaning": "at / in"
+        },
+        {
+          "zh": "公园",
+          "py": "gōng yuán",
+          "meaning": "park"
+        },
+        {
+          "zh": "里",
+          "py": "lǐ",
+          "meaning": "inside / within"
+        },
+        {
+          "zh": "跑",
+          "py": "pǎo",
+          "meaning": "run"
+        },
+        {
+          "zh": "来",
+          "py": "lái",
+          "meaning": "come"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "go"
+        }
+      ]
+    },
+    {
+      "chinese": "你养过宠物吗？",
+      "pinyin": "Nǐ yǎng guò kè wù ma?",
+      "translation": "Have you ever had a pet?",
+      "usage": "Asking about someone's experience with keeping pets.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "养",
+          "py": "yǎng",
+          "meaning": "raise / keep"
+        },
+        {
+          "zh": "过",
+          "py": "guò",
+          "meaning": "past tense marker"
+        },
+        {
+          "zh": "宠物",
+          "py": "kè wù",
+          "meaning": "pet"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "我家的金鱼很聪明。",
+      "pinyin": "Wǒ jiā de jīn yú hěn cōng míng.",
+      "translation": "My goldfish is very smart.",
+      "usage": "Used to describe a pet's personality or intelligence.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / me"
+        },
+        {
+          "zh": "家",
+          "py": "jiā",
+          "meaning": "home"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive particle"
+        },
+        {
+          "zh": "金鱼",
+          "py": "jīn yú",
+          "meaning": "goldfish"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "聪明",
+          "py": "cōng míng",
+          "meaning": "smart / intelligent"
+        }
+      ]
+    },
+    {
+      "chinese": "请不要喂野生动物。",
+      "pinyin": "Qǐng bù yào wéi yě shēng dòng wù.",
+      "translation": "Please don't feed wild animals.",
+      "usage": "A formal warning or advice about animal welfare.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "不",
+          "py": "bù",
+          "meaning": "not"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "want / need"
+        },
+        {
+          "zh": "喂",
+          "py": "wéi",
+          "meaning": "feed"
+        },
+        {
+          "zh": "野",
+          "py": "yě",
+          "meaning": "wild"
+        },
+        {
+          "zh": "生",
+          "py": "shēng",
+          "meaning": "living"
+        },
+        {
+          "zh": "动",
+          "py": "dòng",
+          "meaning": "animal"
+        },
+        {
+          "zh": "物",
+          "py": "wù",
+          "meaning": "thing / object"
+        }
+      ]
+    },
+    {
+      "chinese": "我的宠物狗很听话。",
+      "pinyin": "Wǒ de kè wù gǒu hěn tīng huà.",
+      "translation": "My pet dog is very obedient.",
+      "usage": "Used to describe a pet's behavior or training level.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / me"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive particle"
+        },
+        {
+          "zh": "宠物",
+          "py": "kè wù",
+          "meaning": "pet"
+        },
+        {
+          "zh": "狗",
+          "py": "gǒu",
+          "meaning": "dog"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "听话",
+          "py": "tīng huà",
+          "meaning": "obedient / well-behaved"
+        }
+      ]
+    },
+    {
+      "chinese": "猫咪喜欢在阳光下睡觉。",
+      "pinyin": "Māo mī xǐ huān zài yáng guāng xià shuì jiào.",
+      "translation": "Cats like to sleep in the sunshine.",
+      "usage": "Describing typical cat behavior or preferences.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "猫",
+          "py": "māo",
+          "meaning": "cat"
+        },
+        {
+          "zh": "咪",
+          "py": "mī",
+          "meaning": "sound a cat makes"
+        },
+        {
+          "zh": "喜欢",
+          "py": "xǐ huān",
+          "meaning": "like"
+        },
+        {
+          "zh": "在",
+          "py": "zài",
+          "meaning": "at / in"
+        },
+        {
+          "zh": "阳光",
+          "py": "yáng guāng",
+          "meaning": "sunshine"
+        },
+        {
+          "zh": "下",
+          "py": "xià",
+          "meaning": "under / below"
+        },
+        {
+          "zh": "睡觉",
+          "py": "shuì jiào",
+          "meaning": "sleep"
+        }
+      ]
+    },
+    {
+      "chinese": "我想要一只小狗。",
+      "pinyin": "Wǒ xiǎng yào yī zhī xiǎo gǒu.",
+      "translation": "I want a little dog.",
+      "usage": "Expressing desire to own a pet, especially a dog.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / me"
+        },
+        {
+          "zh": "想要",
+          "py": "xiǎng yào",
+          "meaning": "want"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "只",
+          "py": "zhī",
+          "meaning": "measure word for animals"
+        },
+        {
+          "zh": "小",
+          "py": "xiǎo",
+          "meaning": "small"
+        },
+        {
+          "zh": "狗",
+          "py": "gǒu",
+          "meaning": "dog"
+        }
+      ]
+    },
+    {
+      "chinese": "小兔子很可爱。",
+      "pinyin": "Xiǎo tù zi hěn kě'ài.",
+      "translation": "The little rabbit is very cute.",
+      "usage": "Describing the appearance or personality of a rabbit.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "小",
+          "py": "xiǎo",
+          "meaning": "small"
+        },
+        {
+          "zh": "兔",
+          "py": "tù",
+          "meaning": "rabbit"
+        },
+        {
+          "zh": "子",
+          "py": "zi",
+          "meaning": "suffix for small animals"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "可爱",
+          "py": "kě'ài",
+          "meaning": "cute"
+        }
+      ]
+    },
+    {
+      "chinese": "请帮我照看我的宠物。",
+      "pinyin": "Qǐng bāng wǒ zhào kàn wǒ de kè wù.",
+      "translation": "Please help me take care of my pet.",
+      "usage": "Asking someone to look after your pet while you're away.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "帮",
+          "py": "bāng",
+          "meaning": "help"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / me"
+        },
+        {
+          "zh": "照看",
+          "py": "zhào kàn",
+          "meaning": "take care of"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / me"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive particle"
+        },
+        {
+          "zh": "宠物",
+          "py": "kè wù",
+          "meaning": "pet"
+        }
+      ]
+    },
+    {
+      "chinese": "狗狗最喜欢吃肉。",
+      "pinyin": "Gǒu gǒu zuì xǐ huān chī ròu.",
+      "translation": "Dogs love to eat meat the most.",
+      "usage": "Describing a dog's dietary preference or habit.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "狗",
+          "py": "gǒu",
+          "meaning": "dog"
+        },
+        {
+          "zh": "狗",
+          "py": "gǒu",
+          "meaning": "dog"
+        },
+        {
+          "zh": "最",
+          "py": "zuì",
+          "meaning": "most"
+        },
+        {
+          "zh": "喜欢",
+          "py": "xǐ huān",
+          "meaning": "like"
+        },
+        {
+          "zh": "吃",
+          "py": "chī",
+          "meaning": "eat"
+        },
+        {
+          "zh": "肉",
+          "py": "ròu",
+          "meaning": "meat"
+        }
+      ]
+    },
+    {
+      "chinese": "我家里养了一只小猫。",
+      "pinyin": "Wǒ jiā lǐ yǎng le yī zhī xiǎo māo.",
+      "translation": "I have a little cat at home.",
+      "usage": "Describing having a pet at home, especially a cat.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / me"
+        },
+        {
+          "zh": "家",
+          "py": "jiā",
+          "meaning": "home"
+        },
+        {
+          "zh": "里",
+          "py": "lǐ",
+          "meaning": "inside / within"
+        },
+        {
+          "zh": "养",
+          "py": "yǎng",
+          "meaning": "raise / keep"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed action marker"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "只",
+          "py": "zhī",
+          "meaning": "measure word for animals"
+        },
+        {
+          "zh": "小",
+          "py": "xiǎo",
+          "meaning": "small"
+        },
+        {
+          "zh": "猫",
+          "py": "māo",
+          "meaning": "cat"
+        }
+      ]
+    },
+    {
+      "chinese": "小松鼠在树上跳来跳去。",
+      "pinyin": "Xiǎo sōng shǔ zài shù shàng tiào lái tiào qù.",
+      "translation": "The little squirrel is jumping up and down on the tree.",
+      "usage": "Describing squirrel movement or behavior.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "小",
+          "py": "xiǎo",
+          "meaning": "small"
+        },
+        {
+          "zh": "松",
+          "py": "sōng",
+          "meaning": "pine"
+        },
+        {
+          "zh": "鼠",
+          "py": "shǔ",
+          "meaning": "squirrel"
+        },
+        {
+          "zh": "在",
+          "py": "zài",
+          "meaning": "at / in"
+        },
+        {
+          "zh": "树",
+          "py": "shù",
+          "meaning": "tree"
+        },
+        {
+          "zh": "上",
+          "py": "shàng",
+          "meaning": "on"
+        },
+        {
+          "zh": "跳",
+          "py": "tiào",
+          "meaning": "jump"
+        },
+        {
+          "zh": "来",
+          "py": "lái",
+          "meaning": "come"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "go"
+        }
+      ]
+    },
+    {
+      "chinese": "动物们在动物园里生活。",
+      "pinyin": "Dòng wù men zài dòng wù yuán lǐ shēnghuó.",
+      "translation": "Animals live in the zoo.",
+      "usage": "Describing how animals live in a zoo setting.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "动物",
+          "py": "dòng wù",
+          "meaning": "animal"
+        },
+        {
+          "zh": "们",
+          "py": "men",
+          "meaning": "plural marker"
+        },
+        {
+          "zh": "在",
+          "py": "zài",
+          "meaning": "at / in"
+        },
+        {
+          "zh": "动物",
+          "py": "dòng wù",
+          "meaning": "animal"
+        },
+        {
+          "zh": "园",
+          "py": "yuán",
+          "meaning": "garden / zoo"
+        },
+        {
+          "zh": "里",
+          "py": "lǐ",
+          "meaning": "inside"
+        },
+        {
+          "zh": "生活",
+          "py": "shēnghuó",
+          "meaning": "live"
+        }
+      ]
+    },
+    {
+      "chinese": "小鸟在枝头唱歌。",
+      "pinyin": "Xiǎo niǎo zài zhī tóu chàng gē.",
+      "translation": "The little bird is singing on the branch.",
+      "usage": "Describing bird behavior or sounds.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "小",
+          "py": "xiǎo",
+          "meaning": "small"
+        },
+        {
+          "zh": "鸟",
+          "py": "niǎo",
+          "meaning": "bird"
+        },
+        {
+          "zh": "在",
+          "py": "zài",
+          "meaning": "at / in"
+        },
+        {
+          "zh": "枝",
+          "py": "zhī",
+          "meaning": "branch"
+        },
+        {
+          "zh": "头",
+          "py": "tóu",
+          "meaning": "head"
+        },
+        {
+          "zh": "唱歌",
+          "py": "chàng gē",
+          "meaning": "sing"
+        }
+      ]
+    },
+    {
+      "chinese": "我每天喂我的宠物。",
+      "pinyin": "Wǒ měi tiān wèi wǒ de kè wù.",
+      "translation": "I feed my pet every day.",
+      "usage": "Describing regular pet care routine.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / me"
+        },
+        {
+          "zh": "每天",
+          "py": "měi tiān",
+          "meaning": "every day"
+        },
+        {
+          "zh": "喂",
+          "py": "wèi",
+          "meaning": "feed"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / me"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive particle"
+        },
+        {
+          "zh": "宠物",
+          "py": "kè wù",
+          "meaning": "pet"
+        }
+      ]
+    },
+    {
+      "chinese": "我最喜爱的小动物是猫。",
+      "pinyin": "Wǒ zuì xǐ ài de xiǎo dòng wù shì māo.",
+      "translation": "My favorite little animal is cat.",
+      "usage": "Expressing personal preference for a particular pet.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / me"
+        },
+        {
+          "zh": "最",
+          "py": "zuì",
+          "meaning": "most"
+        },
+        {
+          "zh": "喜爱",
+          "py": "xǐ ài",
+          "meaning": "love"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive particle"
+        },
+        {
+          "zh": "小",
+          "py": "xiǎo",
+          "meaning": "small"
+        },
+        {
+          "zh": "动物",
+          "py": "dòng wù",
+          "meaning": "animal"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "is"
+        },
+        {
+          "zh": "猫",
+          "py": "māo",
+          "meaning": "cat"
+        }
+      ]
+    },
+    {
+      "chinese": "小鱼在水里游来游去。",
+      "pinyin": "Xiǎo yú zài shuǐ lǐ yóu lái yóu qù.",
+      "translation": "The little fish swims back and forth in the water.",
+      "usage": "Describing fish movement or behavior.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "小",
+          "py": "xiǎo",
+          "meaning": "small"
+        },
+        {
+          "zh": "鱼",
+          "py": "yú",
+          "meaning": "fish"
+        },
+        {
+          "zh": "在",
+          "py": "zài",
+          "meaning": "at / in"
+        },
+        {
+          "zh": "水",
+          "py": "shuǐ",
+          "meaning": "water"
+        },
+        {
+          "zh": "里",
+          "py": "lǐ",
+          "meaning": "inside"
+        },
+        {
+          "zh": "游",
+          "py": "yóu",
+          "meaning": "swim"
+        },
+        {
+          "zh": "来",
+          "py": "lái",
+          "meaning": "come"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "go"
+        }
+      ]
+    },
+    {
+      "chinese": "我有两只小狗。",
+      "pinyin": "Wǒ yǒu liǎng zhī xiǎo gǒu.",
+      "translation": "I have two little dogs.",
+      "usage": "Stating the number of pets owned.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / me"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "have"
+        },
+        {
+          "zh": "两",
+          "py": "liǎng",
+          "meaning": "two"
+        },
+        {
+          "zh": "只",
+          "py": "zhī",
+          "meaning": "measure word for animals"
+        },
+        {
+          "zh": "小",
+          "py": "xiǎo",
+          "meaning": "small"
+        },
+        {
+          "zh": "狗",
+          "py": "gǒu",
+          "meaning": "dog"
+        }
+      ]
+    },
+    {
+      "chinese": "宠物店里的动物很可爱。",
+      "pinyin": "Kè wù diàn lǐ de dòng wù hěn kě'ài.",
+      "translation": "The animals in the pet shop are very cute.",
+      "usage": "Describing the appearance or behavior of shop animals.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "宠物",
+          "py": "kè wù",
+          "meaning": "pet"
+        },
+        {
+          "zh": "店",
+          "py": "diàn",
+          "meaning": "shop"
+        },
+        {
+          "zh": "里",
+          "py": "lǐ",
+          "meaning": "inside"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive particle"
+        },
+        {
+          "zh": "动物",
+          "py": "dòng wù",
+          "meaning": "animal"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "可爱",
+          "py": "kě'ài",
+          "meaning": "cute"
+        }
+      ]
+    }
+  ]
+}

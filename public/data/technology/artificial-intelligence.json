@@ -1,0 +1,227 @@
+{
+  "sentences": [
+    {
+      "chinese": "人工智能",
+      "pinyin": "Rén gōng zhì néng",
+      "translation": "Artificial Intelligence",
+      "usage": "The general term for systems mimicking human intelligence.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "人工",
+          "py": "Rén gōng",
+          "meaning": "artificial"
+        },
+        {
+          "zh": "智能",
+          "py": "Zhì néng",
+          "meaning": "intelligence"
+        }
+      ]
+    },
+    {
+      "chinese": "机器学习",
+      "pinyin": "Jī qì xué xí",
+      "translation": "Machine Learning",
+      "usage": "A subset of AI focused on algorithms improving with experience.",
+      "formality": "Academic",
+      "words": [
+        {
+          "zh": "机器",
+          "py": "Jī qì",
+          "meaning": "machine"
+        },
+        {
+          "zh": "学习",
+          "py": "Xué xí",
+          "meaning": "learning"
+        }
+      ]
+    },
+    {
+      "chinese": "深度学习",
+      "pinyin": "Shēn dù xué xí",
+      "translation": "Deep Learning",
+      "usage": "A ML technique using neural networks with many layers.",
+      "formality": "Technical",
+      "words": [
+        {
+          "zh": "深度",
+          "py": "Shēn dù",
+          "meaning": "deep"
+        },
+        {
+          "zh": "学习",
+          "py": "Xué xí",
+          "meaning": "learning"
+        }
+      ]
+    },
+    {
+      "chinese": "自然语言处理",
+      "pinyin": "Zì rán yǔ yán chǔ lǐ",
+      "translation": "Natural Language Processing",
+      "usage": "AI systems analyzing human language.",
+      "formality": "Technical",
+      "words": [
+        {
+          "zh": "自然语言",
+          "py": "Zì rán yǔ yán",
+          "meaning": "natural language"
+        },
+        {
+          "zh": "处理",
+          "py": "Chǔ lǐ",
+          "meaning": "processing"
+        }
+      ]
+    },
+    {
+      "chinese": "神经网络",
+      "pinyin": "Shén jīng wǎng luò",
+      "translation": "Neural Network",
+      "usage": "A computational model inspired by the human brain.",
+      "formality": "Technical",
+      "words": [
+        {
+          "zh": "神经",
+          "py": "Shén jīng",
+          "meaning": "neural"
+        },
+        {
+          "zh": "网络",
+          "py": "Wǎng luò",
+          "meaning": "network"
+        }
+      ]
+    },
+    {
+      "chinese": "语音识别",
+      "pinyin": "Yīn yuè shí bie",
+      "translation": "Speech Recognition",
+      "usage": "Converting spoken language to text.",
+      "formality": "Technical",
+      "words": [
+        {
+          "zh": "语音",
+          "py": "Yīn yuè",
+          "meaning": "voice"
+        },
+        {
+          "zh": "识别",
+          "py": "Shí bie",
+          "meaning": "recognition"
+        }
+      ]
+    },
+    {
+      "chinese": "图像识别",
+      "pinyin": "Tu xiàng shí bie",
+      "translation": "Image Recognition",
+      "usage": "Identifying objects or patterns in images.",
+      "formality": "Technical",
+      "words": [
+        {
+          "zh": "图像",
+          "py": "Tu xiàng",
+          "meaning": "image"
+        },
+        {
+          "zh": "识别",
+          "py": "Shí bie",
+          "meaning": "recognition"
+        }
+      ]
+    },
+    {
+      "chinese": "自动驾驶",
+      "pinyin": "Zì dòng shǐ dòng",
+      "translation": "Autonomous Driving",
+      "usage": "AI systems controlling vehicles independently.",
+      "formality": "Technical",
+      "words": [
+        {
+          "zh": "自动",
+          "py": "Zì dòng",
+          "meaning": "autonomous"
+        },
+        {
+          "zh": "驾驶",
+          "py": "Shǐ dòng",
+          "meaning": "driving"
+        }
+      ]
+    },
+    {
+      "chinese": "智能助手",
+      "pinyin": "Zhì néng zhù shǒu",
+      "translation": "Smart Assistant",
+      "usage": "AI-powered personal assistants (e.g., Siri).",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "智能",
+          "py": "Zhì néng",
+          "meaning": "intelligent"
+        },
+        {
+          "zh": "助手",
+          "py": "Zhù shǒu",
+          "meaning": "assistant"
+        }
+      ]
+    },
+    {
+      "chinese": "大数据分析",
+      "pinyin": "Dà shù zi fēn xī",
+      "translation": "Big Data Analysis",
+      "usage": "Processing large datasets for insights.",
+      "formality": "Technical",
+      "words": [
+        {
+          "zh": "大数据",
+          "py": "Dà shù zi",
+          "meaning": "big data"
+        },
+        {
+          "zh": "分析",
+          "py": "Fēn xī",
+          "meaning": "analysis"
+        }
+      ]
+    },
+    {
+      "chinese": "机器翻译",
+      "pinyin": "Jī qì fān yì",
+      "translation": "Machine Translation",
+      "usage": "Automated language translation systems.",
+      "formality": "Technical",
+      "words": [
+        {
+          "zh": "机器",
+          "py": "Jī qì",
+          "meaning": "machine"
+        },
+        {
+          "zh": "翻译",
+          "py": "Fān yì",
+          "meaning": "translation"
+        }
+      ]
+    },
+    {
+      "chinese": "人脸识别",
+      "pinyin": "Rén liáo shí bié",
+      "translation": "Facial Recognition",
+      "usage": "Identifying individuals via facial features.",
+      "formality": "Technical",
+      "words": [
+        {
+          "zh": "人脸",
+          "py": "Rén liáo",
+          "meaning": "face"
+        }
+      ]
+    }
+  ]
+}

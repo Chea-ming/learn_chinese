@@ -1,0 +1,694 @@
+{
+  "sentences": [
+    {
+      "chinese": "我在网上买东西。",
+      "pinyin": "Wǒ zài wǎng shàng mǎi dōngxi.",
+      "translation": "I buy things online.",
+      "usage": "Used to express the basic action of online shopping.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "在",
+          "py": "zài",
+          "meaning": "on / at"
+        },
+        {
+          "zh": "网",
+          "py": "wǎng",
+          "meaning": "internet / web"
+        },
+        {
+          "zh": "上",
+          "py": "shàng",
+          "meaning": "on / up"
+        },
+        {
+          "zh": "买",
+          "py": "mǎi",
+          "meaning": "to buy"
+        },
+        {
+          "zh": "东西",
+          "py": "dōngxi",
+          "meaning": "things / stuff"
+        }
+      ]
+    },
+    {
+      "chinese": "网上购物很方便。",
+      "pinyin": "Wǎng shàng gòuwù hěn fāngbiàn.",
+      "translation": "Online shopping is very convenient.",
+      "usage": "Used to describe the convenience of online shopping.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "网",
+          "py": "wǎng",
+          "meaning": "internet / web"
+        },
+        {
+          "zh": "上",
+          "py": "shàng",
+          "meaning": "on / up"
+        },
+        {
+          "zh": "购物",
+          "py": "gòuwù",
+          "meaning": "shopping"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "方便",
+          "py": "fāngbiàn",
+          "meaning": "convenient"
+        }
+      ]
+    },
+    {
+      "chinese": "我经常在淘宝上买东西。",
+      "pinyin": "Wǒ jīngcháng zài Táobao shàng mǎi dōngxi.",
+      "translation": "I often buy things on Taobao.",
+      "usage": "Used to mention a specific online shopping platform.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "经常",
+          "py": "jīngcháng",
+          "meaning": "often"
+        },
+        {
+          "zh": "在",
+          "py": "zài",
+          "meaning": "on / at"
+        },
+        {
+          "zh": "淘宝",
+          "py": "Táobao",
+          "meaning": "Taobao (shopping platform)"
+        },
+        {
+          "zh": "上",
+          "py": "shàng",
+          "meaning": "on / up"
+        },
+        {
+          "zh": "买",
+          "py": "mǎi",
+          "meaning": "to buy"
+        },
+        {
+          "zh": "东西",
+          "py": "dōngxi",
+          "meaning": "things / stuff"
+        }
+      ]
+    },
+    {
+      "chinese": "网购价格很便宜。",
+      "pinyin": "Wǎng gòu jiàgé hěn piányi.",
+      "translation": "Online shopping prices are very cheap.",
+      "usage": "Used to describe the affordability of online shopping.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "网购",
+          "py": "wǎng gòu",
+          "meaning": "online shopping"
+        },
+        {
+          "zh": "价格",
+          "py": "jiàgé",
+          "meaning": "price"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "便宜",
+          "py": "piányi",
+          "meaning": "cheap"
+        }
+      ]
+    },
+    {
+      "chinese": "你在网上买过东西吗？",
+      "pinyin": "Nǐ zài wǎng shàng mǎi guò dōngxi ma?",
+      "translation": "Have you ever bought things online?",
+      "usage": "Used to ask about someone's experience with online shopping.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "在",
+          "py": "zài",
+          "meaning": "on / at"
+        },
+        {
+          "zh": "网",
+          "py": "wǎng",
+          "meaning": "internet / web"
+        },
+        {
+          "zh": "上",
+          "py": "shàng",
+          "meaning": "on / up"
+        },
+        {
+          "zh": "买",
+          "py": "mǎi",
+          "meaning": "to buy"
+        },
+        {
+          "zh": "过",
+          "py": "guò",
+          "meaning": "have (past)"
+        },
+        {
+          "zh": "东西",
+          "py": "dōngxi",
+          "meaning": "things / stuff"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "快递很快。",
+      "pinyin": "Kuài dì hěn kuài.",
+      "translation": "The express delivery is very fast.",
+      "usage": "Used to describe the speed of delivery in online shopping.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "快递",
+          "py": "kuài dì",
+          "meaning": "express delivery"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "快",
+          "py": "kuài",
+          "meaning": "fast"
+        }
+      ]
+    },
+    {
+      "chinese": "我昨天在网上买了手机。",
+      "pinyin": "Wǒ zuótiān zài wǎng shàng mǎi le shǒujī.",
+      "translation": "I bought a phone online yesterday.",
+      "usage": "Used to describe a specific purchase made online.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "昨天",
+          "py": "zuótiān",
+          "meaning": "yesterday"
+        },
+        {
+          "zh": "在",
+          "py": "zài",
+          "meaning": "on / at"
+        },
+        {
+          "zh": "网",
+          "py": "wǎng",
+          "meaning": "internet / web"
+        },
+        {
+          "zh": "上",
+          "py": "shàng",
+          "meaning": "on / up"
+        },
+        {
+          "zh": "买",
+          "py": "mǎi",
+          "meaning": "to buy"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed action marker"
+        },
+        {
+          "zh": "手机",
+          "py": "shǒujī",
+          "meaning": "phone"
+        }
+      ]
+    },
+    {
+      "chinese": "网上支付很安全。",
+      "pinyin": "Wǎng shàng zhīfù hěn ānquán.",
+      "translation": "Online payment is very safe.",
+      "usage": "Used to express confidence in online payment security.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "网",
+          "py": "wǎng",
+          "meaning": "internet / web"
+        },
+        {
+          "zh": "上",
+          "py": "shàng",
+          "meaning": "on / up"
+        },
+        {
+          "zh": "支付",
+          "py": "zhīfù",
+          "meaning": "payment"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "安全",
+          "py": "ānquán",
+          "meaning": "safe"
+        }
+      ]
+    },
+    {
+      "chinese": "我需要买一些衣服。",
+      "pinyin": "Wǒ xūyào mǎi yīxiē yīfu.",
+      "translation": "I need to buy some clothes.",
+      "usage": "Used to express the need to purchase clothing items.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "需要",
+          "py": "xūyào",
+          "meaning": "need"
+        },
+        {
+          "zh": "买",
+          "py": "mǎi",
+          "meaning": "to buy"
+        },
+        {
+          "zh": "一些",
+          "py": "yīxiē",
+          "meaning": "some"
+        },
+        {
+          "zh": "衣服",
+          "py": "yīfu",
+          "meaning": "clothes"
+        }
+      ]
+    },
+    {
+      "chinese": "这个商品打折了。",
+      "pinyin": "Zhège shāngpǐn dǎzhé le.",
+      "translation": "This product is on sale.",
+      "usage": "Used to describe a product that is discounted.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这个",
+          "py": "zhège",
+          "meaning": "this"
+        },
+        {
+          "zh": "商品",
+          "py": "shāngpǐn",
+          "meaning": "product"
+        },
+        {
+          "zh": "打折",
+          "py": "dǎzhé",
+          "meaning": "on sale"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed action marker"
+        }
+      ]
+    },
+    {
+      "chinese": "我想要退货。",
+      "pinyin": "Wǒ xiǎng yào tuì huò.",
+      "translation": "I want to return the item.",
+      "usage": "Used when requesting a return of purchased goods.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "想要",
+          "py": "xiǎng yào",
+          "meaning": "want to"
+        },
+        {
+          "zh": "退货",
+          "py": "tuì huò",
+          "meaning": "return goods"
+        }
+      ]
+    },
+    {
+      "chinese": "网上购物需要小心。",
+      "pinyin": "Wǎng shàng gòuwù xūyào xiǎoxīn.",
+      "translation": "Online shopping requires caution.",
+      "usage": "Used to advise someone to be careful when shopping online.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "网",
+          "py": "wǎng",
+          "meaning": "internet / web"
+        },
+        {
+          "zh": "上",
+          "py": "shàng",
+          "meaning": "on / up"
+        },
+        {
+          "zh": "购物",
+          "py": "gòuwù",
+          "meaning": "shopping"
+        },
+        {
+          "zh": "需要",
+          "py": "xūyào",
+          "meaning": "need"
+        },
+        {
+          "zh": "小心",
+          "py": "xiǎoxīn",
+          "meaning": "careful"
+        }
+      ]
+    },
+    {
+      "chinese": "我用支付宝付款。",
+      "pinyin": "Wǒ yòng Zhīfùbǎo fùkuǎn.",
+      "translation": "I pay with Alipay.",
+      "usage": "Used to describe the payment method used in online shopping.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "用",
+          "py": "yòng",
+          "meaning": "use"
+        },
+        {
+          "zh": "支付宝",
+          "py": "Zhīfùbǎo",
+          "meaning": "Alipay (payment platform)"
+        },
+        {
+          "zh": "付款",
+          "py": "fùkuǎn",
+          "meaning": "payment"
+        }
+      ]
+    },
+    {
+      "chinese": "这个东西太贵了。",
+      "pinyin": "Zhège dōngxi tài guì le.",
+      "translation": "This thing is too expensive.",
+      "usage": "Used to express that an item is too costly.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这个",
+          "py": "zhège",
+          "meaning": "this"
+        },
+        {
+          "zh": "东西",
+          "py": "dōngxi",
+          "meaning": "thing"
+        },
+        {
+          "zh": "太",
+          "py": "tài",
+          "meaning": "too"
+        },
+        {
+          "zh": "贵",
+          "py": "guì",
+          "meaning": "expensive"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed action marker"
+        }
+      ]
+    },
+    {
+      "chinese": "我昨天在京东买了东西。",
+      "pinyin": "Wǒ zuótiān zài Jīngdōng mǎi le dōngxi.",
+      "translation": "I bought things on JD.com yesterday.",
+      "usage": "Used to mention a specific online shopping platform.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "昨天",
+          "py": "zuótiān",
+          "meaning": "yesterday"
+        },
+        {
+          "zh": "在",
+          "py": "zài",
+          "meaning": "on / at"
+        },
+        {
+          "zh": "京东",
+          "py": "Jīngdōng",
+          "meaning": "JD.com (shopping platform)"
+        },
+        {
+          "zh": "买",
+          "py": "mǎi",
+          "meaning": "to buy"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed action marker"
+        },
+        {
+          "zh": "东西",
+          "py": "dōngxi",
+          "meaning": "things"
+        }
+      ]
+    },
+    {
+      "chinese": "我买的东西到了。",
+      "pinyin": "Wǒ mǎi de dōngxi dào le.",
+      "translation": "The things I bought have arrived.",
+      "usage": "Used to indicate that purchased items have been delivered.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "买",
+          "py": "mǎi",
+          "meaning": "to buy"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "of / possessive marker"
+        },
+        {
+          "zh": "东西",
+          "py": "dōngxi",
+          "meaning": "things"
+        },
+        {
+          "zh": "到",
+          "py": "dào",
+          "meaning": "arrive"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed action marker"
+        }
+      ]
+    },
+    {
+      "chinese": "我用手机下单。",
+      "pinyin": "Wǒ yòng shǒujī xià dān.",
+      "translation": "I place an order with my phone.",
+      "usage": "Used to describe the process of ordering online using a mobile device.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "用",
+          "py": "yòng",
+          "meaning": "use"
+        },
+        {
+          "zh": "手机",
+          "py": "shǒujī",
+          "meaning": "phone"
+        },
+        {
+          "zh": "下单",
+          "py": "xià dān",
+          "meaning": "place order"
+        }
+      ]
+    },
+    {
+      "chinese": "我需要买一个笔记本电脑。",
+      "pinyin": "Wǒ xūyào mǎi yīgè bǐjìběn diànnǎo.",
+      "translation": "I need to buy a laptop computer.",
+      "usage": "Used to express the need to purchase a specific electronic item.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "需要",
+          "py": "xūyào",
+          "meaning": "need"
+        },
+        {
+          "zh": "买",
+          "py": "mǎi",
+          "meaning": "buy"
+        },
+        {
+          "zh": "一个",
+          "py": "yīgè",
+          "meaning": "one"
+        },
+        {
+          "zh": "笔记本电脑",
+          "py": "bǐjìběn diànnǎo",
+          "meaning": "laptop"
+        }
+      ]
+    },
+    {
+      "chinese": "我想要一件毛衣。",
+      "pinyin": "Wǒ xiǎng yào yī jiàn máoyī.",
+      "translation": "I want to buy a sweater.",
+      "usage": "Used to express the desire to purchase a specific clothing item.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "想要",
+          "py": "xiǎng yào",
+          "meaning": "want to"
+        },
+        {
+          "zh": "一件",
+          "py": "yī jiàn",
+          "meaning": "one piece"
+        },
+        {
+          "zh": "毛衣",
+          "py": "máoyī",
+          "meaning": "sweater"
+        }
+      ]
+    },
+    {
+      "chinese": "这个商品有运费。",
+      "pinyin": "Zhège shāngpǐn yǒu yùnféi.",
+      "translation": "This product has shipping fee.",
+      "usage": "Used to indicate that a product includes shipping costs.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这个",
+          "py": "zhège",
+          "meaning": "this"
+        },
+        {
+          "zh": "商品",
+          "py": "shāngpǐn",
+          "meaning": "product"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "have"
+        },
+        {
+          "zh": "运费",
+          "py": "yùnféi",
+          "meaning": "shipping fee"
+        }
+      ]
+    }
+  ]
+}

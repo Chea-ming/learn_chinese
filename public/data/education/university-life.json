@@ -1,0 +1,166 @@
+{
+  "sentences": [
+    {
+      "chinese": "报到",
+      "pinyin": "Bàodào",
+      "translation": "Registration",
+      "usage": "The process of arriving at the university to complete enrollment.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "报",
+          "py": "Bào",
+          "meaning": "report"
+        },
+        {
+          "zh": "到",
+          "py": "Dào",
+          "meaning": "arrive"
+        }
+      ]
+    },
+    {
+      "chinese": "选课",
+      "pinyin": "Xuǎnkè",
+      "translation": "Course selection",
+      "usage": "Choosing courses for a semester.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "选",
+          "py": "Xuǎn",
+          "meaning": "choose"
+        },
+        {
+          "zh": "课",
+          "py": "Kè",
+          "meaning": "course"
+        }
+      ]
+    },
+    {
+      "chinese": "教授",
+      "pinyin": "Jiàoshòu",
+      "translation": "Professor",
+      "usage": "A senior academic title.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "教",
+          "py": "Jiào",
+          "meaning": "teach"
+        },
+        {
+          "zh": "授",
+          "py": "Shòu",
+          "meaning": "impart"
+        }
+      ]
+    },
+    {
+      "chinese": "教材",
+      "pinyin": "Jiàocái",
+      "translation": "Textbook",
+      "usage": "Official learning material for courses.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "教",
+          "py": "Jiào",
+          "meaning": "teach"
+        },
+        {
+          "zh": "材",
+          "py": "Cái",
+          "meaning": "material"
+        }
+      ]
+    },
+    {
+      "chinese": "考试",
+      "pinyin": "Kǎoshì",
+      "translation": "Exam",
+      "usage": "Assessment of academic knowledge.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "考",
+          "py": "Kǎo",
+          "meaning": "test"
+        },
+        {
+          "zh": "试",
+          "py": "Shì",
+          "meaning": "trial"
+        }
+      ]
+    },
+    {
+      "chinese": "论文",
+      "pinyin": "Lùnwén",
+      "translation": "Thesis/paper",
+      "usage": "Academic writing on a specific topic.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "论",
+          "py": "Lùn",
+          "meaning": "discuss"
+        },
+        {
+          "zh": "文",
+          "py": "Wén",
+          "meaning": "writing"
+        }
+      ]
+    },
+    {
+      "chinese": "图书馆",
+      "pinyin": "Túshūguǎn",
+      "translation": "Library",
+      "usage": "Place for studying and borrowing books.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "图",
+          "py": "Tú",
+          "meaning": "map"
+        },
+        {
+          "zh": "书",
+          "py": "Shū",
+          "meaning": "book"
+        },
+        {
+          "zh": "馆",
+          "py": "Guǎn",
+          "meaning": "building"
+        }
+      ]
+    },
+    {
+      "chinese": "学生会",
+      "pinyin": "Xuéshenghuì",
+      "translation": "Student council",
+      "usage": "Student-led organization for campus activities.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "学",
+          "py": "Xué",
+          "meaning": "study"
+        },
+        {
+          "zh": "生",
+          "py": "Shēng",
+          "meaning": "student"
+        },
+        {
+          "zh": "会",
+          "py": "Huì",
+          "meaning": "association"
+        }
+      ]
+    }
+  ]
+}

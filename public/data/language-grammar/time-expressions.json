@@ -1,0 +1,324 @@
+{
+  "sentences": [
+    {
+      "chinese": "今天",
+      "pinyin": "Jīntiān",
+      "translation": "Today",
+      "usage": "Used to refer to the current day.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "今",
+          "py": "jīn",
+          "meaning": "now"
+        },
+        {
+          "zh": "天",
+          "py": "tiān",
+          "meaning": "day"
+        }
+      ]
+    },
+    {
+      "chinese": "明天",
+      "pinyin": "Míngtiān",
+      "translation": "Tomorrow",
+      "usage": "Refers to the day after today.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "明",
+          "py": "míng",
+          "meaning": "bright"
+        },
+        {
+          "zh": "天",
+          "py": "tiān",
+          "meaning": "day"
+        }
+      ]
+    },
+    {
+      "chinese": "昨天",
+      "pinyin": "Zuótiān",
+      "translation": "Yesterday",
+      "usage": "Refers to the day before today.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "昨",
+          "py": "zuó",
+          "meaning": "past"
+        },
+        {
+          "zh": "天",
+          "py": "tiān",
+          "meaning": "day"
+        }
+      ]
+    },
+    {
+      "chinese": "现在",
+      "pinyin": "Xiànzài",
+      "translation": "Now",
+      "usage": "Used to indicate the current moment.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "现",
+          "py": "xiàn",
+          "meaning": "present"
+        },
+        {
+          "zh": "在",
+          "py": "zài",
+          "meaning": "exist"
+        }
+      ]
+    },
+    {
+      "chinese": "几点了",
+      "pinyin": "Jǐ diǎn le",
+      "translation": "What time is it?",
+      "usage": "Asks for the current time.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "几",
+          "py": "jǐ",
+          "meaning": "how many"
+        },
+        {
+          "zh": "点",
+          "py": "diǎn",
+          "meaning": "o'clock"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completion"
+        }
+      ]
+    },
+    {
+      "chinese": "一会儿",
+      "pinyin": "Yīhuìr",
+      "translation": "A while",
+      "usage": "Means 'in a moment' or 'for a short time'.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "会",
+          "py": "huì",
+          "meaning": "meet"
+        },
+        {
+          "zh": "儿",
+          "py": "r",
+          "meaning": "child (classifier)"
+        }
+      ]
+    },
+    {
+      "chinese": "立刻",
+      "pinyin": "Lìkè",
+      "translation": "Immediately",
+      "usage": "Used to emphasize urgency.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "立",
+          "py": "lì",
+          "meaning": "stand"
+        },
+        {
+          "zh": "刻",
+          "py": "kè",
+          "meaning": "instant"
+        }
+      ]
+    },
+    {
+      "chinese": "永远",
+      "pinyin": "Yǒnwēn",
+      "translation": "Forever",
+      "usage": "Means 'always' or 'permanently'.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "永",
+          "py": "yǒng",
+          "meaning": "eternal"
+        },
+        {
+          "zh": "远",
+          "py": "yuǎn",
+          "meaning": "far"
+        }
+      ]
+    },
+    {
+      "chinese": "之后",
+      "pinyin": "Zhīhòu",
+      "translation": "After",
+      "usage": "Indicates a time following another event.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "之",
+          "py": "zhī",
+          "meaning": "of"
+        },
+        {
+          "zh": "后",
+          "py": "hòu",
+          "meaning": "after"
+        }
+      ]
+    },
+    {
+      "chinese": "之前",
+      "pinyin": "Zhīqián",
+      "translation": "Before",
+      "usage": "Indicates a time prior to an event.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "之",
+          "py": "zhī",
+          "meaning": "of"
+        },
+        {
+          "zh": "前",
+          "py": "qián",
+          "meaning": "before"
+        }
+      ]
+    },
+    {
+      "chinese": "马上",
+      "pinyin": "Mǎshàng",
+      "translation": "Right away",
+      "usage": "Means 'immediately' or 'soon'.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "马",
+          "py": "mǎ",
+          "meaning": "horse"
+        },
+        {
+          "zh": "上",
+          "py": "shàng",
+          "meaning": "on"
+        }
+      ]
+    },
+    {
+      "chinese": "过一会儿",
+      "pinyin": "Guò yīhuìr",
+      "translation": "In a while",
+      "usage": "Used to indicate a short delay.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "过",
+          "py": "guò",
+          "meaning": "through"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "会",
+          "py": "huì",
+          "meaning": "meet"
+        },
+        {
+          "zh": "儿",
+          "py": "r",
+          "meaning": "child (classifier)"
+        }
+      ]
+    },
+    {
+      "chinese": "五分钟后",
+      "pinyin": "Wǔ fēnzhōng hòu",
+      "translation": "Five minutes later",
+      "usage": "Specifies a time in the future.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "五",
+          "py": "wǔ",
+          "meaning": "five"
+        },
+        {
+          "zh": "分",
+          "py": "fēn",
+          "meaning": "minute"
+        },
+        {
+          "zh": "钟",
+          "py": "zhōng",
+          "meaning": "bell"
+        },
+        {
+          "zh": "后",
+          "py": "hòu",
+          "meaning": "after"
+        }
+      ]
+    },
+    {
+      "chinese": "三年前",
+      "pinyin": "Sān nián qián",
+      "translation": "Three years ago",
+      "usage": "Refers to a time in the past.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "三",
+          "py": "sān",
+          "meaning": "three"
+        },
+        {
+          "zh": "年",
+          "py": "nián",
+          "meaning": "year"
+        },
+        {
+          "zh": "前",
+          "py": "qián",
+          "meaning": "before"
+        }
+      ]
+    },
+    {
+      "chinese": "每天",
+      "pinyin": "Měitiān",
+      "translation": "Every day",
+      "usage": "Indicates a daily routine.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "每",
+          "py": "měi",
+          "meaning": "every"
+        },
+        {
+          "zh": "天",
+          "py": "tiān",
+          "meaning": "day"
+        }
+      ]
+    }
+  ]
+}

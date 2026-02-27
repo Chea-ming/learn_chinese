@@ -1,0 +1,185 @@
+{
+  "sentences": [
+    {
+      "chinese": "风水",
+      "pinyin": "Fēng shuǐ",
+      "translation": "Feng Shui",
+      "usage": "The general term for the practice of arranging objects to harmonize with natural energy.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "风",
+          "py": "Fēng",
+          "meaning": "wind"
+        },
+        {
+          "zh": "水",
+          "py": "shuǐ",
+          "meaning": "water"
+        }
+      ]
+    },
+    {
+      "chinese": "化煞",
+      "pinyin": "Huà shà",
+      "translation": "Warding off evil spirits",
+      "usage": "Used when arranging objects to neutralize negative energy.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "化",
+          "py": "Huà",
+          "meaning": "ward off"
+        },
+        {
+          "zh": "煞",
+          "py": "shà",
+          "meaning": "evil spirit"
+        }
+      ]
+    },
+    {
+      "chinese": "聚气",
+      "pinyin": "Jù qì",
+      "translation": "Gathering energy",
+      "usage": "Used to describe concentrated positive energy in a space.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "聚",
+          "py": "Jù",
+          "meaning": "gather"
+        },
+        {
+          "zh": "气",
+          "py": "qì",
+          "meaning": "energy"
+        }
+      ]
+    },
+    {
+      "chinese": "明堂",
+      "pinyin": "Míng táng",
+      "translation": "Bright hall",
+      "usage": "An open, well-lit area in front of a building to enhance positive energy.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "明",
+          "py": "Míng",
+          "meaning": "bright"
+        },
+        {
+          "zh": "堂",
+          "py": "táng",
+          "meaning": "hall"
+        }
+      ]
+    },
+    {
+      "chinese": "开门见财",
+      "pinyin": "Kāi mén jiàn cái",
+      "translation": "Opening the door to see wealth",
+      "usage": "A phrase used when arranging a door to face a money-related object.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "开",
+          "py": "Kāi",
+          "meaning": "open"
+        },
+        {
+          "zh": "门",
+          "py": "mén",
+          "meaning": "door"
+        },
+        {
+          "zh": "见",
+          "py": "jiàn",
+          "meaning": "see"
+        },
+        {
+          "zh": "财",
+          "py": "cái",
+          "meaning": "wealth"
+        }
+      ]
+    },
+    {
+      "chinese": "气口",
+      "pinyin": "Qì kǒu",
+      "translation": "Energy gate",
+      "usage": "A path or entrance where energy flows into a space.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "气",
+          "py": "Qì",
+          "meaning": "energy"
+        },
+        {
+          "zh": "口",
+          "py": "kǒu",
+          "meaning": "gate/mouth"
+        }
+      ]
+    },
+    {
+      "chinese": "八卦",
+      "pinyin": "Bā guà",
+      "translation": "Eight Trigrams",
+      "usage": "Symbolic representations in Feng Shui for analyzing spatial relationships.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "八",
+          "py": "Bā",
+          "meaning": "eight"
+        },
+        {
+          "zh": "卦",
+          "py": "guà",
+          "meaning": "trigram"
+        }
+      ]
+    },
+    {
+      "chinese": "玄关",
+      "pinyin": "Xuán guān",
+      "translation": "Spirit gate",
+      "usage": "The transitional space between the interior and exterior of a home.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "玄",
+          "py": "Xuán",
+          "meaning": "mystic"
+        },
+        {
+          "zh": "关",
+          "py": "guān",
+          "meaning": "gate"
+        }
+      ]
+    },
+    {
+      "chinese": "五行",
+      "pinyin": "Wǔ xíng",
+      "translation": "Five Elements",
+      "usage": "Wood, fire, earth, metal, and water used in Feng Shui analysis.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "五",
+          "py": "Wǔ",
+          "meaning": "five"
+        },
+        {
+          "zh": "行",
+          "py": "xíng",
+          "meaning": "elements"
+        }
+      ]
+    }
+  ]
+}

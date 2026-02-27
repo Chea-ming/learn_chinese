@@ -1,0 +1,239 @@
+{
+  "sentences": [
+    {
+      "chinese": "我需要开户。",
+      "pinyin": "Wǒ xūyào kāi hù.",
+      "translation": "I need to open an account.",
+      "usage": "用于新客户申请账户",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "需要",
+          "py": "xūyào",
+          "meaning": "need"
+        },
+        {
+          "zh": "开户",
+          "py": "kāi hù",
+          "meaning": "open an account"
+        }
+      ]
+    },
+    {
+      "chinese": "请问存款需要什么证件？",
+      "pinyin": "Qǐngwèn cúnkuǎn xūyào shénme zhèngjiàn?",
+      "translation": "What documents do I need for a deposit?",
+      "usage": "询问存款要求",
+      "formality": "Polite",
+      "words": [
+        {
+          "zh": "请问",
+          "py": "qǐngwèn",
+          "meaning": "excuse me"
+        },
+        {
+          "zh": "存款",
+          "py": "cúnkuǎn",
+          "meaning": "deposit"
+        },
+        {
+          "zh": "需要",
+          "py": "xūyào",
+          "meaning": "need"
+        },
+        {
+          "zh": "证件",
+          "py": "zhèngjiàn",
+          "meaning": "documents"
+        }
+      ]
+    },
+    {
+      "chinese": "ATM机在哪里？",
+      "pinyin": "ATM jī zài nǎlǐ?",
+      "translation": "Where is the ATM machine?",
+      "usage": "询问自助银行位置",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "ATM机",
+          "py": "ATM jī",
+          "meaning": "ATM machine"
+        },
+        {
+          "zh": "在",
+          "py": "zài",
+          "meaning": "at"
+        },
+        {
+          "zh": "哪里",
+          "py": "nǎlǐ",
+          "meaning": "where"
+        }
+      ]
+    },
+    {
+      "chinese": "我要取5000元。",
+      "pinyin": "Wǒ yào qǔ wǔqiān yuán.",
+      "translation": "I want to withdraw 5000 yuan.",
+      "usage": "向柜员说明取款金额",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "want"
+        },
+        {
+          "zh": "取",
+          "py": "qǔ",
+          "meaning": "withdraw"
+        },
+        {
+          "zh": "5000元",
+          "py": "wǔqiān yuán",
+          "meaning": "5000 yuan"
+        }
+      ]
+    },
+    {
+      "chinese": "转账到哪个账户？",
+      "pinyin": "Zhuanzhang dào nǎge zhanghu?",
+      "translation": "Transfer to which account?",
+      "usage": "询问转账目标账户",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "转账",
+          "py": "zhuanzhang",
+          "meaning": "transfer money"
+        },
+        {
+          "zh": "到",
+          "py": "dào",
+          "meaning": "to"
+        },
+        {
+          "zh": "哪个",
+          "py": "nǎge",
+          "meaning": "which"
+        },
+        {
+          "zh": "账户",
+          "py": "zhanghu",
+          "meaning": "account"
+        }
+      ]
+    },
+    {
+      "chinese": "请填写这张汇款单。",
+      "pinyin": "Qǐng tiánxiě zhè zhāng huìkuǎn dān.",
+      "translation": "Please fill out this remittance form.",
+      "usage": "指示客户填写汇款单",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "填写",
+          "py": "tiánxiě",
+          "meaning": "fill out"
+        },
+        {
+          "zh": "汇款单",
+          "py": "huìkuǎn dān",
+          "meaning": "remittance form"
+        }
+      ]
+    },
+    {
+      "chinese": "我的银行卡丢了。",
+      "pinyin": "Wǒ de shèyòngkǎ diūle.",
+      "translation": "I lost my bank card.",
+      "usage": "报告银行卡遗失",
+      "formality": "Urgent",
+      "words": [
+        {
+          "zh": "我的",
+          "py": "wǒ de",
+          "meaning": "my"
+        },
+        {
+          "zh": "银行卡",
+          "py": "shèyòngkǎ",
+          "meaning": "bank card"
+        },
+        {
+          "zh": "丢了",
+          "py": "diūle",
+          "meaning": "lost"
+        }
+      ]
+    },
+    {
+      "chinese": "营业时间几点到几点？",
+      "pinyin": "Yíngyè shíjiān jǐ diǎn dào jǐ diǎn?",
+      "translation": "What are the business hours?",
+      "usage": "询问银行开放时间",
+      "formality": "Polite",
+      "words": [
+        {
+          "zh": "营业时间",
+          "py": "yíngyè shíjiān",
+          "meaning": "business hours"
+        },
+        {
+          "zh": "几点",
+          "py": "jǐ diǎn",
+          "meaning": "what time"
+        }
+      ]
+    },
+    {
+      "chinese": "预约了三个窗口。",
+      "pinyin": "Yuèyù le sān ge chuāngkǒu.",
+      "translation": "I have an appointment with three counters.",
+      "usage": "说明预约窗口数量",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "预约",
+          "py": "yuèyù",
+          "meaning": "appointment"
+        },
+        {
+          "zh": "窗口",
+          "py": "chuāngkǒu",
+          "meaning": "counter"
+        }
+      ]
+    },
+    {
+      "chinese": "这个业务需要多久？",
+      "pinyin": "Zhège yíwù xūyào duōjiǔ?",
+      "translation": "How long does this service take?",
+      "usage": "询问业务处理时间",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "业务",
+          "py": "yìwù",
+          "meaning": "service"
+        }
+      ]
+    }
+  ]
+}

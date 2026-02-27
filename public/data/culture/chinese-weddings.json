@@ -1,0 +1,208 @@
+{
+  "sentences": [
+    {
+      "chinese": "囍囍",
+      "pinyin": "Xǐ xǐ",
+      "translation": "Double Happy (囍 characters)",
+      "usage": "Used in wedding decorations to symbolize joy and auspiciousness.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "囍",
+          "py": "Xǐ",
+          "meaning": "Happy, auspicious"
+        }
+      ]
+    },
+    {
+      "chinese": "婚礼",
+      "pinyin": "Hūn lǐ",
+      "translation": "Wedding ceremony",
+      "usage": "General term for a wedding event.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "婚",
+          "py": "Hūn",
+          "meaning": "Marriage"
+        },
+        {
+          "zh": "礼",
+          "py": "Lǐ",
+          "meaning": "Ritual, ceremony"
+        }
+      ]
+    },
+    {
+      "chinese": "合卺",
+      "pinyin": "Hé jǐn",
+      "translation": "Joining cups (wedding toast)",
+      "usage": "Ancient tradition where couples drink from a shared cup to symbolize union.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "合",
+          "py": "Hé",
+          "meaning": "Unite, join"
+        },
+        {
+          "zh": "卺",
+          "py": "Jǐn",
+          "meaning": "Wedding cup"
+        }
+      ]
+    },
+    {
+      "chinese": "敬酒",
+      "pinyin": "Jìng jiǔ",
+      "translation": "Toasting at the banquet",
+      "usage": "Couples toast to guests during the wedding banquet.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "敬",
+          "py": "Jìng",
+          "meaning": "Respect, honor"
+        },
+        {
+          "zh": "酒",
+          "py": "Jiǔ",
+          "meaning": "Alcohol"
+        }
+      ]
+    },
+    {
+      "chinese": "拜堂",
+      "pinyin": "Bài táng",
+      "translation": "Wedding vows (bowing ceremony)",
+      "usage": "Couples bow to each other, parents, and ancestors during the ceremony.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "拜",
+          "py": "Bài",
+          "meaning": "Bow"
+        },
+        {
+          "zh": "堂",
+          "py": "Táng",
+          "meaning": "Hall (ceremony location)"
+        }
+      ]
+    },
+    {
+      "chinese": "红盖头",
+      "pinyin": "Hóng gài tóu",
+      "translation": "Red bride's veil",
+      "usage": "Traditional red cloth covering the bride's head during the ceremony.",
+      "formality": "Cultural",
+      "words": [
+        {
+          "zh": "红",
+          "py": "Hóng",
+          "meaning": "Red (auspicious color)"
+        },
+        {
+          "zh": "盖头",
+          "py": "Gàitóu",
+          "meaning": "Veil"
+        }
+      ]
+    },
+    {
+      "chinese": "茶礼",
+      "py": "Chá lǐ",
+      "translation": "Tea ceremony",
+      "usage": "Couples serve tea to guests as a sign of gratitude.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "茶",
+          "py": "Chá",
+          "meaning": "Tea"
+        },
+        {
+          "zh": "礼",
+          "py": "Lǐ",
+          "meaning": "Ritual"
+        }
+      ]
+    },
+    {
+      "chinese": "囍字",
+      "pinyin": "Xǐ zì",
+      "translation": "Double happiness character",
+      "usage": "Symbolic character displayed at weddings for good fortune.",
+      "formality": "Cultural",
+      "words": [
+        {
+          "zh": "囍",
+          "py": "Xǐ",
+          "meaning": "Happy"
+        },
+        {
+          "zh": "字",
+          "py": "Zì",
+          "meaning": "Character"
+        }
+      ]
+    },
+    {
+      "chinese": "迎亲",
+      "pinyin": "Yíng qīn",
+      "translation": "Groom's arrival to pick up the bride",
+      "usage": "Groom travels to the bride's home to take her to the ceremony.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "迎",
+          "py": "Yíng",
+          "meaning": "Welcome"
+        },
+        {
+          "zh": "亲",
+          "py": "Qīn",
+          "meaning": "Relative (bride's family)"
+        }
+      ]
+    },
+    {
+      "chinese": "婚宴",
+      "pinyin": "Hūn yàn",
+      "translation": "Wedding banquet",
+      "usage": "Formal meal celebrating the union.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "婚",
+          "py": "Hūn",
+          "meaning": "Marriage"
+        },
+        {
+          "zh": "宴",
+          "py": "Yàn",
+          "meaning": "Feast"
+        }
+      ]
+    },
+    {
+      "chinese": "撒红包",
+      "pinyin": "Sā hóngbāo",
+      "translation": "Giving red envelopes",
+      "usage": "Guests give money in red envelopes as a wedding gift.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "撒",
+          "py": "Sā",
+          "meaning": "Distribute"
+        },
+        {
+          "zh": "红包",
+          "py": "Hóngbāo",
+          "meaning": "Red envelope"
+        }
+      ]
+    }
+  ]
+}

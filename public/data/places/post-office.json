@@ -1,0 +1,193 @@
+{
+  "sentences": [
+    {
+      "chinese": "邮局",
+      "pinyin": "Yóu jú",
+      "translation": "Post office",
+      "usage": "The main facility for postal services.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "邮",
+          "py": "yóu",
+          "meaning": "mail"
+        },
+        {
+          "zh": "局",
+          "py": "jú",
+          "meaning": "office"
+        }
+      ]
+    },
+    {
+      "chinese": "我需要寄一封信。",
+      "pinyin": "Wǒ xū yào jì yī fēng xìn.",
+      "translation": "I need to send a letter.",
+      "usage": "Requesting postal service for sending a letter.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "需要",
+          "py": "xū yào",
+          "meaning": "need"
+        },
+        {
+          "zh": "寄",
+          "py": "jì",
+          "meaning": "send"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "封",
+          "py": "fēng",
+          "meaning": "letter"
+        },
+        {
+          "zh": "信",
+          "py": "xìn",
+          "meaning": "letter"
+        }
+      ]
+    },
+    {
+      "chinese": "邮费多少钱？",
+      "pinyin": "Yóu fèi duō shǎo qián?",
+      "translation": "How much is the postage?",
+      "usage": "Asking about postal fees.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "邮",
+          "py": "yóu",
+          "meaning": "mail"
+        },
+        {
+          "zh": "费",
+          "py": "fèi",
+          "meaning": "cost"
+        },
+        {
+          "zh": "多",
+          "py": "duō",
+          "meaning": "how much"
+        },
+        {
+          "zh": "少",
+          "py": "shǎo",
+          "meaning": "little"
+        },
+        {
+          "zh": "钱",
+          "py": "qián",
+          "meaning": "money"
+        }
+      ]
+    },
+    {
+      "chinese": "请贴邮票。",
+      "pinyin": "Qǐng tiē yóu piào.",
+      "translation": "Please stick the stamp.",
+      "usage": "Instruction for applying a stamp.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "贴",
+          "py": "tiē",
+          "meaning": "stick"
+        },
+        {
+          "zh": "邮",
+          "py": "yóu",
+          "meaning": "mail"
+        },
+        {
+          "zh": "票",
+          "py": "piào",
+          "meaning": "stamp"
+        }
+      ]
+    },
+    {
+      "chinese": "快递需要多久？",
+      "pinyin": "Kuài dì xū yào duō jiǔ?",
+      "translation": "How long does express delivery take?",
+      "usage": "Asking about delivery time for express mail.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "快",
+          "py": "kuài",
+          "meaning": "fast"
+        },
+        {
+          "zh": "递",
+          "py": "dì",
+          "meaning": "delivery"
+        },
+        {
+          "zh": "需",
+          "py": "xū",
+          "meaning": "need"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "must"
+        },
+        {
+          "zh": "多",
+          "py": "duō",
+          "meaning": "how much"
+        },
+        {
+          "zh": "久",
+          "py": "jiǔ",
+          "meaning": "long"
+        }
+      ]
+    },
+    {
+      "chinese": "地址写清楚。",
+      "pinyin": "Dì zhǐ xiě qīng chǔ.",
+      "translation": "Write the address clearly.",
+      "usage": "Instruction for filling out an address.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "地",
+          "py": "dì",
+          "meaning": "address"
+        },
+        {
+          "zh": "址",
+          "py": "zhǐ",
+          "meaning": "address"
+        },
+        {
+          "zh": "写",
+          "py": "xiě",
+          "meaning": "write"
+        },
+        {
+          "zh": "清",
+          "py": "qīng",
+          "meaning": "clear"
+        }
+      ]
+    }
+  ]
+}

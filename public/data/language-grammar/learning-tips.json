@@ -1,0 +1,280 @@
+{
+  "sentences": [
+    {
+      "chinese": "主动学习",
+      "pinyin": "Zhǔ dòng xuéxí",
+      "translation": "Active learning",
+      "usage": "Describes self-driven study methods.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "主",
+          "py": "zhǔ",
+          "meaning": "main"
+        },
+        {
+          "zh": "动",
+          "py": "dòng",
+          "meaning": "active"
+        },
+        {
+          "zh": "学",
+          "py": "xué",
+          "meaning": "study"
+        },
+        {
+          "zh": "习",
+          "py": "xí",
+          "meaning": "practice"
+        }
+      ]
+    },
+    {
+      "chinese": "制定计划",
+      "pinyin": "Zhìdìng jìhuà",
+      "translation": "Set a plan",
+      "usage": "Used for creating study schedules.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "制",
+          "py": "zhì",
+          "meaning": "formulate"
+        },
+        {
+          "zh": "定",
+          "py": "dìng",
+          "meaning": "establish"
+        },
+        {
+          "zh": "计",
+          "py": "jì",
+          "meaning": "plan"
+        },
+        {
+          "zh": "划",
+          "py": "huà",
+          "meaning": "strategy"
+        }
+      ]
+    },
+    {
+      "chinese": "间隔重复",
+      "pinyin": "Jiàn gé chóngfù",
+      "translation": "Spaced repetition",
+      "usage": "A memory retention technique.",
+      "formality": "Technical",
+      "words": [
+        {
+          "zh": "间",
+          "py": "jiàn",
+          "meaning": "interval"
+        },
+        {
+          "zh": "隔",
+          "py": "gé",
+          "meaning": "gap"
+        },
+        {
+          "zh": "重",
+          "py": "chóng",
+          "meaning": "re-"
+        },
+        {
+          "zh": "复",
+          "py": "fù",
+          "meaning": "repeat"
+        }
+      ]
+    },
+    {
+      "chinese": "多感官学习",
+      "pinyin": "Duō gānchuan xuéxí",
+      "translation": "Multisensory learning",
+      "usage": "Involves visual, auditory, and tactile methods.",
+      "formality": "Academic",
+      "words": [
+        {
+          "zh": "多",
+          "py": "duō",
+          "meaning": "multiple"
+        },
+        {
+          "zh": "感",
+          "py": "gǎn",
+          "meaning": "sensory"
+        },
+        {
+          "zh": "官",
+          "py": "guān",
+          "meaning": "organ"
+        },
+        {
+          "zh": "学",
+          "py": "xué",
+          "meaning": "study"
+        },
+        {
+          "zh": "习",
+          "py": "xí",
+          "meaning": "practice"
+        }
+      ]
+    },
+    {
+      "chinese": "分阶段学习",
+      "pinyin": "Fēn jiēduàn xuéxí",
+      "translation": "Staged learning",
+      "usage": "Breaking down content into phases.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "分",
+          "py": "fēn",
+          "meaning": "divide"
+        },
+        {
+          "zh": "阶",
+          "py": "jiē",
+          "meaning": "stage"
+        },
+        {
+          "zh": "段",
+          "py": "duàn",
+          "meaning": "section"
+        },
+        {
+          "zh": "学",
+          "py": "xué",
+          "meaning": "study"
+        },
+        {
+          "zh": "习",
+          "py": "xí",
+          "meaning": "practice"
+        }
+      ]
+    },
+    {
+      "chinese": "关联记忆",
+      "pinyin": "Guānlián jìyì",
+      "translation": "Associative memory",
+      "usage": "Linking new info with existing knowledge.",
+      "formality": "Technical",
+      "words": [
+        {
+          "zh": "关",
+          "py": "guān",
+          "meaning": "related"
+        },
+        {
+          "zh": "联",
+          "py": "lián",
+          "meaning": "connect"
+        },
+        {
+          "zh": "记",
+          "py": "jì",
+          "meaning": "memory"
+        },
+        {
+          "zh": "忆",
+          "py": "yì",
+          "meaning": "recollection"
+        }
+      ]
+    },
+    {
+      "chinese": "沉浸式学习",
+      "pinyin": "Chénjìn shì xuéxí",
+      "translation": "Immersive learning",
+      "usage": "Surrounding oneself with the language.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "沉",
+          "py": "chén",
+          "meaning": "submerge"
+        },
+        {
+          "zh": "浸",
+          "py": "jìn",
+          "meaning": "soak"
+        },
+        {
+          "zh": "式",
+          "py": "shì",
+          "meaning": "style"
+        },
+        {
+          "zh": "学",
+          "py": "xué",
+          "meaning": "study"
+        },
+        {
+          "zh": "习",
+          "py": "xí",
+          "meaning": "practice"
+        }
+      ]
+    },
+    {
+      "chinese": "错误分析",
+      "pinyin": "Cuòwù fēnxī",
+      "translation": "Error analysis",
+      "usage": "Reviewing mistakes to improve.",
+      "formality": "Academic",
+      "words": [
+        {
+          "zh": "错",
+          "py": "cuò",
+          "meaning": "error"
+        },
+        {
+          "zh": "误",
+          "py": "wù",
+          "meaning": "mistake"
+        },
+        {
+          "zh": "分",
+          "py": "fēn",
+          "meaning": "analyze"
+        },
+        {
+          "zh": "析",
+          "py": "xī",
+          "meaning": "breakdown"
+        }
+      ]
+    },
+    {
+      "chinese": "自我测试",
+      "pinyin": "Zìwǒ cèshì",
+      "translation": "Self-testing",
+      "usage": "Practicing recall through quizzes.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "自",
+          "py": "zì",
+          "meaning": "self"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "测",
+          "py": "cè",
+          "meaning": "test"
+        },
+        {
+          "zh": "试",
+          "py": "shì",
+          "meaning": "exam"
+        }
+      ]
+    }
+  ]
+}

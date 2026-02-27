@@ -1,0 +1,809 @@
+{
+  "sentences": [
+    {
+      "chinese": "你好！",
+      "pinyin": "Nǐ hǎo!",
+      "translation": "Hello!",
+      "usage": "The standard, all-purpose greeting. Suitable for almost any situation.",
+      "formality": "Neutral / Informal",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good / well"
+        }
+      ]
+    },
+    {
+      "chinese": "很高兴认识你！",
+      "pinyin": "Hěn héngāo rènshí nǐ!",
+      "translation": "Nice to meet you!",
+      "usage": "Used when meeting someone for the first time.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "高",
+          "py": "gāo",
+          "meaning": "high / good"
+        },
+        {
+          "zh": "兴",
+          "py": "xīng",
+          "meaning": "happy / to be interested"
+        },
+        {
+          "zh": "认",
+          "py": "rèn",
+          "meaning": "to recognize / to know"
+        },
+        {
+          "zh": "识",
+          "py": "shí",
+          "meaning": "to know / to recognize"
+        },
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        }
+      ]
+    },
+    {
+      "chinese": "请问，你是哪里人？",
+      "pinyin": "Qǐng wèn, nǐ shì nǎlǐ rén?",
+      "translation": "Excuse me, where are you from?",
+      "usage": "A polite way to ask about someone's origin or hometown.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "问",
+          "py": "wèn",
+          "meaning": "to ask"
+        },
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "to be"
+        },
+        {
+          "zh": "哪",
+          "py": "nǎ",
+          "meaning": "which"
+        },
+        {
+          "zh": "里",
+          "py": "lǐ",
+          "meaning": "place / inside"
+        },
+        {
+          "zh": "人",
+          "py": "rén",
+          "meaning": "person"
+        }
+      ]
+    },
+    {
+      "chinese": "我们是朋友。",
+      "pinyin": "Wǒmen shì péngyou.",
+      "translation": "We are friends.",
+      "usage": "Used to state that two people are friends.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / we"
+        },
+        {
+          "zh": "们",
+          "py": "men",
+          "meaning": "plural marker"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "to be"
+        },
+        {
+          "zh": "朋",
+          "py": "péng",
+          "meaning": "friend"
+        },
+        {
+          "zh": "友",
+          "py": "you",
+          "meaning": "friend"
+        }
+      ]
+    },
+    {
+      "chinese": "你叫什么名字？",
+      "pinyin": "Nǐ jiào shénme míngzi?",
+      "translation": "What is your name?",
+      "usage": "Used to ask someone's name in a casual way.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "叫",
+          "py": "jiào",
+          "meaning": "to call"
+        },
+        {
+          "zh": "什",
+          "py": "shén",
+          "meaning": "what"
+        },
+        {
+          "zh": "么",
+          "py": "me",
+          "meaning": "what"
+        },
+        {
+          "zh": "名",
+          "py": "míng",
+          "meaning": "name"
+        },
+        {
+          "zh": "字",
+          "py": "zi",
+          "meaning": "word / character"
+        }
+      ]
+    },
+    {
+      "chinese": "我可以认识你吗？",
+      "pinyin": "Wǒ kěyǐ rènshí nǐ ma?",
+      "translation": "Can I get to know you?",
+      "usage": "Used to politely ask if you can befriend someone.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "可",
+          "py": "kě",
+          "meaning": "can"
+        },
+        {
+          "zh": "以",
+          "py": "yǐ",
+          "meaning": "to be able to"
+        },
+        {
+          "zh": "认",
+          "py": "rèn",
+          "meaning": "to know"
+        },
+        {
+          "zh": "识",
+          "py": "shí",
+          "meaning": "to recognize"
+        },
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        }
+      ]
+    },
+    {
+      "chinese": "我们一起玩吧！",
+      "pinyin": "Wǒmen yīqǐ wán ba!",
+      "translation": "Let's play together!",
+      "usage": "Used to invite someone to do something fun together.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "们",
+          "py": "men",
+          "meaning": "plural marker"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one / together"
+        },
+        {
+          "zh": "起",
+          "py": "qǐ",
+          "meaning": "together"
+        },
+        {
+          "zh": "玩",
+          "py": "wán",
+          "meaning": "to play"
+        },
+        {
+          "zh": "吧",
+          "py": "ba",
+          "meaning": "let's"
+        }
+      ]
+    },
+    {
+      "chinese": "我们交个朋友好吗？",
+      "pinyin": "Wǒmen jiāo gè péngyou hǎo ma?",
+      "translation": "Would you like to be friends with me?",
+      "usage": "Used to formally propose friendship.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "们",
+          "py": "men",
+          "meaning": "plural marker"
+        },
+        {
+          "zh": "交",
+          "py": "jiāo",
+          "meaning": "to make / to form"
+        },
+        {
+          "zh": "个",
+          "py": "gè",
+          "meaning": "a unit of measure"
+        },
+        {
+          "zh": "朋",
+          "py": "péng",
+          "meaning": "friend"
+        },
+        {
+          "zh": "友",
+          "py": "you",
+          "meaning": "friend"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "你有空吗？",
+      "pinyin": "Nǐ yǒu kòng ma?",
+      "translation": "Are you free?",
+      "usage": "Used to ask if someone has time to do something together.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "to have"
+        },
+        {
+          "zh": "空",
+          "py": "kòng",
+          "meaning": "free time"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "我们可以做朋友。",
+      "pinyin": "Wǒmen kěyǐ zuò péngyou.",
+      "translation": "We can be friends.",
+      "usage": "Used to express willingness to become friends.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "们",
+          "py": "men",
+          "meaning": "plural marker"
+        },
+        {
+          "zh": "可",
+          "py": "kě",
+          "meaning": "can"
+        },
+        {
+          "zh": "以",
+          "py": "yǐ",
+          "meaning": "to be able to"
+        },
+        {
+          "zh": "做",
+          "py": "zuò",
+          "meaning": "to do"
+        },
+        {
+          "zh": "朋",
+          "py": "péng",
+          "meaning": "friend"
+        },
+        {
+          "zh": "友",
+          "py": "you",
+          "meaning": "friend"
+        }
+      ]
+    },
+    {
+      "chinese": "你愿意和我交朋友吗？",
+      "pinyin": "Nǐ yuànyì hé wǒ jiāo péngyou ma?",
+      "translation": "Would you like to be my friend?",
+      "usage": "Used to politely ask someone to be your friend.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "愿",
+          "py": "yuàn",
+          "meaning": "to wish"
+        },
+        {
+          "zh": "意",
+          "py": "yì",
+          "meaning": "to want"
+        },
+        {
+          "zh": "和",
+          "py": "hé",
+          "meaning": "with"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "交",
+          "py": "jiāo",
+          "meaning": "to make"
+        },
+        {
+          "zh": "朋",
+          "py": "péng",
+          "meaning": "friend"
+        },
+        {
+          "zh": "友",
+          "py": "you",
+          "meaning": "friend"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "我们可以一起吃饭吗？",
+      "pinyin": "Wǒmen kěyǐ yīqǐ chīfàn ma?",
+      "translation": "Can we eat together?",
+      "usage": "Used to invite someone to have a meal with you.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "们",
+          "py": "men",
+          "meaning": "plural marker"
+        },
+        {
+          "zh": "可",
+          "py": "kě",
+          "meaning": "can"
+        },
+        {
+          "zh": "以",
+          "py": "yǐ",
+          "meaning": "to be able to"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "起",
+          "py": "qǐ",
+          "meaning": "together"
+        },
+        {
+          "zh": "吃",
+          "py": "chī",
+          "meaning": "to eat"
+        },
+        {
+          "zh": "饭",
+          "py": "fàn",
+          "meaning": "meal / rice"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "你有什么爱好？",
+      "pinyin": "Nǐ yǒu shénme àihào?",
+      "translation": "What are your hobbies?",
+      "usage": "Used to ask about someone's interests or favorite activities.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "to have"
+        },
+        {
+          "zh": "什",
+          "py": "shén",
+          "meaning": "what"
+        },
+        {
+          "zh": "么",
+          "py": "me",
+          "meaning": "what"
+        },
+        {
+          "zh": "爱",
+          "py": "ài",
+          "meaning": "to love"
+        },
+        {
+          "zh": "好",
+          "py": "hào",
+          "meaning": "to like"
+        }
+      ]
+    },
+    {
+      "chinese": "我也喜欢交朋友。",
+      "pinyin": "Wǒ yě xǐhuān jiāo péngyou.",
+      "translation": "I also like making friends.",
+      "usage": "Used to express that you enjoy making new friends.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "也",
+          "py": "yě",
+          "meaning": "also"
+        },
+        {
+          "zh": "喜",
+          "py": "xǐ",
+          "meaning": "to like"
+        },
+        {
+          "zh": "欢",
+          "py": "huān",
+          "meaning": "to enjoy"
+        },
+        {
+          "zh": "交",
+          "py": "jiāo",
+          "meaning": "to make"
+        },
+        {
+          "zh": "朋",
+          "py": "péng",
+          "meaning": "friend"
+        },
+        {
+          "zh": "友",
+          "py": "you",
+          "meaning": "friend"
+        }
+      ]
+    },
+    {
+      "chinese": "我们可以互相帮助。",
+      "pinyin": "Wǒmen kěyǐ hùxiāng bāngzhù.",
+      "translation": "We can help each other.",
+      "usage": "Used to express willingness to support one another.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "们",
+          "py": "men",
+          "meaning": "plural marker"
+        },
+        {
+          "zh": "可",
+          "py": "kě",
+          "meaning": "can"
+        },
+        {
+          "zh": "以",
+          "py": "yǐ",
+          "meaning": "to be able to"
+        },
+        {
+          "zh": "互",
+          "py": "hù",
+          "meaning": "mutual"
+        },
+        {
+          "zh": "相",
+          "py": "xiāng",
+          "meaning": "each other"
+        },
+        {
+          "zh": "帮",
+          "py": "bāng",
+          "meaning": "to help"
+        },
+        {
+          "zh": "助",
+          "py": "zhù",
+          "meaning": "to assist"
+        }
+      ]
+    },
+    {
+      "chinese": "我们是同学。",
+      "pinyin": "Wǒmen shì tóngxué.",
+      "translation": "We are classmates.",
+      "usage": "Used when describing a relationship with someone in school.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "们",
+          "py": "men",
+          "meaning": "plural marker"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "to be"
+        },
+        {
+          "zh": "同",
+          "py": "tóng",
+          "meaning": "same"
+        },
+        {
+          "zh": "学",
+          "py": "xué",
+          "meaning": "school"
+        }
+      ]
+    },
+    {
+      "chinese": "我们可以成为好朋友。",
+      "pinyin": "Wǒmen kěyǐ chéngwéi hǎo péngyou.",
+      "translation": "We can become good friends.",
+      "usage": "Used to express hope for a close friendship.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "们",
+          "py": "men",
+          "meaning": "plural marker"
+        },
+        {
+          "zh": "可",
+          "py": "kě",
+          "meaning": "can"
+        },
+        {
+          "zh": "以",
+          "py": "yǐ",
+          "meaning": "to be able to"
+        },
+        {
+          "zh": "成",
+          "py": "chéng",
+          "meaning": "to become"
+        },
+        {
+          "zh": "为",
+          "py": "wéi",
+          "meaning": "to be"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good"
+        },
+        {
+          "zh": "朋",
+          "py": "péng",
+          "meaning": "friend"
+        },
+        {
+          "zh": "友",
+          "py": "you",
+          "meaning": "friend"
+        }
+      ]
+    },
+    {
+      "chinese": "我们是朋友。",
+      "pinyin": "Wǒmen shì péngyou.",
+      "translation": "We are friends.",
+      "usage": "Used to state that you are friends with someone.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "们",
+          "py": "men",
+          "meaning": "plural marker"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "to be"
+        },
+        {
+          "zh": "朋",
+          "py": "péng",
+          "meaning": "friend"
+        },
+        {
+          "zh": "友",
+          "py": "you",
+          "meaning": "friend"
+        }
+      ]
+    },
+    {
+      "chinese": "你真好。",
+      "pinyin": "Nǐ zhēn hǎo.",
+      "translation": "You are really nice.",
+      "usage": "Used to express appreciation for someone's kindness.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "真",
+          "py": "zhēn",
+          "meaning": "really"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good"
+        }
+      ]
+    },
+    {
+      "chinese": "我们永远是朋友。",
+      "pinyin": "Wǒmen yǒngyuǎn shì péngyou.",
+      "translation": "We will always be friends.",
+      "usage": "Used to express a lasting friendship.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "们",
+          "py": "men",
+          "meaning": "plural marker"
+        },
+        {
+          "zh": "永",
+          "py": "yǒng",
+          "meaning": "always"
+        },
+        {
+          "zh": "远",
+          "py": "yuǎn",
+          "meaning": "far"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "to be"
+        },
+        {
+          "zh": "朋",
+          "py": "péng",
+          "meaning": "friend"
+        },
+        {
+          "zh": "友",
+          "py": "you",
+          "meaning": "friend"
+        }
+      ]
+    }
+  ]
+}

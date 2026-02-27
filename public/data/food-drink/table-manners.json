@@ -1,0 +1,799 @@
+{
+  "sentences": [
+    {
+      "chinese": "请慢用。",
+      "pinyin": "qǐng màn yòng。",
+      "translation": "Please help yourself.",
+      "usage": "Used when offering food to others or inviting someone to eat.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "慢",
+          "py": "màn",
+          "meaning": "slowly / take your time"
+        },
+        {
+          "zh": "用",
+          "py": "yòng",
+          "meaning": "use / eat"
+        }
+      ]
+    },
+    {
+      "chinese": "请不要客气。",
+      "pinyin": "qǐng bù yào kè qi。",
+      "translation": "Please don't be shy.",
+      "usage": "Used to encourage someone to help themselves to food.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "不",
+          "py": "bù",
+          "meaning": "not"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "want / need"
+        },
+        {
+          "zh": "客",
+          "py": "kè",
+          "meaning": "guest / polite"
+        },
+        {
+          "zh": "气",
+          "py": "qì",
+          "meaning": "air / spirit"
+        }
+      ]
+    },
+    {
+      "chinese": "请用餐。",
+      "pinyin": "qǐng cān yòng。",
+      "translation": "Please eat.",
+      "usage": "Used to invite people to start eating or to begin a meal.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "用",
+          "py": "yòng",
+          "meaning": "use / eat"
+        },
+        {
+          "zh": "餐",
+          "py": "cān",
+          "meaning": "meal"
+        }
+      ]
+    },
+    {
+      "chinese": "请先吃。",
+      "pinyin": "qǐng xiān chī。",
+      "translation": "Please go ahead and eat.",
+      "usage": "Used to invite someone to start eating first.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "先",
+          "py": "xiān",
+          "meaning": "first"
+        },
+        {
+          "zh": "吃",
+          "py": "chī",
+          "meaning": "eat"
+        }
+      ]
+    },
+    {
+      "chinese": "请等一下。",
+      "pinyin": "qǐng děng yī xià。",
+      "translation": "Please wait a moment.",
+      "usage": "Used when asking someone to wait before eating.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "等",
+          "py": "děng",
+          "meaning": "wait"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "下",
+          "py": "xià",
+          "meaning": "a little / moment"
+        }
+      ]
+    },
+    {
+      "chinese": "请不要浪费食物。",
+      "pinyin": "qǐng bù yào làng fèi shí wù。",
+      "translation": "Please don't waste food.",
+      "usage": "Used to remind someone not to waste food during a meal.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "不",
+          "py": "bù",
+          "meaning": "not"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "want / need"
+        },
+        {
+          "zh": "浪",
+          "py": "làng",
+          "meaning": "waste"
+        },
+        {
+          "zh": "费",
+          "py": "fèi",
+          "meaning": "waste / spend"
+        },
+        {
+          "zh": "食",
+          "py": "shí",
+          "meaning": "food"
+        },
+        {
+          "zh": "物",
+          "py": "wù",
+          "meaning": "thing / object"
+        }
+      ]
+    },
+    {
+      "chinese": "请不要发出声音。",
+      "pinyin": "qǐng bù yào fā chū shēng yīn。",
+      "translation": "Please don't make noise.",
+      "usage": "Used to ask someone to be quiet while eating.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "不",
+          "py": "bù",
+          "meaning": "not"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "want / need"
+        },
+        {
+          "zh": "发",
+          "py": "fā",
+          "meaning": "emit / produce"
+        },
+        {
+          "zh": "出",
+          "py": "chū",
+          "meaning": "out"
+        },
+        {
+          "zh": "声",
+          "py": "shēng",
+          "meaning": "sound"
+        },
+        {
+          "zh": "音",
+          "py": "yīn",
+          "meaning": "sound / voice"
+        }
+      ]
+    },
+    {
+      "chinese": "请把筷子放好。",
+      "pinyin": "qǐng bǎ kuài zi fàng hǎo。",
+      "translation": "Please put the chopsticks down properly.",
+      "usage": "Used to remind someone to put down their chopsticks after eating.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "把",
+          "py": "bǎ",
+          "meaning": "to put / to place"
+        },
+        {
+          "zh": "筷",
+          "py": "kuài",
+          "meaning": "chopstick"
+        },
+        {
+          "zh": "子",
+          "py": "zi",
+          "meaning": "small / child / suffix"
+        },
+        {
+          "zh": "放",
+          "py": "fàng",
+          "meaning": "put / place"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good / well"
+        }
+      ]
+    },
+    {
+      "chinese": "请慢慢吃。",
+      "pinyin": "qǐng màn màn chī。",
+      "translation": "Please eat slowly.",
+      "usage": "Used to remind someone to chew their food carefully and slowly.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "慢",
+          "py": "màn",
+          "meaning": "slowly"
+        },
+        {
+          "zh": "慢",
+          "py": "màn",
+          "meaning": "slowly"
+        },
+        {
+          "zh": "吃",
+          "py": "chī",
+          "meaning": "eat"
+        }
+      ]
+    },
+    {
+      "chinese": "请不要说话。",
+      "pinyin": "qǐng bù yào shuō huà。",
+      "translation": "Please don't talk.",
+      "usage": "Used to ask someone to be quiet while eating.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "不",
+          "py": "bù",
+          "meaning": "not"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "want / need"
+        },
+        {
+          "zh": "说",
+          "py": "shuō",
+          "meaning": "speak"
+        },
+        {
+          "zh": "话",
+          "py": "huà",
+          "meaning": "words / speech"
+        }
+      ]
+    },
+    {
+      "chinese": "请不要用手抓食物。",
+      "pinyin": "qǐng bù yào yòng shǒu zhuā shí wù。",
+      "translation": "Please don't use your hands to grab food.",
+      "usage": "Used to remind someone to use utensils instead of hands.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "不",
+          "py": "bù",
+          "meaning": "not"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "want / need"
+        },
+        {
+          "zh": "用",
+          "py": "yòng",
+          "meaning": "use"
+        },
+        {
+          "zh": "手",
+          "py": "shǒu",
+          "meaning": "hand"
+        },
+        {
+          "zh": "抓",
+          "py": "zhuā",
+          "meaning": "grab"
+        },
+        {
+          "zh": "食",
+          "py": "shí",
+          "meaning": "food"
+        },
+        {
+          "zh": "物",
+          "py": "wù",
+          "meaning": "thing"
+        }
+      ]
+    },
+    {
+      "chinese": "请不要吃太快。",
+      "pinyin": "qǐng bù yào chī tài kuài。",
+      "translation": "Please don't eat too quickly.",
+      "usage": "Used to remind someone to chew slowly and not rush their meal.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "不",
+          "py": "bù",
+          "meaning": "not"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "want / need"
+        },
+        {
+          "zh": "吃",
+          "py": "chī",
+          "meaning": "eat"
+        },
+        {
+          "zh": "太",
+          "py": "tài",
+          "meaning": "too / very"
+        },
+        {
+          "zh": "快",
+          "py": "kuài",
+          "meaning": "fast"
+        }
+      ]
+    },
+    {
+      "chinese": "请把碗放下。",
+      "pinyin": "qǐng bǎ wǎn fàng xià。",
+      "translation": "Please put the bowl down.",
+      "usage": "Used to ask someone to place their bowl on the table.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "把",
+          "py": "bǎ",
+          "meaning": "to put / to place"
+        },
+        {
+          "zh": "碗",
+          "py": "wǎn",
+          "meaning": "bowl"
+        },
+        {
+          "zh": "放",
+          "py": "fàng",
+          "meaning": "put / place"
+        },
+        {
+          "zh": "下",
+          "py": "xià",
+          "meaning": "down"
+        }
+      ]
+    },
+    {
+      "chinese": "请不要把汤洒了。",
+      "pinyin": "qǐng bù yào bǎ tāng sǎ le。",
+      "translation": "Please don't spill the soup.",
+      "usage": "Used to warn someone not to spill their soup while eating.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "不",
+          "py": "bù",
+          "meaning": "not"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "want / need"
+        },
+        {
+          "zh": "把",
+          "py": "bǎ",
+          "meaning": "to put / to place"
+        },
+        {
+          "zh": "汤",
+          "py": "tāng",
+          "meaning": "soup"
+        },
+        {
+          "zh": "洒",
+          "py": "sǎ",
+          "meaning": "spill"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed action marker"
+        }
+      ]
+    },
+    {
+      "chinese": "请不要把菜弄脏。",
+      "pinyin": "qǐng bù yào bǎ cài nòng zāng。",
+      "translation": "Please don't make the food dirty.",
+      "usage": "Used to remind someone not to dirty their food while eating.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "不",
+          "py": "bù",
+          "meaning": "not"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "want / need"
+        },
+        {
+          "zh": "把",
+          "py": "bǎ",
+          "meaning": "to put / to place"
+        },
+        {
+          "zh": "菜",
+          "py": "cài",
+          "meaning": "dish / food"
+        },
+        {
+          "zh": "弄",
+          "py": "nòng",
+          "meaning": "to make / to do"
+        },
+        {
+          "zh": "脏",
+          "py": "zāng",
+          "meaning": "dirty"
+        }
+      ]
+    },
+    {
+      "chinese": "请不要把筷子放错地方。",
+      "pinyin": "qǐng bù yào bǎ kuài zi fàng cuò dì fang。",
+      "translation": "Please don't put the chopsticks in the wrong place.",
+      "usage": "Used to remind someone to put chopsticks in the proper position.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "不",
+          "py": "bù",
+          "meaning": "not"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "want / need"
+        },
+        {
+          "zh": "把",
+          "py": "bǎ",
+          "meaning": "to put / to place"
+        },
+        {
+          "zh": "筷",
+          "py": "kuài",
+          "meaning": "chopstick"
+        },
+        {
+          "zh": "子",
+          "py": "zi",
+          "meaning": "small / child / suffix"
+        },
+        {
+          "zh": "放",
+          "py": "fàng",
+          "meaning": "put / place"
+        },
+        {
+          "zh": "错",
+          "py": "cuò",
+          "meaning": "wrong"
+        },
+        {
+          "zh": "地",
+          "py": "dì",
+          "meaning": "place"
+        },
+        {
+          "zh": "方",
+          "py": "fang",
+          "meaning": "direction / place"
+        }
+      ]
+    },
+    {
+      "chinese": "请不要把汤喝完。",
+      "pinyin": "qǐng bù yào bǎ tāng hē wán。",
+      "translation": "Please don't drink all the soup.",
+      "usage": "Used to remind someone to leave some soup for others.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "不",
+          "py": "bù",
+          "meaning": "not"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "want / need"
+        },
+        {
+          "zh": "把",
+          "py": "bǎ",
+          "meaning": "to put / to place"
+        },
+        {
+          "zh": "汤",
+          "py": "tāng",
+          "meaning": "soup"
+        },
+        {
+          "zh": "喝",
+          "py": "hē",
+          "meaning": "drink"
+        },
+        {
+          "zh": "完",
+          "py": "wán",
+          "meaning": "complete"
+        }
+      ]
+    },
+    {
+      "chinese": "请不要把饭吃光了。",
+      "pinyin": "qǐng bù yào bǎ fàn chī guāng le。",
+      "translation": "Please don't eat all the rice.",
+      "usage": "Used to remind someone to leave some rice for others.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "不",
+          "py": "bù",
+          "meaning": "not"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "want / need"
+        },
+        {
+          "zh": "把",
+          "py": "bǎ",
+          "meaning": "to put / to place"
+        },
+        {
+          "zh": "饭",
+          "py": "fàn",
+          "meaning": "rice"
+        },
+        {
+          "zh": "吃",
+          "py": "chī",
+          "meaning": "eat"
+        },
+        {
+          "zh": "光",
+          "py": "guāng",
+          "meaning": "empty"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed action marker"
+        }
+      ]
+    },
+    {
+      "chinese": "请不要把菜吃光了。",
+      "pinyin": "qǐng bù yào bǎ cài chī guāng le。",
+      "translation": "Please don't eat all the dishes.",
+      "usage": "Used to remind someone to leave some food for others.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "不",
+          "py": "bù",
+          "meaning": "not"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "want / need"
+        },
+        {
+          "zh": "把",
+          "py": "bǎ",
+          "meaning": "to put / to place"
+        },
+        {
+          "zh": "菜",
+          "py": "cài",
+          "meaning": "dish / food"
+        },
+        {
+          "zh": "吃",
+          "py": "chī",
+          "meaning": "eat"
+        },
+        {
+          "zh": "光",
+          "py": "guāng",
+          "meaning": "empty"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed action marker"
+        }
+      ]
+    },
+    {
+      "chinese": "请不要把汤洒在桌子上。",
+      "pinyin": "qǐng bù yào bǎ tāng sǎ zài zhuō zi shàng。",
+      "translation": "Please don't spill the soup on the table.",
+      "usage": "Used to remind someone to be careful with their soup.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "不",
+          "py": "bù",
+          "meaning": "not"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "want / need"
+        },
+        {
+          "zh": "把",
+          "py": "bǎ",
+          "meaning": "to put / to place"
+        },
+        {
+          "zh": "汤",
+          "py": "tāng",
+          "meaning": "soup"
+        },
+        {
+          "zh": "洒",
+          "py": "sǎ",
+          "meaning": "spill"
+        },
+        {
+          "zh": "在",
+          "py": "zài",
+          "meaning": "on"
+        },
+        {
+          "zh": "桌",
+          "py": "zhuō",
+          "meaning": "table"
+        },
+        {
+          "zh": "子",
+          "py": "zi",
+          "meaning": "small / child / suffix"
+        },
+        {
+          "zh": "上",
+          "py": "shàng",
+          "meaning": "on"
+        }
+      ]
+    }
+  ]
+}

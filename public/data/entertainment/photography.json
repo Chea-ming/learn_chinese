@@ -1,0 +1,286 @@
+{
+  "sentences": [
+    {
+      "chinese": "拍照",
+      "pinyin": "Pāi zhào",
+      "translation": "Take a photo",
+      "usage": "Used to request or describe taking a photograph.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "拍",
+          "py": "pāi",
+          "meaning": "to take"
+        },
+        {
+          "zh": "照",
+          "py": "zhào",
+          "meaning": "photo"
+        }
+      ]
+    },
+    {
+      "chinese": "相机",
+      "pinyin": "Xiàng jī",
+      "translation": "Camera",
+      "usage": "Refers to a photography device.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "相",
+          "py": "xiàng",
+          "meaning": "photo"
+        },
+        {
+          "zh": "机",
+          "py": "jī",
+          "meaning": "machine"
+        }
+      ]
+    },
+    {
+      "chinese": "镜头",
+      "pinyin": "Jìng tóu",
+      "translation": "Lens",
+      "usage": "A critical component of a camera.",
+      "formality": "Technical",
+      "words": [
+        {
+          "zh": "镜",
+          "py": "jìng",
+          "meaning": "mirror"
+        },
+        {
+          "zh": "头",
+          "py": "tóu",
+          "meaning": "head"
+        }
+      ]
+    },
+    {
+      "chinese": "曝光",
+      "pinyin": "Pù guāng",
+      "translation": "Exposure",
+      "usage": "Describes the light entering the camera.",
+      "formality": "Technical",
+      "words": [
+        {
+          "zh": "曝",
+          "py": "pù",
+          "meaning": "expose"
+        },
+        {
+          "zh": "光",
+          "py": "guāng",
+          "meaning": "light"
+        }
+      ]
+    },
+    {
+      "chinese": "对焦",
+      "pinyin": "Duì jiāo",
+      "translation": "Focus",
+      "usage": "Adjusting the lens to clear imagery.",
+      "formality": "Technical",
+      "words": [
+        {
+          "zh": "对",
+          "py": "duì",
+          "meaning": "to align"
+        },
+        {
+          "zh": "焦",
+          "py": "jiāo",
+          "meaning": "focus"
+        }
+      ]
+    },
+    {
+      "chinese": "人像摄影",
+      "pinyin": "Rén xiàng shè yǐng",
+      "translation": "Portrait photography",
+      "usage": "Photography focusing on people.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "人",
+          "py": "rén",
+          "meaning": "person"
+        },
+        {
+          "zh": "像",
+          "py": "xiàng",
+          "meaning": "image"
+        },
+        {
+          "zh": "摄",
+          "py": "shè",
+          "meaning": "to capture"
+        },
+        {
+          "zh": "影",
+          "py": "yǐng",
+          "meaning": "shadow/image"
+        }
+      ]
+    },
+    {
+      "chinese": "风景摄影",
+      "pinyin": "Fēng jǐng shè yǐng",
+      "translation": "Landscape photography",
+      "usage": "Photography of natural scenery.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "风",
+          "py": "fēng",
+          "meaning": "wind"
+        },
+        {
+          "zh": "景",
+          "py": "jǐng",
+          "meaning": "scenery"
+        },
+        {
+          "zh": "摄",
+          "py": "shè",
+          "meaning": "to capture"
+        },
+        {
+          "zh": "影",
+          "py": "yǐng",
+          "meaning": "image"
+        }
+      ]
+    },
+    {
+      "chinese": "快门",
+      "pinyin": "Kuài mén",
+      "translation": "Shutter",
+      "usage": "The mechanism that controls light exposure.",
+      "formality": "Technical",
+      "words": [
+        {
+          "zh": "快",
+          "py": "kuài",
+          "meaning": "quick"
+        },
+        {
+          "zh": "门",
+          "py": "mén",
+          "meaning": "door"
+        }
+      ]
+    },
+    {
+      "chinese": "光圈",
+      "pinyin": "Guāng quān",
+      "translation": "Aperture",
+      "usage": "Adjusts the amount of light entering.",
+      "formality": "Technical",
+      "words": [
+        {
+          "zh": "光",
+          "py": "guāng",
+          "meaning": "light"
+        },
+        {
+          "zh": "圈",
+          "py": "quān",
+          "meaning": "ring"
+        }
+      ]
+    },
+    {
+      "chinese": "取景器",
+      "pinyin": "Qǔ jǐng qì",
+      "translation": "Viewfinder",
+      "usage": "Used to frame the shot.",
+      "formality": "Technical",
+      "words": [
+        {
+          "zh": "取",
+          "py": "qǔ",
+          "meaning": "to take"
+        },
+        {
+          "zh": "景",
+          "py": "jǐng",
+          "meaning": "scene"
+        },
+        {
+          "zh": "器",
+          "py": "qì",
+          "meaning": "device"
+        }
+      ]
+    },
+    {
+      "chinese": "构图",
+      "pinyin": "Gòu tú",
+      "translation": "Composition",
+      "usage": "Arrangement of elements in a photo.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "构",
+          "py": "gòu",
+          "meaning": "structure"
+        },
+        {
+          "zh": "图",
+          "py": "tú",
+          "meaning": "picture"
+        }
+      ]
+    },
+    {
+      "chinese": "后期处理",
+      "pinyin": "Hòu qī chǔ lǐ",
+      "translation": "Post-processing",
+      "usage": "Editing photos after capture.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "后",
+          "py": "hòu",
+          "meaning": "after"
+        },
+        {
+          "zh": "期",
+          "py": "qī",
+          "meaning": "period"
+        },
+        {
+          "zh": "处",
+          "py": "chǔ",
+          "meaning": "to handle"
+        },
+        {
+          "zh": "理",
+          "py": "lǐ",
+          "meaning": "processing"
+        }
+      ]
+    },
+    {
+      "chinese": "滤镜",
+      "pinyin": "Lǜ jìng",
+      "translation": "Filter",
+      "usage": "Used to alter light or color.",
+      "formality": "Technical",
+      "words": [
+        {
+          "zh": "滤",
+          "py": "lǜ",
+          "meaning": "filter"
+        },
+        {
+          "zh": "镜",
+          "py": "jìng",
+          "meaning": "lens"
+        }
+      ]
+    }
+  ]
+}

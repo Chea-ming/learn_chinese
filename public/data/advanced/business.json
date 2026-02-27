@@ -1,0 +1,225 @@
+{
+  "sentences": [
+    {
+      "chinese": "我们需要达成双赢协议。",
+      "pinyin": "Wǒ men xū yào dá chéng shuāng yíng xie yu.",
+      "translation": "We need to reach a win-win agreement.",
+      "usage": "Used to propose mutually beneficial cooperation.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I/we"
+        },
+        {
+          "zh": "们",
+          "py": "men",
+          "meaning": "plural marker"
+        },
+        {
+          "zh": "需",
+          "py": "xū",
+          "meaning": "need"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "must"
+        },
+        {
+          "zh": "达",
+          "py": "dá",
+          "meaning": "reach"
+        },
+        {
+          "zh": "成",
+          "py": "chéng",
+          "meaning": "achieve"
+        },
+        {
+          "zh": "双",
+          "py": "shuāng",
+          "meaning": "double"
+        },
+        {
+          "zh": "赢",
+          "py": "yíng",
+          "meaning": "win"
+        },
+        {
+          "zh": "协",
+          "py": "xié",
+          "meaning": "cooperation"
+        },
+        {
+          "zh": "议",
+          "py": "yì",
+          "meaning": "agreement"
+        }
+      ]
+    },
+    {
+      "chinese": "谈判底线是价格弹性空间。",
+      "pinyin": "Tán pàn dǐ xiàn shì jià gé dàn xìng kōng jiān.",
+      "translation": "The negotiation bottom line is the price elasticity range.",
+      "usage": "Discussing price flexibility limits.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "谈",
+          "py": "tán",
+          "meaning": "negotiate"
+        },
+        {
+          "zh": "判",
+          "py": "pàn",
+          "meaning": "discussion"
+        },
+        {
+          "zh": "底",
+          "py": "dǐ",
+          "meaning": "bottom"
+        },
+        {
+          "zh": "线",
+          "py": "xiàn",
+          "meaning": "line"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "is"
+        },
+        {
+          "zh": "价",
+          "py": "jià",
+          "meaning": "price"
+        },
+        {
+          "zh": "格",
+          "py": "gé",
+          "meaning": "level"
+        },
+        {
+          "zh": "弹",
+          "py": "dàn",
+          "meaning": "elastic"
+        },
+        {
+          "zh": "性",
+          "py": "xìng",
+          "meaning": "nature"
+        },
+        {
+          "zh": "空",
+          "py": "kōng",
+          "meaning": "space"
+        },
+        {
+          "zh": "间",
+          "py": "jiān",
+          "meaning": "range"
+        }
+      ]
+    },
+    {
+      "chinese": "附加条件必须书面确认。",
+      "pinyin": "Fù jiā tiáo jiàn bì xū shū miàn què rèn.",
+      "translation": "Additional conditions must be confirmed in writing.",
+      "usage": "Formalizing supplementary terms.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "附",
+          "py": "fù",
+          "meaning": "additional"
+        },
+        {
+          "zh": "加",
+          "py": "jiā",
+          "meaning": "add"
+        },
+        {
+          "zh": "条",
+          "py": "tiáo",
+          "meaning": "term"
+        },
+        {
+          "zh": "件",
+          "py": "jiàn",
+          "meaning": "condition"
+        },
+        {
+          "zh": "必",
+          "py": "bì",
+          "meaning": "must"
+        },
+        {
+          "zh": "须",
+          "py": "xū",
+          "meaning": "need"
+        },
+        {
+          "zh": "书",
+          "py": "shū",
+          "meaning": "written"
+        },
+        {
+          "zh": "面",
+          "py": "miàn",
+          "meaning": "form"
+        },
+        {
+          "zh": "确",
+          "py": "què",
+          "meaning": "confirm"
+        },
+        {
+          "zh": "认",
+          "py": "rèn",
+          "meaning": "acknowledge"
+        }
+      ]
+    },
+    {
+      "chinese": "请提供详尽的财务分析。",
+      "pinyin": "Qǐng tí gōng xiáng jìn de cái wù fēn xī.",
+      "translation": "Please provide a detailed financial analysis.",
+      "usage": "Requesting comprehensive financial data.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "提",
+          "py": "tí",
+          "meaning": "provide"
+        },
+        {
+          "zh": "供",
+          "py": "gōng",
+          "meaning": "supply"
+        },
+        {
+          "zh": "详",
+          "py": "xiáng",
+          "meaning": "detailed"
+        },
+        {
+          "zh": "尽",
+          "py": "jìn",
+          "meaning": "complete"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive"
+        }
+      ]
+    }
+  ]
+}

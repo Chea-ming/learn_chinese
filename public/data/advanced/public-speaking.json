@@ -1,0 +1,156 @@
+{
+  "sentences": [
+    {
+      "chinese": "演讲技巧",
+      "pinyin": "Yǎn jiǎng jì qiǎo",
+      "translation": "Public speaking skills",
+      "usage": "Used to describe the ability to deliver effective speeches.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "演讲",
+          "py": "Yǎn jiǎng",
+          "meaning": "Speech"
+        },
+        {
+          "zh": "技巧",
+          "py": "Jì qiǎo",
+          "meaning": "Skills"
+        }
+      ]
+    },
+    {
+      "chinese": "充分准备",
+      "pinyin": "Chōng fēn zhǔn bèi",
+      "translation": "Adequate preparation",
+      "usage": "Emphasizes the importance of thorough preparation.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "充分",
+          "py": "Chōng fēn",
+          "meaning": "Adequate"
+        },
+        {
+          "zh": "准备",
+          "py": "Zhǔn bèi",
+          "meaning": "Preparation"
+        }
+      ]
+    },
+    {
+      "chinese": "互动交流",
+      "pinyin": "Hù dòng jiāo liú",
+      "translation": "Interactive communication",
+      "usage": "Encouraging audience participation during a speech.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "互动",
+          "py": "Hù dòng",
+          "meaning": "Interactive"
+        },
+        {
+          "zh": "交流",
+          "py": "Jiāo liú",
+          "meaning": "Communication"
+        }
+      ]
+    },
+    {
+      "chinese": "保持镇定",
+      "pinyin": "Bǎo chí zhèn dìng",
+      "translation": "Stay calm",
+      "usage": "Advice for managing nerves during a presentation.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "保持",
+          "py": "Bǎo chí",
+          "meaning": "Maintain"
+        },
+        {
+          "zh": "镇定",
+          "py": "Zhèn dìng",
+          "meaning": "Calmness"
+        }
+      ]
+    },
+    {
+      "chinese": "有效表达",
+      "pinyin": "Yǒu xiào biǎo dá",
+      "translation": "Effective expression",
+      "usage": "Focuses on clarity and impact in delivery.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "有效",
+          "py": "Yǒu xiào",
+          "meaning": "Effective"
+        },
+        {
+          "zh": "表达",
+          "py": "Biǎo dá",
+          "meaning": "Expression"
+        }
+      ]
+    },
+    {
+      "chinese": "逻辑清晰",
+      "pinyin": "Lù jí qīng xī",
+      "translation": "Logical clarity",
+      "usage": "Highlighting the need for structured content.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "逻辑",
+          "py": "Lù jí",
+          "meaning": "Logic"
+        },
+        {
+          "zh": "清晰",
+          "py": "Qīng xī",
+          "meaning": "Clear"
+        }
+      ]
+    },
+    {
+      "chinese": "语言流畅",
+      "pinyin": "Yǔ yán liú chàng",
+      "translation": "Fluent language",
+      "usage": "Stresses smooth and coherent verbal delivery.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "语言",
+          "py": "Yǔ yán",
+          "meaning": "Language"
+        },
+        {
+          "zh": "流畅",
+          "py": "Liú chàng",
+          "meaning": "Fluent"
+        }
+      ]
+    },
+    {
+      "chinese": "调动气氛",
+      "pinyin": "Dòng yǒu qì fēn",
+      "translation": "Mobilize the atmosphere",
+      "usage": "Engaging the audience’s emotions or energy.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "调动",
+          "py": "Dòng yǒu",
+          "meaning": "Mobilize"
+        },
+        {
+          "zh": "气氛",
+          "py": "Qì fēn",
+          "meaning": "Atmosphere"
+        }
+      ]
+    }
+  ]
+}

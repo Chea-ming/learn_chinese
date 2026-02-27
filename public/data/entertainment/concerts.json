@@ -1,0 +1,153 @@
+{
+  "sentences": [
+    {
+      "chinese": "我去看演唱会了。",
+      "pinyin": "Wǒ qù kàn yǎnchǎnhuì le.",
+      "translation": "I'm going to a concert.",
+      "usage": "Statement about attending a concert.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "to go"
+        },
+        {
+          "zh": "看",
+          "py": "kàn",
+          "meaning": "to watch"
+        },
+        {
+          "zh": "演唱会",
+          "py": "yǎnchǎnhuì",
+          "meaning": "concert"
+        }
+      ]
+    },
+    {
+      "chinese": "周杰伦的演唱会。",
+      "pinyin": "Zhōu Jiélún de yǎnchǎnhuì.",
+      "translation": "Jay Chou's concert.",
+      "usage": "Referring to a specific artist's concert.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "周杰伦",
+          "py": "Zhōu Jiélún",
+          "meaning": "Jay Chou"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive particle"
+        },
+        {
+          "zh": "演唱会",
+          "py": "yǎnchǎnhuì",
+          "meaning": "concert"
+        }
+      ]
+    },
+    {
+      "chinese": "买演唱会票。",
+      "pinyin": "Mǎi yǎnchǎnhuì piào.",
+      "translation": "Buy concert tickets.",
+      "usage": "Command or instruction to purchase tickets.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "买",
+          "py": "mǎi",
+          "meaning": "to buy"
+        },
+        {
+          "zh": "演唱会",
+          "py": "yǎnchǎnhuì",
+          "meaning": "concert"
+        },
+        {
+          "zh": "票",
+          "py": "piào",
+          "meaning": "ticket"
+        }
+      ]
+    },
+    {
+      "chinese": "票卖完了。",
+      "pinyin": "Piào mài wán le.",
+      "translation": "Tickets are sold out.",
+      "usage": "Announcing sold-out tickets.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "票",
+          "py": "piào",
+          "meaning": "ticket"
+        },
+        {
+          "zh": "卖",
+          "py": "mài",
+          "meaning": "to sell"
+        },
+        {
+          "zh": "完",
+          "py": "wán",
+          "meaning": "finished"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed action"
+        }
+      ]
+    },
+    {
+      "chinese": "乐队表演。",
+      "pinyin": "Yuèdǎi biǎoyǎn.",
+      "translation": "Band performance.",
+      "usage": "Describing a live band show.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "乐",
+          "py": "yuè",
+          "meaning": "music"
+        },
+        {
+          "zh": "队",
+          "py": "duì",
+          "meaning": "team"
+        },
+        {
+          "zh": "表演",
+          "py": "biǎoyǎn",
+          "meaning": "performance"
+        }
+      ]
+    },
+    {
+      "chinese": "歌手唱得好。",
+      "pinyin": "Gēshǒu chàng de hǎo.",
+      "translation": "The singer sings well.",
+      "usage": "Complimenting a performer.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "歌",
+          "py": "gē",
+          "meaning": "song"
+        },
+        {
+          "zh": "手",
+          "py": "shǒu",
+          "meaning": "artist"
+        }
+      ]
+    }
+  ]
+}

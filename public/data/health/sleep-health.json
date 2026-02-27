@@ -1,0 +1,176 @@
+{
+  "sentences": [
+    {
+      "chinese": "早睡早起，身体好！",
+      "pinyin": "Zǎo shuì zǎo qǐ, shēntǐ hǎo!",
+      "translation": "Early to bed and early to rise, makes a person healthy!",
+      "usage": "Suggests maintaining a regular sleep schedule.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "早",
+          "py": "zǎo",
+          "meaning": "early"
+        },
+        {
+          "zh": "睡",
+          "py": "shuì",
+          "meaning": "sleep"
+        },
+        {
+          "zh": "早起",
+          "py": "zǎo qǐ",
+          "meaning": "wake up early"
+        },
+        {
+          "zh": "身体好",
+          "py": "shēntǐ hǎo",
+          "meaning": "strong body"
+        }
+      ]
+    },
+    {
+      "chinese": "保持规律的作息时间。",
+      "pinyin": "Bǎochí guīlǜ de zhǐxù shíjiān.",
+      "translation": "Maintain a regular sleep schedule.",
+      "usage": "Advises consistency in sleep and wake times.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "保持",
+          "py": "bǎochí",
+          "meaning": "maintain"
+        },
+        {
+          "zh": "规律",
+          "py": "guīlǜ",
+          "meaning": "regular/routine"
+        },
+        {
+          "zh": "作息",
+          "py": "zhǐxù",
+          "meaning": "sleep/wake cycle"
+        }
+      ]
+    },
+    {
+      "chinese": "睡前不要喝咖啡。",
+      "pinyin": "Shuìqián bùyào hē kāfēi.",
+      "translation": "Don't drink coffee before bed.",
+      "usage": "Warns against caffeine disrupting sleep.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "睡前",
+          "py": "shuìqián",
+          "meaning": "before bed"
+        },
+        {
+          "zh": "咖啡",
+          "py": "kāfēi",
+          "meaning": "coffee"
+        }
+      ]
+    },
+    {
+      "chinese": "充足的睡眠有助于健康。",
+      "pinyin": "Chōngzú de shuìmián yǒuzhù yú jiànkāng.",
+      "translation": "Adequate sleep is beneficial for health.",
+      "usage": "Highlights the importance of sufficient sleep.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "充足",
+          "py": "chōngzú",
+          "meaning": "sufficient"
+        },
+        {
+          "zh": "健康",
+          "py": "jiànkāng",
+          "meaning": "health"
+        }
+      ]
+    },
+    {
+      "chinese": "失眠会影响工作效率。",
+      "pinyin": "Shīmián huì yǐngxiǎng gōngzuò xiàofèi.",
+      "translation": "Insomnia affects work efficiency.",
+      "usage": "Discusses consequences of sleep deprivation.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "失眠",
+          "py": "shīmián",
+          "meaning": "insomnia"
+        },
+        {
+          "zh": "影响",
+          "py": "yǐngxiǎng",
+          "meaning": "affect"
+        },
+        {
+          "zh": "效率",
+          "py": "xiàofèi",
+          "meaning": "efficiency"
+        }
+      ]
+    },
+    {
+      "chinese": "睡前泡脚有助于入睡。",
+      "pinyin": "Shuìqián pàojiào yǒuzhù yú rùshuì.",
+      "translation": "Soaking feet before bed helps fall asleep.",
+      "usage": "Traditional remedy for better sleep.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "泡脚",
+          "py": "pàojiào",
+          "meaning": "soak feet"
+        },
+        {
+          "zh": "入睡",
+          "py": "rùshuì",
+          "meaning": "fall asleep"
+        }
+      ]
+    },
+    {
+      "chinese": "睡眠质量比数量更重要。",
+      "pinyin": "Shuìmián zhìliàng bǐ shùliàng gèng zhòngyào.",
+      "translation": "Sleep quality is more important than quantity.",
+      "usage": "Emphasizes restful sleep over duration.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "质量",
+          "py": "zhìliàng",
+          "meaning": "quality"
+        },
+        {
+          "zh": "数量",
+          "py": "shùliàng",
+          "meaning": "quantity"
+        }
+      ]
+    },
+    {
+      "chinese": "午睡不宜过长。",
+      "pinyin": "Wǔshuì bù yí guò cháng.",
+      "translation": "Naps should not be too long.",
+      "usage": "Advises against extended daytime naps.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "午睡",
+          "py": "wǔshuì",
+          "meaning": "nap"
+        },
+        {
+          "zh": "不宜",
+          "py": "bù yí",
+          "meaning": "should not"
+        }
+      ]
+    }
+  ]
+}

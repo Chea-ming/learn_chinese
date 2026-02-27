@@ -1,0 +1,186 @@
+{
+  "sentences": [
+    {
+      "chinese": "三国时期",
+      "pinyin": "Sān guó shí qī",
+      "translation": "Three Kingdoms Period",
+      "usage": "Used to refer to the era of the Three Kingdoms in Chinese history.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "三",
+          "py": "sān",
+          "meaning": "three"
+        },
+        {
+          "zh": "国",
+          "py": "guó",
+          "meaning": "country"
+        },
+        {
+          "zh": "时",
+          "py": "shí",
+          "meaning": "time"
+        },
+        {
+          "zh": "期",
+          "py": "qī",
+          "meaning": "period"
+        }
+      ]
+    },
+    {
+      "chinese": "唐朝",
+      "pinyin": "Táng cháo",
+      "translation": "Tang Dynasty",
+      "usage": "Refers to the Tang Dynasty (618–907 AD), a golden age in Chinese history.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "唐",
+          "py": "táng",
+          "meaning": "Tang (dynasty)"
+        },
+        {
+          "zh": "朝",
+          "py": "cháo",
+          "meaning": "dynasty"
+        }
+      ]
+    },
+    {
+      "chinese": "清朝",
+      "pinyin": "Qīng cháo",
+      "translation": "Qing Dynasty",
+      "usage": "Denotes the last imperial dynasty in China (1644–1912).",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "清",
+          "py": "qīng",
+          "meaning": "Qing (dynasty)"
+        },
+        {
+          "zh": "朝",
+          "py": "cháo",
+          "meaning": "dynasty"
+        }
+      ]
+    },
+    {
+      "chinese": "秦始皇",
+      "pinyin": "Qín Shǐ huáng",
+      "translation": "Qin Shi Huang",
+      "usage": "First emperor of China, known for unifying China and building the Great Wall.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "秦",
+          "py": "qín",
+          "meaning": "Qin (dynasty)"
+        },
+        {
+          "zh": "始",
+          "py": "shǐ",
+          "meaning": "first"
+        },
+        {
+          "zh": "皇",
+          "py": "huáng",
+          "meaning": "emperor"
+        }
+      ]
+    },
+    {
+      "chinese": "长城",
+      "pinyin": "Cháng chéng",
+      "translation": "Great Wall",
+      "usage": "Refers to the iconic defensive structure built across Chinese dynasties.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "长",
+          "py": "cháng",
+          "meaning": "long"
+        },
+        {
+          "zh": "城",
+          "py": "chéng",
+          "meaning": "wall"
+        }
+      ]
+    },
+    {
+      "chinese": "兵马俑",
+      "pinyin": "Bīng mǎ yǒng",
+      "translation": "Terracotta Army",
+      "usage": "Massive collection of terracotta sculptures in Xi'an, Shaanxi.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "兵",
+          "py": "bīng",
+          "meaning": "soldier"
+        },
+        {
+          "zh": "马",
+          "py": "mǎ",
+          "meaning": "horse"
+        },
+        {
+          "zh": "俑",
+          "py": "yǒng",
+          "meaning": "effigy"
+        }
+      ]
+    },
+    {
+      "chinese": "春秋战国",
+      "pinyin": "Chūn qiū zhàn guó",
+      "translation": "Spring and Autumn and Warring States Periods",
+      "usage": "Era of political fragmentation and philosophical development (5th–3rd century BCE).",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "春",
+          "py": "chūn",
+          "meaning": "spring"
+        },
+        {
+          "zh": "秋",
+          "py": "qiū",
+          "meaning": "autumn"
+        },
+        {
+          "zh": "战",
+          "py": "zhàn",
+          "meaning": "war"
+        },
+        {
+          "zh": "国",
+          "py": "guó",
+          "meaning": "state"
+        }
+      ]
+    },
+    {
+      "chinese": "丝绸之路",
+      "pinyin": "Sī chóu lù",
+      "translation": "Silk Road",
+      "usage": "Ancient network of trade routes connecting China to the West.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "丝",
+          "py": "sī",
+          "meaning": "silk"
+        },
+        {
+          "zh": "绸",
+          "py": "chóu",
+          "meaning": "cotton"
+        }
+      ]
+    }
+  ]
+}

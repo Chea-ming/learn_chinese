@@ -1,0 +1,714 @@
+{
+  "sentences": [
+    {
+      "chinese": "我想点外卖。",
+      "pinyin": "Wǒ xiǎng diǎn wàimài.",
+      "translation": "I want to order takeout.",
+      "usage": "Used when you want to order food to be delivered to your location.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "想",
+          "py": "xiǎng",
+          "meaning": "want to"
+        },
+        {
+          "zh": "点",
+          "py": "diǎn",
+          "meaning": "order"
+        },
+        {
+          "zh": "外卖",
+          "py": "wàimài",
+          "meaning": "takeout/food delivery"
+        }
+      ]
+    },
+    {
+      "chinese": "今天晚上能送餐到家吗？",
+      "pinyin": "Jīntiān wǎnshàng néng sòngcān dào jiā ma?",
+      "translation": "Can you deliver food to my home tonight?",
+      "usage": "Asking about delivery timing and destination.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "今天",
+          "py": "jīntiān",
+          "meaning": "today"
+        },
+        {
+          "zh": "晚上",
+          "py": "wǎnshàng",
+          "meaning": "evening"
+        },
+        {
+          "zh": "能",
+          "py": "néng",
+          "meaning": "can"
+        },
+        {
+          "zh": "送餐",
+          "py": "sòngcān",
+          "meaning": "deliver food"
+        },
+        {
+          "zh": "到",
+          "py": "dào",
+          "meaning": "to"
+        },
+        {
+          "zh": "家",
+          "py": "jiā",
+          "meaning": "home"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "我点了三个汉堡包。",
+      "pinyin": "Wǒ diǎn le sān gè hànbǎo.",
+      "translation": "I ordered three hamburgers.",
+      "usage": "Stating what food items you have ordered.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "点",
+          "py": "diǎn",
+          "meaning": "ordered"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed action marker"
+        },
+        {
+          "zh": "三",
+          "py": "sān",
+          "meaning": "three"
+        },
+        {
+          "zh": "个",
+          "py": "gè",
+          "meaning": "measure word for objects"
+        },
+        {
+          "zh": "汉堡包",
+          "py": "hànbǎo",
+          "meaning": "hamburger"
+        }
+      ]
+    },
+    {
+      "chinese": "请尽快送到。",
+      "pinyin": "Qǐng jǐnkuài sòng dào.",
+      "translation": "Please deliver as soon as possible.",
+      "usage": "Requesting faster delivery time.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "尽快",
+          "py": "jǐnkuài",
+          "meaning": "as soon as possible"
+        },
+        {
+          "zh": "送",
+          "py": "sòng",
+          "meaning": "deliver"
+        },
+        {
+          "zh": "到",
+          "py": "dào",
+          "meaning": "to"
+        }
+      ]
+    },
+    {
+      "chinese": "外卖送到哪里了？",
+      "pinyin": "Wàimài sòng dào nǎlǐ le?",
+      "translation": "Where has the takeout been delivered?",
+      "usage": "Checking on delivery status.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "外卖",
+          "py": "wàimài",
+          "meaning": "takeout"
+        },
+        {
+          "zh": "送",
+          "py": "sòng",
+          "meaning": "deliver"
+        },
+        {
+          "zh": "到",
+          "py": "dào",
+          "meaning": "to"
+        },
+        {
+          "zh": "哪里",
+          "py": "nǎlǐ",
+          "meaning": "where"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed action marker"
+        }
+      ]
+    },
+    {
+      "chinese": "我订了一份披萨。",
+      "pinyin": "Wǒ dìng le yī fèn pīsà.",
+      "translation": "I ordered one pizza.",
+      "usage": "Describing a specific food order.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "订",
+          "py": "dìng",
+          "meaning": "order"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed action marker"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "份",
+          "py": "fèn",
+          "meaning": "measure word for portions"
+        },
+        {
+          "zh": "披萨",
+          "py": "pīsà",
+          "meaning": "pizza"
+        }
+      ]
+    },
+    {
+      "chinese": "送餐员什么时候到？",
+      "pinyin": "Sòngcān yuán shénme shíhou dào?",
+      "translation": "When will the delivery person arrive?",
+      "usage": "Asking about estimated delivery time.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "送餐员",
+          "py": "sòngcān yuán",
+          "meaning": "delivery person"
+        },
+        {
+          "zh": "什么",
+          "py": "shénme",
+          "meaning": "what"
+        },
+        {
+          "zh": "时候",
+          "py": "shíhou",
+          "meaning": "time"
+        },
+        {
+          "zh": "到",
+          "py": "dào",
+          "meaning": "arrive"
+        }
+      ]
+    },
+    {
+      "chinese": "可以加一个蛋吗？",
+      "pinyin": "Kěyǐ jiā yī gè dàn ma?",
+      "translation": "Can I add one egg?",
+      "usage": "Requesting extra ingredients in your order.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "可以",
+          "py": "kěyǐ",
+          "meaning": "can"
+        },
+        {
+          "zh": "加",
+          "py": "jiā",
+          "meaning": "add"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "个",
+          "py": "gè",
+          "meaning": "measure word"
+        },
+        {
+          "zh": "蛋",
+          "py": "dàn",
+          "meaning": "egg"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "我饿了，点个外卖吧。",
+      "pinyin": "Wǒ è le, diǎn gè wàimài ba.",
+      "translation": "I'm hungry, let's order some takeout.",
+      "usage": "Expressing hunger and suggesting ordering food.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "饿",
+          "py": "è",
+          "meaning": "hungry"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed action marker"
+        },
+        {
+          "zh": "点",
+          "py": "diǎn",
+          "meaning": "order"
+        },
+        {
+          "zh": "个",
+          "py": "gè",
+          "meaning": "measure word"
+        },
+        {
+          "zh": "外卖",
+          "py": "wàimài",
+          "meaning": "takeout"
+        },
+        {
+          "zh": "吧",
+          "py": "ba",
+          "meaning": "suggestive particle"
+        }
+      ]
+    },
+    {
+      "chinese": "送餐费是多少钱？",
+      "pinyin": "Sòngcān fèi shì duōshǎo qián?",
+      "translation": "How much is the delivery fee?",
+      "usage": "Inquiring about delivery charges.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "送餐费",
+          "py": "sòngcān fèi",
+          "meaning": "delivery fee"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "is"
+        },
+        {
+          "zh": "多少",
+          "py": "duōshǎo",
+          "meaning": "how much"
+        },
+        {
+          "zh": "钱",
+          "py": "qián",
+          "meaning": "money"
+        }
+      ]
+    },
+    {
+      "chinese": "你们几点开门？",
+      "pinyin": "Nǐmen jǐ diǎn kāimén?",
+      "translation": "What time do you open?",
+      "usage": "Asking about restaurant opening hours.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你们",
+          "py": "nǐmen",
+          "meaning": "you (plural)"
+        },
+        {
+          "zh": "几点",
+          "py": "jǐ diǎn",
+          "meaning": "what time"
+        },
+        {
+          "zh": "开门",
+          "py": "kāimén",
+          "meaning": "open"
+        }
+      ]
+    },
+    {
+      "chinese": "我想要一份米饭。",
+      "pinyin": "Wǒ xiǎng yào yī fèn mǐfàn.",
+      "translation": "I want one portion of rice.",
+      "usage": "Ordering a specific food item.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "想要",
+          "py": "xiǎng yào",
+          "meaning": "want to"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "份",
+          "py": "fèn",
+          "meaning": "measure word for portions"
+        },
+        {
+          "zh": "米饭",
+          "py": "mǐfàn",
+          "meaning": "rice"
+        }
+      ]
+    },
+    {
+      "chinese": "可以不用餐具吗？",
+      "pinyin": "Kěyǐ bù yòng cānjù ma?",
+      "translation": "Can I not use utensils?",
+      "usage": "Requesting to eat without provided utensils.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "可以",
+          "py": "kěyǐ",
+          "meaning": "can"
+        },
+        {
+          "zh": "不",
+          "py": "bù",
+          "meaning": "not"
+        },
+        {
+          "zh": "用",
+          "py": "yòng",
+          "meaning": "use"
+        },
+        {
+          "zh": "餐具",
+          "py": "cānjù",
+          "meaning": "utensils"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "外卖送到楼下就行。",
+      "pinyin": "Wàimài sòng dào lóuxià jiù xíng.",
+      "translation": "Delivery to the downstairs is fine.",
+      "usage": "Specifying delivery location.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "外卖",
+          "py": "wàimài",
+          "meaning": "takeout"
+        },
+        {
+          "zh": "送",
+          "py": "sòng",
+          "meaning": "deliver"
+        },
+        {
+          "zh": "到",
+          "py": "dào",
+          "meaning": "to"
+        },
+        {
+          "zh": "楼下",
+          "py": "lóuxià",
+          "meaning": "downstairs"
+        },
+        {
+          "zh": "就",
+          "py": "jiù",
+          "meaning": "just"
+        },
+        {
+          "zh": "行",
+          "py": "xíng",
+          "meaning": "okay"
+        }
+      ]
+    },
+    {
+      "chinese": "我点了外卖，麻烦你了。",
+      "pinyin": "Wǒ diǎn le wàimài, máfan nǐ le.",
+      "translation": "I ordered takeout, thank you for your trouble.",
+      "usage": "Expressing gratitude after placing an order.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "点",
+          "py": "diǎn",
+          "meaning": "ordered"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed action marker"
+        },
+        {
+          "zh": "外卖",
+          "py": "wàimài",
+          "meaning": "takeout"
+        },
+        {
+          "zh": "麻烦",
+          "py": "máfan",
+          "meaning": "trouble"
+        },
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed action marker"
+        }
+      ]
+    },
+    {
+      "chinese": "这个菜太辣了。",
+      "pinyin": "Zhège cài tài là le.",
+      "translation": "This dish is too spicy.",
+      "usage": "Expressing that food is too spicy.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这个",
+          "py": "zhège",
+          "meaning": "this"
+        },
+        {
+          "zh": "菜",
+          "py": "cài",
+          "meaning": "dish"
+        },
+        {
+          "zh": "太",
+          "py": "tài",
+          "meaning": "too"
+        },
+        {
+          "zh": "辣",
+          "py": "là",
+          "meaning": "spicy"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed action marker"
+        }
+      ]
+    },
+    {
+      "chinese": "可以给我打包吗？",
+      "pinyin": "Kěyǐ gěi wǒ dǎbāo ma?",
+      "translation": "Can you pack it for me?",
+      "usage": "Requesting to take food home.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "可以",
+          "py": "kěyǐ",
+          "meaning": "can"
+        },
+        {
+          "zh": "给",
+          "py": "gěi",
+          "meaning": "give"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "me"
+        },
+        {
+          "zh": "打包",
+          "py": "dǎbāo",
+          "meaning": "pack"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "我需要一份汤。",
+      "pinyin": "Wǒ xūyào yī fèn tāng.",
+      "translation": "I need one portion of soup.",
+      "usage": "Ordering soup.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "需要",
+          "py": "xūyào",
+          "meaning": "need"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "份",
+          "py": "fèn",
+          "meaning": "measure word for portions"
+        },
+        {
+          "zh": "汤",
+          "py": "tāng",
+          "meaning": "soup"
+        }
+      ]
+    },
+    {
+      "chinese": "这道菜很香。",
+      "pinyin": "Zhè dào cài hěn xiāng.",
+      "translation": "This dish smells great.",
+      "usage": "Expressing that food smells good.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "道",
+          "py": "dào",
+          "meaning": "dish"
+        },
+        {
+          "zh": "菜",
+          "py": "cài",
+          "meaning": "dish"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "香",
+          "py": "xiāng",
+          "meaning": "fragrant"
+        }
+      ]
+    },
+    {
+      "chinese": "我们点了外卖，马上就好。",
+      "pinyin": "Wǒmen diǎn le wàimài, mǎshàng jiù hǎo.",
+      "translation": "We ordered takeout, it'll be ready soon.",
+      "usage": "Expressing that food is being prepared.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我们",
+          "py": "wǒmen",
+          "meaning": "we"
+        },
+        {
+          "zh": "点",
+          "py": "diǎn",
+          "meaning": "ordered"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed action marker"
+        },
+        {
+          "zh": "外卖",
+          "py": "wàimài",
+          "meaning": "takeout"
+        },
+        {
+          "zh": "马上",
+          "py": "mǎshàng",
+          "meaning": "soon"
+        },
+        {
+          "zh": "就",
+          "py": "jiù",
+          "meaning": "just"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good"
+        }
+      ]
+    }
+  ]
+}

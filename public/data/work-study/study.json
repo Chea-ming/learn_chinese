@@ -1,0 +1,175 @@
+{
+  "sentences": [
+    {
+      "chinese": "我要学习。",
+      "pinyin": "Wǒ yào xuéxí.",
+      "translation": "I want to study.",
+      "usage": "Expressing intent to study.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "want"
+        },
+        {
+          "zh": "学习",
+          "py": "xuéxí",
+          "meaning": "study"
+        }
+      ]
+    },
+    {
+      "chinese": "开始上课。",
+      "pinyin": "Kāishǐ shàngkè.",
+      "translation": "Class is starting.",
+      "usage": "Announcing the start of a class.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "开始",
+          "py": "kāishǐ",
+          "meaning": "start"
+        },
+        {
+          "zh": "上课",
+          "py": "shàngkè",
+          "meaning": "have class"
+        }
+      ]
+    },
+    {
+      "chinese": "下课了。",
+      "pinyin": "Xiàkè le.",
+      "translation": "Class is over.",
+      "usage": "Announcing the end of a class.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "下课",
+          "py": "xiàkè",
+          "meaning": "end class"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed action"
+        }
+      ]
+    },
+    {
+      "chinese": "写作业。",
+      "pinyin": "Xiě zuòyè.",
+      "translation": "Do homework.",
+      "usage": "Instruction to complete homework.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "写",
+          "py": "xiě",
+          "meaning": "write"
+        },
+        {
+          "zh": "作业",
+          "py": "zuòyè",
+          "meaning": "homework"
+        }
+      ]
+    },
+    {
+      "chinese": "考试。",
+      "pinyin": "Kǎoshì.",
+      "translation": "Exam.",
+      "usage": "Referring to a test or examination.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "考",
+          "py": "kǎo",
+          "meaning": "test"
+        },
+        {
+          "zh": "试",
+          "py": "shì",
+          "meaning": "examine"
+        }
+      ]
+    },
+    {
+      "chinese": "复习。",
+      "pinyin": "Fùxí.",
+      "translation": "Review.",
+      "usage": "Studying previously learned material.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "复",
+          "py": "fù",
+          "meaning": "repeat"
+        },
+        {
+          "zh": "习",
+          "py": "xí",
+          "meaning": "practice"
+        }
+      ]
+    },
+    {
+      "chinese": "考试及格。",
+      "pinyin": "Kǎoshì jígé.",
+      "translation": "Pass the exam.",
+      "usage": "Achieving a passing score.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "考试",
+          "py": "kǎoshì",
+          "meaning": "exam"
+        },
+        {
+          "zh": "及格",
+          "py": "jígé",
+          "meaning": "pass"
+        }
+      ]
+    },
+    {
+      "chinese": "学习数学。",
+      "pinyin": "Xuéxí shùxué.",
+      "translation": "Study math.",
+      "usage": "Learning mathematics.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "学习",
+          "py": "xuéxí",
+          "meaning": "study"
+        },
+        {
+          "zh": "数学",
+          "py": "shùxué",
+          "meaning": "mathematics"
+        }
+      ]
+    },
+    {
+      "chinese": "图书馆很安静。",
+      "pinyin": "Túshūguǎn hěn jìngāi.",
+      "translation": "The library is quiet.",
+      "usage": "Describing a study environment.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "图书馆",
+          "py": "túshūguǎn",
+          "meaning": "library"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,658 @@
+{
+  "sentences": [
+    {
+      "chinese": "你好！",
+      "pinyin": "Nǐ hǎo!",
+      "translation": "Hello!",
+      "usage": "The standard, all-purpose greeting. Suitable for almost any situation.",
+      "formality": "Neutral / Informal",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good / well"
+        }
+      ]
+    },
+    {
+      "chinese": "我牙疼。",
+      "pinyin": "Wǒ yá téng。",
+      "translation": "My tooth hurts.",
+      "usage": "Reporting a toothache to a dentist or friend.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "牙",
+          "py": "yá",
+          "meaning": "tooth"
+        },
+        {
+          "zh": "疼",
+          "py": "téng",
+          "meaning": "pain / hurt"
+        }
+      ]
+    },
+    {
+      "chinese": "请帮我看看牙齿。",
+      "pinyin": "Qǐng bāng wǒ kàn kàn yá zhī。",
+      "translation": "Please help me check my teeth.",
+      "usage": "Asking a dentist or friend to examine teeth.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "帮",
+          "py": "bāng",
+          "meaning": "help"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "me"
+        },
+        {
+          "zh": "看看",
+          "py": "kàn kàn",
+          "meaning": "look at"
+        },
+        {
+          "zh": "牙齿",
+          "py": "yá zhī",
+          "meaning": "teeth"
+        }
+      ]
+    },
+    {
+      "chinese": "定期洗牙很重要。",
+      "pinyin": "Dìqī xǐ yá hěn zhòngyào。",
+      "translation": "Regular teeth cleaning is important.",
+      "usage": "Discussing oral hygiene with a dentist.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "定期",
+          "py": "dìqī",
+          "meaning": "regularly"
+        },
+        {
+          "zh": "洗牙",
+          "py": "xǐ yá",
+          "meaning": "professional teeth cleaning"
+        },
+        {
+          "zh": "很重要",
+          "py": "hěn zhòngyào",
+          "meaning": "is very important"
+        }
+      ]
+    },
+    {
+      "chinese": "刷牙要使用牙膏。",
+      "pinyin": "Shuā yá yào shǐyòng yá gāo。",
+      "translation": "Brush teeth with toothpaste.",
+      "usage": "Giving basic oral care instructions.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "刷牙",
+          "py": "shuā yá",
+          "meaning": "brush teeth"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "need to / must"
+        },
+        {
+          "zh": "使用",
+          "py": "shǐyòng",
+          "meaning": "use"
+        },
+        {
+          "zh": "牙膏",
+          "py": "yá gāo",
+          "meaning": "toothpaste"
+        }
+      ]
+    },
+    {
+      "chinese": "蛀牙需要补牙。",
+      "pinyin": "Zhù yá xūyào bǔ yá。",
+      "translation": "A cavity needs a filling.",
+      "usage": "Explaining dental treatment to a patient.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "蛀牙",
+          "py": "zhù yá",
+          "meaning": "cavity / tooth decay"
+        },
+        {
+          "zh": "需要",
+          "py": "xūyào",
+          "meaning": "need"
+        },
+        {
+          "zh": "补牙",
+          "py": "bǔ yá",
+          "meaning": "filling"
+        }
+      ]
+    },
+    {
+      "chinese": "请不要咬硬物。",
+      "pinyin": "Qǐng bùyào yǎo yìng wù。",
+      "translation": "Please don't bite hard objects.",
+      "usage": "Giving dental care advice to a child.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "不要",
+          "py": "bùyào",
+          "meaning": "don't"
+        },
+        {
+          "zh": "咬",
+          "py": "yǎo",
+          "meaning": "bite"
+        },
+        {
+          "zh": "硬物",
+          "py": "yìng wù",
+          "meaning": "hard objects"
+        }
+      ]
+    },
+    {
+      "chinese": "口腔检查可以预防疾病。",
+      "pinyin": "Kǒuchuāng jiǎnchá kěyǐ yùfáng bìngzhèng。",
+      "translation": "Oral exams can prevent diseases.",
+      "usage": "Educational context about dental check-ups.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "口腔",
+          "py": "kǒu chuāng",
+          "meaning": "mouth"
+        },
+        {
+          "zh": "检查",
+          "py": "jiǎnchá",
+          "meaning": "examine / check"
+        },
+        {
+          "zh": "可以",
+          "py": "kěyǐ",
+          "meaning": "can"
+        },
+        {
+          "zh": "预防",
+          "py": "yùfáng",
+          "meaning": "prevent"
+        },
+        {
+          "zh": "疾病",
+          "py": "bìngzhèng",
+          "meaning": "diseases"
+        }
+      ]
+    },
+    {
+      "chinese": "牙套能矫正牙齿。",
+      "pinyin": "Yá tào néng jiàozhèng yá zhī。",
+      "translation": "Braces can correct teeth alignment.",
+      "usage": "Discussing orthodontic treatment.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "牙套",
+          "py": "yá tào",
+          "meaning": "braces"
+        },
+        {
+          "zh": "能",
+          "py": "néng",
+          "meaning": "can"
+        },
+        {
+          "zh": "矫正",
+          "py": "jiàozhèng",
+          "meaning": "correct / align"
+        },
+        {
+          "zh": "牙齿",
+          "py": "yá zhī",
+          "meaning": "teeth"
+        }
+      ]
+    },
+    {
+      "chinese": "牙龈出血可能是牙周病。",
+      "pinyin": "Yá yín chūxuè kěnéng shì yá zhōu bìng。",
+      "translation": "Gum bleeding may indicate periodontal disease.",
+      "usage": "Medical context for dental professionals.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "牙龈",
+          "py": "yá yín",
+          "meaning": "gums"
+        },
+        {
+          "zh": "出血",
+          "py": "chūxuè",
+          "meaning": "bleeding"
+        },
+        {
+          "zh": "可能",
+          "py": "kěnéng",
+          "meaning": "may / possibly"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "is"
+        },
+        {
+          "zh": "牙周病",
+          "py": "yá zhōu bìng",
+          "meaning": "periodontal disease"
+        }
+      ]
+    },
+    {
+      "chinese": "每天至少刷牙两次。",
+      "pinyin": "Měi tiān záishǎo shuā yá liǎng cì。",
+      "translation": "Brush teeth at least twice a day.",
+      "usage": "General oral hygiene advice.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "每天",
+          "py": "měi tiān",
+          "meaning": "every day"
+        },
+        {
+          "zh": "至少",
+          "py": "záishǎo",
+          "meaning": "at least"
+        },
+        {
+          "zh": "刷牙",
+          "py": "shuā yá",
+          "meaning": "brush teeth"
+        },
+        {
+          "zh": "两次",
+          "py": "liǎng cì",
+          "meaning": "twice"
+        }
+      ]
+    },
+    {
+      "chinese": "牙线有助于清洁牙缝。",
+      "pinyin": "Yá xiàn yǒuyù shì qīngjié yá fèng。",
+      "translation": "Floss helps clean between teeth.",
+      "usage": "Discussing flossing with a patient.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "牙线",
+          "py": "yá xiàn",
+          "meaning": "floss"
+        },
+        {
+          "zh": "有助",
+          "py": "yǒuyù",
+          "meaning": "help"
+        },
+        {
+          "zh": "于",
+          "py": "yú",
+          "meaning": "to / for"
+        },
+        {
+          "zh": "清洁",
+          "py": "qīngjié",
+          "meaning": "clean"
+        },
+        {
+          "zh": "牙缝",
+          "py": "yá fèng",
+          "meaning": "spaces between teeth"
+        }
+      ]
+    },
+    {
+      "chinese": "请勿在拔牙后立即进食。",
+      "pinyin": "Qǐng wù zài bá yá hòu lìjí shíjìn。",
+      "translation": "Do not eat immediately after tooth extraction.",
+      "usage": "Post-operative instructions for a patient.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请勿",
+          "py": "qǐng wù",
+          "meaning": "please do not"
+        },
+        {
+          "zh": "在",
+          "py": "zài",
+          "meaning": "at / during"
+        },
+        {
+          "zh": "拔牙",
+          "py": "bá yá",
+          "meaning": "tooth extraction"
+        },
+        {
+          "zh": "后",
+          "py": "hòu",
+          "meaning": "after"
+        },
+        {
+          "zh": "立即",
+          "py": "lìjí",
+          "meaning": "immediately"
+        },
+        {
+          "zh": "进食",
+          "py": "shíjìn",
+          "meaning": "eat / consume"
+        }
+      ]
+    },
+    {
+      "chinese": "牙套需要定期调整。",
+      "pinyin": "Yá tào xūyào dìqī diàozhěng。",
+      "translation": "Braces need regular adjustments.",
+      "usage": "Explaining orthodontic care to a patient.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "牙套",
+          "py": "yá tào",
+          "meaning": "braces"
+        },
+        {
+          "zh": "需要",
+          "py": "xūyào",
+          "meaning": "need"
+        },
+        {
+          "zh": "定期",
+          "py": "dìqī",
+          "meaning": "regularly"
+        },
+        {
+          "zh": "调整",
+          "py": "diàozhěng",
+          "meaning": "adjust"
+        }
+      ]
+    },
+    {
+      "chinese": "口腔溃疡要保持清洁。",
+      "pinyin": "Kǒu chuāng sùyuē yào bǎochí qīngjié。",
+      "translation": "Keep mouth ulcers clean.",
+      "usage": "Advice for treating oral sores.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "口腔",
+          "py": "kǒu chuāng",
+          "meaning": "mouth"
+        },
+        {
+          "zh": "溃疡",
+          "py": "sùyuē",
+          "meaning": "ulcer"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "need to"
+        },
+        {
+          "zh": "保持",
+          "py": "bǎochí",
+          "meaning": "keep"
+        },
+        {
+          "zh": "清洁",
+          "py": "qīngjié",
+          "meaning": "clean"
+        }
+      ]
+    },
+    {
+      "chinese": "牙科医生可以治疗牙痛。",
+      "pinyin": "Yákē yīshēng kěyǐ zhìlìng yá téng。",
+      "translation": "Dentists can treat toothaches.",
+      "usage": "General information about dental care.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "牙科",
+          "py": "yákē",
+          "meaning": "dentistry"
+        },
+        {
+          "zh": "医生",
+          "py": "yīshēng",
+          "meaning": "doctor"
+        },
+        {
+          "zh": "可以",
+          "py": "kěyǐ",
+          "meaning": "can"
+        },
+        {
+          "zh": "治疗",
+          "py": "zhìlìng",
+          "meaning": "treat"
+        },
+        {
+          "zh": "牙痛",
+          "py": "yá téng",
+          "meaning": "toothache"
+        }
+      ]
+    },
+    {
+      "chinese": "使用含氟牙膏可以防蛀。",
+      "pinyin": "Shǐyòng hánfú yá gāo kěyǐ fáng zhù。",
+      "translation": "Using fluoride toothpaste can prevent cavities.",
+      "usage": "Educational context about dental products.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "使用",
+          "py": "shǐyòng",
+          "meaning": "use"
+        },
+        {
+          "zh": "含氟",
+          "py": "hánfú",
+          "meaning": "fluoride-containing"
+        },
+        {
+          "zh": "牙膏",
+          "py": "yá gāo",
+          "meaning": "toothpaste"
+        },
+        {
+          "zh": "可以",
+          "py": "kěyǐ",
+          "meaning": "can"
+        },
+        {
+          "zh": "防蛀",
+          "py": "fáng zhù",
+          "meaning": "prevent cavities"
+        }
+      ]
+    },
+    {
+      "chinese": "牙套会影响饮食习惯。",
+      "pinyin": "Yá tào yǒu xiǎng chǔ yǐngxiǎn shíyǐn xíguàn。",
+      "translation": "Braces can affect eating habits.",
+      "usage": "Discussion about lifestyle changes with braces.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "牙套",
+          "py": "yá tào",
+          "meaning": "braces"
+        },
+        {
+          "zh": "影响",
+          "py": "yǐngxiǎn",
+          "meaning": "affect"
+        },
+        {
+          "zh": "饮食",
+          "py": "shíyǐn",
+          "meaning": "eating"
+        },
+        {
+          "zh": "习惯",
+          "py": "xíguàn",
+          "meaning": "habits"
+        }
+      ]
+    },
+    {
+      "chinese": "定期洗牙可以预防牙结石。",
+      "pinyin": "Dìqī xǐ yá kěyǐ yùfáng yá shíshí。",
+      "translation": "Regular dental cleanings can prevent dental calculus.",
+      "usage": "Educational context for dental health.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "定期",
+          "py": "dìqī",
+          "meaning": "regularly"
+        },
+        {
+          "zh": "洗牙",
+          "py": "xǐ yá",
+          "meaning": "dental cleaning"
+        },
+        {
+          "zh": "可以",
+          "py": "kěyǐ",
+          "meaning": "can"
+        },
+        {
+          "zh": "预防",
+          "py": "yùfáng",
+          "meaning": "prevent"
+        },
+        {
+          "zh": "牙结石",
+          "py": "yá shíshí",
+          "meaning": "dental calculus"
+        }
+      ]
+    },
+    {
+      "chinese": "牙科手术前需做全面检查。",
+      "pinyin": "Yákē shǒuyì qián xū zuò quánmiàn jiǎnchá。",
+      "translation": "Comprehensive exams are needed before dental surgery.",
+      "usage": "Pre-operative instructions for a patient.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "牙科",
+          "py": "yákē",
+          "meaning": "dentistry"
+        },
+        {
+          "zh": "手术",
+          "py": "shǒuyì",
+          "meaning": "surgery"
+        },
+        {
+          "zh": "前",
+          "py": "qián",
+          "meaning": "before"
+        },
+        {
+          "zh": "需",
+          "py": "xū",
+          "meaning": "need to"
+        },
+        {
+          "zh": "做",
+          "py": "zuò",
+          "meaning": "do"
+        },
+        {
+          "zh": "全面",
+          "py": "quánmiàn",
+          "meaning": "comprehensive"
+        },
+        {
+          "zh": "检查",
+          "py": "jiǎnchá",
+          "meaning": "examine / check"
+        }
+      ]
+    },
+    {
+      "chinese": "口腔健康与全身健康密切相关。",
+      "pinyin": "Kǒu chuāng jiànkuàng yǔ quánshēn jiànkuàng mìmiàn xiāngguān。",
+      "translation": "Oral health is closely related to overall health.",
+      "usage": "General health education.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "口腔",
+          "py": "kǒu chuāng",
+          "meaning": "mouth"
+        },
+        {
+          "zh": "健康",
+          "py": "jiànkuàng",
+          "meaning": "health"
+        },
+        {
+          "zh": "与",
+          "py": "yǔ",
+          "meaning": "and / with"
+        },
+        {
+          "zh": "全身",
+          "py": "quánshēn",
+          "meaning": "whole body"
+        },
+        {
+          "zh": "密切相关",
+          "py": "mìmiàn xiāngguān",
+          "meaning": "closely related"
+        }
+      ]
+    }
+  ]
+}

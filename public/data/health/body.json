@@ -1,0 +1,593 @@
+{
+  "sentences": [
+    {
+      "chinese": "我今天感觉头晕。",
+      "pinyin": "Wǒ jīn tiān gǎn jué tóu yūn.",
+      "translation": "I feel dizzy today.",
+      "usage": "Describing a symptom of dizziness.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "今天",
+          "py": "jīn tiān",
+          "meaning": "today"
+        },
+        {
+          "zh": "感觉",
+          "py": "gǎn jué",
+          "meaning": "feel"
+        },
+        {
+          "zh": "头晕",
+          "py": "tóu yūn",
+          "meaning": "dizzy"
+        }
+      ]
+    },
+    {
+      "ch,inese": "你的手受伤了吗？",
+      "pinyin": "Nǐ de shǒu shòu shāng le ma?",
+      "translation": "Did your hand get injured?",
+      "usage": "Asking about an injury to the hand.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive"
+        },
+        {
+          "zh": "手",
+          "py": "shǒu",
+          "meaning": "hand"
+        },
+        {
+          "zh": "受伤",
+          "py": "shòu shāng",
+          "meaning": "injured"
+        }
+      ]
+    },
+    {
+      "chinese": "请不要揉眼睛。",
+      "pinyin": "Qǐng bù yào róu yǎn jīng.",
+      "translation": "Please don't rub your eyes.",
+      "usage": "Giving advice to avoid eye irritation.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "不要",
+          "py": "bù yào",
+          "meaning": "don't"
+        },
+        {
+          "zh": "揉",
+          "py": "róu",
+          "meaning": "rub"
+        },
+        {
+          "zh": "眼睛",
+          "py": "yǎn jīng",
+          "meaning": "eyes"
+        }
+      ]
+    },
+    {
+      "chinese": "我的脚很疼。",
+      "pinyin": "Wǒ de jiǎo hěn téng.",
+      "translation": "My foot hurts.",
+      "usage": "Reporting pain in the foot.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive"
+        },
+        {
+          "zh": "脚",
+          "py": "jiǎo",
+          "meaning": "foot"
+        },
+        {
+          "zh": "很疼",
+          "py": "hěn téng",
+          "meaning": "very painful"
+        }
+      ]
+    },
+    {
+      "chinese": "请检查我的血压。",
+      "pinyin": "Qǐng jiǎn chá wǒ de xuè yā.",
+      "translation": "Please check my blood pressure.",
+      "usage": "Requesting a medical check-up.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "检查",
+          "py": "jiǎn chá",
+          "meaning": "check"
+        },
+        {
+          "zh": "血压",
+          "py": "xuè yā",
+          "meaning": "blood pressure"
+        }
+      ]
+    },
+    {
+      "chinese": "你哪里不舒服？",
+      "pinyin": "Nǐ nǎ lǐ bù shū fu?",
+      "translation": "Where do you feel uncomfortable?",
+      "usage": "Asking about specific symptoms.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "哪里",
+          "py": "nǎ lǐ",
+          "meaning": "where"
+        },
+        {
+          "zh": "不舒服",
+          "py": "bù shū fu",
+          "meaning": "uncomfortable"
+        }
+      ]
+    },
+    {
+      "chinese": "保持良好的姿势。",
+      "pinyin": "Bǎo chí liáng hǎo de zī shì.",
+      "translation": "Maintain good posture.",
+      "usage": "Health advice for posture.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "保持",
+          "py": "bǎo chí",
+          "meaning": "maintain"
+        },
+        {
+          "zh": "良好",
+          "py": "liáng hǎo",
+          "meaning": "good"
+        },
+        {
+          "zh": "姿势",
+          "py": "zī shì",
+          "meaning": "posture"
+        }
+      ]
+    },
+    {
+      "chinese": "我的耳朵很痒。",
+      "pinyin": "Wǒ de ěr duǒ hěn yǎng.",
+      "translation": "My ears itch.",
+      "usage": "Describing an itch in the ears.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive"
+        },
+        {
+          "zh": "耳朵",
+          "py": "ěr duǒ",
+          "meaning": "ears"
+        },
+        {
+          "zh": "很痒",
+          "py": "hěn yǎng",
+          "meaning": "very itchy"
+        }
+      ]
+    },
+    {
+      "chinese": "请用温水清洗伤口。",
+      "pinyin": "Qǐng yòng wēn shuǐ xǐ jìng shāng kǒu.",
+      "translation": "Please wash the wound with warm water.",
+      "usage": "First aid instructions.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "用",
+          "py": "yòng",
+          "meaning": "use"
+        },
+        {
+          "zh": "温水",
+          "py": "wēn shuǐ",
+          "meaning": "warm water"
+        },
+        {
+          "zh": "清洗",
+          "py": "xǐ jìng",
+          "meaning": "wash"
+        },
+        {
+          "zh": "伤口",
+          "py": "shāng kǒu",
+          "meaning": "wound"
+        }
+      ]
+    },
+    {
+      "chinese": "我的鼻子不通气。",
+      "pinyin": "Wǒ de bí zi bù tōng qì.",
+      "translation": "My nose is blocked.",
+      "usage": "Describing nasal congestion.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive"
+        },
+        {
+          "zh": "鼻子",
+          "py": "bí zi",
+          "meaning": "nose"
+        },
+        {
+          "zh": "不通气",
+          "py": "bù tōng qì",
+          "meaning": "blocked"
+        }
+      ]
+    },
+    {
+      "chinese": "请不要熬夜。",
+      "pinyin": "Qǐng bù yào áo yè.",
+      "translation": "Please don't stay up late.",
+      "usage": "Health advice for sleep.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "不要",
+          "py": "bù yào",
+          "meaning": "don't"
+        },
+        {
+          "zh": "熬夜",
+          "py": "áo yè",
+          "meaning": "stay up late"
+        }
+      ]
+    },
+    {
+      "chinese": "我的手臂酸痛。",
+      "pinyin": "Wǒ de shǒu bì suān tòng.",
+      "translation": "My arm hurts.",
+      "usage": "Reporting muscle pain.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive"
+        },
+        {
+          "zh": "手臂",
+          "py": "shǒu bì",
+          "meaning": "arm"
+        },
+        {
+          "zh": "酸痛",
+          "py": "suān tòng",
+          "meaning": "achy"
+        }
+      ]
+    },
+    {
+      "chinese": "患者体温异常。",
+      "pinyin": "Huàn zhě tǐ wēn yì cháng.",
+      "translation": "The patient has an abnormal temperature.",
+      "usage": "Medical report in a formal context.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "患者",
+          "py": "huàn zhě",
+          "meaning": "patient"
+        },
+        {
+          "zh": "体温",
+          "py": "tǐ wēn",
+          "meaning": "body temperature"
+        },
+        {
+          "zh": "异常",
+          "py": "yì cháng",
+          "meaning": "abnormal"
+        }
+      ]
+    },
+    {
+      "chinese": "请按摩肩膀。",
+      "pinyin": "Qǐng mā jiǎn jiān.",
+      "translation": "Please massage your shoulders.",
+      "usage": "Relaxation advice.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "按摩",
+          "py": "mā jiǎn",
+          "meaning": "massage"
+        },
+        {
+          "zh": "肩膀",
+          "py": "jiān bǎng",
+          "meaning": "shoulders"
+        }
+      ]
+    },
+    {
+      "chinese": "我的脚趾冻伤了。",
+      "pinyin": "Wǒ de jiǎo zhǐ dòng shāng le.",
+      "translation": "My toes are frostbitten.",
+      "usage": "Reporting cold-related injury.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive"
+        },
+        {
+          "zh": "脚趾",
+          "py": "jiǎo zhǐ",
+          "meaning": "toes"
+        },
+        {
+          "zh": "冻伤",
+          "py": "dòng shāng",
+          "meaning": "frostbite"
+        }
+      ]
+    },
+    {
+      "chinese": "保持正确的坐姿。",
+      "pinyin": "Bǎo chí zhèng què de zuò zī.",
+      "translation": "Maintain the correct sitting posture.",
+      "usage": "Health advice for posture.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "保持",
+          "py": "bǎo chí",
+          "meaning": "maintain"
+        },
+        {
+          "zh": "正确",
+          "py": "zhèng què",
+          "meaning": "correct"
+        },
+        {
+          "zh": "坐姿",
+          "py": "zuò zī",
+          "meaning": "sitting posture"
+        }
+      ]
+    },
+    {
+      "chinese": "你的膝盖疼痛。",
+      "pinyin": "Nǐ de xī gài téng tòng.",
+      "translation": "Your knee hurts.",
+      "usage": "Reporting knee pain.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive"
+        },
+        {
+          "zh": "膝盖",
+          "py": "xī gài",
+          "meaning": "knee"
+        },
+        {
+          "zh": "疼痛",
+          "py": "téng tòng",
+          "meaning": "pain"
+        }
+      ]
+    },
+    {
+      "chinese": "请用消毒液清洁伤口。",
+      "pinyin": "Qǐng yòng xiāo dì yè jiāng liáng shāng kǒu.",
+      "translation": "Please clean the wound with antiseptic.",
+      "usage": "First aid instructions.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "用",
+          "py": "yòng",
+          "meaning": "use"
+        },
+        {
+          "zh": "消毒液",
+          "py": "xiāo dì yè",
+          "meaning": "antiseptic"
+        },
+        {
+          "zh": "清洁",
+          "py": "jiāng liáng",
+          "meaning": "clean"
+        },
+        {
+          "zh": "伤口",
+          "py": "shāng kǒu",
+          "meaning": "wound"
+        }
+      ]
+    },
+    {
+      "chinese": "我的脸发烫。",
+      "pinyin": "Wǒ de liǎn fā tàng.",
+      "translation": "My face is hot.",
+      "usage": "Describing a feverish feeling.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive"
+        },
+        {
+          "zh": "脸",
+          "py": "liǎn",
+          "meaning": "face"
+        },
+        {
+          "zh": "发烫",
+          "py": "fā tàng",
+          "meaning": "hot"
+        }
+      ]
+    },
+    {
+      "chinese": "请不要过度使用眼睛。",
+      "pinyin": "Qǐng bù yào guò dù shǐ yòng yǎn jīng.",
+      "translation": "Please don't overuse your eyes.",
+      "usage": "Advice for eye health.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "不要",
+          "py": "bù yào",
+          "meaning": "don't"
+        },
+        {
+          "zh": "过度",
+          "py": "guò dù",
+          "meaning": "excessively"
+        },
+        {
+          "zh": "使用",
+          "py": "shǐ yòng",
+          "meaning": "use"
+        },
+        {
+          "zh": "眼睛",
+          "py": "yǎn jīng",
+          "meaning": "eyes"
+        }
+      ]
+    },
+    {
+      "chinese": "我的脖子僵硬。",
+      "pinyin": "Wǒ de bó zi jiāng yìng.",
+      "translation": "My neck is stiff.",
+      "usage": "Describing neck stiffness.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive"
+        },
+        {
+          "zh": "脖子",
+          "py": "bó zi",
+          "meaning": "neck"
+        },
+        {
+          "zh": "僵硬",
+          "py": "jiāng yìng",
+          "meaning": "stiff"
+        }
+      ]
+    }
+  ]
+}

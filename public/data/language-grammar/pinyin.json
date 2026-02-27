@@ -1,0 +1,206 @@
+{
+  "sentences": [
+    {
+      "chinese": "你好！",
+      "pinyin": "Nǐ hǎo!",
+      "translation": "Hello!",
+      "usage": "Standard greeting.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good"
+        }
+      ]
+    },
+    {
+      "chinese": "再见！",
+      "pinyin": "Zài jiàn!",
+      "translation": "Goodbye!",
+      "usage": "Farewell phrase.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "再",
+          "py": "zài",
+          "meaning": "again"
+        },
+        {
+          "zh": "见",
+          "py": "jiàn",
+          "meaning": "see"
+        }
+      ]
+    },
+    {
+      "chinese": "我会说中文。",
+      "pinyin": "Wǒ huì shuō Zhōngwén.",
+      "translation": "I can speak Chinese.",
+      "usage": "Self-introduction skill.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "会",
+          "py": "huì",
+          "meaning": "can"
+        },
+        {
+          "zh": "说",
+          "py": "shuō",
+          "meaning": "speak"
+        },
+        {
+          "zh": "中文",
+          "py": "Zhōngwén",
+          "meaning": "Chinese"
+        }
+      ]
+    },
+    {
+      "chinese": "拼写正确",
+      "pinyin": "Pīn xiě zhèng què",
+      "translation": "Spelled correctly",
+      "usage": "Confirm spelling accuracy.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "拼",
+          "py": "pīn",
+          "meaning": "spell"
+        },
+        {
+          "zh": "写",
+          "py": "xiě",
+          "meaning": "write"
+        },
+        {
+          "zh": "正确",
+          "py": "zhèng què",
+          "meaning": "correct"
+        }
+      ]
+    },
+    {
+      "chinese": "声调很重要",
+      "pinyin": "Shēng diào hěn zhòng yào",
+      "translation": "Tone marks are important.",
+      "usage": "Emphasize pronunciation rules.",
+      "formality": "Educational",
+      "words": [
+        {
+          "zh": "声",
+          "py": "shēng",
+          "meaning": "sound"
+        },
+        {
+          "zh": "调",
+          "py": "diào",
+          "meaning": "tone"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "重要",
+          "py": "zhòng yào",
+          "meaning": "important"
+        }
+      ]
+    },
+    {
+      "chinese": "字母表",
+      "pinyin": "Zì mǔ biǎo",
+      "translation": "Alphabet",
+      "usage": "Reference for pinyin letters.",
+      "formality": "Educational",
+      "words": [
+        {
+          "zh": "字",
+          "py": "zì",
+          "meaning": "character"
+        },
+        {
+          "zh": "母",
+          "py": "mǔ",
+          "meaning": "mother"
+        },
+        {
+          "zh": "表",
+          "py": "biǎo",
+          "meaning": "table"
+        }
+      ]
+    },
+    {
+      "chinese": "声母和韵母",
+      "pinyin": "Shēng mǔ hé yùn mǔ",
+      "translation": "Initials and finals",
+      "usage": "Pinyin pronunciation components.",
+      "formality": "Technical",
+      "words": [
+        {
+          "zh": "声",
+          "py": "shēng",
+          "meaning": "sound"
+        },
+        {
+          "zh": "母",
+          "py": "mǔ",
+          "meaning": "mother"
+        },
+        {
+          "zh": "和",
+          "py": "hé",
+          "meaning": "and"
+        },
+        {
+          "zh": "韵",
+          "py": "yùn",
+          "meaning": "rhyme"
+        },
+        {
+          "zh": "母",
+          "py": "mǔ",
+          "meaning": "mother"
+        }
+      ]
+    },
+    {
+      "chinese": "四声调",
+      "pinyin": "Sì shēng diào",
+      "translation": "Four tones",
+      "usage": "Describe pinyin tone system.",
+      "formality": "Technical",
+      "words": [
+        {
+          "zh": "四",
+          "py": "sì",
+          "meaning": "four"
+        },
+        {
+          "zh": "声",
+          "py": "shēng",
+          "meaning": "sound"
+        },
+        {
+          "zh": "调",
+          "py": "diào",
+          "meaning": "tone"
+        }
+      ]
+    }
+  ]
+}

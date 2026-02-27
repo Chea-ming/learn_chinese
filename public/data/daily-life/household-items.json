@@ -1,0 +1,814 @@
+{
+  "sentences": [
+    {
+      "chinese": "这是我的家。",
+      "pinyin": "Zhè shì wǒ de jiā.",
+      "translation": "This is my house.",
+      "usage": "Used to introduce one's home or living space.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "is"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / me"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive particle"
+        },
+        {
+          "zh": "家",
+          "py": "jiā",
+          "meaning": "home / house"
+        }
+      ]
+    },
+    {
+      "chinese": "请坐。",
+      "pinyin": "Qǐng zuò.",
+      "translation": "Please sit.",
+      "usage": "Polite invitation for someone to sit down.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "坐",
+          "py": "zuò",
+          "meaning": "sit"
+        }
+      ]
+    },
+    {
+      "chinese": "我需要一个杯子。",
+      "pinyin": "Wǒ xūyào yīgè bēizi.",
+      "translation": "I need a cup.",
+      "usage": "Expressing the need for a household item.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / me"
+        },
+        {
+          "zh": "需要",
+          "py": "xūyào",
+          "meaning": "need"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "个",
+          "py": "gè",
+          "meaning": "classifier for objects"
+        },
+        {
+          "zh": "杯",
+          "py": "bēi",
+          "meaning": "cup"
+        },
+        {
+          "zh": "子",
+          "py": "zi",
+          "meaning": "small object suffix"
+        }
+      ]
+    },
+    {
+      "chinese": "这个桌子很干净。",
+      "pinyin": "Zhège zhuōzi hěn gānjìng.",
+      "translation": "This table is very clean.",
+      "usage": "Describing the cleanliness of furniture.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "个",
+          "py": "gè",
+          "meaning": "classifier for objects"
+        },
+        {
+          "zh": "桌",
+          "py": "zhuō",
+          "meaning": "table"
+        },
+        {
+          "zh": "子",
+          "py": "zi",
+          "meaning": "small object suffix"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "干净",
+          "py": "gānjìng",
+          "meaning": "clean"
+        }
+      ]
+    },
+    {
+      "chinese": "请帮我拿一下毛巾。",
+      "pinyin": "Qǐng bāng wǒ ná yīxià máojīn.",
+      "translation": "Please help me get the towel.",
+      "usage": "Requesting assistance with household items.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "帮",
+          "py": "bāng",
+          "meaning": "help"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / me"
+        },
+        {
+          "zh": "拿",
+          "py": "ná",
+          "meaning": "take"
+        },
+        {
+          "zh": "一下",
+          "py": "yīxià",
+          "meaning": "a little / a bit"
+        },
+        {
+          "zh": "毛",
+          "py": "máo",
+          "meaning": "hair / wool"
+        },
+        {
+          "zh": "巾",
+          "py": "jīn",
+          "meaning": "towel"
+        }
+      ]
+    },
+    {
+      "chinese": "我的手机在床头柜上。",
+      "pinyin": "Wǒ de shǒujī zài chuángtóuguì shàng.",
+      "translation": "My phone is on the nightstand.",
+      "usage": "Indicating the location of a personal item.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / me"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive particle"
+        },
+        {
+          "zh": "手",
+          "py": "shǒu",
+          "meaning": "hand"
+        },
+        {
+          "zh": "机",
+          "py": "jī",
+          "meaning": "machine / device"
+        },
+        {
+          "zh": "在",
+          "py": "zài",
+          "meaning": "at / on"
+        },
+        {
+          "zh": "床",
+          "py": "chuáng",
+          "meaning": "bed"
+        },
+        {
+          "zh": "头",
+          "py": "tóu",
+          "meaning": "head"
+        },
+        {
+          "zh": "柜",
+          "py": "guì",
+          "meaning": "cabinet"
+        },
+        {
+          "zh": "上",
+          "py": "shàng",
+          "meaning": "on"
+        }
+      ]
+    },
+    {
+      "chinese": "厨房里有冰箱。",
+      "pinyin": "Chúfáng lǐ yǒu bīngxiāng.",
+      "translation": "There is a refrigerator in the kitchen.",
+      "usage": "Describing the presence of appliances in a room.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "厨房",
+          "py": "chúfáng",
+          "meaning": "kitchen"
+        },
+        {
+          "zh": "里",
+          "py": "lǐ",
+          "meaning": "inside"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "there is"
+        },
+        {
+          "zh": "冰",
+          "py": "bīng",
+          "meaning": "ice"
+        },
+        {
+          "zh": "箱",
+          "py": "xiāng",
+          "meaning": "box / chest"
+        }
+      ]
+    },
+    {
+      "chinese": "请把电视关掉。",
+      "pinyin": "Qǐng bǎ diànshì guān diào.",
+      "translation": "Please turn off the TV.",
+      "usage": "Requesting someone to switch off an appliance.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "把",
+          "py": "bǎ",
+          "meaning": "to give / to make"
+        },
+        {
+          "zh": "电",
+          "py": "diàn",
+          "meaning": "electricity"
+        },
+        {
+          "zh": "视",
+          "py": "shì",
+          "meaning": "watch / see"
+        },
+        {
+          "zh": "关",
+          "py": "guān",
+          "meaning": "close / shut"
+        },
+        {
+          "zh": "掉",
+          "py": "diào",
+          "meaning": "down / off"
+        }
+      ]
+    },
+    {
+      "chinese": "我每天早上刷牙。",
+      "pinyin": "Wǒ měitiān zǎoshang shuāyá.",
+      "translation": "I brush my teeth every morning.",
+      "usage": "Describing daily personal hygiene routine.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / me"
+        },
+        {
+          "zh": "每天",
+          "py": "měitiān",
+          "meaning": "every day"
+        },
+        {
+          "zh": "早上",
+          "py": "zǎoshang",
+          "meaning": "morning"
+        },
+        {
+          "zh": "刷",
+          "py": "shuā",
+          "meaning": "brush"
+        },
+        {
+          "zh": "牙",
+          "py": "yá",
+          "meaning": "tooth"
+        }
+      ]
+    },
+    {
+      "chinese": "这个灯很亮。",
+      "pinyin": "Zhège dēng hěn liàng.",
+      "translation": "This light is very bright.",
+      "usage": "Commenting on the brightness of a lighting fixture.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "个",
+          "py": "gè",
+          "meaning": "classifier for objects"
+        },
+        {
+          "zh": "灯",
+          "py": "dēng",
+          "meaning": "lamp / light"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "亮",
+          "py": "liàng",
+          "meaning": "bright"
+        }
+      ]
+    },
+    {
+      "chinese": "请把水杯放好。",
+      "pinyin": "Qǐng bǎ shuǐbēi fàng hǎo.",
+      "translation": "Please put the water cup in place.",
+      "usage": "Instructing someone to properly place a household item.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "把",
+          "py": "bǎ",
+          "meaning": "to give / to make"
+        },
+        {
+          "zh": "水",
+          "py": "shuǐ",
+          "meaning": "water"
+        },
+        {
+          "zh": "杯",
+          "py": "bēi",
+          "meaning": "cup"
+        },
+        {
+          "zh": "放",
+          "py": "fàng",
+          "meaning": "put"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good / well"
+        }
+      ]
+    },
+    {
+      "chinese": "我在客厅看电视。",
+      "pinyin": "Wǒ zài kètīng kàn diànshì.",
+      "translation": "I am watching TV in the living room.",
+      "usage": "Describing where one is doing an activity.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / me"
+        },
+        {
+          "zh": "在",
+          "py": "zài",
+          "meaning": "at / in"
+        },
+        {
+          "zh": "客",
+          "py": "kè",
+          "meaning": "guest"
+        },
+        {
+          "zh": "厅",
+          "py": "tīng",
+          "meaning": "room"
+        },
+        {
+          "zh": "看",
+          "py": "kàn",
+          "meaning": "watch"
+        },
+        {
+          "zh": "电",
+          "py": "diàn",
+          "meaning": "electricity"
+        },
+        {
+          "zh": "视",
+          "py": "shì",
+          "meaning": "watch / see"
+        }
+      ]
+    },
+    {
+      "chinese": "我的钥匙在桌子上。",
+      "pinyin": "Wǒ de yàoshi zài zhuōzi shàng.",
+      "translation": "My keys are on the table.",
+      "usage": "Indicating the location of keys or similar items.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / me"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive particle"
+        },
+        {
+          "zh": "钥",
+          "py": "yào",
+          "meaning": "key"
+        },
+        {
+          "zh": "匙",
+          "py": "shi",
+          "meaning": "key"
+        },
+        {
+          "zh": "在",
+          "py": "zài",
+          "meaning": "at / on"
+        },
+        {
+          "zh": "桌",
+          "py": "zhuō",
+          "meaning": "table"
+        },
+        {
+          "zh": "子",
+          "py": "zi",
+          "meaning": "small object suffix"
+        },
+        {
+          "zh": "上",
+          "py": "shàng",
+          "meaning": "on"
+        }
+      ]
+    },
+    {
+      "chinese": "请把垃圾倒掉。",
+      "pinyin": "Qǐng bǎ lājī dǎo diào.",
+      "translation": "Please take out the trash.",
+      "usage": "Requesting someone to dispose of waste.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "把",
+          "py": "bǎ",
+          "meaning": "to give / to make"
+        },
+        {
+          "zh": "垃",
+          "py": "lā",
+          "meaning": "garbage"
+        },
+        {
+          "zh": "圾",
+          "py": "jī",
+          "meaning": "trash"
+        },
+        {
+          "zh": "倒",
+          "py": "dǎo",
+          "meaning": "pour"
+        },
+        {
+          "zh": "掉",
+          "py": "diào",
+          "meaning": "down / off"
+        }
+      ]
+    },
+    {
+      "chinese": "这个椅子很舒服。",
+      "pinyin": "Zhège yǐzi hěn shūfú.",
+      "translation": "This chair is very comfortable.",
+      "usage": "Describing the comfort level of seating furniture.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "个",
+          "py": "gè",
+          "meaning": "classifier for objects"
+        },
+        {
+          "zh": "椅",
+          "py": "yǐ",
+          "meaning": "chair"
+        },
+        {
+          "zh": "子",
+          "py": "zi",
+          "meaning": "small object suffix"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "舒",
+          "py": "shū",
+          "meaning": "comfortable"
+        },
+        {
+          "zh": "服",
+          "py": "fú",
+          "meaning": "comfortable"
+        }
+      ]
+    },
+    {
+      "chinese": "我需要买新的床单。",
+      "pinyin": "Wǒ xūyào mǎi xīn de chuángdān.",
+      "translation": "I need to buy new bed sheets.",
+      "usage": "Expressing the need to purchase household linens.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / me"
+        },
+        {
+          "zh": "需要",
+          "py": "xūyào",
+          "meaning": "need"
+        },
+        {
+          "zh": "买",
+          "py": "mǎi",
+          "meaning": "buy"
+        },
+        {
+          "zh": "新",
+          "py": "xīn",
+          "meaning": "new"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "of"
+        },
+        {
+          "zh": "床",
+          "py": "chuáng",
+          "meaning": "bed"
+        },
+        {
+          "zh": "单",
+          "py": "dān",
+          "meaning": "sheet"
+        }
+      ]
+    },
+    {
+      "chinese": "请把窗户打开。",
+      "pinyin": "Qǐng bǎ chuānghu windows open.",
+      "translation": "Please open the window.",
+      "usage": "Requesting someone to open a window.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "把",
+          "py": "bǎ",
+          "meaning": "to give / to make"
+        },
+        {
+          "zh": "窗",
+          "py": "chuāng",
+          "meaning": "window"
+        },
+        {
+          "zh": "户",
+          "py": "hu",
+          "meaning": "door"
+        },
+        {
+          "zh": "打",
+          "py": "dǎ",
+          "meaning": "hit"
+        },
+        {
+          "zh": "开",
+          "py": "kāi",
+          "meaning": "open"
+        }
+      ]
+    },
+    {
+      "chinese": "我经常在卧室里看书。",
+      "pinyin": "Wǒ jīngcháng zài wòshì lǐ kàn shū.",
+      "translation": "I often read books in the bedroom.",
+      "usage": "Describing reading habits in a specific room.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / me"
+        },
+        {
+          "zh": "经常",
+          "py": "jīngcháng",
+          "meaning": "often"
+        },
+        {
+          "zh": "在",
+          "py": "zài",
+          "meaning": "at / in"
+        },
+        {
+          "zh": "卧",
+          "py": "wò",
+          "meaning": "bedroom"
+        },
+        {
+          "zh": "室",
+          "py": "shì",
+          "meaning": "room"
+        },
+        {
+          "zh": "里",
+          "py": "lǐ",
+          "meaning": "inside"
+        },
+        {
+          "zh": "看",
+          "py": "kàn",
+          "meaning": "watch"
+        },
+        {
+          "zh": "书",
+          "py": "shū",
+          "meaning": "book"
+        }
+      ]
+    },
+    {
+      "chinese": "请把毛巾放在毛巾架上。",
+      "pinyin": "Qǐng bǎ máojīn fàng zài máojīn jià shàng.",
+      "translation": "Please put the towel on the towel rack.",
+      "usage": "Instructing someone to properly place a towel.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "把",
+          "py": "bǎ",
+          "meaning": "to give / to make"
+        },
+        {
+          "zh": "毛",
+          "py": "máo",
+          "meaning": "hair"
+        },
+        {
+          "zh": "巾",
+          "py": "jīn",
+          "meaning": "towel"
+        },
+        {
+          "zh": "放",
+          "py": "fàng",
+          "meaning": "put"
+        },
+        {
+          "zh": "在",
+          "py": "zài",
+          "meaning": "at / in"
+        },
+        {
+          "zh": "毛",
+          "py": "máo",
+          "meaning": "hair"
+        },
+        {
+          "zh": "巾",
+          "py": "jīn",
+          "meaning": "towel"
+        },
+        {
+          "zh": "架",
+          "py": "jià",
+          "meaning": "rack"
+        },
+        {
+          "zh": "上",
+          "py": "shàng",
+          "meaning": "on"
+        }
+      ]
+    },
+    {
+      "chinese": "我正在洗碗。",
+      "pinyin": "Wǒ zhèngzài xǐ wǎn.",
+      "translation": "I am washing dishes.",
+      "usage": "Describing current household cleaning activity.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / me"
+        },
+        {
+          "zh": "正",
+          "py": "zhèng",
+          "meaning": "right now"
+        },
+        {
+          "zh": "在",
+          "py": "zài",
+          "meaning": "at / in"
+        },
+        {
+          "zh": "洗",
+          "py": "xǐ",
+          "meaning": "wash"
+        },
+        {
+          "zh": "碗",
+          "py": "wǎn",
+          "meaning": "bowl"
+        }
+      ]
+    }
+  ]
+}

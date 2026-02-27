@@ -1,0 +1,304 @@
+{
+  "sentences": [
+    {
+      "chinese": "上网",
+      "pinyin": "Shàng wǎng",
+      "translation": "To access the internet",
+      "usage": "General term for using internet services",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "上",
+          "py": "shàng",
+          "meaning": "to access"
+        },
+        {
+          "zh": "网",
+          "py": "wǎng",
+          "meaning": "network"
+        }
+      ]
+    },
+    {
+      "chinese": "断网",
+      "pinyin": "Duàn wǎng",
+      "translation": "Internet disconnection",
+      "usage": "Describes loss of internet connectivity",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "断",
+          "py": "duàn",
+          "meaning": "disconnected"
+        },
+        {
+          "zh": "网",
+          "py": "wǎng",
+          "meaning": "network"
+        }
+      ]
+    },
+    {
+      "chinese": "Wi-Fi",
+      "pinyin": "Wēi·fā·pí",
+      "translation": "Wi-Fi",
+      "usage": "Direct loanword pronunciation",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "Wi-Fi",
+          "py": "wēi·fā·pí",
+          "meaning": "Wireless network"
+        }
+      ]
+    },
+    {
+      "chinese": "路由器",
+      "pinyin": "Lù yóu qì",
+      "translation": "Router",
+      "usage": "Networking hardware device",
+      "formality": "Technical",
+      "words": [
+        {
+          "zh": "路",
+          "py": "lù",
+          "meaning": "route"
+        },
+        {
+          "zh": "由",
+          "py": "yóu",
+          "meaning": "by"
+        },
+        {
+          "zh": "器",
+          "py": "qì",
+          "meaning": "device"
+        }
+      ]
+    },
+    {
+      "chinese": "防火墙",
+      "pinyin": "Fáng huǒ qiáng",
+      "translation": "Firewall",
+      "usage": "Network security system",
+      "formality": "Technical",
+      "words": [
+        {
+          "zh": "防",
+          "py": "fáng",
+          "meaning": "prevent"
+        },
+        {
+          "zh": "火",
+          "py": "huǒ",
+          "meaning": "fire"
+        },
+        {
+          "zh": "墙",
+          "py": "qiáng",
+          "meaning": "wall"
+        }
+      ]
+    },
+    {
+      "chinese": "云服务",
+      "pinyin": "Yún fú wù",
+      "translation": "Cloud service",
+      "usage": "Remote computing resources",
+      "formality": "Technical",
+      "words": [
+        {
+          "zh": "云",
+          "py": "yún",
+          "meaning": "cloud"
+        },
+        {
+          "zh": "服",
+          "py": "fú",
+          "meaning": "service"
+        },
+        {
+          "zh": "务",
+          "py": "wù",
+          "meaning": "service"
+        }
+      ]
+    },
+    {
+      "chinese": "带宽",
+      "pinyin": "Dài kuān",
+      "translation": "Bandwidth",
+      "usage": "Network capacity measurement",
+      "formality": "Technical",
+      "words": [
+        {
+          "zh": "带",
+          "py": "dài",
+          "meaning": "band"
+        },
+        {
+          "zh": "宽",
+          "py": "kuān",
+          "meaning": "wide"
+        }
+      ]
+    },
+    {
+      "chinese": "光纤",
+      "pinyin": "Guāng xiān",
+      "translation": "Fiber optic",
+      "usage": "High-speed internet cable",
+      "formality": "Technical",
+      "words": [
+        {
+          "zh": "光",
+          "py": "guāng",
+          "meaning": "light"
+        },
+        {
+          "zh": "纤",
+          "py": "xiān",
+          "meaning": "fiber"
+        }
+      ]
+    },
+    {
+      "chinese": "下载",
+      "pinyin": "Xià zǎi",
+      "translation": "Download",
+      "usage": "Receive data from internet",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "下",
+          "py": "xià",
+          "meaning": "down"
+        },
+        {
+          "zh": "载",
+          "py": "zǎi",
+          "meaning": "transfer"
+        }
+      ]
+    },
+    {
+      "chinese": "上传",
+      "pinyin": "Shàng chuán",
+      "translation": "Upload",
+      "usage": "Send data to remote server",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "上",
+          "py": "shàng",
+          "meaning": "up"
+        },
+        {
+          "zh": "传",
+          "py": "chuán",
+          "meaning": "transfer"
+        }
+      ]
+    },
+    {
+      "chinese": "缓存",
+      "pinyin": "Huǎn cún",
+      "translation": "Cache",
+      "usage": "Temporary data storage",
+      "formality": "Technical",
+      "words": [
+        {
+          "zh": "缓",
+          "py": "huǎn",
+          "meaning": "slow"
+        },
+        {
+          "zh": "存",
+          "py": "cún",
+          "meaning": "store"
+        }
+      ]
+    },
+    {
+      "chinese": "4G/5G",
+      "pinyin": "Sì G / Wǔ G",
+      "translation": "4G/5G",
+      "usage": "Mobile network generation",
+      "formality": "Technical",
+      "words": [
+        {
+          "zh": "4G",
+          "py": "sì G",
+          "meaning": "Fourth generation"
+        },
+        {
+          "zh": "5G",
+          "py": "wǔ G",
+          "meaning": "Fifth generation"
+        }
+      ]
+    },
+    {
+      "chinese": "蓝牙",
+      "pinyin": "Lán ché",
+      "translation": "Bluetooth",
+      "usage": "Wireless technology name",
+      "formality": "Technical",
+      "words": [
+        {
+          "zh": "蓝",
+          "py": "lán",
+          "meaning": "Blue"
+        },
+        {
+          "zh": "牙",
+          "py": "chá",
+          "meaning": "Teeth"
+        }
+      ]
+    },
+    {
+      "chinese": "网络钓鱼",
+      "pinyin": "Wǎng luò diào yú",
+      "translation": "Phishing",
+      "usage": "Online fraud technique",
+      "formality": "Technical",
+      "words": [
+        {
+          "zh": "网",
+          "py": "wǎng",
+          "meaning": "Network"
+        },
+        {
+          "zh": "络",
+          "py": "luò",
+          "meaning": "Connection"
+        },
+        {
+          "zh": "钓",
+          "py": "diào",
+          "meaning": "Fishing"
+        },
+        {
+          "zh": "鱼",
+          "py": "yú",
+          "meaning": "Fish"
+        }
+      ]
+    },
+    {
+      "chinese": "虚拟现实",
+      "pinyin": "Xūn xī shí xiàn",
+      "translation": "Virtual reality",
+      "usage": "Digital simulation technology",
+      "formality": "Technical",
+      "words": [
+        {
+          "zh": "虚",
+          "py": "xū",
+          "meaning": "Virtual"
+        }
+      ]
+    }
+  ]
+}

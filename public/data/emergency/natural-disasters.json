@@ -1,0 +1,173 @@
+{
+  "sentences": [
+    {
+      "chinese": "地震警报",
+      "pinyin": "Dìzhèn jǐngbào",
+      "translation": "Earthquake Alert",
+      "usage": "Used to inform people of an impending earthquake.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "地",
+          "py": "dì",
+          "meaning": "earth"
+        },
+        {
+          "zh": "震",
+          "py": "zhèn",
+          "meaning": "shake"
+        },
+        {
+          "zh": "警",
+          "py": "jǐng",
+          "meaning": "alert"
+        },
+        {
+          "zh": "报",
+          "py": "bào",
+          "meaning": "report"
+        }
+      ]
+    },
+    {
+      "chinese": "紧急疏散",
+      "pinyin": "Jǐnjí shū sàn",
+      "translation": "Emergency Evacuation",
+      "usage": "Directs people to leave an area quickly during a disaster.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "紧",
+          "py": "jǐn",
+          "meaning": "urgent"
+        },
+        {
+          "zh": "急",
+          "py": "jí",
+          "meaning": "quick"
+        },
+        {
+          "zh": "疏",
+          "py": "shū",
+          "meaning": "disperse"
+        },
+        {
+          "zh": "散",
+          "py": "sàn",
+          "meaning": "scatter"
+        }
+      ]
+    },
+    {
+      "chinese": "避难所",
+      "pinyin": "Bìnàn suǒ",
+      "translation": "Shelter",
+      "usage": "Refers to a safe location during natural disasters.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "避",
+          "py": "bì",
+          "meaning": "avoid"
+        },
+        {
+          "zh": "难",
+          "py": "nàn",
+          "meaning": "disaster"
+        },
+        {
+          "zh": "所",
+          "py": "suǒ",
+          "meaning": "place"
+        }
+      ]
+    },
+    {
+      "chinese": "灾难救援",
+      "pinyin": "Zānnàn jiùyuán",
+      "translation": "Disaster Relief",
+      "usage": "Describes efforts to aid victims of natural disasters.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "灾",
+          "py": "zāi",
+          "meaning": "disaster"
+        },
+        {
+          "zh": "难",
+          "py": "nàn",
+          "meaning": "calamity"
+        },
+        {
+          "zh": "救",
+          "py": "jiù",
+          "meaning": "rescue"
+        },
+        {
+          "zh": "援",
+          "py": "yuán",
+          "meaning": "support"
+        }
+      ]
+    },
+    {
+      "chinese": "安全区域",
+      "pinyin": "Ānquán qūyù",
+      "translation": "Safe Zone",
+      "usage": "Identifies a secure area during emergencies.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "安",
+          "py": "ān",
+          "meaning": "safe"
+        },
+        {
+          "zh": "全",
+          "py": "quán",
+          "meaning": "complete"
+        },
+        {
+          "zh": "区",
+          "py": "qū",
+          "meaning": "area"
+        },
+        {
+          "zh": "域",
+          "py": "yù",
+          "meaning": "region"
+        }
+      ]
+    },
+    {
+      "chinese": "撤离命令",
+      "pinyin": "Chèxí lìngmíng",
+      "translation": "Evacuation Order",
+      "usage": "Official instruction to leave a hazardous area.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "撤",
+          "py": "chè",
+          "meaning": "withdraw"
+        },
+        {
+          "zh": "离",
+          "py": "lí",
+          "meaning": "leave"
+        },
+        {
+          "zh": "命",
+          "py": "mìng",
+          "meaning": "order"
+        },
+        {
+          "zh": "令",
+          "py": "lìng",
+          "meaning": "command"
+        }
+      ]
+    }
+  ]
+}

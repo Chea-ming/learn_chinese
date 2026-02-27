@@ -1,0 +1,133 @@
+{
+  "sentences": [
+    {
+      "chinese": "急救",
+      "pinyin": "Jíjiù",
+      "translation": "First aid",
+      "usage": "Used to refer to immediate medical care given to someone injured or ill.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "急",
+          "py": "jí",
+          "meaning": "urgent"
+        },
+        {
+          "zh": "救",
+          "py": "jiù",
+          "meaning": "rescue"
+        }
+      ]
+    },
+    {
+      "chinese": "受伤",
+      "pinyin": "Shòu shāng",
+      "translation": "Injured",
+      "usage": "Describes someone who has sustained physical harm.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "受",
+          "py": "shòu",
+          "meaning": "suffer"
+        },
+        {
+          "zh": "伤",
+          "py": "shāng",
+          "meaning": "injury"
+        }
+      ]
+    },
+    {
+      "chinese": "止血",
+      "pinyin": "Zhǐ xuè",
+      "translation": "Stop the bleeding",
+      "usage": "Action to control blood loss from a wound.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "止",
+          "py": "zhǐ",
+          "meaning": "stop"
+        },
+        {
+          "zh": "血",
+          "py": "xuè",
+          "meaning": "blood"
+        }
+      ]
+    },
+    {
+      "chinese": "骨折",
+      "pinyin": "Gǔ zhé",
+      "translation": "Broken bone",
+      "usage": "Describes a fractured or cracked bone.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "骨",
+          "py": "gǔ",
+          "meaning": "bone"
+        },
+        {
+          "zh": "折",
+          "py": "zhé",
+          "meaning": "fracture"
+        }
+      ]
+    },
+    {
+      "chinese": "伤口感染",
+      "pinyin": "Shāng kǒu rǎn fú",
+      "translation": "Wound infection",
+      "usage": "Refers to bacterial infection in a wound.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "伤",
+          "py": "shāng",
+          "meaning": "injury"
+        },
+        {
+          "zh": "口",
+          "py": "kǒu",
+          "meaning": "opening"
+        },
+        {
+          "zh": "感染",
+          "py": "rǎn fú",
+          "meaning": "infection"
+        }
+      ]
+    },
+    {
+      "chinese": "拨打急救电话",
+      "pinyin": "Bō dǎ jí jiù diàn huà",
+      "translation": "Call for emergency services",
+      "usage": "Instructions to contact emergency responders.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "拨",
+          "py": "bō",
+          "meaning": "to call"
+        },
+        {
+          "zh": "打",
+          "py": "dǎ",
+          "meaning": "to dial"
+        },
+        {
+          "zh": "急救",
+          "py": "jí jiù",
+          "meaning": "first aid"
+        },
+        {
+          "zh": "电话",
+          "py": "diàn huà",
+          "meaning": "phone"
+        }
+      ]
+    }
+  ]
+}

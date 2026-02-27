@@ -1,0 +1,779 @@
+{
+  "sentences": [
+    {
+      "chinese": "这道菜很美味。",
+      "pinyin": "Zhè dào cài hěn měiwèi.",
+      "translation": "This dish is very delicious.",
+      "usage": "Used to describe the taste of food in a formal or neutral context.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "道",
+          "py": "dào",
+          "meaning": "dish"
+        },
+        {
+          "zh": "菜",
+          "py": "cài",
+          "meaning": "dish / food"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "美",
+          "py": "měi",
+          "meaning": "beautiful / delicious"
+        },
+        {
+          "zh": "味",
+          "py": "wèi",
+          "meaning": "taste"
+        }
+      ]
+    },
+    {
+      "chinese": "这个苹果很甜。",
+      "pinyin": "Zhège píngguǒ hěn tián.",
+      "translation": "This apple is very sweet.",
+      "usage": "Used to describe the taste of fruits or snacks in an informal context.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "个",
+          "py": "gè",
+          "meaning": "classifier for objects"
+        },
+        {
+          "zh": "苹",
+          "py": "píng",
+          "meaning": "apple"
+        },
+        {
+          "zh": "果",
+          "py": "guǒ",
+          "meaning": "fruit"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "甜",
+          "py": "tián",
+          "meaning": "sweet"
+        }
+      ]
+    },
+    {
+      "chinese": "这汤有点儿淡。",
+      "pinyin": "Zhè tāng yǒudiǎnr dàn.",
+      "translation": "This soup is a bit bland.",
+      "usage": "Used to describe food that lacks flavor in a casual conversation.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "汤",
+          "py": "tāng",
+          "meaning": "soup"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "have"
+        },
+        {
+          "zh": "点",
+          "py": "diǎn",
+          "meaning": "a little bit"
+        },
+        {
+          "zh": "儿",
+          "py": "r",
+          "meaning": "particle for colloquial tone"
+        },
+        {
+          "zh": "淡",
+          "py": "dàn",
+          "meaning": "bland / mild"
+        }
+      ]
+    },
+    {
+      "chinese": "味道很香。",
+      "pinyin": "Wèidào hěn xiāng.",
+      "translation": "The taste is very fragrant.",
+      "usage": "Used to describe the smell and taste of food in a neutral context.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "味",
+          "py": "wèi",
+          "meaning": "taste"
+        },
+        {
+          "zh": "道",
+          "py": "dào",
+          "meaning": "way / manner"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "香",
+          "py": "xiāng",
+          "meaning": "fragrant / aromatic"
+        }
+      ]
+    },
+    {
+      "chinese": "这道菜太辣了。",
+      "pinyin": "Zhè dào cài tài là le.",
+      "translation": "This dish is too spicy.",
+      "usage": "Used to describe the spiciness of food in a casual conversation.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "道",
+          "py": "dào",
+          "meaning": "dish"
+        },
+        {
+          "zh": "菜",
+          "py": "cài",
+          "meaning": "dish / food"
+        },
+        {
+          "zh": "太",
+          "py": "tài",
+          "meaning": "too"
+        },
+        {
+          "zh": "辣",
+          "py": "là",
+          "meaning": "spicy / hot"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "particle indicating completion"
+        }
+      ]
+    },
+    {
+      "chinese": "这个餐厅的菜很正宗。",
+      "pinyin": "Zhège cāntīng de cài hěn zhèngzōng.",
+      "translation": "The food at this restaurant is very authentic.",
+      "usage": "Used to describe the quality and authenticity of food in a formal or neutral context.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "个",
+          "py": "gè",
+          "meaning": "classifier for objects"
+        },
+        {
+          "zh": "餐",
+          "py": "cān",
+          "meaning": "meal / restaurant"
+        },
+        {
+          "zh": "厅",
+          "py": "tīng",
+          "meaning": "room / hall"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive particle"
+        },
+        {
+          "zh": "菜",
+          "py": "cài",
+          "meaning": "dish / food"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "正",
+          "py": "zhèng",
+          "meaning": "correct / authentic"
+        },
+        {
+          "zh": "宗",
+          "py": "zōng",
+          "meaning": "origin / tradition"
+        }
+      ]
+    },
+    {
+      "chinese": "这个蛋糕很甜。",
+      "pinyin": "Zhège dàngāo hěn tián.",
+      "translation": "This cake is very sweet.",
+      "usage": "Used to describe the sweetness of desserts in an informal context.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "个",
+          "py": "gè",
+          "meaning": "classifier for objects"
+        },
+        {
+          "zh": "蛋",
+          "py": "dàng",
+          "meaning": "cake"
+        },
+        {
+          "zh": "糕",
+          "py": "āo",
+          "meaning": "cake"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "甜",
+          "py": "tián",
+          "meaning": "sweet"
+        }
+      ]
+    },
+    {
+      "chinese": "这道菜有酸味。",
+      "pinyin": "Zhè dào cài yǒu suān wèi.",
+      "translation": "This dish has a sour taste.",
+      "usage": "Used to describe the sourness of food in a formal or neutral context.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "道",
+          "py": "dào",
+          "meaning": "dish"
+        },
+        {
+          "zh": "菜",
+          "py": "cài",
+          "meaning": "dish / food"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "have"
+        },
+        {
+          "zh": "酸",
+          "py": "suān",
+          "meaning": "sour"
+        },
+        {
+          "zh": "味",
+          "py": "wèi",
+          "meaning": "taste"
+        }
+      ]
+    },
+    {
+      "chinese": "这个菜很咸。",
+      "pinyin": "Zhège cài hěn xián.",
+      "translation": "This dish is very salty.",
+      "usage": "Used to describe the saltiness of food in an informal context.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "个",
+          "py": "gè",
+          "meaning": "classifier for objects"
+        },
+        {
+          "zh": "菜",
+          "py": "cài",
+          "meaning": "dish / food"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "咸",
+          "py": "xián",
+          "meaning": "salty"
+        }
+      ]
+    },
+    {
+      "chinese": "这道菜口感很好。",
+      "pinyin": "Zhè dào cài kǒugǎn hěn hǎo.",
+      "translation": "This dish has a very good texture.",
+      "usage": "Used to describe the texture and taste of food in a formal or neutral context.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "道",
+          "py": "dào",
+          "meaning": "dish"
+        },
+        {
+          "zh": "菜",
+          "py": "cài",
+          "meaning": "dish / food"
+        },
+        {
+          "zh": "口",
+          "py": "kǒu",
+          "meaning": "mouth"
+        },
+        {
+          "zh": "感",
+          "py": "gǎn",
+          "meaning": "feeling / sensation"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good"
+        }
+      ]
+    },
+    {
+      "chinese": "这道菜有点儿辣。",
+      "pinyin": "Zhè dào cài yǒudiǎnr là.",
+      "translation": "This dish is a bit spicy.",
+      "usage": "Used to describe the spiciness of food in a casual conversation.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "道",
+          "py": "dào",
+          "meaning": "dish"
+        },
+        {
+          "zh": "菜",
+          "py": "cài",
+          "meaning": "dish / food"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "have"
+        },
+        {
+          "zh": "点",
+          "py": "diǎn",
+          "meaning": "a little bit"
+        },
+        {
+          "zh": "儿",
+          "py": "r",
+          "meaning": "particle for colloquial tone"
+        },
+        {
+          "zh": "辣",
+          "py": "là",
+          "meaning": "spicy / hot"
+        }
+      ]
+    },
+    {
+      "chinese": "这个汤很鲜。",
+      "pinyin": "Zhège tāng hěn xiān.",
+      "translation": "This soup is very fresh.",
+      "usage": "Used to describe the freshness of soup in a formal or neutral context.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "个",
+          "py": "gè",
+          "meaning": "classifier for objects"
+        },
+        {
+          "zh": "汤",
+          "py": "tāng",
+          "meaning": "soup"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "鲜",
+          "py": "xiān",
+          "meaning": "fresh"
+        }
+      ]
+    },
+    {
+      "chinese": "这道菜很香。",
+      "pinyin": "Zhè dào cài hěn xiāng.",
+      "translation": "This dish is very fragrant.",
+      "usage": "Used to describe the aroma and taste of food in a formal or neutral context.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "道",
+          "py": "dào",
+          "meaning": "dish"
+        },
+        {
+          "zh": "菜",
+          "py": "cài",
+          "meaning": "dish / food"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "香",
+          "py": "xiāng",
+          "meaning": "fragrant / aromatic"
+        }
+      ]
+    },
+    {
+      "chinese": "这道菜很爽口。",
+      "pinyin": "Zhè dào cài hěn shuǎngkǒu.",
+      "translation": "This dish is very refreshing.",
+      "usage": "Used to describe the refreshing taste of food in a formal or neutral context.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "道",
+          "py": "dào",
+          "meaning": "dish"
+        },
+        {
+          "zh": "菜",
+          "py": "cài",
+          "meaning": "dish / food"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "爽",
+          "py": "shuǎng",
+          "meaning": "refreshing"
+        },
+        {
+          "zh": "口",
+          "py": "kǒu",
+          "meaning": "mouth"
+        }
+      ]
+    },
+    {
+      "chinese": "这道菜太咸了。",
+      "pinyin": "Zhè dào cài tài xián le.",
+      "translation": "This dish is too salty.",
+      "usage": "Used to describe the saltiness of food in a casual conversation.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "道",
+          "py": "dào",
+          "meaning": "dish"
+        },
+        {
+          "zh": "菜",
+          "py": "cài",
+          "meaning": "dish / food"
+        },
+        {
+          "zh": "太",
+          "py": "tài",
+          "meaning": "too"
+        },
+        {
+          "zh": "咸",
+          "py": "xián",
+          "meaning": "salty"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "particle indicating completion"
+        }
+      ]
+    },
+    {
+      "chinese": "这个菜很鲜美。",
+      "pinyin": "Zhège cài hěn xiānměi.",
+      "translation": "This dish is very delicious.",
+      "usage": "Used to describe the deliciousness of food in a formal or neutral context.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "个",
+          "py": "gè",
+          "meaning": "classifier for objects"
+        },
+        {
+          "zh": "菜",
+          "py": "cài",
+          "meaning": "dish / food"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "鲜",
+          "py": "xiān",
+          "meaning": "fresh"
+        },
+        {
+          "zh": "美",
+          "py": "měi",
+          "meaning": "delicious"
+        }
+      ]
+    },
+    {
+      "chinese": "这道菜有甜味。",
+      "pinyin": "Zhè dào cài yǒu tián wèi.",
+      "translation": "This dish has a sweet taste.",
+      "usage": "Used to describe the sweetness of food in a formal or neutral context.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "道",
+          "py": "dào",
+          "meaning": "dish"
+        },
+        {
+          "zh": "菜",
+          "py": "cài",
+          "meaning": "dish / food"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "have"
+        },
+        {
+          "zh": "甜",
+          "py": "tián",
+          "meaning": "sweet"
+        },
+        {
+          "zh": "味",
+          "py": "wèi",
+          "meaning": "taste"
+        }
+      ]
+    },
+    {
+      "chinese": "这道菜有苦味。",
+      "pinyin": "Zhè dào cài yǒu kǔ wèi.",
+      "translation": "This dish has a bitter taste.",
+      "usage": "Used to describe the bitterness of food in a formal or neutral context.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "道",
+          "py": "dào",
+          "meaning": "dish"
+        },
+        {
+          "zh": "菜",
+          "py": "cài",
+          "meaning": "dish / food"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "have"
+        },
+        {
+          "zh": "苦",
+          "py": "kǔ",
+          "meaning": "bitter"
+        },
+        {
+          "zh": "味",
+          "py": "wèi",
+          "meaning": "taste"
+        }
+      ]
+    },
+    {
+      "chinese": "这道菜很嫩。",
+      "pinyin": "Zhè dào cài hěn nèn.",
+      "translation": "This dish is very tender.",
+      "usage": "Used to describe the tenderness of food in a formal or neutral context.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "道",
+          "py": "dào",
+          "meaning": "dish"
+        },
+        {
+          "zh": "菜",
+          "py": "cài",
+          "meaning": "dish / food"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "嫩",
+          "py": "nèn",
+          "meaning": "tender"
+        }
+      ]
+    },
+    {
+      "chinese": "这道菜有辣味。",
+      "pinyin": "Zhè dào cài yǒu là wèi.",
+      "translation": "This dish has a spicy taste.",
+      "usage": "Used to describe the spiciness of food in a formal or neutral context.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "道",
+          "py": "dào",
+          "meaning": "dish"
+        },
+        {
+          "zh": "菜",
+          "py": "cài",
+          "meaning": "dish / food"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "have"
+        },
+        {
+          "zh": "辣",
+          "py": "là",
+          "meaning": "spicy / hot"
+        },
+        {
+          "zh": "味",
+          "py": "wèi",
+          "meaning": "taste"
+        }
+      ]
+    }
+  ]
+}

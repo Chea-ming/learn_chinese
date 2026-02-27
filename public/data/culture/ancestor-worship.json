@@ -1,0 +1,181 @@
+{
+  "sentences": [
+    {
+      "chinese": "祭祖",
+      "pinyin": "Jì zǔ",
+      "translation": "Ancestor worship",
+      "usage": "A general term for rituals honoring deceased family ancestors.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "祭",
+          "py": "jì",
+          "meaning": "worship"
+        },
+        {
+          "zh": "祖",
+          "py": "zǔ",
+          "meaning": "ancestors"
+        }
+      ]
+    },
+    {
+      "chinese": "祖先",
+      "pinyin": "Zōng xiān",
+      "translation": "Ancestors",
+      "usage": "Refers to deceased family members honored in ancestor worship.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "祖",
+          "py": "zǔ",
+          "meaning": "ancestors"
+        },
+        {
+          "zh": "先",
+          "py": "xiān",
+          "meaning": "forebears"
+        }
+      ]
+    },
+    {
+      "chinese": "香火",
+      "pinyin": "Xiāng huǒ",
+      "translation": "Incense and fire",
+      "usage": "Symbolizes the continuity of family lineage in ancestor rituals.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "香",
+          "py": "xiāng",
+          "meaning": "incense"
+        },
+        {
+          "zh": "火",
+          "py": "huǒ",
+          "meaning": "fire"
+        }
+      ]
+    },
+    {
+      "chinese": "上香",
+      "pinyin": "Shàng xiāng",
+      "translation": "To burn incense",
+      "usage": "A common ritual act during ancestor worship ceremonies.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "上",
+          "py": "shàng",
+          "meaning": "to offer"
+        },
+        {
+          "zh": "香",
+          "py": "xiāng",
+          "meaning": "incense"
+        }
+      ]
+    },
+    {
+      "chinese": "供品",
+      "pinyin": "Gòng pǐn",
+      "translation": "Offerings",
+      "usage": "Food or items presented to ancestors during rituals.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "供",
+          "py": "gòng",
+          "meaning": "to offer"
+        },
+        {
+          "zh": "品",
+          "py": "pǐn",
+          "meaning": "items"
+        }
+      ]
+    },
+    {
+      "chinese": "祭祖仪式",
+      "pinyin": "Jì zǔ yíshì",
+      "translation": "Ancestral rite ceremony",
+      "usage": "Structured rituals performed to honor deceased family members.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "祭",
+          "py": "jì",
+          "meaning": "worship"
+        },
+        {
+          "zh": "祖",
+          "py": "zǔ",
+          "meaning": "ancestors"
+        },
+        {
+          "zh": "仪",
+          "py": "yí",
+          "meaning": "ritual"
+        },
+        {
+          "zh": "式",
+          "py": "shì",
+          "meaning": "ceremony"
+        }
+      ]
+    },
+    {
+      "chinese": "祖先牌位",
+      "pinyin": "Zǔxiān pái wèi",
+      "translation": "Ancestral tablet",
+      "usage": "A wooden tablet inscribed with the names of ancestors for worship.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "祖",
+          "py": "zǔ",
+          "meaning": "ancestors"
+        },
+        {
+          "zh": "先",
+          "py": "xiān",
+          "meaning": "forebears"
+        },
+        {
+          "zh": "牌",
+          "py": "pái",
+          "meaning": "tablet"
+        },
+        {
+          "zh": "位",
+          "py": "wèi",
+          "meaning": "position"
+        }
+      ]
+    },
+    {
+      "chinese": "烧纸钱",
+      "pinyin": "Shāo zhǐ qián",
+      "translation": "Burning paper money",
+      "usage": "A symbolic offering of money to ancestors in spirit form.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "烧",
+          "py": "shāo",
+          "meaning": "to burn"
+        },
+        {
+          "zh": "纸",
+          "py": "zhǐ",
+          "meaning": "paper"
+        },
+        {
+          "zh": "钱",
+          "py": "qián",
+          "meaning": "money"
+        }
+      ]
+    }
+  ]
+}

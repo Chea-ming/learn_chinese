@@ -1,0 +1,610 @@
+{
+  "sentences": [
+    {
+      "chinese": "有什么折扣吗？",
+      "pinyin": "Có shénme zhé kòu ma?",
+      "translation": "What discounts are available?",
+      "usage": "Ask about available discounts in a store or online.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "have"
+        },
+        {
+          "zh": "什么",
+          "py": "shénme",
+          "meaning": "what"
+        },
+        {
+          "zh": "折扣",
+          "py": "zhé kòu",
+          "meaning": "discount"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "请给我打折。",
+      "pinyin": "Qǐng gěi wǒ zhāo dí.",
+      "translation": "Please give me a discount.",
+      "usage": "Request a discount politely in a store.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "给",
+          "py": "gěi",
+          "meaning": "give"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "me"
+        },
+        {
+          "zh": "打折",
+          "py": "zhāo dí",
+          "meaning": "discount"
+        }
+      ]
+    },
+    {
+      "chinese": "促销活动什么时候开始？",
+      "pinyin": "Chuánshōu huó dòng shénme shíhòu kāishǐ?",
+      "translation": "When does the promotion start?",
+      "usage": "Inquire about the start time of a sale.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "促销",
+          "py": "chuánshōu",
+          "meaning": "promotion"
+        },
+        {
+          "zh": "活动",
+          "py": "huódòng",
+          "meaning": "activity"
+        },
+        {
+          "zh": "什么",
+          "py": "shénme",
+          "meaning": "what"
+        },
+        {
+          "zh": "时候",
+          "py": "shíhòu",
+          "meaning": "time"
+        },
+        {
+          "zh": "开始",
+          "py": "kāishǐ",
+          "meaning": "start"
+        }
+      ]
+    },
+    {
+      "chinese": "优惠券还有效吗？",
+      "pinyin": "Huìyòu quàn hái yǒuxiào ma?",
+      "translation": "Is the coupon still valid?",
+      "usage": "Check coupon validity during shopping.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "优惠券",
+          "py": "huìyòu quàn",
+          "meaning": "coupon"
+        },
+        {
+          "zh": "还",
+          "py": "hái",
+          "meaning": "still"
+        },
+        {
+          "zh": "有效",
+          "py": "yǒuxiào",
+          "meaning": "valid"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "这个价格可以再便宜点吗？",
+      "pinyin": "Zhège jiàgé kěyǐ zài piánián diǎn ma?",
+      "translation": "Can you lower the price a bit more?",
+      "usage": "Negotiate price during in-person shopping.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这个",
+          "py": "zhège",
+          "meaning": "this"
+        },
+        {
+          "zh": "价格",
+          "py": "jiàgé",
+          "meaning": "price"
+        },
+        {
+          "zh": "可以",
+          "py": "kěyǐ",
+          "meaning": "can"
+        },
+        {
+          "zh": "再",
+          "py": "zài",
+          "meaning": "again"
+        },
+        {
+          "zh": "便宜",
+          "py": "piánián",
+          "meaning": "cheaper"
+        },
+        {
+          "zh": "点",
+          "py": "diǎn",
+          "meaning": "a bit"
+        }
+      ]
+    },
+    {
+      "chinese": "限时折扣，快来抢购！",
+      "pinyin": "Xīshí zhé kòu, kuàilái qiǎnggòu!",
+      "translation": "Limited-time discount, come and grab it!",
+      "usage": "Promote time-sensitive sales.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "限时",
+          "py": "xīshí",
+          "meaning": "limited-time"
+        },
+        {
+          "zh": "折扣",
+          "py": "zhé kòu",
+          "meaning": "discount"
+        },
+        {
+          "zh": "快来",
+          "py": "kuàilái",
+          "meaning": "come quickly"
+        },
+        {
+          "zh": "抢购",
+          "py": "qiǎnggòu",
+          "meaning": "snatch up"
+        }
+      ]
+    },
+    {
+      "chinese": "买一送一，快来购买！",
+      "pinyin": "Mǎi yī sòng yī, kuàilái gòumǎi!",
+      "translation": "Buy one, get one free—come and buy!",
+      "usage": "Promote buy-one-get-one-free deals.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "买一",
+          "py": "mǎi yī",
+          "meaning": "buy one"
+        },
+        {
+          "zh": "送一",
+          "py": "sòng yī",
+          "meaning": "get one free"
+        },
+        {
+          "zh": "快来",
+          "py": "kuàilái",
+          "meaning": "come quickly"
+        },
+        {
+          "zh": "购买",
+          "py": "gòumǎi",
+          "meaning": "buy"
+        }
+      ]
+    },
+    {
+      "chinese": "今天有特别优惠。",
+      "pinyin": "Jīntiān yǒu tèbié huìyòu.",
+      "translation": "There's a special offer today.",
+      "usage": "Announce daily promotions.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "今天",
+          "py": "jīntiān",
+          "meaning": "today"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "have"
+        },
+        {
+          "zh": "特别",
+          "py": "tèbié",
+          "meaning": "special"
+        },
+        {
+          "zh": "优惠",
+          "py": "huìyòu",
+          "meaning": "discount"
+        }
+      ]
+    },
+    {
+      "chinese": "价格比原价低很多。",
+      "pinyin": "Jiàgé bǐ yuánjià dī hěn duō.",
+      "translation": "The price is much lower than the original.",
+      "usage": "Compare discounted prices to original.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "价格",
+          "py": "jiàgé",
+          "meaning": "price"
+        },
+        {
+          "zh": "比",
+          "py": "bǐ",
+          "meaning": "than"
+        },
+        {
+          "zh": "原价",
+          "py": "yuánjià",
+          "meaning": "original price"
+        },
+        {
+          "zh": "低",
+          "py": "dī",
+          "meaning": "lower"
+        },
+        {
+          "zh": "很多",
+          "py": "hěn duō",
+          "meaning": "much"
+        }
+      ]
+    },
+    {
+      "chinese": "有没有团购折扣？",
+      "pinyin": "Yǒu méiyǒu tuángòu zhé kòu?",
+      "translation": "Is there a group discount?",
+      "usage": "Inquire about group purchase discounts.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "有没有",
+          "py": "yǒu méiyǒu",
+          "meaning": "is there"
+        },
+        {
+          "zh": "团购",
+          "py": "tuángòu",
+          "meaning": "group purchase"
+        },
+        {
+          "zh": "折扣",
+          "py": "zhé kòu",
+          "meaning": "discount"
+        }
+      ]
+    },
+    {
+      "chinese": "促销活动持续到月底。",
+      "pinyin": "Chuánshōu huó dòng chíxù dào yuè dǐ.",
+      "translation": "The promotion lasts until the end of the month.",
+      "usage": "Announce promotion duration.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "促销",
+          "py": "chuánshōu",
+          "meaning": "promotion"
+        },
+        {
+          "zh": "活动",
+          "py": "huódòng",
+          "meaning": "activity"
+        },
+        {
+          "zh": "持续",
+          "py": "chíxù",
+          "meaning": "last"
+        },
+        {
+          "zh": "到",
+          "py": "dào",
+          "meaning": "until"
+        },
+        {
+          "zh": "月底",
+          "py": "yuè dǐ",
+          "meaning": "end of the month"
+        }
+      ]
+    },
+    {
+      "chinese": "请出示您的优惠券。",
+      "pinyin": "Qǐng chūshì nín de huìyòu quàn.",
+      "translation": "Please show your coupon.",
+      "usage": "Request coupon presentation at checkout.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "出示",
+          "py": "chūshì",
+          "meaning": "show"
+        },
+        {
+          "zh": "您",
+          "py": "nín",
+          "meaning": "you (formal)"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive"
+        },
+        {
+          "zh": "优惠券",
+          "py": "huìyòu quàn",
+          "meaning": "coupon"
+        }
+      ]
+    },
+    {
+      "chinese": "这个商品有折扣吗？",
+      "pinyin": "Zhège shāngpǐn yǒu zhé kòu ma?",
+      "translation": "Is there a discount on this product?",
+      "usage": "Ask about product-specific discounts.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这个",
+          "py": "zhège",
+          "meaning": "this"
+        },
+        {
+          "zh": "商品",
+          "py": "shāngpǐn",
+          "meaning": "product"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "have"
+        },
+        {
+          "zh": "折扣",
+          "py": "zhé kòu",
+          "meaning": "discount"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "优惠活动只限今天。",
+      "pinyin": "Huìyòu huódòng zhǐ xiàn jīntiān.",
+      "translation": "The discount is only available today.",
+      "usage": "Specify time limits for promotions.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "优惠",
+          "py": "huìyòu",
+          "meaning": "discount"
+        },
+        {
+          "zh": "活动",
+          "py": "huódòng",
+          "meaning": "activity"
+        },
+        {
+          "zh": "只",
+          "py": "zhǐ",
+          "meaning": "only"
+        },
+        {
+          "zh": "限",
+          "py": "xiàn",
+          "meaning": "limited to"
+        },
+        {
+          "zh": "今天",
+          "py": "jīntiān",
+          "meaning": "today"
+        }
+      ]
+    },
+    {
+      "chinese": "价格已经是最优惠的了。",
+      "pinyin": "Jiàgé yǐjīng shì zuì huìyòu de le.",
+      "translation": "The price is already the most favorable.",
+      "usage": "Confirm best available price.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "价格",
+          "py": "jiàgé",
+          "meaning": "price"
+        },
+        {
+          "zh": "已经",
+          "py": "yǐjīng",
+          "meaning": "already"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "is"
+        },
+        {
+          "zh": "最",
+          "py": "zuì",
+          "meaning": "most"
+        },
+        {
+          "zh": "优惠",
+          "py": "huìyòu",
+          "meaning": "favorable"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "particle"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completion"
+        }
+      ]
+    },
+    {
+      "chinese": "有没有会员折扣？",
+      "pinyin": "Yǒu méiyǒu huìyuán zhé kòu?",
+      "translation": "Is there a member discount?",
+      "usage": "Inquire about loyalty program discounts.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "有没有",
+          "py": "yǒu méiyǒu",
+          "meaning": "is there"
+        },
+        {
+          "zh": "会员",
+          "py": "huìyuán",
+          "meaning": "member"
+        },
+        {
+          "zh": "折扣",
+          "py": "zhé kòu",
+          "meaning": "discount"
+        }
+      ]
+    },
+    {
+      "chinese": "限时优惠，快来抢购！",
+      "pinyin": "Xīshí huìyòu, kuàilái qiǎnggòu!",
+      "translation": "Limited-time offer, come and grab it!",
+      "usage": "Promote time-sensitive discounts.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "限时",
+          "py": "xīshí",
+          "meaning": "limited-time"
+        },
+        {
+          "zh": "优惠",
+          "py": "huìyòu",
+          "meaning": "offer"
+        },
+        {
+          "zh": "快来",
+          "py": "kuàilái",
+          "meaning": "come quickly"
+        },
+        {
+          "zh": "抢购",
+          "py": "qiǎnggòu",
+          "meaning": "snatch up"
+        }
+      ]
+    },
+    {
+      "chinese": "今天是最后一天优惠。",
+      "pinyin": "Jīntiān shì zuìhòu yītiān huìyòu.",
+      "translation": "Today is the last day of the offer.",
+      "usage": "Announce final day of promotion.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "今天",
+          "py": "jīntiān",
+          "meaning": "today"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "is"
+        },
+        {
+          "zh": "最后",
+          "py": "zuìhòu",
+          "meaning": "last"
+        },
+        {
+          "zh": "一天",
+          "py": "yītiān",
+          "meaning": "day"
+        },
+        {
+          "zh": "优惠",
+          "py": "huìyòu",
+          "meaning": "offer"
+        }
+      ]
+    },
+    {
+      "chinese": "折扣已到期，感谢惠顾。",
+      "pinyin": "Zhé kòu yǐ dào qī, gǎnxiè huìgù.",
+      "translation": "The discount has expired, thank you for your patronage.",
+      "usage": "Inform customers of expired discounts.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "折扣",
+          "py": "zhé kòu",
+          "meaning": "discount"
+        },
+        {
+          "zh": "已",
+          "py": "yǐ",
+          "meaning": "already"
+        },
+        {
+          "zh": "到期",
+          "py": "dào qī",
+          "meaning": "expired"
+        },
+        {
+          "zh": "感谢",
+          "py": "gǎnxiè",
+          "meaning": "thank"
+        },
+        {
+          "zh": "惠顾",
+          "py": "huìgù",
+          "meaning": "patronage"
+        }
+      ]
+    }
+  ]
+}

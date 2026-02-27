@@ -1,0 +1,203 @@
+{
+  "sentences": [
+    {
+      "chinese": "法律条文",
+      "pinyin": "Fǎlǜ tiáowén",
+      "translation": "Legal provisions",
+      "usage": "Used in legal documents to reference specific laws.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "法律",
+          "py": "Fǎlǜ",
+          "meaning": "law"
+        },
+        {
+          "zh": "条文",
+          "py": "Tiáowén",
+          "meaning": "article/clause"
+        }
+      ]
+    },
+    {
+      "chinese": "证据链",
+      "pinyin": "Zhèngjù liàn",
+      "translation": "Chain of evidence",
+      "usage": "Refers to the sequence of evidence linking a suspect to a crime.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "证据",
+          "py": "Zhèngjù",
+          "meaning": "evidence"
+        },
+        {
+          "zh": "链",
+          "py": "Liàn",
+          "meaning": "chain"
+        }
+      ]
+    },
+    {
+      "chinese": "无罪推定",
+      "pinyin": "Wúzuì tuīdìng",
+      "translation": "Presumption of innocence",
+      "usage": "A legal principle in criminal law.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "无罪",
+          "py": "Wúzuì",
+          "meaning": "not guilty"
+        },
+        {
+          "zh": "推定",
+          "py": "Tuīdìng",
+          "meaning": "presumption"
+        }
+      ]
+    },
+    {
+      "chinese": "法律义务",
+      "pinyin": "Fǎlǜ yìwù",
+      "translation": "Legal obligation",
+      "usage": "Duties prescribed by law.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "法律",
+          "py": "Fǎlǜ",
+          "meaning": "law"
+        },
+        {
+          "zh": "义务",
+          "py": "Yìwù",
+          "meaning": "duty"
+        }
+      ]
+    },
+    {
+      "chinese": "管辖权",
+      "pinyin": "Guǎnxiá quán",
+      "translation": "Jurisdiction",
+      "usage": "The authority of a court to hear a case.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "管辖",
+          "py": "Guǎnxiá",
+          "meaning": "jurisdiction"
+        },
+        {
+          "zh": "权",
+          "py": "Quán",
+          "meaning": "authority"
+        }
+      ]
+    },
+    {
+      "chinese": "合同无效",
+      "pinyin": "Hétong wúxiào",
+      "translation": "Void contract",
+      "usage": "A contract that lacks legal enforceability.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "合同",
+          "py": "Hétong",
+          "meaning": "contract"
+        },
+        {
+          "zh": "无效",
+          "py": "Wúxiào",
+          "meaning": "invalid"
+        }
+      ]
+    },
+    {
+      "chinese": "自愿协议",
+      "pinyin": "Zìyuàn xiéyì",
+      "translation": "Voluntary agreement",
+      "usage": "An agreement made without coercion.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "自愿",
+          "py": "Zìyuàn",
+          "meaning": "voluntary"
+        },
+        {
+          "zh": "协议",
+          "py": "Xiéyì",
+          "meaning": "agreement"
+        }
+      ]
+    },
+    {
+      "chinese": "仲裁",
+      "pinyin": "Zhòngcái",
+      "translation": "Arbitration",
+      "usage": "A method of resolving disputes outside of court.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "仲裁",
+          "py": "Zhòngcái",
+          "meaning": "arbitration"
+        }
+      ]
+    },
+    {
+      "chinese": "诉讼时效",
+      "pinyin": "Sùsòng shíxiāo",
+      "translation": "Statute of limitations",
+      "usage": "The time limit for filing a lawsuit.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "诉讼",
+          "py": "Sùsòng",
+          "meaning": "lawsuit"
+        },
+        {
+          "zh": "时效",
+          "py": "Shíxiāo",
+          "meaning": "time limit"
+        }
+      ]
+    },
+    {
+      "chinese": "举证责任",
+      "pinyin": "Jǔzhèng zérèn",
+      "translation": "Burden of proof",
+      "usage": "The obligation to provide evidence in a trial.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "举证",
+          "py": "Jǔzhèng",
+          "meaning": "present evidence"
+        },
+        {
+          "zh": "责任",
+          "py": "Zérèn",
+          "meaning": "responsibility"
+        }
+      ]
+    },
+    {
+      "chinese": "刑事责任",
+      "pinyin": "Xíngshì zé rèn",
+      "translation": "Criminal liability",
+      "usage": "Legal consequences for criminal acts.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "刑事",
+          "py": "Xíngshì",
+          "meaning": "criminal"
+        }
+      ]
+    }
+  ]
+}

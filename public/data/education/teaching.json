@@ -1,0 +1,248 @@
+{
+  "sentences": [
+    {
+      "chinese": "上课",
+      "pinyin": "Kāi kè",
+      "translation": "Start class",
+      "usage": "Used when a teacher begins a lesson.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "上",
+          "py": "shàng",
+          "meaning": "to have"
+        },
+        {
+          "zh": "课",
+          "py": "kè",
+          "meaning": "class"
+        }
+      ]
+    },
+    {
+      "chinese": "老师好",
+      "pinyin": "Lǎo shī hǎo",
+      "translation": "Hello, teacher",
+      "usage": "A greeting when entering the classroom.",
+      "formality": "Polite",
+      "words": [
+        {
+          "zh": "老",
+          "py": "lǎo",
+          "meaning": "senior"
+        },
+        {
+          "zh": "师",
+          "py": "shī",
+          "meaning": "teacher"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good"
+        }
+      ]
+    },
+    {
+      "chinese": "请安静",
+      "pinyin": "Qǐng ān jìng",
+      "translation": "Be quiet, please",
+      "usage": "To silence a noisy classroom.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "安",
+          "py": "ān",
+          "meaning": "safe"
+        },
+        {
+          "zh": "静",
+          "py": "jìng",
+          "meaning": "quiet"
+        }
+      ]
+    },
+    {
+      "chinese": "打开书",
+      "pinyin": "Dǎ kāi shū",
+      "translation": "Open your books",
+      "usage": "Instruction for students to open textbooks.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "打",
+          "py": "dǎ",
+          "meaning": "to hit"
+        },
+        {
+          "zh": "开",
+          "py": "kāi",
+          "meaning": "to open"
+        },
+        {
+          "zh": "书",
+          "py": "shū",
+          "meaning": "book"
+        }
+      ]
+    },
+    {
+      "chinese": "提问时间",
+      "pinyin": "Tí wèn shí jiān",
+      "translation": "Question time",
+      "usage": "Announcing a Q&A session.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "提",
+          "py": "tí",
+          "meaning": "to bring up"
+        },
+        {
+          "zh": "问",
+          "py": "wèn",
+          "meaning": "question"
+        },
+        {
+          "zh": "时间",
+          "py": "shí jiān",
+          "meaning": "time"
+        }
+      ]
+    },
+    {
+      "chinese": "作业",
+      "pinyin": "Zuò yè",
+      "translation": "Homework",
+      "usage": "Refers to assigned tasks.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "作",
+          "py": "zuò",
+          "meaning": "to do"
+        },
+        {
+          "zh": "业",
+          "py": "yè",
+          "meaning": "homework"
+        }
+      ]
+    },
+    {
+      "chinese": "不要说话",
+      "pinyin": "Bù yào shuō huà",
+      "translation": "Don't talk",
+      "usage": "To enforce silence.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "不",
+          "py": "bù",
+          "meaning": "not"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "want"
+        },
+        {
+          "zh": "说",
+          "py": "shuō",
+          "meaning": "to speak"
+        },
+        {
+          "zh": "话",
+          "py": "huà",
+          "meaning": "words"
+        }
+      ]
+    },
+    {
+      "chinese": "请举手",
+      "pinyin": "Qǐng jǔ shǒu",
+      "translation": "Raise your hand",
+      "usage": "To invite a student to answer.",
+      "formality": "Polite",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "举",
+          "py": "jǔ",
+          "meaning": "to lift"
+        },
+        {
+          "zh": "手",
+          "py": "shǒu",
+          "meaning": "hand"
+        }
+      ]
+    },
+    {
+      "chinese": "复习",
+      "pinyin": "Fù xí",
+      "translation": "Review",
+      "usage": "To go over previously learned material.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "复",
+          "py": "fù",
+          "meaning": "to repeat"
+        },
+        {
+          "zh": "习",
+          "py": "xí",
+          "meaning": "study"
+        }
+      ]
+    },
+    {
+      "chinese": "考试",
+      "pinyin": "Kǎo shì",
+      "translation": "Exam",
+      "usage": "Announcing a test.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "考",
+          "py": "kǎo",
+          "meaning": "to test"
+        },
+        {
+          "zh": "试",
+          "py": "shì",
+          "meaning": "trial"
+        }
+      ]
+    },
+    {
+      "chinese": "加油！",
+      "pinyin": "Jiā yóu！",
+      "translation": "Come on!",
+      "usage": "Encouraging students.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "加",
+          "py": "jiā",
+          "meaning": "to add"
+        },
+        {
+          "zh": "油",
+          "py": "yóu",
+          "meaning": "oil"
+        }
+      ]
+    }
+  ]
+}

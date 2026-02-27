@@ -1,0 +1,159 @@
+{
+  "sentences": [
+    {
+      "chinese": "姓氏在中文姓名中排在前面。",
+      "pinyin": "Xìngshì zài Zhōngwén xìngmíng zhōng pái zài qiánmiàn.",
+      "translation": "The surname comes first in Chinese names.",
+      "usage": "Explaining the structure of Chinese names.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "姓氏",
+          "py": "xìngshì",
+          "meaning": "surname"
+        },
+        {
+          "zh": "中文姓名",
+          "py": "Zhōngwén xìngmíng",
+          "meaning": "Chinese name"
+        },
+        {
+          "zh": "排在前面",
+          "py": "páizài qiánmiàn",
+          "meaning": "come first"
+        }
+      ]
+    },
+    {
+      "chinese": "常见的姓氏有王、李、张、刘。",
+      "pinyin": "Chángjiàn de xìngshì yǒu Wáng, Lǐ, Zhāng, Liú.",
+      "translation": "Common surnames include Wang, Li, Zhang, and Liu.",
+      "usage": "Listing frequently used surnames.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "常见",
+          "py": "chángjiàn",
+          "meaning": "common"
+        },
+        {
+          "zh": "姓氏",
+          "py": "xìngshì",
+          "meaning": "surname"
+        },
+        {
+          "zh": "王",
+          "py": "Wáng",
+          "meaning": "Wang"
+        },
+        {
+          "zh": "李",
+          "py": "Lǐ",
+          "meaning": "Li"
+        },
+        {
+          "zh": "张",
+          "py": "Zhāng",
+          "meaning": "Zhang"
+        },
+        {
+          "zh": "刘",
+          "py": "Liú",
+          "meaning": "Liu"
+        }
+      ]
+    },
+    {
+      "chinese": "有些姓氏来源于古代官职，如司马。",
+      "pinyin": "Yǒuxiē xìngshì láiyuán yú gǔdài guānzhí, rú Sīmǎ.",
+      "translation": "Some surnames originate from ancient official titles, such as Sima.",
+      "usage": "Historical context of surname origins.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "有些",
+          "py": "yǒuxiē",
+          "meaning": "some"
+        },
+        {
+          "zh": "来源",
+          "py": "láiyuán",
+          "meaning": "origin"
+        },
+        {
+          "zh": "古代官职",
+          "py": "gǔdài guānzhí",
+          "meaning": "ancient official titles"
+        },
+        {
+          "zh": "司马",
+          "py": "Sīmǎ",
+          "meaning": "Sima (surname derived from a historical title)"
+        }
+      ]
+    },
+    {
+      "chinese": "名字中的‘伟’常表示赞美，如张伟。",
+      "pinyin": "Míngzì zhōng de ‘wěi’ cháng biǎoshì zànmei, rú Zhāng Wěi.",
+      "translation": "'Wei' in a name often signifies praise, such as Zhang Wei.",
+      "usage": "Describing the meaning of common given names.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "名字",
+          "py": "míngzì",
+          "meaning": "name"
+        },
+        {
+          "zh": "伟",
+          "py": "wěi",
+          "meaning": "great, impressive"
+        },
+        {
+          "zh": "赞美",
+          "py": "zànmei",
+          "meaning": "praise"
+        },
+        {
+          "zh": "张伟",
+          "py": "Zhāng Wěi",
+          "meaning": "Zhang Wei (example name)"
+        }
+      ]
+    },
+    {
+      "chinese": "双字姓如欧阳、上官较少见。",
+      "pinyin": "Shuāngzì xìng rú Ōuyáng, Shàngguān jiào shǎo jiàn.",
+      "translation": "Double-character surnames like Ouyang and Shangguan are rare.",
+      "usage": "Discussing rare multi-character surnames.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "双字姓",
+          "py": "shuāngzì xìng",
+          "meaning": "double-character surname"
+        },
+        {
+          "zh": "如",
+          "py": "rú",
+          "meaning": "such as"
+        },
+        {
+          "zh": "欧阳",
+          "py": "Ōuyáng",
+          "meaning": "Ouyang"
+        },
+        {
+          "zh": "上官",
+          "py": "Shàngguān",
+          "meaning": "Shangguan"
+        },
+        {
+          "zh": "少见",
+          "py": "jiàoshǎo jiàn",
+          "meaning": "rare"
+        }
+      ]
+    }
+  ]
+}

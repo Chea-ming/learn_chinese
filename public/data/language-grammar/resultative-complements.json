@@ -1,0 +1,118 @@
+{
+  "sentences": [
+    {
+      "chinese": "打开",
+      "pinyin": "Dǎ kāi",
+      "translation": "Open; Turn on",
+      "usage": "Describes the result of an action causing something to be open or activated.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "打",
+          "py": "dǎ",
+          "meaning": "hit; strike"
+        },
+        {
+          "zh": "开",
+          "py": "kāi",
+          "meaning": "open"
+        }
+      ]
+    },
+    {
+      "chinese": "打破",
+      "pinyin": "Dǎ pò",
+      "translation": "Break (something)",
+      "usage": "Used to indicate an object being broken as a result of an action.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "打",
+          "py": "dǎ",
+          "meaning": "hit; strike"
+        },
+        {
+          "zh": "破",
+          "py": "pò",
+          "meaning": "break"
+        }
+      ]
+    },
+    {
+      "chinese": "吃饱",
+      "pinyin": "Chī bǎo",
+      "translation": "Eat until full",
+      "usage": "Used to describe the result of eating enough to feel satisfied.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "吃",
+          "py": "chī",
+          "meaning": "eat"
+        },
+        {
+          "zh": "饱",
+          "py": "bǎo",
+          "meaning": "full"
+        }
+      ]
+    },
+    {
+      "chinese": "看见",
+      "pinyin": "Kàn jiàn",
+      "translation": "See; Notice",
+      "usage": "Indicates the result of an action leading to visual perception.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "看",
+          "py": "kàn",
+          "meaning": "look; see"
+        },
+        {
+          "zh": "见",
+          "py": "jiàn",
+          "meaning": "see"
+        }
+      ]
+    },
+    {
+      "chinese": "拿起",
+      "pinyin": "Ná qǐ",
+      "translation": "Pick up",
+      "usage": "Describes the result of lifting an object into one's hand.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "拿",
+          "py": "ná",
+          "meaning": "take; pick up"
+        },
+        {
+          "zh": "起",
+          "py": "qǐ",
+          "meaning": "up"
+        }
+      ]
+    },
+    {
+      "chinese": "变成",
+      "pinyin": "Biàn chéng",
+      "translation": "Turn into",
+      "usage": "Used to express transformation or change as a result of an action.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "变",
+          "py": "biàn",
+          "meaning": "change"
+        },
+        {
+          "zh": "成",
+          "py": "chéng",
+          "meaning": "into"
+        }
+      ]
+    }
+  ]
+}

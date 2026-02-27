@@ -1,0 +1,229 @@
+{
+  "sentences": [
+    {
+      "chinese": "挂号处",
+      "pinyin": "Guàhù chù",
+      "translation": "Registration Desk",
+      "usage": "Use when checking in at the hospital.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "挂",
+          "py": "Guà",
+          "meaning": "to register"
+        },
+        {
+          "zh": "号",
+          "py": "hào",
+          "meaning": "number"
+        },
+        {
+          "zh": "处",
+          "py": "chù",
+          "meaning": "desk/office"
+        }
+      ]
+    },
+    {
+      "chinese": "体温检测",
+      "pinyin": "Tǐwēi jiǎncè",
+      "translation": "Temperature Check",
+      "usage": "Used for taking a patient's temperature.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "体",
+          "py": "tǐ",
+          "meaning": "body"
+        },
+        {
+          "zh": "温",
+          "py": "wēn",
+          "meaning": "temperature"
+        },
+        {
+          "zh": "检测",
+          "py": "jiǎncè",
+          "meaning": "check/test"
+        }
+      ]
+    },
+    {
+      "chinese": "急诊室",
+      "pinyin": "Jǐngzhì shì",
+      "translation": "Emergency Room",
+      "usage": "Refers to the ER for urgent cases.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "急",
+          "py": "jí",
+          "meaning": "emergency"
+        },
+        {
+          "zh": "诊",
+          "py": "zhěn",
+          "meaning": "treatment"
+        },
+        {
+          "zh": "室",
+          "py": "shì",
+          "meaning": "room"
+        }
+      ]
+    },
+    {
+      "chinese": "住院部",
+      "pinyin": "Zhùyuàn bù",
+      "translation": "Admission Department",
+      "usage": "For handling inpatient registration.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "住",
+          "py": "zhù",
+          "meaning": "to stay"
+        },
+        {
+          "zh": "院",
+          "py": "yuàn",
+          "meaning": "hospital"
+        },
+        {
+          "zh": "部",
+          "py": "bù",
+          "meaning": "department"
+        }
+      ]
+    },
+    {
+      "chinese": "药房",
+      "pinyin": "Yàofáng",
+      "translation": "Pharmacy",
+      "usage": "Where medications are dispensed.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "药",
+          "py": "yào",
+          "meaning": "medicine"
+        },
+        {
+          "zh": "房",
+          "py": "fáng",
+          "meaning": "room/store"
+        }
+      ]
+    },
+    {
+      "chinese": "手术室",
+      "pinyin": "Shùshù shì",
+      "translation": "Operating Room",
+      "usage": "For surgical procedures.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "手",
+          "py": "shǒu",
+          "meaning": "surgery"
+        },
+        {
+          "zh": "术",
+          "py": "shù",
+          "meaning": "procedure"
+        },
+        {
+          "zh": "室",
+          "py": "shì",
+          "meaning": "room"
+        }
+      ]
+    },
+    {
+      "chinese": "检查报告",
+      "pinyin": "Jiǎnchá bàogào",
+      "translation": "Test Report",
+      "usage": "Refers to medical test results.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "检",
+          "py": "jiǎn",
+          "meaning": "to examine"
+        },
+        {
+          "zh": "查",
+          "py": "chá",
+          "meaning": "to check"
+        },
+        {
+          "zh": "报告",
+          "py": "bàogào",
+          "meaning": "report"
+        }
+      ]
+    },
+    {
+      "chinese": "护士站",
+      "pinyin": "Hùshì zhàn",
+      "translation": "Nurses' Station",
+      "usage": "Where nurses coordinate care.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "护",
+          "py": "hù",
+          "meaning": "care"
+        },
+        {
+          "zh": "士",
+          "py": "shì",
+          "meaning": "nurse"
+        },
+        {
+          "zh": "站",
+          "py": "zhàn",
+          "meaning": "station/area"
+        }
+      ]
+    },
+    {
+      "chinese": "出院手续",
+      "pinyin": "Chūyuàn shǒuxù",
+      "translation": "Discharge Procedures",
+      "usage": "Used when leaving the hospital.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "出",
+          "py": "chū",
+          "meaning": "to leave"
+        },
+        {
+          "zh": "院",
+          "py": "yuàn",
+          "meaning": "hospital"
+        },
+        {
+          "zh": "手续",
+          "py": "shǒuxù",
+          "meaning": "procedures"
+        }
+      ]
+    },
+    {
+      "chinese": "复诊",
+      "pinyin": "Fùzhěn",
+      "translation": "Follow-up Visit",
+      "usage": "For returning to the clinic.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "复",
+          "py": "fù",
+          "meaning": "to repeat"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "sentences": [
+    {
+      "chinese": "红包（hóngbāo）",
+      "pinyin": "Hóng bāo",
+      "translation": "Red envelope",
+      "usage": "Given during holidays or weddings, symbolizing good luck.",
+      "words": [
+        {
+          "zh": "红",
+          "py": "hóng",
+          "meaning": "red"
+        },
+        {
+          "zh": "包",
+          "py": "bāo",
+          "meaning": "package"
+        }
+      ]
+    },
+    {
+      "chinese": "敲碗不吉利（qiāo wǎn bù jílì）",
+      "pinyin": "Qiāo wǎn bù jí lì",
+      "translation": "Knocking bowls is unlucky",
+      "usage": "Avoid knocking bowls during meals to prevent bad luck.",
+      "words": [
+        {
+          "zh": "敲",
+          "py": "qiāo",
+          "meaning": "knock"
+        },
+        {
+          "zh": "碗",
+          "py": "wǎn",
+          "meaning": "bowl"
+        },
+        {
+          "zh": "不",
+          "py": "bù",
+          "meaning": "not"
+        },
+        {
+          "zh": "吉利",
+          "py": "jí lì",
+          "meaning": "auspicious"
+        }
+      ]
+    },
+    {
+      "chinese": "送礼忌单（sòng lǐ jì dān）",
+      "pinyin": "Sòng lǐ jì dān",
+      "translation": "Gifts avoid odd numbers",
+      "usage": "Even-numbered gifts are preferred for good fortune.",
+      "words": [
+        {
+          "zh": "送礼",
+          "py": "sòng lǐ",
+          "meaning": "give gifts"
+        },
+        {
+          "zh": "忌",
+          "py": "jì",
+          "meaning": "avoid"
+        },
+        {
+          "zh": "单",
+          "py": "dān",
+          "meaning": "single"
+        }
+      ]
+    },
+    {
+      "chinese": "白事勿红（bái shì wù hóng）",
+      "pinyin": "Bái shì wù hóng",
+      "translation": "Avoid red at funerals",
+      "usage": "Red symbolizes joy; avoid it during mourning.",
+      "words": [
+        {
+          "zh": "白事",
+          "py": "bái shì",
+          "meaning": "funeral"
+        },
+        {
+          "zh": "勿",
+          "py": "wù",
+          "meaning": "avoid"
+        },
+        {
+          "zh": "红",
+          "py": "hóng",
+          "meaning": "red"
+        }
+      ]
+    },
+    {
+      "chinese": "饭桌敬酒（fàn zhuō jìng jiǔ）",
+      "pinyin": "Fàn zhuō jìng jiǔ",
+      "translation": "Toast at meals",
+      "usage": "Pouring wine for elders shows respect in Chinese culture.",
+      "words": [
+        {
+          "zh": "饭桌",
+          "py": "fàn zhuō",
+          "meaning": "dining table"
+        },
+        {
+          "zh": "敬",
+          "py": "jìng",
+          "meaning": "respect"
+        },
+        {
+          "zh": "酒",
+          "py": "jiǔ",
+          "meaning": "alcohol"
+        }
+      ]
+    },
+    {
+      "chinese": "生肖属相（shēngxiāo shǔxiāng）",
+      "pinyin": "Shēng xiāo shǔ xiāng",
+      "translation": "Chinese zodiac signs",
+      "usage": "The 12-year cycle determines one’s birth animal.",
+      "words": [
+        {
+          "zh": "生肖",
+          "py": "shēng xiāo",
+          "meaning": "zodiac"
+        },
+        {
+          "zh": "属相",
+          "py": "shǔ xiāng",
+          "meaning": "birth sign"
+        }
+      ]
+    },
+    {
+      "chinese": "扫墓祭祖（sǎo mù jì zǔ）",
+      "pinyin": "Sǎo mù jì zǔ",
+      "translation": "Tomb sweeping and ancestor worship",
+      "usage": "A tradition during Qingming Festival to honor ancestors.",
+      "words": [
+        {
+          "zh": "扫墓",
+          "py": "sǎo mù",
+          "meaning": "tomb sweeping"
+        },
+        {
+          "zh": "祭祖",
+          "py": "jì zǔ",
+          "meaning": "worship ancestors"
+        }
+      ]
+    },
+    {
+      "chinese": "禁忌数字（jìnjì shùzì）",
+      "pinyin": "Jìn jì shù zì",
+      "translation": "Taboo numbers",
+      "usage": "4（sì） sounds like 'death'; avoided in phone numbers.",
+      "words": [
+        {
+          "zh": "禁忌",
+          "py": "jìn jì",
+          "meaning": "taboo"
+        },
+        {
+          "zh": "数字",
+          "py": "shù zì",
+          "meaning": "numbers"
+        }
+      ]
+    },
+    {
+      "chinese": "龙年吉祥（lóng nián jíxiáng）",
+      "pinyin": "Lóng nián jí xiáng",
+      "translation": "Dragon year is auspicious",
+      "usage": "Dragon symbolizes power and is a favorable zodiac year.",
+      "words": [
+        {
+          "zh": "龙年",
+          "py": "lóng nián",
+          "meaning": "dragon year"
+        },
+        {
+          "zh": "吉祥",
+          "py": "jí xiáng",
+          "meaning": "auspicious"
+        }
+      ]
+    },
+    {
+      "chinese": "穿黑衣忌（chuān hēiyī jì）",
+      "pinyin": "Chuān hēi yī jì",
+      "translation": "Avoid black clothes",
+      "usage": "Black is worn for funerals, not at weddings.",
+      "words": [
+        {
+          "zh": "穿",
+          "py": "chuān",
+          "meaning": "wear"
+        },
+        {
+          "zh": "黑衣",
+          "py": "hēi yī",
+          "meaning": "black clothes"
+        },
+        {
+          "zh": "忌",
+          "py": "jì",
+          "meaning": "avoid"
+        }
+      ]
+    },
+    {
+      "chinese": "筷子忌叉（kuàizi jì chā）",
+      "pinyin": "Kuàizi jì chā",
+      "translation": "Avoid sticking chopsticks upright",
+      "usage": "Resembles funeral incense sticks, considered bad luck.",
+      "words": [
+        {
+          "zh": "筷子",
+          "py": "kuàizi",
+          "meaning": "chopsticks"
+        },
+        {
+          "zh": "忌",
+          "py": "jì",
+          "meaning": "avoid"
+        },
+        {
+          "zh": "叉",
+          "py": "chā",
+          "meaning": "cross"
+        }
+      ]
+    },
+    {
+      "chinese": "倒酒满杯（dào jiǔ mǎn bēi）",
+      "pinyin": "Dào jiǔ mǎn bēi",
+      "translation": "Pour full glasses",
+      "usage": "Leaving empty glasses implies guests want to leave.",
+      "words": [
+        {
+          "zh": "倒酒",
+          "py": "dào jiǔ",
+          "meaning": "pour alcohol"
+        },
+        {
+          "zh": "满杯",
+          "py": "mǎn bēi",
+          "meaning": "full glass"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "sentences": [
+    {
+      "chinese": "我吃食。",
+      "pinyin": "Wǒ chī fàn.",
+      "translation": "I eat food.",
+      "usage": "Basic subject-verb-object structure.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "吃",
+          "py": "chī",
+          "meaning": "eat"
+        },
+        {
+          "zh": "食",
+          "py": "fàn",
+          "meaning": "food"
+        }
+      ]
+    },
+    {
+      "chinese": "你好！",
+      "pinyin": "Nǐ hǎo!",
+      "translation": "Hello!",
+      "usage": "Standard greeting.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good"
+        }
+      ]
+    },
+    {
+      "chinese": "那一匹是我的书。",
+      "pinyin": "Nà běn shū shì wǒ de shū.",
+      "translation": "That book is my book.",
+      "usage": "Demonstrative + noun + verb + possession structure.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "那一匹",
+          "py": "nà běn",
+          "meaning": "that"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "is"
+        },
+        {
+          "zh": "我的",
+          "py": "wǒ de",
+          "meaning": "my"
+        },
+        {
+          "zh": "书",
+          "py": "shū",
+          "meaning": "book"
+        }
+      ]
+    },
+    {
+      "chinese": "你吃过食吗？",
+      "pinyin": "Nǐ chī guò fàn ma?",
+      "translation": "Have you eaten?",
+      "usage": "Yes/no question using 'ma'.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "吃过",
+          "py": "chī guò",
+          "meaning": "eaten"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,239 @@
+{
+  "sentences": [
+    {
+      "chinese": "紧急情况，请拨打120。",
+      "pinyin": "Jǐng jí qíng kuàng, qǐng dà bāo 120.",
+      "translation": "Emergency situation, please call 120.",
+      "usage": "Standard instruction for calling Chinese emergency medical services.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "紧急",
+          "py": "jǐng jí",
+          "meaning": "emergency"
+        },
+        {
+          "zh": "情况",
+          "py": "qíng kuàng",
+          "meaning": "situation"
+        },
+        {
+          "zh": "拨打",
+          "py": "dà bāo",
+          "meaning": "call"
+        },
+        {
+          "zh": "120",
+          "py": "yī èr líng",
+          "meaning": "number 120"
+        }
+      ]
+    },
+    {
+      "chinese": "你受伤了吗？",
+      "pinyin": "Nǐ shòu shāng le ma?",
+      "translation": "Are you injured?",
+      "usage": "Asking if someone is injured in an accident.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "受伤",
+          "py": "shòu shāng",
+          "meaning": "injured"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "不要移动病人！",
+      "pinyin": "Bù yào yí dòng bìng rén!",
+      "translation": "Don't move the patient!",
+      "usage": "Warning during medical emergencies.",
+      "formality": "Urgent",
+      "words": [
+        {
+          "zh": "不要",
+          "py": "bù yào",
+          "meaning": "don't"
+        },
+        {
+          "zh": "移动",
+          "py": "yí dòng",
+          "meaning": "move"
+        },
+        {
+          "zh": "病人",
+          "py": "bìng rén",
+          "meaning": "patient"
+        }
+      ]
+    },
+    {
+      "chinese": "立即停止出血。",
+      "pinyin": "Lì jí zhǐ xíe chū xuè.",
+      "translation": "Stop the bleeding immediately.",
+      "usage": "First aid instruction for wounds.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "立即",
+          "py": "lì jí",
+          "meaning": "immediately"
+        },
+        {
+          "zh": "止血",
+          "py": "zhǐ xuè",
+          "meaning": "stop bleeding"
+        },
+        {
+          "zh": "出血",
+          "py": "chū xuè",
+          "meaning": "bleeding"
+        }
+      ]
+    },
+    {
+      "chinese": "用干净的布包扎。",
+      "pinyin": "Yòng gān jìng de bù bāo zhā.",
+      "translation": "Wrap with a clean cloth.",
+      "usage": "First aid for wounds.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "用",
+          "py": "yòng",
+          "meaning": "use"
+        },
+        {
+          "zh": "干净",
+          "py": "gān jìng",
+          "meaning": "clean"
+        },
+        {
+          "zh": "包扎",
+          "py": "bāo zhā",
+          "meaning": "bandage"
+        }
+      ]
+    },
+    {
+      "chinese": "心脏骤停怎么办？",
+      "pinyin": "Xīn zàng zhòu tíng zěn me bàn?",
+      "translation": "What to do for sudden cardiac arrest?",
+      "usage": "Emergency question about CPR.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "心脏",
+          "py": "xīn zàng",
+          "meaning": "heart"
+        },
+        {
+          "zh": "骤停",
+          "py": "zhòu tíng",
+          "meaning": "sudden stop"
+        },
+        {
+          "zh": "怎么办",
+          "py": "zěn me bàn",
+          "meaning": "what to do"
+        }
+      ]
+    },
+    {
+      "chinese": "开始心肺复苏术。",
+      "pinyin": "Kāi shǐ xīn fèi fù xī shù.",
+      "translation": "Start CPR.",
+      "usage": "Medical emergency instruction.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "开始",
+          "py": "kāi shǐ",
+          "meaning": "start"
+        },
+        {
+          "zh": "心肺复苏术",
+          "py": "xīn fèi fù xī shù",
+          "meaning": "CPR"
+        }
+      ]
+    },
+    {
+      "chinese": "保持呼吸畅通。",
+      "pinyin": "Bǎo chí hū xī chōng tōng.",
+      "translation": "Keep the airway clear.",
+      "usage": "First aid for unconscious victims.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "保持",
+          "py": "bǎo chí",
+          "meaning": "maintain"
+        },
+        {
+          "zh": "呼吸",
+          "py": "hū xī",
+          "meaning": "breathing"
+        },
+        {
+          "zh": "畅通",
+          "py": "chōng tōng",
+          "meaning": "clear/unobstructed"
+        }
+      ]
+    },
+    {
+      "chinese": "中暑了怎么办？",
+      "pinyin": "Zhōng shǔ le zěn me bàn?",
+      "translation": "What to do for heatstroke?",
+      "usage": "Emergency question about heat-related illness.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "中暑",
+          "py": "zhōng shǔ",
+          "meaning": "heatstroke"
+        },
+        {
+          "zh": "怎么办",
+          "py": "zěn me bàn",
+          "meaning": "what to do"
+        }
+      ]
+    },
+    {
+      "chinese": "给他喝些水。",
+      "pinyin": "Gěi tā hē xiē shuǐ.",
+      "translation": "Give him some water.",
+      "usage": "Basic first aid instruction.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "给",
+          "py": "gěi",
+          "meaning": "give"
+        },
+        {
+          "zh": "喝",
+          "py": "hē",
+          "meaning": "drink"
+        },
+        {
+          "zh": "水",
+          "py": "shuǐ",
+          "meaning": "water"
+        }
+      ]
+    }
+  ]
+}

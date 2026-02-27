@@ -1,0 +1,684 @@
+{
+  "sentences": [
+    {
+      "chinese": "我们晚上出去玩吧。",
+      "pinyin": "Wǒmen wǎnshàng chūqù wán ba.",
+      "translation": "Let's go out and have fun tonight.",
+      "usage": "Suggesting to go out for entertainment in the evening.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "我们",
+          "py": "wǒmen",
+          "meaning": "we"
+        },
+        {
+          "zh": "晚上",
+          "py": "wǎnshàng",
+          "meaning": "evening"
+        },
+        {
+          "zh": "出去",
+          "py": "chūqù",
+          "meaning": "go out"
+        },
+        {
+          "zh": "玩",
+          "py": "wán",
+          "meaning": "play / have fun"
+        },
+        {
+          "zh": "吧",
+          "py": "ba",
+          "meaning": "particle for suggestion"
+        }
+      ]
+    },
+    {
+      "chinese": "今晚想去哪里？",
+      "pinyin": "Jīnwǎn xiǎng qù nǎlǐ?",
+      "translation": "Where do you want to go tonight?",
+      "usage": "Asking about destination for evening entertainment.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "今晚",
+          "py": "jīnwǎn",
+          "meaning": "tonight"
+        },
+        {
+          "zh": "想",
+          "py": "xiǎng",
+          "meaning": "want to"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "go to"
+        },
+        {
+          "zh": "哪里",
+          "py": "nǎlǐ",
+          "meaning": "where"
+        }
+      ]
+    },
+    {
+      "chinese": "这家酒吧很热闹。",
+      "pinyin": "Zhè jiā jiǔbā hěn rènao.",
+      "translation": "This bar is very lively.",
+      "usage": "Describing the atmosphere of a bar.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "家",
+          "py": "jiā",
+          "meaning": "a place / shop"
+        },
+        {
+          "zh": "酒吧",
+          "py": "jiǔbā",
+          "meaning": "bar"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "热闹",
+          "py": "rènao",
+          "meaning": "lively"
+        }
+      ]
+    },
+    {
+      "chinese": "你有空吗？我们去KTV。",
+      "pinyin": "Nǐ yǒu kòng ma? Wǒmen qù KTV.",
+      "translation": "Are you free? Let's go to KTV.",
+      "usage": "Inviting someone to go singing at KTV.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "have"
+        },
+        {
+          "zh": "空",
+          "py": "kòng",
+          "meaning": "free time"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        },
+        {
+          "zh": "我们",
+          "py": "wǒmen",
+          "meaning": "we"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "go to"
+        },
+        {
+          "zh": "KTV",
+          "py": "KTV",
+          "meaning": "Karaoke"
+        }
+      ]
+    },
+    {
+      "chinese": "我想去看电影。",
+      "pinyin": "Wǒ xiǎng qù kàn diànyǐng.",
+      "translation": "I want to go watch a movie.",
+      "usage": "Expressing desire to go to a cinema.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "想",
+          "py": "xiǎng",
+          "meaning": "want to"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "go to"
+        },
+        {
+          "zh": "看",
+          "py": "kàn",
+          "meaning": "watch"
+        },
+        {
+          "zh": "电影",
+          "py": "diànyǐng",
+          "meaning": "movie"
+        }
+      ]
+    },
+    {
+      "chinese": "这家餐厅晚上人很多。",
+      "pinyin": "Zhè jiā cāntīng wǎnshàng rén hěn duō.",
+      "translation": "This restaurant has many people in the evening.",
+      "usage": "Describing busy restaurant hours.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "家",
+          "py": "jiā",
+          "meaning": "a place / shop"
+        },
+        {
+          "zh": "餐厅",
+          "py": "cāntīng",
+          "meaning": "restaurant"
+        },
+        {
+          "zh": "晚上",
+          "py": "wǎnshàng",
+          "meaning": "evening"
+        },
+        {
+          "zh": "人",
+          "py": "rén",
+          "meaning": "people"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "多",
+          "py": "duō",
+          "meaning": "many"
+        }
+      ]
+    },
+    {
+      "chinese": "我们去跳舞吧。",
+      "pinyin": "Wǒmen qù tiàowǔ ba.",
+      "translation": "Let's go dancing.",
+      "usage": "Suggesting to go dancing.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "我们",
+          "py": "wǒmen",
+          "meaning": "we"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "go to"
+        },
+        {
+          "zh": "跳舞",
+          "py": "tiàowǔ",
+          "meaning": "dance"
+        },
+        {
+          "zh": "吧",
+          "py": "ba",
+          "meaning": "particle for suggestion"
+        }
+      ]
+    },
+    {
+      "chinese": "这个夜市很有名。",
+      "pinyin": "Zhège yèshì hěn yǒumíng.",
+      "translation": "This night market is very famous.",
+      "usage": "Describing a famous night market.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这个",
+          "py": "zhège",
+          "meaning": "this"
+        },
+        {
+          "zh": "夜市",
+          "py": "yèshì",
+          "meaning": "night market"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "有名",
+          "py": "yǒumíng",
+          "meaning": "famous"
+        }
+      ]
+    },
+    {
+      "chinese": "你今晚有约会吗？",
+      "pinyin": "Nǐ jīnwǎn yǒu yuēhuì ma?",
+      "translation": "Do you have a date tonight?",
+      "usage": "Asking if someone has plans for the evening.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "今晚",
+          "py": "jīnwǎn",
+          "meaning": "tonight"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "have"
+        },
+        {
+          "zh": "约会",
+          "py": "yuēhuì",
+          "meaning": "date"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "我们去KTV唱歌。",
+      "pinyin": "Wǒmen qù KTV chànggē.",
+      "translation": "Let's go to KTV and sing songs.",
+      "usage": "Suggesting to go singing at KTV.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "我们",
+          "py": "wǒmen",
+          "meaning": "we"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "go to"
+        },
+        {
+          "zh": "KTV",
+          "py": "KTV",
+          "meaning": "Karaoke"
+        },
+        {
+          "zh": "唱歌",
+          "py": "chànggē",
+          "meaning": "sing songs"
+        }
+      ]
+    },
+    {
+      "chinese": "这家咖啡厅晚上开放。",
+      "pinyin": "Zhè jiā kāfēitíng wǎnshàng kāifàng.",
+      "translation": "This coffee shop is open in the evening.",
+      "usage": "Describing evening opening hours of a coffee shop.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "家",
+          "py": "jiā",
+          "meaning": "a place / shop"
+        },
+        {
+          "zh": "咖啡厅",
+          "py": "kāfēitíng",
+          "meaning": "coffee shop"
+        },
+        {
+          "zh": "晚上",
+          "py": "wǎnshàng",
+          "meaning": "evening"
+        },
+        {
+          "zh": "开放",
+          "py": "kāifàng",
+          "meaning": "open"
+        }
+      ]
+    },
+    {
+      "chinese": "我们去看演唱会。",
+      "pinyin": "Wǒmen qù kàn yǎnchǎng huì.",
+      "translation": "Let's go watch a concert.",
+      "usage": "Suggesting to attend a live music event.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "我们",
+          "py": "wǒmen",
+          "meaning": "we"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "go to"
+        },
+        {
+          "zh": "看",
+          "py": "kàn",
+          "meaning": "watch"
+        },
+        {
+          "zh": "演唱会",
+          "py": "yǎnchǎng huì",
+          "meaning": "concert"
+        }
+      ]
+    },
+    {
+      "chinese": "这家夜总会很高级。",
+      "pinyin": "Zhè jiā yèzǒnghuì hěn gāojí.",
+      "translation": "This nightclub is very upscale.",
+      "usage": "Describing the quality of a nightclub.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "家",
+          "py": "jiā",
+          "meaning": "a place / shop"
+        },
+        {
+          "zh": "夜总会",
+          "py": "yèzǒnghuì",
+          "meaning": "nightclub"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "高级",
+          "py": "gāojí",
+          "meaning": "upscale"
+        }
+      ]
+    },
+    {
+      "chinese": "你有时间去酒吧吗？",
+      "pinyin": "Nǐ yǒu shíjiān qù jiǔbā ma?",
+      "translation": "Do you have time to go to a bar?",
+      "usage": "Asking if someone has time to go to a bar.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "have"
+        },
+        {
+          "zh": "时间",
+          "py": "shíjiān",
+          "meaning": "time"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "go to"
+        },
+        {
+          "zh": "酒吧",
+          "py": "jiǔbā",
+          "meaning": "bar"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "我们去吃火锅。",
+      "pinyin": "Wǒmen qù chī huǒguō.",
+      "translation": "Let's go eat hot pot.",
+      "usage": "Suggesting to go for hot pot dinner.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "我们",
+          "py": "wǒmen",
+          "meaning": "we"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "go to"
+        },
+        {
+          "zh": "吃",
+          "py": "chī",
+          "meaning": "eat"
+        },
+        {
+          "zh": "火锅",
+          "py": "huǒguō",
+          "meaning": "hot pot"
+        }
+      ]
+    },
+    {
+      "chinese": "这家酒吧晚上有表演。",
+      "pinyin": "Zhè jiā jiǔbā wǎnshàng yǒu biǎoyǎn.",
+      "translation": "This bar has performances in the evening.",
+      "usage": "Describing entertainment events at a bar.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "家",
+          "py": "jiā",
+          "meaning": "a place / shop"
+        },
+        {
+          "zh": "酒吧",
+          "py": "jiǔbā",
+          "meaning": "bar"
+        },
+        {
+          "zh": "晚上",
+          "py": "wǎnshàng",
+          "meaning": "evening"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "have"
+        },
+        {
+          "zh": "表演",
+          "py": "biǎoyǎn",
+          "meaning": "performance"
+        }
+      ]
+    },
+    {
+      "chinese": "我们去跳舞吧，好吗？",
+      "pinyin": "Wǒmen qù tiàowǔ ba, hǎo ma?",
+      "translation": "Let's go dancing, okay?",
+      "usage": "Suggesting dancing with a soft question.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "我们",
+          "py": "wǒmen",
+          "meaning": "we"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "go to"
+        },
+        {
+          "zh": "跳舞",
+          "py": "tiàowǔ",
+          "meaning": "dance"
+        },
+        {
+          "zh": "吧",
+          "py": "ba",
+          "meaning": "particle for suggestion"
+        },
+        {
+          "zh": "好吗",
+          "py": "hǎo ma",
+          "meaning": "okay?"
+        }
+      ]
+    },
+    {
+      "chinese": "这个夜市晚上很热闹。",
+      "pinyin": "Zhège yèshì wǎnshàng hěn rènao.",
+      "translation": "This night market is very lively in the evening.",
+      "usage": "Describing the atmosphere of a night market.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "个",
+          "py": "ge",
+          "meaning": "classifier"
+        },
+        {
+          "zh": "夜市",
+          "py": "yèshì",
+          "meaning": "night market"
+        },
+        {
+          "zh": "晚上",
+          "py": "wǎnshàng",
+          "meaning": "evening"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "热闹",
+          "py": "rènao",
+          "meaning": "lively"
+        }
+      ]
+    },
+    {
+      "chinese": "我们去KTV玩。",
+      "pinyin": "Wǒmen qù KTV wán.",
+      "translation": "Let's go to KTV and have fun.",
+      "usage": "Suggesting to go for fun at KTV.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "我们",
+          "py": "wǒmen",
+          "meaning": "we"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "go to"
+        },
+        {
+          "zh": "KTV",
+          "py": "KTV",
+          "meaning": "Karaoke"
+        },
+        {
+          "zh": "玩",
+          "py": "wán",
+          "meaning": "have fun"
+        }
+      ]
+    },
+    {
+      "chinese": "这家酒吧晚上营业。",
+      "pinyin": "Zhè jiā jiǔbā wǎnshàng yíngyè.",
+      "translation": "This bar is open in the evening.",
+      "usage": "Describing evening business hours of a bar.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "家",
+          "py": "jiā",
+          "meaning": "a place / shop"
+        },
+        {
+          "zh": "酒吧",
+          "py": "jiǔbā",
+          "meaning": "bar"
+        },
+        {
+          "zh": "晚上",
+          "py": "wǎnshàng",
+          "meaning": "evening"
+        },
+        {
+          "zh": "营业",
+          "py": "yíngyè",
+          "meaning": "open for business"
+        }
+      ]
+    }
+  ]
+}

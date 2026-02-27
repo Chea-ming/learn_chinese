@@ -1,0 +1,48 @@
+{
+  "sentences": [
+    {
+      "chinese": "狗",
+      "pinyin": "Gǒu",
+      "translation": "Dog",
+      "usage": "The most common domestic animal.",
+      "words": [
+        {
+          "zh": "狗",
+          "py": "gǒu",
+          "meaning": "dog"
+        }
+      ]
+    },
+    {
+      "chinese": "猫",
+      "pinyin": "Māo",
+      "translation": "Cat",
+      "usage": "Popular pet animal.",
+      "words": [
+        {
+          "zh": "猫",
+          "py": "māo",
+          "meaning": "cat"
+        }
+      ]
+    },
+    {
+      "chinese": "老虎",
+      "pinyin": "Lǎo hǔ",
+      "translation": "Tiger",
+      "usage": "Wild predator in Asia.",
+      "words": [
+        {
+          "zh": "老",
+          "py": "lǎo",
+          "meaning": "old/wild"
+        },
+        {
+          "zh": "虎",
+          "py": "hǔ",
+          "meaning": "tiger"
+        }
+      ]
+    }
+  ]
+}

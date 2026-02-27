@@ -7,332 +7,667 @@
       "usage": "The standard, all-purpose greeting. Suitable for almost any situation.",
       "formality": "Neutral / Informal",
       "words": [
-        { "zh": "你", "py": "nǐ",  "meaning": "you" },
-        { "zh": "好", "py": "hǎo", "meaning": "good / well" }
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good / well"
+        }
+      ]
+    },
+    {
+      "chinese": "早上好！",
+      "pinyin": "Zǎo shàng hǎo!",
+      "translation": "Good morning!",
+      "usage": "Used when greeting someone in the morning.",
+      "formality": "Neutral / Formal",
+      "words": [
+        {
+          "zh": "早",
+          "py": "zǎo",
+          "meaning": "morning"
+        },
+        {
+          "zh": "上",
+          "py": "shàng",
+          "meaning": "up / morning"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good / well"
+        }
+      ]
+    },
+    {
+      "chinese": "下午好！",
+      "pinyin": "Xià wǔ hǎo!",
+      "translation": "Good afternoon!",
+      "usage": "Used when greeting someone in the afternoon.",
+      "formality": "Neutral / Formal",
+      "words": [
+        {
+          "zh": "下",
+          "py": "xià",
+          "meaning": "down / afternoon"
+        },
+        {
+          "zh": "午",
+          "py": "wǔ",
+          "meaning": "noon / afternoon"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good / well"
+        }
+      ]
+    },
+    {
+      "chinese": "晚上好！",
+      "pinyin": "Wǎn shàng hǎo!",
+      "translation": "Good evening!",
+      "usage": "Used when greeting someone in the evening.",
+      "formality": "Neutral / Formal",
+      "words": [
+        {
+          "zh": "晚",
+          "py": "wǎn",
+          "meaning": "evening / night"
+        },
+        {
+          "zh": "上",
+          "py": "shàng",
+          "meaning": "up / evening"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good / well"
+        }
       ]
     },
     {
       "chinese": "您好！",
       "pinyin": "Nín hǎo!",
-      "translation": "Hello! (polite/formal)",
-      "usage": "A more respectful version of 你好, used for elders, teachers, bosses, or people in positions of authority.",
-      "formality": "Formal / Polite",
-      "words": [
-        { "zh": "您", "py": "nín",  "meaning": "you (polite)" },
-        { "zh": "好", "py": "hǎo", "meaning": "good / well" }
-      ]
-    },
-    {
-      "chinese": "你们好！",
-      "pinyin": "Nǐmen hǎo!",
-      "translation": "Hello everyone! / Hello (to a group of people)",
-      "usage": "Used when greeting more than one person.",
-      "formality": "Neutral",
-      "words": [
-        { "zh": "你们", "py": "nǐmen",  "meaning": "you (plural)" },
-        { "zh": "好", "py": "hǎo", "meaning": "good / well" }
-      ]
-    },
-    {
-      "chinese": "大家好！",
-      "pinyin": "Dàjiā hǎo!",
-      "translation": "Hello everyone!",
-      "usage": "A very common way to greet a group, like in a class or a meeting. It feels more inclusive than 你们好.",
-      "formality": "Neutral",
-      "words": [
-        { "zh": "大家", "py": "dàjiā",  "meaning": "everyone / everybody" },
-        { "zh": "好", "py": "hǎo", "meaning": "good / well" }
-      ]
-    },
-    {
-      "chinese": "早上好！",
-      "pinyin": "Zǎoshang hǎo!",
-      "translation": "Good morning!",
-      "usage": "Used in the morning. '早' (zǎo) alone is a common, shorter, and more casual version.",
-      "formality": "Neutral",
-      "words": [
-        { "zh": "早上", "py": "zǎoshang",  "meaning": "morning" },
-        { "zh": "好", "py": "hǎo", "meaning": "good" }
-      ]
-    },
-    {
-      "chinese": "下午好！",
-      "pinyin": "Xiàwǔ hǎo!",
-      "translation": "Good afternoon!",
-      "usage": "Used in the afternoon.",
-      "formality": "Neutral",
-      "words": [
-        { "zh": "下午", "py": "xiàwǔ",  "meaning": "afternoon" },
-        { "zh": "好", "py": "hǎo", "meaning": "good" }
-      ]
-    },
-    {
-      "chinese": "晚上好！",
-      "pinyin": "Wǎnshang hǎo!",
-      "translation": "Good evening!",
-      "usage": "Used in the evening. Note: This is not typically used as a 'goodnight' farewell (which is 晚安 - wǎn'ān).",
-      "formality": "Neutral",
-      "words": [
-        { "zh": "晚上", "py": "wǎnshang",  "meaning": "evening / night" },
-        { "zh": "好", "py": "hǎo", "meaning": "good" }
-      ]
-    },
-    {
-      "chinese": "你吃了吗？",
-      "pinyin": "Nǐ chī le ma?",
-      "translation": "Have you eaten?",
-      "usage": "A very common and traditional greeting, especially around mealtimes. It's a way of saying 'How are you?' or 'How have you been?', not necessarily an invitation to a meal.",
-      "formality": "Informal",
-      "words": [
-        { "zh": "你", "py": "nǐ",  "meaning": "you" },
-        { "zh": "吃", "py": "chī",  "meaning": "to eat" },
-        { "zh": "了", "py": "le",  "meaning": "(particle indicating completed action)" },
-        { "zh": "吗", "py": "ma",  "meaning": "(question particle)" }
-      ]
-    },
-    {
-      "chinese": "最近怎么样？",
-      "pinyin": "Zuìjìn zěnmeyàng?",
-      "translation": "How's it going recently? / How have you been lately?",
-      "usage": "A common, friendly way to ask someone how they are doing.",
-      "formality": "Informal",
-      "words": [
-        { "zh": "最近", "py": "zuìjìn",  "meaning": "recently / lately" },
-        { "zh": "怎么样", "py": "zěnmeyàng",  "meaning": "how is / how about / how are things" }
-      ]
-    },
-    {
-      "chinese": "我很好，谢谢。你呢？",
-      "pinyin": "Wǒ hěn hǎo, xièxie. Nǐ ne?",
-      "translation": "I'm very good, thanks. And you?",
-      "usage": "A standard positive response to 'How are you?'",
-      "formality": "Neutral",
-      "words": [
-        { "zh": "我", "py": "wǒ",  "meaning": "I / me" },
-        { "zh": "很", "py": "hěn",  "meaning": "very" },
-        { "zh": "好", "py": "hǎo",  "meaning": "good / fine" },
-        { "zh": "谢谢", "py": "xièxie",  "meaning": "thank you" },
-        { "zh": "你", "py": "nǐ",  "meaning": "you" },
-        { "zh": "呢", "py": "ne",  "meaning": "(particle for follow-up questions: 'and you?')" }
-      ]
-    },
-    {
-      "chinese": "我还好。",
-      "pinyin": "Wǒ hái hǎo.",
-      "translation": "I'm okay. / I'm so-so.",
-      "usage": "A modest or neutral response to 'How are you?', meaning you're doing fine but not great.",
-      "formality": "Neutral",
-      "words": [
-        { "zh": "我", "py": "wǒ", "meaning": "I" },
-        { "zh": "还", "py": "hái", "meaning": "still / fairly / quite" },
-        { "zh": "好", "py": "hǎo", "meaning": "good / fine" }
-      ]
-    },
-    {
-      "chinese": "你叫什么名字？",
-      "pinyin": "Nǐ jiào shénme míngzì?",
-      "translation": "What is your name?",
-      "usage": "The most direct and common way to ask someone's name.",
-      "formality": "Neutral",
-      "words": [
-        { "zh": "你", "py": "nǐ", "meaning": "you" },
-        { "zh": "叫", "py": "jiào", "meaning": "to be called / to call" },
-        { "zh": "什么", "py": "shénme", "meaning": "what" },
-        { "zh": "名字", "py": "míngzì", "meaning": "name" }
-      ]
-    },
-    {
-      "chinese": "您贵姓？",
-      "pinyin": "Nín guì xìng?",
-      "translation": "What is your (honorable) surname?",
-      "usage": "A very polite and traditional way to ask for someone's family name. It's more formal than 你叫什么名字. A typical polite response is '我姓王'.",
-      "formality": "Formal / Polite",
-      "words": [
-        { "zh": "您", "py": "nín", "meaning": "you (polite)" },
-        { "zh": "贵", "py": "guì", "meaning": "honorable / expensive / noble" },
-        { "zh": "姓", "py": "xìng", "meaning": "surname / to be surnamed" }
-      ]
-    },
-    {
-      "chinese": "我叫王小明。",
-      "pinyin": "Wǒ jiào Wáng Xiǎomíng.",
-      "translation": "My name is Wang Xiaoming.",
-      "usage": "The standard way to introduce your full name.",
-      "formality": "Neutral",
-      "words": [
-        { "zh": "我", "py": "wǒ", "meaning": "I / me" },
-        { "zh": "叫", "py": "jiào", "meaning": "to be called" },
-        { "zh": "王小明", "py": "Wáng Xiǎomíng", "meaning": "(example name)" }
-      ]
-    },
-    {
-      "chinese": "我是王小明。",
-      "pinyin": "Wǒ shì Wáng Xiǎomíng.",
-      "translation": "I am Wang Xiaoming.",
-      "usage": "Another common way to introduce your name. Can also be used for nationality or profession.",
-      "formality": "Neutral",
-      "words": [
-        { "zh": "我", "py": "wǒ", "meaning": "I / me" },
-        { "zh": "是", "py": "shì", "meaning": "to be (am / is / are)" },
-        { "zh": "王小明", "py": "Wáng Xiǎomíng", "meaning": "(example name)" }
-      ]
-    },
-    {
-      "chinese": "我姓王，叫小明。",
-      "pinyin": "Wǒ xìng Wáng, jiào Xiǎomíng.",
-      "translation": "My surname is Wang, and my given name is Xiaoming.",
-      "usage": "A clear way to state both your family name and given name separately. This is a very natural way to introduce yourself.",
-      "formality": "Neutral",
-      "words": [
-        { "zh": "我", "py": "wǒ", "meaning": "I / me" },
-        { "zh": "姓", "py": "xìng", "meaning": "to be surnamed" },
-        { "zh": "王", "py": "Wáng", "meaning": "Wang (surname)" },
-        { "zh": "叫", "py": "jiào", "meaning": "to be called" },
-        { "zh": "小明", "py": "Xiǎomíng", "meaning": "Xiaoming (given name)" }
-      ]
-    },
-    {
-      "chinese": "你可以叫我小明。",
-      "pinyin": "Nǐ kěyǐ jiào wǒ Xiǎomíng.",
-      "translation": "You can call me Xiaoming.",
-      "usage": "A friendly phrase to tell someone to use your given name, which is more casual.",
-      "formality": "Informal",
-      "words": [
-        { "zh": "你", "py": "nǐ", "meaning": "you" },
-        { "zh": "可以", "py": "kěyǐ", "meaning": "can / may" },
-        { "zh": "叫", "py": "jiào", "meaning": "to call" },
-        { "zh": "我", "py": "wǒ", "meaning": "me" },
-        { "zh": "小明", "py": "Xiǎomíng", "meaning": "Xiaoming" }
-      ]
-    },
-    {
-      "chinese": "很高兴认识你。",
-      "pinyin": "Hěn gāoxìng rènshi nǐ.",
-      "translation": "Nice to meet you.",
-      "usage": "The standard phrase to say after an introduction.",
-      "formality": "Neutral",
-      "words": [
-        { "zh": "很", "py": "hěn", "meaning": "very" },
-        { "zh": "高兴", "py": "gāoxìng", "meaning": "happy / pleased / glad" },
-        { "zh": "认识", "py": "rènshi", "meaning": "to know / meet (a person)" },
-        { "zh": "你", "py": "nǐ", "meaning": "you" }
-      ]
-    },
-    {
-      "chinese": "认识你很高兴。",
-      "pinyin": "Rènshi nǐ hěn gāoxìng.",
-      "translation": "Nice to meet you. (alternative phrasing)",
-      "usage": "A slightly different word order, but with the exact same meaning.",
-      "formality": "Neutral",
-      "words": [
-        { "zh": "认识", "py": "rènshi", "meaning": "to know / meet" },
-        { "zh": "你", "py": "nǐ", "meaning": "you" },
-        { "zh": "很", "py": "hěn", "meaning": "very" },
-        { "zh": "高兴", "py": "gāoxìng", "meaning": "happy / pleased" }
-      ]
-    },
-    {
-      "chinese": "幸会。",
-      "pinyin": "Xìng huì.",
-      "translation": "Nice to meet you. / Pleased to meet you.",
-      "usage": "A very polite and somewhat old-fashioned phrase, often used in formal business settings or when meeting someone for the first time with great respect.",
-      "formality": "Very Formal",
-      "words": [
-        { "zh": "幸", "py": "xìng", "meaning": "fortunate / lucky" },
-        { "zh": "会", "py": "huì", "meaning": "to meet / meeting" }
-      ]
-    },
-    {
-      "chinese": "久仰。",
-      "pinyin": "Jiǔ yǎng.",
-      "translation": "I've heard a lot about you. / I've long admired you.",
-      "usage": "A very respectful phrase used when meeting someone famous, highly respected, or someone you've heard much about. It literally means 'I have long looked up to you'.",
-      "formality": "Very Formal",
-      "words": [
-        { "zh": "久", "py": "jiǔ", "meaning": "long (time)" },
-        { "zh": "仰", "py": "yǎng", "meaning": "to admire / to look up to" }
-      ]
-    },
-    {
-      "chinese": "这是我的朋友，王小明。",
-      "pinyin": "Zhè shì wǒ de péngyou, Wáng Xiǎomíng.",
-      "translation": "This is my friend, Wang Xiaoming.",
-      "usage": "A standard way to introduce a friend.",
-      "formality": "Neutral",
-      "words": [
-        { "zh": "这", "py": "zhè", "meaning": "this" },
-        { "zh": "是", "py": "shì", "meaning": "is" },
-        { "zh": "我", "py": "wǒ", "meaning": "I / me" },
-        { "zh": "的", "py": "de", "meaning": "(possession particle: 's)" },
-        { "zh": "朋友", "py": "péngyou", "meaning": "friend" },
-        { "zh": "王小明", "py": "Wáng Xiǎomíng", "meaning": "Wang Xiaoming" }
-      ]
-    },
-    {
-      "chinese": "这位是我的同事，王先生。",
-      "pinyin": "Zhè wèi shì wǒ de tóngshì, Wáng xiānsheng.",
-      "translation": "This (person) is my colleague, Mr. Wang.",
-      "usage": "A polite way to introduce a colleague. Using '位' (wèi) is a respectful measure word for people. Using '先生' (Mr.) adds another layer of formality.",
+      "translation": "Hello! (polite)",
+      "usage": "More polite version of 'Nǐ hǎo'. Used in formal situations or when addressing strangers.",
       "formality": "Formal",
       "words": [
-        { "zh": "这位", "py": "zhè wèi", "meaning": "this (polite measure word for person)" },
-        { "zh": "是", "py": "shì", "meaning": "is" },
-        { "zh": "我", "py": "wǒ", "meaning": "I / me" },
-        { "zh": "的", "py": "de", "meaning": "(possession particle)" },
-        { "zh": "同事", "py": "tóngshì", "meaning": "colleague / co-worker" },
-        { "zh": "王先生", "py": "Wáng xiānsheng", "meaning": "Mr. Wang" }
+        {
+          "zh": "您",
+          "py": "nín",
+          "meaning": "you (polite)"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good / well"
+        }
       ]
     },
     {
-      "chinese": "你是哪国人？",
-      "pinyin": "Nǐ shì nǎ guó rén?",
-      "translation": "Which country are you from? / What is your nationality?",
-      "usage": "A common follow-up question when meeting someone new, especially in international contexts.",
-      "formality": "Neutral",
+      "chinese": "请问，您是哪位？",
+      "pinyin": "Qǐng wèn, nín shì nǎ wèi?",
+      "translation": "Excuse me, who are you?",
+      "usage": "Used when meeting someone for the first time and wanting to know their identity.",
+      "formality": "Formal",
       "words": [
-        { "zh": "你", "py": "nǐ", "meaning": "you" },
-        { "zh": "是", "py": "shì", "meaning": "are" },
-        { "zh": "哪", "py": "nǎ", "meaning": "which" },
-        { "zh": "国", "py": "guó", "meaning": "country" },
-        { "zh": "人", "py": "rén", "meaning": "person / people" }
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "问",
+          "py": "wèn",
+          "meaning": "ask"
+        },
+        {
+          "zh": "您",
+          "py": "nín",
+          "meaning": "you (polite)"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "to be"
+        },
+        {
+          "zh": "哪",
+          "py": "nǎ",
+          "meaning": "which"
+        },
+        {
+          "zh": "位",
+          "py": "wèi",
+          "meaning": "person"
+        }
       ]
     },
     {
-      "chinese": "我是中国人。",
-      "pinyin": "Wǒ shì Zhōngguó rén.",
-      "translation": "I am Chinese.",
-      "usage": "Example response for Wang Xiaoming. Replace '中国' with your country (e.g., 美国 - Měiguó for USA, 英国 - Yīngguó for UK, 加拿大 - Jiānádà for Canada).",
-      "formality": "Neutral",
+      "chinese": "我叫李明。",
+      "pinyin": "Wǒ jiào Lǐ Míng.",
+      "translation": "My name is Li Ming.",
+      "usage": "Used when introducing yourself to others.",
+      "formality": "Neutral / Informal",
       "words": [
-        { "zh": "我", "py": "wǒ", "meaning": "I" },
-        { "zh": "是", "py": "shì", "meaning": "am" },
-        { "zh": "中国", "py": "Zhōngguó", "meaning": "China" },
-        { "zh": "人", "py": "rén", "meaning": "person" }
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / me"
+        },
+        {
+          "zh": "叫",
+          "py": "jiào",
+          "meaning": "to be called"
+        },
+        {
+          "zh": "李",
+          "py": "Lǐ",
+          "meaning": "Li (surname)"
+        },
+        {
+          "zh": "明",
+          "py": "Míng",
+          "meaning": "bright / clear"
+        }
       ]
     },
     {
-      "chinese": "你做什么工作？",
-      "pinyin": "Nǐ zuò shénme gōngzuò?",
-      "translation": "What work do you do? / What is your job?",
-      "usage": "A very common way to ask about someone's profession.",
-      "formality": "Neutral",
+      "chinese": "很高兴认识你！",
+      "pinyin": "Hěn gāo xìng rèn shí nǐ!",
+      "translation": "Nice to meet you!",
+      "usage": "Used when meeting someone for the first time.",
+      "formality": "Neutral / Formal",
       "words": [
-        { "zh": "你", "py": "nǐ", "meaning": "you" },
-        { "zh": "做", "py": "zuò", "meaning": "to do" },
-        { "zh": "什么", "py": "shénme", "meaning": "what" },
-        { "zh": "工作", "py": "gōngzuò", "meaning": "work / job" }
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "高",
+          "py": "gāo",
+          "meaning": "high / happy"
+        },
+        {
+          "zh": "兴",
+          "py": "xìng",
+          "meaning": "happiness / joy"
+        },
+        {
+          "zh": "认",
+          "py": "rèn",
+          "meaning": "recognize / know"
+        },
+        {
+          "zh": "识",
+          "py": "shí",
+          "meaning": "to know"
+        },
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        }
       ]
     },
     {
-      "chinese": "我是老师。",
-      "pinyin": "Wǒ shì lǎoshī.",
-      "translation": "I am a teacher.",
-      "usage": "Example response. Replace '老师' with your profession (e.g., 学生 - xuésheng for student, 工程师 - gōngchéngshī for engineer, 医生 - yīshēng for doctor).",
-      "formality": "Neutral",
+      "chinese": "你好，我是张华。",
+      "pinyin": "Nǐ hǎo, wǒ shì Zhāng Huá.",
+      "translation": "Hello, I am Zhang Hua.",
+      "usage": "Used when introducing yourself to someone you don't know.",
+      "formality": "Neutral / Formal",
       "words": [
-        { "zh": "我", "py": "wǒ", "meaning": "I" },
-        { "zh": "是", "py": "shì", "meaning": "am" },
-        { "zh": "老师", "py": "lǎoshī", "meaning": "teacher" }
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good / well"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / me"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "to be"
+        },
+        {
+          "zh": "张",
+          "py": "Zhāng",
+          "meaning": "Zhang (surname)"
+        },
+        {
+          "zh": "华",
+          "py": "Huá",
+          "meaning": "flower / brilliant"
+        }
+      ]
+    },
+    {
+      "chinese": "请问，您贵姓？",
+      "pinyin": "Qǐng wèn, nín guì xìng?",
+      "translation": "Excuse me, what is your surname?",
+      "usage": "Polite way to ask someone's surname when meeting them.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "问",
+          "py": "wèn",
+          "meaning": "ask"
+        },
+        {
+          "zh": "您",
+          "py": "nín",
+          "meaning": "you (polite)"
+        },
+        {
+          "zh": "贵",
+          "py": "guì",
+          "meaning": "honorable / respected"
+        },
+        {
+          "zh": "姓",
+          "py": "xìng",
+          "meaning": "surname"
+        }
+      ]
+    },
+    {
+      "chinese": "我是学生。",
+      "pinyin": "Wǒ shì xué sheng.",
+      "translation": "I am a student.",
+      "usage": "Used to introduce your occupation or status.",
+      "formality": "Neutral / Informal",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / me"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "to be"
+        },
+        {
+          "zh": "学",
+          "py": "xué",
+          "meaning": "study / learn"
+        },
+        {
+          "zh": "生",
+          "py": "sheng",
+          "meaning": "student"
+        }
+      ]
+    },
+    {
+      "chinese": "您是老师吗？",
+      "pinyin": "Nín shì lǎo shī ma?",
+      "translation": "Are you a teacher?",
+      "usage": "Used to ask about someone's profession or role.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "您",
+          "py": "nín",
+          "meaning": "you (polite)"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "to be"
+        },
+        {
+          "zh": "老",
+          "py": "lǎo",
+          "meaning": "old / teacher"
+        },
+        {
+          "zh": "师",
+          "py": "shī",
+          "meaning": "teacher"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "我来自北京。",
+      "pinyin": "Wǒ lái zì Běi jīng.",
+      "translation": "I come from Beijing.",
+      "usage": "Used to introduce where you are from.",
+      "formality": "Neutral / Informal",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / me"
+        },
+        {
+          "zh": "来",
+          "py": "lái",
+          "meaning": "to come"
+        },
+        {
+          "zh": "自",
+          "py": "zì",
+          "meaning": "from"
+        },
+        {
+          "zh": "北",
+          "py": "Běi",
+          "meaning": "north"
+        },
+        {
+          "zh": "京",
+          "py": "jīng",
+          "meaning": "capital"
+        }
+      ]
+    },
+    {
+      "chinese": "很高兴见到您。",
+      "pinyin": "Hěn gāo xìng jiàn dào nín.",
+      "translation": "Nice to meet you (formal).",
+      "usage": "More formal version of 'Nice to meet you'. Used in business or formal situations.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "高",
+          "py": "gāo",
+          "meaning": "high / happy"
+        },
+        {
+          "zh": "兴",
+          "py": "xìng",
+          "meaning": "happiness / joy"
+        },
+        {
+          "zh": "见",
+          "py": "jiàn",
+          "meaning": "to see"
+        },
+        {
+          "zh": "到",
+          "py": "dào",
+          "meaning": "to reach"
+        },
+        {
+          "zh": "您",
+          "py": "nín",
+          "meaning": "you (polite)"
+        }
+      ]
+    },
+    {
+      "chinese": "请问您怎么称呼？",
+      "pinyin": "Qǐng wèn nín zěn me chēng hū?",
+      "translation": "How may I address you?",
+      "usage": "Polite way to ask how someone wants to be addressed.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "问",
+          "py": "wèn",
+          "meaning": "ask"
+        },
+        {
+          "zh": "您",
+          "py": "nín",
+          "meaning": "you (polite)"
+        },
+        {
+          "zh": "怎",
+          "py": "zěn",
+          "meaning": "how"
+        },
+        {
+          "zh": "么",
+          "py": "me",
+          "meaning": "how"
+        },
+        {
+          "zh": "称",
+          "py": "chēng",
+          "meaning": "to call"
+        },
+        {
+          "zh": "呼",
+          "py": "hū",
+          "meaning": "to address"
+        }
+      ]
+    },
+    {
+      "chinese": "我是美国人。",
+      "pinyin": "Wǒ shì Měi guó rén.",
+      "translation": "I am American.",
+      "usage": "Used to introduce your nationality.",
+      "formality": "Neutral / Informal",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / me"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "to be"
+        },
+        {
+          "zh": "美",
+          "py": "Měi",
+          "meaning": "America"
+        },
+        {
+          "zh": "国",
+          "py": "guó",
+          "meaning": "country"
+        },
+        {
+          "zh": "人",
+          "py": "rén",
+          "meaning": "person"
+        }
+      ]
+    },
+    {
+      "chinese": "你好，我是新来的。",
+      "pinyin": "Nǐ hǎo, wǒ shì xīn lái de.",
+      "translation": "Hello, I'm new here.",
+      "usage": "Used when introducing yourself to a new group or workplace.",
+      "formality": "Neutral / Informal",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good / well"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / me"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "to be"
+        },
+        {
+          "zh": "新",
+          "py": "xīn",
+          "meaning": "new"
+        },
+        {
+          "zh": "来",
+          "py": "lái",
+          "meaning": "to come"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "particle indicating state"
+        }
+      ]
+    },
+    {
+      "chinese": "请问您是做什么工作的？",
+      "pinyin": "Qǐng wèn nín shì zuò shén me gōng zuò de?",
+      "translation": "Excuse me, what do you do for work?",
+      "usage": "Used to politely ask about someone's profession.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "问",
+          "py": "wèn",
+          "meaning": "ask"
+        },
+        {
+          "zh": "您",
+          "py": "nín",
+          "meaning": "you (polite)"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "to be"
+        },
+        {
+          "zh": "做",
+          "py": "zuò",
+          "meaning": "to do"
+        },
+        {
+          "zh": "什",
+          "py": "shén",
+          "meaning": "what"
+        },
+        {
+          "zh": "么",
+          "py": "me",
+          "meaning": "what"
+        },
+        {
+          "zh": "工",
+          "py": "gōng",
+          "meaning": "work"
+        },
+        {
+          "zh": "作",
+          "py": "zuò",
+          "meaning": "work"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "particle indicating state"
+        }
+      ]
+    },
+    {
+      "chinese": "我认识您。",
+      "pinyin": "Wǒ rèn shí nín.",
+      "translation": "I know you.",
+      "usage": "Used to indicate familiarity with someone.",
+      "formality": "Neutral / Informal",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / me"
+        },
+        {
+          "zh": "认",
+          "py": "rèn",
+          "meaning": "to recognize"
+        },
+        {
+          "zh": "识",
+          "py": "shí",
+          "meaning": "to know"
+        },
+        {
+          "zh": "您",
+          "py": "nín",
+          "meaning": "you (polite)"
+        }
+      ]
+    },
+    {
+      "chinese": "我们是朋友。",
+      "pinyin": "Wǒ men shì péng you.",
+      "translation": "We are friends.",
+      "usage": "Used to introduce your relationship with someone.",
+      "formality": "Neutral / Informal",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / me"
+        },
+        {
+          "zh": "们",
+          "py": "men",
+          "meaning": "plural particle"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "to be"
+        },
+        {
+          "zh": "朋",
+          "py": "péng",
+          "meaning": "friend"
+        },
+        {
+          "zh": "友",
+          "py": "you",
+          "meaning": "friend"
+        }
       ]
     }
   ]

@@ -1,0 +1,241 @@
+{
+  "sentences": [
+    {
+      "chinese": "你好！",
+      "pinyin": "Nǐ hǎo!",
+      "translation": "Hello!",
+      "usage": "The standard greeting.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good"
+        }
+      ]
+    },
+    {
+      "chinese": "早上好！",
+      "pinyin": "Zǎo shàng hǎo!",
+      "translation": "Good morning!",
+      "usage": "Morning greeting.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "早",
+          "py": "zǎo",
+          "meaning": "early"
+        },
+        {
+          "zh": "上",
+          "py": "shàng",
+          "meaning": "up"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good"
+        }
+      ]
+    },
+    {
+      "chinese": "请把文件放在这儿。",
+      "pinyin": "Qǐng bǎ wénjiàn fàng zài zhèr.",
+      "translation": "Please put the documents here.",
+      "usage": "Requesting someone to place documents.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "把",
+          "py": "bǎ",
+          "meaning": "to"
+        },
+        {
+          "zh": "文件",
+          "py": "wénjiàn",
+          "meaning": "documents"
+        },
+        {
+          "zh": "放",
+          "py": "fàng",
+          "meaning": "to put"
+        },
+        {
+          "zh": "在",
+          "py": "zài",
+          "meaning": "at"
+        },
+        {
+          "zh": "这儿",
+          "py": "zhèr",
+          "meaning": "here"
+        }
+      ]
+    },
+    {
+      "chinese": "我们开会吧。",
+      "pinyin": "Wǒmen kāihuì ba.",
+      "translation": "Let's have a meeting.",
+      "usage": "Proposing to hold a meeting.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我们",
+          "py": "wǒmen",
+          "meaning": "we"
+        },
+        {
+          "zh": "开",
+          "py": "kāi",
+          "meaning": "to hold"
+        },
+        {
+          "zh": "会",
+          "py": "huì",
+          "meaning": "meeting"
+        },
+        {
+          "zh": "吧",
+          "py": "ba",
+          "meaning": "sentence-final particle"
+        }
+      ]
+    },
+    {
+      "chinese": "我今天迟到了。",
+      "pinyin": "Wǒ jīntiān chídào le.",
+      "translation": "I'm late today.",
+      "usage": "Apologizing for being late.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "今天",
+          "py": "jīntiān",
+          "meaning": "today"
+        },
+        {
+          "zh": "迟到",
+          "py": "chídào",
+          "meaning": "to be late"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed action"
+        }
+      ]
+    },
+    {
+      "chinese": "我需要请半天假。",
+      "pinyin": "Wǒ xūyào qǐng bàn tiān jià.",
+      "translation": "I need to take a half-day leave.",
+      "usage": "Requesting a half-day leave.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "需要",
+          "py": "xūyào",
+          "meaning": "need"
+        },
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "to request"
+        },
+        {
+          "zh": "半天",
+          "py": "bàn tiān",
+          "meaning": "half a day"
+        },
+        {
+          "zh": "假",
+          "py": "jià",
+          "meaning": "leave"
+        }
+      ]
+    },
+    {
+      "chinese": "这个项目需要更多时间。",
+      "pinyin": "Zhège xiàngmù xūyào gèng duō shíjiān.",
+      "translation": "This project needs more time.",
+      "usage": "Requesting an extension for a project.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "这个",
+          "py": "zhège",
+          "meaning": "this"
+        },
+        {
+          "zh": "项目",
+          "py": "xiàngmù",
+          "meaning": "project"
+        },
+        {
+          "zh": "需要",
+          "py": "xūyào",
+          "meaning": "need"
+        },
+        {
+          "zh": "更多",
+          "py": "gèng duō",
+          "meaning": "more"
+        },
+        {
+          "zh": "时间",
+          "py": "shíjiān",
+          "meaning": "time"
+        }
+      ]
+    },
+    {
+      "chinese": "一起合作很重要。",
+      "pinyin": "Yīqǐ hézuò hěn zhòngyào.",
+      "translation": "Collaboration is very important.",
+      "usage": "Emphasizing teamwork.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "一起",
+          "py": "yīqǐ",
+          "meaning": "together"
+        },
+        {
+          "zh": "合作",
+          "py": "hézuò",
+          "meaning": "collaborate"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "重要",
+          "py": "zhòngyào",
+          "meaning": "important"
+        }
+      ]
+    }
+  ]
+}

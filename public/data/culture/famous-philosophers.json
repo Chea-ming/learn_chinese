@@ -1,0 +1,141 @@
+{
+  "sentences": [
+    {
+      "chinese": "孔子",
+      "pinyin": "Kǒng zǐ",
+      "translation": "Confucius",
+      "usage": "Name of the renowned Chinese philosopher.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "孔",
+          "py": "Kǒng",
+          "meaning": "Confucius"
+        },
+        {
+          "zh": "子",
+          "py": "zǐ",
+          "meaning": "Master/philosopher"
+        }
+      ]
+    },
+    {
+      "chinese": "老子",
+      "pinyin": "Lǎo zǐ",
+      "translation": "Laozi",
+      "usage": "Name of the Taoist philosopher.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "老",
+          "py": "Lǎo",
+          "meaning": "Old"
+        },
+        {
+          "zh": "子",
+          "py": "zǐ",
+          "meaning": "Master/philosopher"
+        }
+      ]
+    },
+    {
+      "chinese": "庄子",
+      "pinyin": "Zhuāng zǐ",
+      "translation": "Zhuangzi",
+      "usage": "Name of the Taoist philosopher.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "庄",
+          "py": "Zhuāng",
+          "meaning": "Zhuangzi"
+        },
+        {
+          "zh": "子",
+          "py": "zǐ",
+          "meaning": "Master/philosopher"
+        }
+      ]
+    },
+    {
+      "chinese": "仁",
+      "pinyin": "Rén",
+      "translation": "Benevolence",
+      "usage": "Core Confucian virtue emphasizing compassion.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "仁",
+          "py": "Rén",
+          "meaning": "Benevolence"
+        }
+      ]
+    },
+    {
+      "chinese": "礼",
+      "pinyin": "Lǐ",
+      "translation": "Ritual",
+      "usage": "Confucian principle of proper conduct and social order.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "礼",
+          "py": "Lǐ",
+          "meaning": "Ritual/etiquette"
+        }
+      ]
+    },
+    {
+      "chinese": "道",
+      "pinyin": "Dào",
+      "translation": "The Way",
+      "usage": "Central concept in Taoism, representing natural harmony.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "道",
+          "py": "Dào",
+          "meaning": "The Way/path"
+        }
+      ]
+    },
+    {
+      "chinese": "无为",
+      "pinyin": "Wú wéi",
+      "translation": "Non-action",
+      "usage": "Taoist philosophy advocating effortless action.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "无",
+          "py": "Wú",
+          "meaning": "Without"
+        },
+        {
+          "zh": "为",
+          "py": "Wéi",
+          "meaning": "Action"
+        }
+      ]
+    },
+    {
+      "chinese": "因果",
+      "pinyin": "Yīn guǒ",
+      "translation": "Cause and effect",
+      "usage": "Buddhist principle of karma.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "因",
+          "py": "Yīn",
+          "meaning": "Cause"
+        },
+        {
+          "zh": "果",
+          "py": "Guǒ",
+          "meaning": "Effect/result"
+        }
+      ]
+    }
+  ]
+}

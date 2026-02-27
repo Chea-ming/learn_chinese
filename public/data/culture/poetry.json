@@ -1,0 +1,199 @@
+{
+  "sentences": [
+    {
+      "chinese": "中国诗歌",
+      "pinyin": "Zhōngguó shīgē",
+      "translation": "Chinese poetry",
+      "usage": "General term for Chinese poetic traditions.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "中国",
+          "py": "Zhōngguó",
+          "meaning": "China"
+        },
+        {
+          "zh": "诗歌",
+          "py": "Shīgē",
+          "meaning": "poetry"
+        }
+      ]
+    },
+    {
+      "chinese": "唐诗",
+      "pinyin": "Tángshī",
+      "translation": "Tang poetry",
+      "usage": "Refers to classical Chinese poetry from the Tang dynasty (618-907).",
+      "formality": "High",
+      "words": [
+        {
+          "zh": "唐",
+          "py": "Táng",
+          "meaning": "Tang dynasty"
+        },
+        {
+          "zh": "诗",
+          "py": "Shī",
+          "meaning": "poetry"
+        }
+      ]
+    },
+    {
+      "chinese": "宋词",
+      "pinyin": "Sòngcí",
+      "translation": "Song ci poetry",
+      "usage": "Refers to the ci poetic form developed during the Song dynasty (960-1279).",
+      "formality": "High",
+      "words": [
+        {
+          "zh": "宋",
+          "py": "Sòng",
+          "meaning": "Song dynasty"
+        },
+        {
+          "zh": "词",
+          "py": "Cí",
+          "meaning": "ci poetry"
+        }
+      ]
+    },
+    {
+      "chinese": "李白",
+      "pinyin": "Lǐ Bái",
+      "translation": "Li Bai",
+      "usage": "Famous Tang dynasty poet known for romanticism and natural themes.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "李",
+          "py": "Lǐ",
+          "meaning": "surname"
+        },
+        {
+          "zh": "白",
+          "py": "Bái",
+          "meaning": "white"
+        }
+      ]
+    },
+    {
+      "chinese": "杜甫",
+      "pinyin": "Dù Fǔ",
+      "translation": "Du Fu",
+      "usage": "Renowned Tang dynasty poet known for historical and social commentary.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "杜",
+          "py": "Dù",
+          "meaning": "surname"
+        },
+        {
+          "zh": "甫",
+          "py": "Fǔ",
+          "meaning": "first name"
+        }
+      ]
+    },
+    {
+      "chinese": "静夜思",
+      "pinyin": "Jìngyèsī",
+      "translation": "Thoughts on a Quiet Night",
+      "usage": "A famous Tang poetry title by Li Bai.",
+      "formality": "High",
+      "words": [
+        {
+          "zh": "静",
+          "py": "Jìng",
+          "meaning": "quiet"
+        },
+        {
+          "zh": "夜",
+          "py": "Yè",
+          "meaning": "night"
+        },
+        {
+          "zh": "思",
+          "py": "Sī",
+          "meaning": "thought"
+        }
+      ]
+    },
+    {
+      "chinese": "五言绝句",
+      "pinyin": "Wǔyán juéjù",
+      "translation": "Five-character quatrain",
+      "usage": "A classical Chinese poetic form with four lines of five characters.",
+      "formality": "High",
+      "words": [
+        {
+          "zh": "五言",
+          "py": "Wǔyán",
+          "meaning": "five-character"
+        },
+        {
+          "zh": "绝句",
+          "py": "Juéjù",
+          "meaning": "quatrain"
+        }
+      ]
+    },
+    {
+      "chinese": "七言律诗",
+      "pinyin": "Qīyán lǜshī",
+      "translation": "Seven-character regulated verse",
+      "usage": "A classical Chinese poetic form with strict tonal patterns.",
+      "formality": "High",
+      "words": [
+        {
+          "zh": "七言",
+          "py": "Qīyán",
+          "meaning": "seven-character"
+        },
+        {
+          "zh": "律诗",
+          "py": "Lǜshī",
+          "meaning": "regulated verse"
+        }
+      ]
+    },
+    {
+      "chinese": "意境",
+      "pinyin": "Yìjìng",
+      "translation": "Artistic conception",
+      "usage": "Describes the emotional and imaginative depth in poetry.",
+      "formality": "High",
+      "words": [
+        {
+          "zh": "意",
+          "py": "Yì",
+          "meaning": "idea"
+        },
+        {
+          "zh": "境",
+          "py": "Jìng",
+          "meaning": "realm"
+        }
+      ]
+    },
+    {
+      "chinese": "比兴",
+      "pinyin": "Bǐxìng",
+      "translation": "Metaphor and allusion",
+      "usage": "Techniques used in classical Chinese poetry for indirect expression.",
+      "formality": "High",
+      "words": [
+        {
+          "zh": "比",
+          "py": "Bǐ",
+          "meaning": "metaphor"
+        },
+        {
+          "zh": "兴",
+          "py": "Xìng",
+          "meaning": "allusion"
+        }
+      ]
+    }
+  ]
+}

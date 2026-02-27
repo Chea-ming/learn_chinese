@@ -1,0 +1,261 @@
+{
+  "sentences": [
+    {
+      "chinese": "密码",
+      "pinyin": "Mí mǎ",
+      "translation": "Password",
+      "usage": "A secret code to access an account or device.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "密",
+          "py": "Mì",
+          "meaning": "secret"
+        },
+        {
+          "zh": "码",
+          "py": "Mǎ",
+          "meaning": "code"
+        }
+      ]
+    },
+    {
+      "chinese": "双因素认证",
+      "pinyin": "Shuāng yīn sù rèn zhèng",
+      "translation": "Two-factor authentication",
+      "usage": "A security method requiring two verification steps.",
+      "formality": "Technical",
+      "words": [
+        {
+          "zh": "双",
+          "py": "Shuāng",
+          "meaning": "double"
+        },
+        {
+          "zh": "因素",
+          "py": "Yīn sù",
+          "meaning": "factor"
+        },
+        {
+          "zh": "认证",
+          "py": "Rèn zhèng",
+          "meaning": "authentication"
+        }
+      ]
+    },
+    {
+      "chinese": "防火墙",
+      "pinyin": "Fáng huǒ qiáng",
+      "translation": "Firewall",
+      "usage": "A network security system blocking unauthorized access.",
+      "formality": "Technical",
+      "words": [
+        {
+          "zh": "防",
+          "py": "Fáng",
+          "meaning": "prevent"
+        },
+        {
+          "zh": "火墙",
+          "py": "Huǒ qiáng",
+          "meaning": "fire wall"
+        }
+      ]
+    },
+    {
+      "chinese": "隐私政策",
+      "pinyin": "Yǐn xí zhèng cè",
+      "translation": "Privacy policy",
+      "usage": "A document outlining how personal data is handled.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "隐私",
+          "py": "Yǐn xí",
+          "meaning": "privacy"
+        },
+        {
+          "zh": "政策",
+          "py": "Zhèng cè",
+          "meaning": "policy"
+        }
+      ]
+    },
+    {
+      "chinese": "加密",
+      "pinyin": "Jiā mì",
+      "translation": "Encryption",
+      "usage": "Converting data into a secure format.",
+      "formality": "Technical",
+      "words": [
+        {
+          "zh": "加",
+          "py": "Jiā",
+          "meaning": "add"
+        },
+        {
+          "zh": "密",
+          "py": "Mì",
+          "meaning": "secret"
+        }
+      ]
+    },
+    {
+      "chinese": "虚拟私人网络",
+      "pinyin": "Xūnǐ gāo sī rén sī wǎng luò",
+      "translation": "Virtual private network (VPN)",
+      "usage": "A secure network for private internet access.",
+      "formality": "Technical",
+      "words": [
+        {
+          "zh": "虚拟",
+          "py": "Xūnǐ",
+          "meaning": "virtual"
+        },
+        {
+          "zh": "私人",
+          "py": "Gāo sī",
+          "meaning": "private"
+        },
+        {
+          "zh": "网络",
+          "py": "Wǎng luò",
+          "meaning": "network"
+        }
+      ]
+    },
+    {
+      "chinese": "数据保护",
+      "pinyin": "Shùjù bǎohù",
+      "translation": "Data protection",
+      "usage": "Safeguarding personal or sensitive information.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "数据",
+          "py": "Shù jù",
+          "meaning": "data"
+        },
+        {
+          "zh": "保护",
+          "py": "Bǎo hù",
+          "meaning": "protection"
+        }
+      ]
+    },
+    {
+      "chinese": "恶意软件",
+      "pinyin": "È yì ruǎnjiàn",
+      "translation": "Malware",
+      "usage": "Software designed to harm or exploit.",
+      "formality": "Technical",
+      "words": [
+        {
+          "zh": "恶意",
+          "py": "È yì",
+          "meaning": "malicious"
+        },
+        {
+          "zh": "软件",
+          "py": "Ruǎn jiān",
+          "meaning": "software"
+        }
+      ]
+    },
+    {
+      "chinese": "钓鱼网站",
+      "pinyin": "Diào yú wǎngzhàn",
+      "translation": "Phishing website",
+      "usage": "A fake site to steal user information.",
+      "formality": "Technical",
+      "words": [
+        {
+          "zh": "钓鱼",
+          "py": "Diào yú",
+          "meaning": "phishing"
+        },
+        {
+          "zh": "网站",
+          "py": "Wǎng zhàn",
+          "meaning": "website"
+        }
+      ]
+    },
+    {
+      "chinese": "身份验证",
+      "pinyin": "Shēnfèn yàozhèng",
+      "translation": "Authentication",
+      "usage": "Verifying a user's identity.",
+      "formality": "Technical",
+      "words": [
+        {
+          "zh": "身份",
+          "py": "Shēn fèn",
+          "meaning": "identity"
+        },
+        {
+          "zh": "验证",
+          "py": "Yàn zhèng",
+          "meaning": "verification"
+        }
+      ]
+    },
+    {
+      "chinese": "安全协议",
+      "pinyin": "Ānquán xìyì",
+      "translation": "Security protocol",
+      "usage": "A set of rules for secure communication.",
+      "formality": "Technical",
+      "words": [
+        {
+          "zh": "安全",
+          "py": "Ān quán",
+          "meaning": "security"
+        },
+        {
+          "zh": "协议",
+          "py": "Xí yì",
+          "meaning": "protocol"
+        }
+      ]
+    },
+    {
+      "chinese": "隐私设置",
+      "pinyin": "Yǐnxí shèzhì",
+      "translation": "Privacy settings",
+      "usage": "Controls for managing personal information visibility.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "隐私",
+          "py": "Yǐn xí",
+          "meaning": "privacy"
+        },
+        {
+          "zh": "设置",
+          "py": "Shè zhì",
+          "meaning": "settings"
+        }
+      ]
+    },
+    {
+      "chinese": "生物识别",
+      "pinyin": "Shēngwù shíbié",
+      "translation": "Biometric authentication",
+      "usage": "Using physical traits like fingerprints for security.",
+      "formality": "Technical",
+      "words": [
+        {
+          "zh": "生物",
+          "py": "Shēng wù",
+          "meaning": "biometric"
+        },
+        {
+          "zh": "识别",
+          "py": "Shí bié",
+          "meaning": "recognition"
+        }
+      ]
+    }
+  ]
+}

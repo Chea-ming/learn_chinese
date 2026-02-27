@@ -1,0 +1,251 @@
+{
+  "sentences": [
+    {
+      "chinese": "在...上",
+      "pinyin": "Zài...shàng",
+      "translation": "On...",
+      "usage": "Indicates physical or metaphorical surface contact.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "在",
+          "py": "zài",
+          "meaning": "at/on"
+        },
+        {
+          "zh": "上",
+          "py": "shàng",
+          "meaning": "top"
+        }
+      ]
+    },
+    {
+      "chinese": "向...方向",
+      "pinyin": "Xiàng...fāngxiàng",
+      "translation": "Toward the direction of...",
+      "usage": "Specifies movement or orientation toward a target.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "向",
+          "py": "xiàng",
+          "meaning": "toward"
+        },
+        {
+          "zh": "方向",
+          "py": "fāngxiàng",
+          "meaning": "direction"
+        }
+      ]
+    },
+    {
+      "chinese": "从...到...",
+      "pinyin": "Cóng...dào...",
+      "translation": "From...to...",
+      "usage": "Defines a range of time, location, or values.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "从",
+          "py": "cóng",
+          "meaning": "from"
+        },
+        {
+          "zh": "到",
+          "py": "dào",
+          "meaning": "to"
+        }
+      ]
+    },
+    {
+      "chinese": "沿着",
+      "pinyin": "Yánzhe",
+      "translation": "Along",
+      "usage": "Describes movement parallel to a surface or path.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "沿",
+          "py": "yán",
+          "meaning": "edge"
+        },
+        {
+          "zh": "着",
+          "py": "zhe",
+          "meaning": "particle indicating continuity"
+        }
+      ]
+    },
+    {
+      "chinese": "关于",
+      "pinyin": "Guānyú",
+      "translation": "Regarding",
+      "usage": "Introduces a topic or subject.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "关",
+          "py": "guān",
+          "meaning": "related"
+        },
+        {
+          "zh": "于",
+          "py": "yú",
+          "meaning": "than (used for emphasis)"
+        }
+      ]
+    },
+    {
+      "chinese": "在...里",
+      "pinyin": "Zài...lǐ",
+      "translation": "Inside...",
+      "usage": "Specifies containment within a space.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "在",
+          "py": "zài",
+          "meaning": "at/in"
+        },
+        {
+          "zh": "里",
+          "py": "lǐ",
+          "meaning": "inside"
+        }
+      ]
+    },
+    {
+      "chinese": "通过",
+      "pinyin": "Tōngguò",
+      "translation": "Through",
+      "usage": "Denotes means, passage, or medium.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "通",
+          "py": "tōng",
+          "meaning": "pass through"
+        },
+        {
+          "zh": "过",
+          "py": "guò",
+          "meaning": "particle indicating completion"
+        }
+      ]
+    },
+    {
+      "chinese": "对于",
+      "pinyin": "Duìyú",
+      "translation": "With respect to",
+      "usage": "Introduces a subject for discussion.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "对",
+          "py": "duì",
+          "meaning": "toward"
+        },
+        {
+          "zh": "于",
+          "py": "yú",
+          "meaning": "than (used for emphasis)"
+        }
+      ]
+    },
+    {
+      "chinese": "从...开始",
+      "pinyin": "Cóng...kāishǐ",
+      "translation": "Starting from...",
+      "usage": "Specifies the origin of time or action.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "从",
+          "py": "cóng",
+          "meaning": "from"
+        },
+        {
+          "zh": "开始",
+          "py": "kāishǐ",
+          "meaning": "beginning"
+        }
+      ]
+    },
+    {
+      "chinese": "到...为止",
+      "pinyin": "Dào...wéizhǐ",
+      "translation": "Up to...",
+      "usage": "Indicates the endpoint of a time period.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "到",
+          "py": "dào",
+          "meaning": "to"
+        },
+        {
+          "zh": "为止",
+          "py": "wéizhǐ",
+          "meaning": "up to"
+        }
+      ]
+    },
+    {
+      "chinese": "沿着",
+      "pinyin": "Yánzhe",
+      "translation": "Along",
+      "usage": "Describes following a path or line.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "沿",
+          "py": "yán",
+          "meaning": "edge"
+        },
+        {
+          "zh": "着",
+          "py": "zhe",
+          "meaning": "particle indicating continuity"
+        }
+      ]
+    },
+    {
+      "chinese": "关于",
+      "pinyin": "Guānyú",
+      "translation": "Regarding",
+      "usage": "Introduces a topic or subject.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "关",
+          "py": "guān",
+          "meaning": "related"
+        },
+        {
+          "zh": "于",
+          "py": "yú",
+          "meaning": "than (used for emphasis)"
+        }
+      ]
+    },
+    {
+      "chinese": "在...之前",
+      "pinyin": "Zài...zhīqián",
+      "translation": "Before...",
+      "usage": "Indicates temporal precedence.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "在",
+          "py": "zài",
+          "meaning": "at/in"
+        },
+        {
+          "zh": "之前",
+          "py": "zhīqián",
+          "meaning": "before"
+        }
+      ]
+    }
+  ]
+}

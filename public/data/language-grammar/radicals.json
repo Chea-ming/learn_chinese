@@ -1,0 +1,137 @@
+{
+  "sentences": [
+    {
+      "chinese": "部首",
+      "pinyin": "Bùshǒu",
+      "translation": "Radicals",
+      "usage": "The basic classification system for Chinese characters in dictionaries.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "部",
+          "py": "bù",
+          "meaning": "section"
+        },
+        {
+          "zh": "首",
+          "py": "shǒu",
+          "meaning": "head"
+        }
+      ]
+    },
+    {
+      "chinese": "人部",
+      "pinyin": "Rén bù",
+      "translation": "Person radical",
+      "usage": "The radical '人' (rén) represents human-related characters like '你' (nǐ) or '休' (xiū).",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "人",
+          "py": "rén",
+          "meaning": "person"
+        },
+        {
+          "zh": "部",
+          "py": "bù",
+          "meaning": "section"
+        }
+      ]
+    },
+    {
+      "chinese": "水部",
+      "pinyin": "Shuǐ bù",
+      "translation": "Water radical",
+      "usage": "The radical '水' (shuǐ) is used in characters like '河' (hé) and '湖' (hú).",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "水",
+          "py": "shuǐ",
+          "meaning": "water"
+        },
+        {
+          "zh": "部",
+          "py": "bù",
+          "meaning": "section"
+        }
+      ]
+    },
+    {
+      "chinese": "火部",
+      "pinyin": "Huǒ bù",
+      "translation": "Fire radical",
+      "usage": "The radical '火' (huǒ) appears in characters like '灯' (dēng) and '烧' (shāo).",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "火",
+          "py": "huǒ",
+          "meaning": "fire"
+        },
+        {
+          "zh": "部",
+          "py": "bù",
+          "meaning": "section"
+        }
+      ]
+    },
+    {
+      "chinese": "木部",
+      "pinyin": "Mù bù",
+      "translation": "Tree radical",
+      "usage": "The radical '木' (mù) forms characters like '林' (lín) and '森' (sēn).",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "木",
+          "py": "mù",
+          "meaning": "tree"
+        },
+        {
+          "zh": "部",
+          "py": "bù",
+          "meaning": "section"
+        }
+      ]
+    },
+    {
+      "chinese": "月部",
+      "pinyin": "Yuè bù",
+      "translation": "Moon radical",
+      "usage": "The radical '月' (yuè) appears in body-related terms like '肚' (dù) and '脸' (liǎn).",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "月",
+          "py": "yuè",
+          "meaning": "moon/body"
+        },
+        {
+          "zh": "部",
+          "py": "bù",
+          "meaning": "section"
+        }
+      ]
+    },
+    {
+      "chinese": "会意字",
+      "pinyin": "Huìyì zì",
+      "translation": "Associative compound",
+      "usage": "Characters formed by combining radicals to express meaning, like '休' (xiū) = 人 + 木.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "会意",
+          "py": "huì yì",
+          "meaning": "associative meaning"
+        },
+        {
+          "zh": "字",
+          "py": "zì",
+          "meaning": "character"
+        }
+      ]
+    }
+  ]
+}

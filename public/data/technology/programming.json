@@ -1,0 +1,275 @@
+{
+  "sentences": [
+    {
+      "chinese": "你好，世界！",
+      "pinyin": "Nǐ hǎo, shìjiè!",
+      "translation": "Hello, World!",
+      "usage": "Classic first program in many coding tutorials.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good"
+        },
+        {
+          "zh": "世界",
+          "py": "shìjiè",
+          "meaning": "world"
+        }
+      ]
+    },
+    {
+      "chinese": "编程中。",
+      "pinyin": "Biān chéng zhōng.",
+      "translation": "Coding in progress.",
+      "usage": "Indicates ongoing software development.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "编程",
+          "py": "biān chéng",
+          "meaning": "coding"
+        },
+        {
+          "zh": "中",
+          "py": "zhōng",
+          "meaning": "in progress"
+        }
+      ]
+    },
+    {
+      "chinese": "调试程序。",
+      "pinyin": "Diào shì chéngxù.",
+      "translation": "Debugging the program.",
+      "usage": "Refers to identifying and fixing code errors.",
+      "formality": "Technical",
+      "words": [
+        {
+          "zh": "调试",
+          "py": "diào shì",
+          "meaning": "debug"
+        },
+        {
+          "zh": "程序",
+          "py": "chéngxù",
+          "meaning": "program"
+        }
+      ]
+    },
+    {
+      "chinese": "版本控制。",
+      "pinyin": "Bǎn běn kòngzhì.",
+      "translation": "Version control.",
+      "usage": "System for tracking code changes over time.",
+      "formality": "Technical",
+      "words": [
+        {
+          "zh": "版本",
+          "py": "bǎn běn",
+          "meaning": "version"
+        },
+        {
+          "zh": "控制",
+          "py": "kòngzhì",
+          "meaning": "control"
+        }
+      ]
+    },
+    {
+      "chinese": "开源软件。",
+      "pinyin": "Kāiyuán ruǎnjiàn.",
+      "translation": "Open-source software.",
+      "usage": "Software with publicly available source code.",
+      "formality": "Technical",
+      "words": [
+        {
+          "zh": "开源",
+          "py": "kāiyuán",
+          "meaning": "open source"
+        },
+        {
+          "zh": "软件",
+          "py": "ruǎnjiàn",
+          "meaning": "software"
+        }
+      ]
+    },
+    {
+      "chinese": "算法优化。",
+      "pinyin": "Shùnfǎ yōnguó.",
+      "translation": "Algorithm optimization.",
+      "usage": "Improving efficiency of computational methods.",
+      "formality": "Technical",
+      "words": [
+        {
+          "zh": "算法",
+          "py": "shùnfǎ",
+          "meaning": "algorithm"
+        },
+        {
+          "zh": "优化",
+          "py": "yōnguó",
+          "meaning": "optimize"
+        }
+      ]
+    },
+    {
+      "chinese": "数据库连接。",
+      "pinyin": "Shùjù kù liáojié.",
+      "translation": "Database connection.",
+      "usage": "Linking application to a database.",
+      "formality": "Technical",
+      "words": [
+        {
+          "zh": "数据库",
+          "py": "shùjù kù",
+          "meaning": "database"
+        },
+        {
+          "zh": "连接",
+          "py": "liáojié",
+          "meaning": "connection"
+        }
+      ]
+    },
+    {
+      "chinese": "API接口。",
+      "pinyin": "API jiēkǒu.",
+      "translation": "API interface.",
+      "usage": "Standardized communication between systems.",
+      "formality": "Technical",
+      "words": [
+        {
+          "zh": "API",
+          "py": "ā pài ī",
+          "meaning": "Application Programming Interface"
+        },
+        {
+          "zh": "接口",
+          "py": "jiēkǒu",
+          "meaning": "interface"
+        }
+      ]
+    },
+    {
+      "chinese": "循环结构。",
+      "pinyin": "Xúnhuán jiégòu.",
+      "translation": "Loop structure.",
+      "usage": "Control flow that repeats code execution.",
+      "formality": "Technical",
+      "words": [
+        {
+          "zh": "循环",
+          "py": "xúnhuán",
+          "meaning": "loop"
+        },
+        {
+          "zh": "结构",
+          "py": "jiégòu",
+          "meaning": "structure"
+        }
+      ]
+    },
+    {
+      "chinese": "代码审查。",
+      "pinyin": "Dàimǎ shěnchá.",
+      "translation": "Code review.",
+      "usage": "Process of checking code for errors or improvements.",
+      "formality": "Technical",
+      "words": [
+        {
+          "zh": "代码",
+          "py": "dàimǎ",
+          "meaning": "code"
+        },
+        {
+          "zh": "审查",
+          "py": "shěnchá",
+          "meaning": "review"
+        }
+      ]
+    },
+    {
+      "chinese": "版本差异。",
+      "pinyin": "Bǎn běn chāyì.",
+      "translation": "Version differences.",
+      "usage": "Comparing changes between software versions.",
+      "formality": "Technical",
+      "words": [
+        {
+          "zh": "版本",
+          "py": "bǎn běn",
+          "meaning": "version"
+        },
+        {
+          "zh": "差异",
+          "py": "chāyì",
+          "meaning": "differences"
+        }
+      ]
+    },
+    {
+      "chinese": "前端开发。",
+      "pinyin": "Qián duān kāifā.",
+      "translation": "Front-end development.",
+      "usage": "Building user-facing parts of websites/apps.",
+      "formality": "Technical",
+      "words": [
+        {
+          "zh": "前端",
+          "py": "qián duān",
+          "meaning": "front-end"
+        },
+        {
+          "zh": "开发",
+          "py": "kāifā",
+          "meaning": "development"
+        }
+      ]
+    },
+    {
+      "chinese": "后端逻辑。",
+      "pinyin": "Hòu duān luójí.",
+      "translation": "Back-end logic.",
+      "usage": "Server-side processing and data handling.",
+      "formality": "Technical",
+      "words": [
+        {
+          "zh": "后端",
+          "py": "hòu duān",
+          "meaning": "back-end"
+        },
+        {
+          "zh": "逻辑",
+          "py": "luójí",
+          "meaning": "logic"
+        }
+      ]
+    },
+    {
+      "chinese": "分布式系统。",
+      "pinyin": "Fēn sù xìtǒng.",
+      "translation": "Distributed system.",
+      "usage": "Network of computers working as a single unit.",
+      "formality": "Technical",
+      "words": [
+        {
+          "zh": "分布式",
+          "py": "fēn sù",
+          "meaning": "distributed"
+        },
+        {
+          "zh": "系统",
+          "py": "xìtǒng",
+          "meaning": "system"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "sentences": [
+    {
+      "chinese": "书法",
+      "pinyin": "Shūfǎ",
+      "translation": "Calligraphy",
+      "usage": "The art of writing Chinese characters with aesthetic value.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "书",
+          "py": "Shū",
+          "meaning": "write"
+        },
+        {
+          "zh": "法",
+          "py": "Fǎ",
+          "meaning": "method/technique"
+        }
+      ]
+    },
+    {
+      "chinese": "楷书",
+      "pinyin": "Kǎishū",
+      "translation": "Kaishu (standard script)",
+      "usage": "A formal, legible calligraphy style.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "楷",
+          "py": "Kǎi",
+          "meaning": "standard"
+        },
+        {
+          "zh": "书",
+          "py": "Shū",
+          "meaning": "script"
+        }
+      ]
+    },
+    {
+      "chinese": "草书",
+      "pinyin": "Cǎoshū",
+      "translation": "Cao (cursive script)",
+      "usage": "A fluid, expressive calligraphy style with simplified characters.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "草",
+          "py": "Cǎo",
+          "meaning": "rough"
+        },
+        {
+          "zh": "书",
+          "py": "Shū",
+          "meaning": "script"
+        }
+      ]
+    },
+    {
+      "chinese": "毛笔",
+      "pinyin": "Máobǐ",
+      "translation": "Brush pen",
+      "usage": "Traditional calligraphy tool made of animal hair.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "毛",
+          "py": "Máo",
+          "meaning": "hair"
+        },
+        {
+          "zh": "笔",
+          "py": "Bǐ",
+          "meaning": "pen"
+        }
+      ]
+    },
+    {
+      "chinese": "墨",
+      "pinyin": "Mò",
+      "translation": "Ink",
+      "usage": "Black pigment used in calligraphy.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "墨",
+          "py": "Mò",
+          "meaning": "ink"
+        }
+      ]
+    },
+    {
+      "chinese": "纸",
+      "pinyin": "Zhǐ",
+      "translation": "Paper",
+      "usage": "Traditional calligraphy medium.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "纸",
+          "py": "Zhǐ",
+          "meaning": "paper"
+        }
+      ]
+    },
+    {
+      "chinese": "砚",
+      "pinyin": "Yàn",
+      "translation": "Inkstone",
+      "usage": "Used to grind ink sticks during calligraphy.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "砚",
+          "py": "Yàn",
+          "meaning": "inkstone"
+        }
+      ]
+    },
+    {
+      "chinese": "结构",
+      "pinyin": "Jiéguān",
+      "translation": "Structure",
+      "usage": "Refers to the composition of characters in calligraphy.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "结",
+          "py": "Jié",
+          "meaning": "arrangement"
+        },
+        {
+          "zh": "构",
+          "py": "Gòu",
+          "meaning": "construction"
+        }
+      ]
+    },
+    {
+      "chinese": "笔画",
+      "pinyin": "Bǐhuà",
+      "translation": "Stroke",
+      "usage": "Individual lines or curves in a character.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "笔",
+          "py": "Bǐ",
+          "meaning": "brush"
+        },
+        {
+          "zh": "画",
+          "py": "Huà",
+          "meaning": "stroke"
+        }
+      ]
+    },
+    {
+      "chinese": "气韵",
+      "pinyin": "Qìyùn",
+      "translation": "Spirit and rhythm",
+      "usage": "Aesthetic quality of harmony and vitality in calligraphy.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "气",
+          "py": "Qì",
+          "meaning": "spirit"
+        }
+      ]
+    }
+  ]
+}

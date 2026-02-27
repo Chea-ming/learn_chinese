@@ -1,0 +1,247 @@
+{
+  "sentences": [
+    {
+      "chinese": "烧纸钱",
+      "pinyin": "Shāo zhǐ qián",
+      "translation": "Burn paper money",
+      "usage": "Traditional practice to provide currency for the deceased in the afterlife.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "烧",
+          "py": "shāo",
+          "meaning": "to burn"
+        },
+        {
+          "zh": "纸钱",
+          "py": "zhǐ qián",
+          "meaning": "paper money"
+        }
+      ]
+    },
+    {
+      "chinese": "穿白色衣服",
+      "pinyin": "Chuān bái sè yī fú",
+      "translation": "Wear white clothing",
+      "usage": "White symbolizes mourning and is worn at funerals.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "穿",
+          "py": "chuān",
+          "meaning": "to wear"
+        },
+        {
+          "zh": "白色",
+          "py": "bái sè",
+          "meaning": "white"
+        },
+        {
+          "zh": "衣服",
+          "py": "yī fú",
+          "meaning": "clothing"
+        }
+      ]
+    },
+    {
+      "chinese": "守灵",
+      "pinyin": "Shǒu líng",
+      "translation": "Keep vigil",
+      "usage": "To stay near the deceased's body before burial.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "守",
+          "py": "shǒu",
+          "meaning": "to guard"
+        },
+        {
+          "zh": "灵",
+          "py": "líng",
+          "meaning": "soul/spirit"
+        }
+      ]
+    },
+    {
+      "chinese": "献花圈",
+      "pinyin": "Xiàn huā quān",
+      "translation": "Offer floral wreaths",
+      "usage": "Placed on caskets as a sign of respect.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "献",
+          "py": "xiàn",
+          "meaning": "to present"
+        },
+        {
+          "zh": "花圈",
+          "py": "huā quān",
+          "meaning": "floral wreath"
+        }
+      ]
+    },
+    {
+      "chinese": "点香",
+      "pinyin": "Diǎn xiāng",
+      "translation": "Light incense",
+      "usage": "Symbolizes prayers and offerings to ancestors.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "点",
+          "py": "diǎn",
+          "meaning": "to light"
+        },
+        {
+          "zh": "香",
+          "py": "xiāng",
+          "meaning": "incense"
+        }
+      ]
+    },
+    {
+      "chinese": "三跪九叩",
+      "pinyin": "Sān guì jiǔ kòu",
+      "translation": "Three kneels and nine bows",
+      "usage": "Traditional ritual to honor the deceased.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "三",
+          "py": "sān",
+          "meaning": "three"
+        },
+        {
+          "zh": "跪",
+          "py": "guì",
+          "meaning": "to kneel"
+        },
+        {
+          "zh": "九",
+          "py": "jiǔ",
+          "meaning": "nine"
+        },
+        {
+          "zh": "叩",
+          "py": "kòu",
+          "meaning": "to bow"
+        }
+      ]
+    },
+    {
+      "chinese": "祭祖",
+      "pinyin": "Jì zǔ",
+      "translation": "Ancestor worship",
+      "usage": "Ceremonies to honor deceased family members.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "祭",
+          "py": "jì",
+          "meaning": "to worship"
+        },
+        {
+          "zh": "祖",
+          "py": "zǔ",
+          "meaning": "ancestors"
+        }
+      ]
+    },
+    {
+      "chinese": "戴孝",
+      "pinyin": "Dài xiào",
+      "translation": "Wear mourning attire",
+      "usage": "Black clothing or head coverings for 49 days.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "戴",
+          "py": "dài",
+          "meaning": "to wear"
+        },
+        {
+          "zh": "孝",
+          "py": "xiào",
+          "meaning": "filial mourning"
+        }
+      ]
+    },
+    {
+      "chinese": "灵堂",
+      "pinyin": "Líng táng",
+      "translation": "Funeral hall",
+      "usage": "Temporary room where the body is displayed.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "灵",
+          "py": "líng",
+          "meaning": "soul"
+        },
+        {
+          "zh": "堂",
+          "py": "táng",
+          "meaning": "hall"
+        }
+      ]
+    },
+    {
+      "chinese": "哭丧",
+      "pinyin": "Kū sàng",
+      "translation": "Funeral wailing",
+      "usage": "Professional mourners express sorrow publicly.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "哭",
+          "py": "kū",
+          "meaning": "to cry"
+        },
+        {
+          "zh": "丧",
+          "py": "sàng",
+          "meaning": "funeral"
+        }
+      ]
+    },
+    {
+      "chinese": "纸扎",
+      "pinyin": "Zhǐ zhā",
+      "translation": "Paper effigies",
+      "usage": "Miniature goods burned for the deceased.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "纸",
+          "py": "zhǐ",
+          "meaning": "paper"
+        },
+        {
+          "zh": "扎",
+          "py": "zhā",
+          "meaning": "to make (effigy)"
+        }
+      ]
+    },
+    {
+      "chinese": "白幡",
+      "pinyin": "Bái fān",
+      "translation": "White banners",
+      "usage": "Hung at funerals to signify mourning.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "白",
+          "py": "bái",
+          "meaning": "white"
+        },
+        {
+          "zh": "幡",
+          "py": "fān",
+          "meaning": "banner"
+        }
+      ]
+    }
+  ]
+}

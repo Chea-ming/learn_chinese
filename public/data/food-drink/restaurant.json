@@ -1,0 +1,804 @@
+{
+  "sentences": [
+    {
+      "chinese": "你好！",
+      "pinyin": "Nǐ hǎo!",
+      "translation": "Hello!",
+      "usage": "The standard, all-purpose greeting. Suitable for almost any situation.",
+      "formality": "Neutral / Informal",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good / well"
+        }
+      ]
+    },
+    {
+      "chinese": "请问，这里可以坐吗？",
+      "pinyin": "Qǐng wèn, zhè lǐ kě yǐ zuò ma?",
+      "translation": "Excuse me, can we sit here?",
+      "usage": "Used when entering a restaurant and wanting to ask if a table is available.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "问",
+          "py": "wèn",
+          "meaning": "ask"
+        },
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "里",
+          "py": "lǐ",
+          "meaning": "here"
+        },
+        {
+          "zh": "可",
+          "py": "kě",
+          "meaning": "can"
+        },
+        {
+          "zh": "以",
+          "py": "yǐ",
+          "meaning": "to be able to"
+        },
+        {
+          "zh": "坐",
+          "py": "zuò",
+          "meaning": "sit"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "我们想点菜。",
+      "pinyin": "Wǒ men xiǎng diǎn cài.",
+      "translation": "We would like to order.",
+      "usage": "Used when ready to place an order with the waiter.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / we"
+        },
+        {
+          "zh": "们",
+          "py": "men",
+          "meaning": "plural marker"
+        },
+        {
+          "zh": "想",
+          "py": "xiǎng",
+          "meaning": "want to"
+        },
+        {
+          "zh": "点",
+          "py": "diǎn",
+          "meaning": "to order"
+        },
+        {
+          "zh": "菜",
+          "py": "cài",
+          "meaning": "dish / food"
+        }
+      ]
+    },
+    {
+      "chinese": "这道菜太辣了。",
+      "pinyin": "Zhè dào cài tài là le.",
+      "translation": "This dish is too spicy.",
+      "usage": "Used when the food is too hot for your taste.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "道",
+          "py": "dào",
+          "meaning": "dish"
+        },
+        {
+          "zh": "菜",
+          "py": "cài",
+          "meaning": "dish / food"
+        },
+        {
+          "zh": "太",
+          "py": "tài",
+          "meaning": "too"
+        },
+        {
+          "zh": "辣",
+          "py": "là",
+          "meaning": "spicy"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completive particle"
+        }
+      ]
+    },
+    {
+      "chinese": "我想要一杯水。",
+      "pinyin": "Wǒ xiǎng yào yī bēi shuǐ.",
+      "translation": "I would like a glass of water.",
+      "usage": "Used when requesting a drink from the waiter.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "想",
+          "py": "xiǎng",
+          "meaning": "want to"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "want to"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "杯",
+          "py": "bēi",
+          "meaning": "cup / glass"
+        },
+        {
+          "zh": "水",
+          "py": "shuǐ",
+          "meaning": "water"
+        }
+      ]
+    },
+    {
+      "chinese": "可以加点醋吗？",
+      "pinyin": "Kě yǐ jiā diǎn cù ma?",
+      "translation": "Can I add some vinegar?",
+      "usage": "Used when you want to adjust the flavor of your dish.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "可",
+          "py": "kě",
+          "meaning": "can"
+        },
+        {
+          "zh": "以",
+          "py": "yǐ",
+          "meaning": "to be able to"
+        },
+        {
+          "zh": "加",
+          "py": "jiā",
+          "meaning": "add"
+        },
+        {
+          "zh": "点",
+          "py": "diǎn",
+          "meaning": "some"
+        },
+        {
+          "zh": "醋",
+          "py": "cù",
+          "meaning": "vinegar"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "这份菜单多少钱？",
+      "pinyin": "Zhè fèn cài dān duō shǎo qián?",
+      "translation": "How much does this menu cost?",
+      "usage": "Used when asking about the price of a dish or meal.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "份",
+          "py": "fèn",
+          "meaning": "piece / portion"
+        },
+        {
+          "zh": "菜",
+          "py": "cài",
+          "meaning": "dish / food"
+        },
+        {
+          "zh": "单",
+          "py": "dān",
+          "meaning": "menu"
+        },
+        {
+          "zh": "多",
+          "py": "duō",
+          "meaning": "how much"
+        },
+        {
+          "zh": "少",
+          "py": "shǎo",
+          "meaning": "few"
+        },
+        {
+          "zh": "钱",
+          "py": "qián",
+          "meaning": "money"
+        }
+      ]
+    },
+    {
+      "chinese": "服务员，请过来一下。",
+      "pinyin": "Fú wù yuán, qǐng guò lái yí xià.",
+      "translation": "Waiter, please come over here.",
+      "usage": "Used when you need to call a waiter to your table.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "服",
+          "py": "fú",
+          "meaning": "serve"
+        },
+        {
+          "zh": "务",
+          "py": "wù",
+          "meaning": "service"
+        },
+        {
+          "zh": "员",
+          "py": "yuán",
+          "meaning": "person"
+        },
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "过",
+          "py": "guò",
+          "meaning": "go over"
+        },
+        {
+          "zh": "来",
+          "py": "lái",
+          "meaning": "come"
+        },
+        {
+          "zh": "一",
+          "py": "yí",
+          "meaning": "one"
+        },
+        {
+          "zh": "下",
+          "py": "xià",
+          "meaning": "a little"
+        }
+      ]
+    },
+    {
+      "chinese": "我们吃完了。",
+      "pinyin": "Wǒ men chī wán le.",
+      "translation": "We have finished eating.",
+      "usage": "Used when you are done with your meal and ready to pay.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / we"
+        },
+        {
+          "zh": "们",
+          "py": "men",
+          "meaning": "plural marker"
+        },
+        {
+          "zh": "吃",
+          "py": "chī",
+          "meaning": "eat"
+        },
+        {
+          "zh": "完",
+          "py": "wán",
+          "meaning": "finish"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed"
+        }
+      ]
+    },
+    {
+      "chinese": "结账，谢谢。",
+      "pinyin": "Jié zhàng, xiè xiè.",
+      "translation": "The check, please. Thank you.",
+      "usage": "Used when you want to pay for your meal and leave.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "结",
+          "py": "jié",
+          "meaning": "settle"
+        },
+        {
+          "zh": "账",
+          "py": "zhàng",
+          "meaning": "account"
+        },
+        {
+          "zh": "谢",
+          "py": "xiè",
+          "meaning": "thank"
+        },
+        {
+          "zh": "谢",
+          "py": "xiè",
+          "meaning": "thanks"
+        }
+      ]
+    },
+    {
+      "chinese": "这道菜很好吃。",
+      "pinyin": "Zhè dào cài hěn hǎo chī.",
+      "translation": "This dish is very delicious.",
+      "usage": "Used when praising a dish you enjoyed.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "道",
+          "py": "dào",
+          "meaning": "dish"
+        },
+        {
+          "zh": "菜",
+          "py": "cài",
+          "meaning": "dish / food"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good"
+        },
+        {
+          "zh": "吃",
+          "py": "chī",
+          "meaning": "eat"
+        }
+      ]
+    },
+    {
+      "chinese": "我们想要一份米饭。",
+      "pinyin": "Wǒ men xiǎng yào yī fèn mǐ fàn.",
+      "translation": "We would like a portion of rice.",
+      "usage": "Used when ordering rice as part of your meal.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / we"
+        },
+        {
+          "zh": "们",
+          "py": "men",
+          "meaning": "plural marker"
+        },
+        {
+          "zh": "想",
+          "py": "xiǎng",
+          "meaning": "want to"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "want to"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "份",
+          "py": "fèn",
+          "meaning": "portion"
+        },
+        {
+          "zh": "米",
+          "py": "mǐ",
+          "meaning": "rice"
+        },
+        {
+          "zh": "饭",
+          "py": "fàn",
+          "meaning": "rice"
+        }
+      ]
+    },
+    {
+      "chinese": "我们点的是这个。",
+      "pinyin": "Wǒ men diǎn de shì zhè ge.",
+      "translation": "What we ordered was this.",
+      "usage": "Used when confirming or clarifying what you ordered.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / we"
+        },
+        {
+          "zh": "们",
+          "py": "men",
+          "meaning": "plural marker"
+        },
+        {
+          "zh": "点",
+          "py": "diǎn",
+          "meaning": "order"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "of"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "is"
+        },
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "个",
+          "py": "ge",
+          "meaning": "this"
+        }
+      ]
+    },
+    {
+      "chinese": "这菜有点咸。",
+      "pinyin": "Zhè cài yǒu diǎn xián.",
+      "translation": "This dish is a bit salty.",
+      "usage": "Used when the food is too salty for your taste.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "菜",
+          "py": "cài",
+          "meaning": "dish / food"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "have"
+        },
+        {
+          "zh": "点",
+          "py": "diǎn",
+          "meaning": "some"
+        },
+        {
+          "zh": "咸",
+          "py": "xián",
+          "meaning": "salty"
+        }
+      ]
+    },
+    {
+      "chinese": "可以再给我们一份吗？",
+      "pinyin": "Kě yǐ zài gěi wǒ men yī fèn ma?",
+      "translation": "Can you give us another portion?",
+      "usage": "Used when you want more of a dish you enjoyed.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "可",
+          "py": "kě",
+          "meaning": "can"
+        },
+        {
+          "zh": "以",
+          "py": "yǐ",
+          "meaning": "to be able to"
+        },
+        {
+          "zh": "再",
+          "py": "zài",
+          "meaning": "again"
+        },
+        {
+          "zh": "给",
+          "py": "gěi",
+          "meaning": "give"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / we"
+        },
+        {
+          "zh": "们",
+          "py": "men",
+          "meaning": "plural marker"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "份",
+          "py": "fèn",
+          "meaning": "portion"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "我们没有问题。",
+      "pinyin": "Wǒ men méi yǒu wèn tí.",
+      "translation": "We have no problems.",
+      "usage": "Used when you are satisfied with your meal and have no complaints.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / we"
+        },
+        {
+          "zh": "们",
+          "py": "men",
+          "meaning": "plural marker"
+        },
+        {
+          "zh": "没",
+          "py": "méi",
+          "meaning": "not"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "have"
+        },
+        {
+          "zh": "问",
+          "py": "wèn",
+          "meaning": "question"
+        },
+        {
+          "zh": "题",
+          "py": "tí",
+          "meaning": "problem"
+        }
+      ]
+    },
+    {
+      "chinese": "你们想要什么？",
+      "pinyin": "Nǐ men xiǎng yào shén me?",
+      "translation": "What would you like?",
+      "usage": "Used when asking someone what they want to order.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "们",
+          "py": "men",
+          "meaning": "plural marker"
+        },
+        {
+          "zh": "想",
+          "py": "xiǎng",
+          "meaning": "want"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "want"
+        },
+        {
+          "zh": "什",
+          "py": "shén",
+          "meaning": "what"
+        },
+        {
+          "zh": "么",
+          "py": "me",
+          "meaning": "something"
+        }
+      ]
+    },
+    {
+      "chinese": "我们吃的是这个。",
+      "pinyin": "Wǒ men chī de shì zhè ge.",
+      "translation": "What we ate was this.",
+      "usage": "Used when confirming or clarifying what you ate.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / we"
+        },
+        {
+          "zh": "们",
+          "py": "men",
+          "meaning": "plural marker"
+        },
+        {
+          "zh": "吃",
+          "py": "chī",
+          "meaning": "eat"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "of"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "is"
+        },
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "个",
+          "py": "ge",
+          "meaning": "this"
+        }
+      ]
+    },
+    {
+      "chinese": "这道菜太辣了。",
+      "pinyin": "Zhè dào cài tài là le.",
+      "translation": "This dish is too spicy.",
+      "usage": "Used when the dish is too spicy for your taste.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "道",
+          "py": "dào",
+          "meaning": "dish"
+        },
+        {
+          "zh": "菜",
+          "py": "cài",
+          "meaning": "dish / food"
+        },
+        {
+          "zh": "太",
+          "py": "tài",
+          "meaning": "too"
+        },
+        {
+          "zh": "辣",
+          "py": "là",
+          "meaning": "spicy"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "too"
+        }
+      ]
+    },
+    {
+      "chinese": "我们想要一杯水。",
+      "pinyin": "Wǒ men xiǎng yào yī bēi shuǐ.",
+      "translation": "We would like a glass of water.",
+      "usage": "Used when ordering water.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / we"
+        },
+        {
+          "zh": "们",
+          "py": "men",
+          "meaning": "plural marker"
+        },
+        {
+          "zh": "想",
+          "py": "xiǎng",
+          "meaning": "want to"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "want to"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "杯",
+          "py": "bēi",
+          "meaning": "cup"
+        },
+        {
+          "zh": "水",
+          "py": "shuǐ",
+          "meaning": "water"
+        }
+      ]
+    }
+  ]
+}

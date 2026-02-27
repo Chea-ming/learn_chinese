@@ -1,0 +1,195 @@
+{
+  "sentences": [
+    {
+      "chinese": "尊敬的招聘经理：",
+      "pinyin": "Jīng zūn de zhuānpīng lǐ cǎn: ",
+      "translation": "Dear Hiring Manager:",
+      "usage": "Formal greeting at the start of a cover letter.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "尊敬的",
+          "py": "jīng zūn de",
+          "meaning": "respected"
+        },
+        {
+          "zh": "招聘",
+          "py": "zhāo pìn",
+          "meaning": "recruitment"
+        },
+        {
+          "zh": "经理",
+          "py": "jīng lǐ",
+          "meaning": "manager"
+        }
+      ]
+    },
+    {
+      "chinese": "感谢您在百忙中阅读我的求职信。",
+      "pinyin": "Gǎnxiè nín zài bǎimáng zhōng yuèdú wǒ de qiūzhí xìn.",
+      "translation": "Thank you for reading my job application letter amidst your busy schedule.",
+      "usage": "Expressing gratitude for consideration.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "感谢",
+          "py": "gǎn xiè",
+          "meaning": "thank"
+        },
+        {
+          "zh": "百忙",
+          "py": "bǎi máng",
+          "meaning": "very busy"
+        },
+        {
+          "zh": "求职信",
+          "py": "qiū zhí xìn",
+          "meaning": "job application letter"
+        }
+      ]
+    },
+    {
+      "chinese": "我对贵公司的[职位名称]一职非常感兴趣。",
+      "pinyin": "Wǒ duì guì gōngsī de [zhíwèi míngchēng] yīzhí fēicháng gǎn xìngqù.",
+      "translation": "I am very interested in the [position name] role at your company.",
+      "usage": "Expressing interest in a specific position.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "贵公司",
+          "py": "guì gōng sī",
+          "meaning": "your company"
+        },
+        {
+          "zh": "职位",
+          "py": "zhí wèi",
+          "meaning": "position"
+        },
+        {
+          "zh": "感兴趣",
+          "py": "gǎn xìng qù",
+          "meaning": "interested"
+        }
+      ]
+    },
+    {
+      "chinese": "我拥有[相关技能或经验]，能够为贵公司带来[具体贡献]。",
+      "pinyin": "Wǒ yōngyǒu [xiāngguān jìnéng huò jīngyàn], nénggòu wèi guì gōngsī dàilái [jùtǐ gòngxiàn].",
+      "translation": "I possess [relevant skills or experience], which can bring [specific contributions] to your company.",
+      "usage": "Highlighting qualifications and value proposition.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "拥有",
+          "py": "yōng yǒu",
+          "meaning": "possess"
+        },
+        {
+          "zh": "技能",
+          "py": "jì néng",
+          "meaning": "skills"
+        },
+        {
+          "zh": "经验",
+          "py": "jīng yàn",
+          "meaning": "experience"
+        }
+      ]
+    },
+    {
+      "chinese": "我毕业于[大学名称]，主修[专业名称]。",
+      "pinyin": "Wǒ bì yè yú [dàxué míngchēng], zhǔxiū [zhuānyè míngchēng].",
+      "translation": "I graduated from [university name], majoring in [major name].",
+      "usage": "Stating educational background.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "毕业",
+          "py": "bì yè",
+          "meaning": "graduate"
+        },
+        {
+          "zh": "主修",
+          "py": "zhǔ xiū",
+          "meaning": "major in"
+        }
+      ]
+    },
+    {
+      "chinese": "在[公司名称]工作期间，我负责[具体职责]。",
+      "pinyin": "Zài [gōngsī míngchēng] gōngzuò qījiān, wǒ fùzé [jùtǐ zérèn].",
+      "translation": "During my time at [company name], I was responsible for [specific duties].",
+      "usage": "Describing work experience.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "负责",
+          "py": "fù zé",
+          "meaning": "responsible for"
+        },
+        {
+          "zh": "职责",
+          "py": "zé rèn",
+          "meaning": "duties"
+        }
+      ]
+    },
+    {
+      "chinese": "我擅长[具体技能]，并具备[资格证书]。",
+      "pinyin": "Wǒ shàncháng [jùtǐ jìnéng], bìng jùbǐ [zīgé zhèngshū].",
+      "translation": "I am skilled in [specific skills] and hold [qualifications/certifications].",
+      "usage": "Highlighting technical skills and certifications.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "擅长",
+          "py": "shàn cháng",
+          "meaning": "excel at"
+        },
+        {
+          "zh": "资格证书",
+          "py": "zī gé zhèng shū",
+          "meaning": "certifications"
+        }
+      ]
+    },
+    {
+      "chinese": "我具备出色的团队合作能力。",
+      "pinyin": "Wǒ jùbǐ chūsè de tuánduì hézuò nénglì.",
+      "translation": "I have excellent teamwork abilities.",
+      "usage": "Emphasizing soft skills.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "团队合作",
+          "py": "tuán duì hé zuò",
+          "meaning": "teamwork"
+        },
+        {
+          "zh": "能力",
+          "py": "néng lì",
+          "meaning": "ability"
+        }
+      ]
+    },
+    {
+      "chinese": "我能够快速适应新环境并解决问题。",
+      "pinyin": "Wǒ nénggòu kuàisù shìyìng xīn huánjìng bìng jiějué wèntí.",
+      "translation": "I can quickly adapt to new environments and solve problems.",
+      "usage": "Demonstrating adaptability.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "适应",
+          "py": "shì yìng",
+          "meaning": "adapt to"
+        },
+        {
+          "zh": "解决问题",
+          "py": "jiě jué wèn tí",
+          "meaning": "solve problems"
+        }
+      ]
+    }
+  ]
+}

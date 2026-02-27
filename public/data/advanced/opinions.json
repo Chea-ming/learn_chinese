@@ -1,0 +1,193 @@
+{
+  "sentences": [
+    {
+      "chinese": "我认为...更有说服力。",
+      "pinyin": "Wǒ rènwéi ... gèng yǒu shuōfú lì.",
+      "translation": "I find ... more convincing.",
+      "usage": "Used to express a nuanced opinion in debate contexts.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "认为",
+          "py": "rènwéi",
+          "meaning": "think/believe"
+        },
+        {
+          "zh": "更",
+          "py": "gèng",
+          "meaning": "more"
+        },
+        {
+          "zh": "有说服力",
+          "py": "yǒu shuōfú lì",
+          "meaning": "convincing"
+        }
+      ]
+    },
+    {
+      "chinese": "从长远来看，...可能带来深远影响。",
+      "pinyin": "Cóng chángyuǎn lái kàn, ... kěnéng dài lái shēn yuǎn yǐngxiǎng.",
+      "translation": "In the long run, ... may have a profound impact.",
+      "usage": "Discusses long-term consequences in debates.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "从",
+          "py": "cóng",
+          "meaning": "from"
+        },
+        {
+          "zh": "长远",
+          "py": "chángyuǎn",
+          "meaning": "long-term"
+        },
+        {
+          "zh": "来看",
+          "py": "lái kàn",
+          "meaning": "to see"
+        },
+        {
+          "zh": "可能",
+          "py": "kěnéng",
+          "meaning": "may"
+        },
+        {
+          "zh": "带来",
+          "py": "dài lái",
+          "meaning": "bring"
+        },
+        {
+          "zh": "深远影响",
+          "py": "shēn yuǎn yǐngxiǎng",
+          "meaning": "profound impact"
+        }
+      ]
+    },
+    {
+      "chinese": "此举可能引发争议。",
+      "pinyin": "Cǐ jǔ kěnéng yǐnfā zhēngyì.",
+      "translation": "This move may provoke controversy.",
+      "usage": "Predicts potential disagreement.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "此举",
+          "py": "cǐ jǔ",
+          "meaning": "this action"
+        },
+        {
+          "zh": "可能",
+          "py": "kěnéng",
+          "meaning": "may"
+        },
+        {
+          "zh": "引发",
+          "py": "yǐnfā",
+          "meaning": "trigger"
+        },
+        {
+          "zh": "争议",
+          "py": "zhēngyì",
+          "meaning": "controversy"
+        }
+      ]
+    },
+    {
+      "chinese": "双方观点存在本质差异。",
+      "pinyin": "Shuāngfāng guāndiǎn cúnzài běnzhì chàyì.",
+      "translation": "There are fundamental differences in both parties' views.",
+      "usage": "Highlights core disagreements in debates.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "双方",
+          "py": "shuāngfāng",
+          "meaning": "both sides"
+        },
+        {
+          "zh": "观点",
+          "py": "guāndiǎn",
+          "meaning": "views"
+        },
+        {
+          "zh": "存在",
+          "py": "cúnzài",
+          "meaning": "exist"
+        },
+        {
+          "zh": "本质",
+          "py": "běnzhì",
+          "meaning": "essential"
+        },
+        {
+          "zh": "差异",
+          "py": "chàyì",
+          "meaning": "differences"
+        }
+      ]
+    },
+    {
+      "chinese": "需要权衡利弊。",
+      "pinyin": "Xūyào quánhéng lìbì.",
+      "translation": "Weighing pros and cons is necessary.",
+      "usage": "Used in balancing arguments.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "需要",
+          "py": "xūyào",
+          "meaning": "need"
+        },
+        {
+          "zh": "权衡",
+          "py": "quánhéng",
+          "meaning": "balance"
+        },
+        {
+          "zh": "利弊",
+          "py": "lìbì",
+          "meaning": "pros and cons"
+        }
+      ]
+    },
+    {
+      "chinese": "逻辑上自洽才是关键。",
+      "pinyin": "Luójí shàng zìqià cái shì guānjiàn.",
+      "translation": "Logical consistency is key.",
+      "usage": "Emphasizes coherent reasoning.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "逻辑",
+          "py": "luójí",
+          "meaning": "logic"
+        },
+        {
+          "zh": "上",
+          "py": "shàng",
+          "meaning": "in terms of"
+        },
+        {
+          "zh": "自洽",
+          "py": "zìqià",
+          "meaning": "self-consistent"
+        },
+        {
+          "zh": "才是",
+          "py": "cái shì",
+          "meaning": "is"
+        },
+        {
+          "zh": "关键",
+          "py": "guānjiàn",
+          "meaning": "key"
+        }
+      ]
+    }
+  ]
+}

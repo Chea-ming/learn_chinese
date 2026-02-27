@@ -1,0 +1,733 @@
+{
+  "sentences": [
+    {
+      "chinese": "今天天气很好。",
+      "pinyin": "Jīntiān tiānqì hěn hǎo.",
+      "translation": "The weather is very good today.",
+      "usage": "Used to describe pleasant weather conditions on a specific day.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "今天",
+          "py": "jīntiān",
+          "meaning": "today"
+        },
+        {
+          "zh": "天气",
+          "py": "tiānqì",
+          "meaning": "weather"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good"
+        }
+      ]
+    },
+    {
+      "chinese": "今天刮风了。",
+      "pinyin": "Jīntiān guāfēng le.",
+      "translation": "It's windy today.",
+      "usage": "Used when describing windy weather conditions.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "今天",
+          "py": "jīntiān",
+          "meaning": "today"
+        },
+        {
+          "zh": "刮风",
+          "py": "guāfēng",
+          "meaning": "to blow (wind)"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed action marker"
+        }
+      ]
+    },
+    {
+      "chinese": "今天下雨了。",
+      "pinyin": "Jīntiān xià yǔ le.",
+      "translation": "It's raining today.",
+      "usage": "Used when describing rainy weather conditions.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "今天",
+          "py": "jīntiān",
+          "meaning": "today"
+        },
+        {
+          "zh": "下",
+          "py": "xià",
+          "meaning": "to fall (rain)"
+        },
+        {
+          "zh": "雨",
+          "py": "yǔ",
+          "meaning": "rain"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed action marker"
+        }
+      ]
+    },
+    {
+      "chinese": "今天很冷。",
+      "pinyin": "Jīntiān hěn lěng.",
+      "translation": "It's very cold today.",
+      "usage": "Used to describe cold weather conditions.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "今天",
+          "py": "jīntiān",
+          "meaning": "today"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "冷",
+          "py": "lěng",
+          "meaning": "cold"
+        }
+      ]
+    },
+    {
+      "chinese": "今天很热。",
+      "pinyin": "Jīntiān hěn rè.",
+      "translation": "It's very hot today.",
+      "usage": "Used to describe hot weather conditions.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "今天",
+          "py": "jīntiān",
+          "meaning": "today"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "热",
+          "py": "rè",
+          "meaning": "hot"
+        }
+      ]
+    },
+    {
+      "chinese": "天气预报说今天会下雨。",
+      "pinyin": "Tiānqì yùbào shuō jīntiān huì xià yǔ.",
+      "translation": "The weather forecast says it will rain today.",
+      "usage": "Used to describe weather predictions from forecasts.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "天气",
+          "py": "tiānqì",
+          "meaning": "weather"
+        },
+        {
+          "zh": "预报",
+          "py": "yùbào",
+          "meaning": "forecast"
+        },
+        {
+          "zh": "说",
+          "py": "shuō",
+          "meaning": "to say"
+        },
+        {
+          "zh": "今天",
+          "py": "jīntiān",
+          "meaning": "today"
+        },
+        {
+          "zh": "会",
+          "py": "huì",
+          "meaning": "will"
+        },
+        {
+          "zh": "下",
+          "py": "xià",
+          "meaning": "to fall (rain)"
+        },
+        {
+          "zh": "雨",
+          "py": "yǔ",
+          "meaning": "rain"
+        }
+      ]
+    },
+    {
+      "chinese": "春天来了。",
+      "pinyin": "Chūntiān lái le.",
+      "translation": "Spring has come.",
+      "usage": "Used to announce the arrival of spring season.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "春天",
+          "py": "chūntiān",
+          "meaning": "spring"
+        },
+        {
+          "zh": "来",
+          "py": "lái",
+          "meaning": "to come"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed action marker"
+        }
+      ]
+    },
+    {
+      "chinese": "秋天到了。",
+      "pinyin": "Qiūtiān dào le.",
+      "translation": "Autumn has arrived.",
+      "usage": "Used to announce the arrival of autumn season.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "秋天",
+          "py": "qiūtiān",
+          "meaning": "autumn"
+        },
+        {
+          "zh": "到",
+          "py": "dào",
+          "meaning": "to arrive"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed action marker"
+        }
+      ]
+    },
+    {
+      "chinese": "冬天很冷。",
+      "pinyin": "Dōngtiān hěn lěng.",
+      "translation": "Winter is very cold.",
+      "usage": "Used to describe cold winter weather conditions.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "冬天",
+          "py": "dōngtiān",
+          "meaning": "winter"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "冷",
+          "py": "lěng",
+          "meaning": "cold"
+        }
+      ]
+    },
+    {
+      "chinese": "夏天很热。",
+      "pinyin": "Xiàtiān hěn rè.",
+      "translation": "Summer is very hot.",
+      "usage": "Used to describe hot summer weather conditions.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "夏天",
+          "py": "xiàtiān",
+          "meaning": "summer"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "热",
+          "py": "rè",
+          "meaning": "hot"
+        }
+      ]
+    },
+    {
+      "chinese": "春天天气暖和。",
+      "pinyin": "Chūntiān tiānqì nuǎnhuo.",
+      "translation": "Spring weather is warm.",
+      "usage": "Used to describe warm weather during spring season.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "春天",
+          "py": "chūntiān",
+          "meaning": "spring"
+        },
+        {
+          "zh": "天气",
+          "py": "tiānqì",
+          "meaning": "weather"
+        },
+        {
+          "zh": "暖和",
+          "py": "nuǎnhuo",
+          "meaning": "warm"
+        }
+      ]
+    },
+    {
+      "chinese": "现在是冬天。",
+      "pinyin": "Xiànzài shì dōngtiān.",
+      "translation": "It is winter now.",
+      "usage": "Used to state the current season.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "现在",
+          "py": "xiànzài",
+          "meaning": "now"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "is"
+        },
+        {
+          "zh": "冬天",
+          "py": "dōngtiān",
+          "meaning": "winter"
+        }
+      ]
+    },
+    {
+      "chinese": "现在是夏天。",
+      "pinyin": "Xiànzài shì xiàtiān.",
+      "translation": "It is summer now.",
+      "usage": "Used to state the current season.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "现在",
+          "py": "xiànzài",
+          "meaning": "now"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "is"
+        },
+        {
+          "zh": "夏天",
+          "py": "xiàtiān",
+          "meaning": "summer"
+        }
+      ]
+    },
+    {
+      "chinese": "现在是春天。",
+      "pinyin": "Xiànzài shì chūntiān.",
+      "translation": "It is spring now.",
+      "usage": "Used to state the current season.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "现在",
+          "py": "xiànzài",
+          "meaning": "now"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "is"
+        },
+        {
+          "zh": "春天",
+          "py": "chūntiān",
+          "meaning": "spring"
+        }
+      ]
+    },
+    {
+      "chinese": "现在是秋天。",
+      "pinyin": "Xiànzài shì qiūtiān.",
+      "translation": "It is autumn now.",
+      "usage": "Used to state the current season.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "现在",
+          "py": "xiànzài",
+          "meaning": "now"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "is"
+        },
+        {
+          "zh": "秋天",
+          "py": "qiūtiān",
+          "meaning": "autumn"
+        }
+      ]
+    },
+    {
+      "chinese": "今年冬天很冷。",
+      "pinyin": "Jīnnián dōngtiān hěn lěng.",
+      "translation": "This winter is very cold.",
+      "usage": "Used to describe cold weather conditions for the current year's winter.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "今年",
+          "py": "jīnnián",
+          "meaning": "this year"
+        },
+        {
+          "zh": "冬天",
+          "py": "dōngtiān",
+          "meaning": "winter"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "冷",
+          "py": "lěng",
+          "meaning": "cold"
+        }
+      ]
+    },
+    {
+      "chinese": "明天天气怎么样？",
+      "pinyin": "Míngtiān tiānqì zěnme yàng?",
+      "translation": "How is the weather tomorrow?",
+      "usage": "Used to ask about weather conditions for the next day.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "明天",
+          "py": "míngtiān",
+          "meaning": "tomorrow"
+        },
+        {
+          "zh": "天气",
+          "py": "tiānqì",
+          "meaning": "weather"
+        },
+        {
+          "zh": "怎么样",
+          "py": "zěnme yàng",
+          "meaning": "how"
+        }
+      ]
+    },
+    {
+      "chinese": "我昨天看到下雨了。",
+      "pinyin": "Wǒ zuótiān kàn dào xià yǔ le.",
+      "translation": "I saw it raining yesterday.",
+      "usage": "Used to describe seeing rain on a specific previous day.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "昨天",
+          "py": "zuótiān",
+          "meaning": "yesterday"
+        },
+        {
+          "zh": "看",
+          "py": "kàn",
+          "meaning": "to see"
+        },
+        {
+          "zh": "到",
+          "py": "dào",
+          "meaning": "to reach"
+        },
+        {
+          "zh": "下",
+          "py": "xià",
+          "meaning": "to fall (rain)"
+        },
+        {
+          "zh": "雨",
+          "py": "yǔ",
+          "meaning": "rain"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed action marker"
+        }
+      ]
+    },
+    {
+      "chinese": "这个季节很美。",
+      "pinyin": "Zhège jìjié hěn měi.",
+      "translation": "This season is very beautiful.",
+      "usage": "Used to describe the beauty of a particular season.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这个",
+          "py": "zhège",
+          "meaning": "this"
+        },
+        {
+          "zh": "季节",
+          "py": "jìjié",
+          "meaning": "season"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "美",
+          "py": "měi",
+          "meaning": "beautiful"
+        }
+      ]
+    },
+    {
+      "chinese": "天气变化很大。",
+      "pinyin": "Tiānqì biànhuà hěn dà.",
+      "translation": "The weather changes a lot.",
+      "usage": "Used to describe significant fluctuations in weather conditions.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "天气",
+          "py": "tiānqì",
+          "meaning": "weather"
+        },
+        {
+          "zh": "变化",
+          "py": "biànhuà",
+          "meaning": "change"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "大",
+          "py": "dà",
+          "meaning": "big"
+        }
+      ]
+    },
+    {
+      "chinese": "天气预报准确吗？",
+      "pinyin": "Tiānqì yùbào zhǔnquè ma?",
+      "translation": "Is the weather forecast accurate?",
+      "usage": "Used to question the accuracy of weather forecasts.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "天气",
+          "py": "tiānqì",
+          "meaning": "weather"
+        },
+        {
+          "zh": "预报",
+          "py": "yùbào",
+          "meaning": "forecast"
+        },
+        {
+          "zh": "准确",
+          "py": "zhǔnquè",
+          "meaning": "accurate"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "我们去公园的时候，天气很晴朗。",
+      "pinyin": "Wǒmen qù gōngyuán de shíhou, tiānqì hěn qínglǎng.",
+      "translation": "When we went to the park, the weather was very clear.",
+      "usage": "Used to describe weather conditions during a specific past event.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我们",
+          "py": "wǒmen",
+          "meaning": "we"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "to go"
+        },
+        {
+          "zh": "公园",
+          "py": "gōngyuán",
+          "meaning": "park"
+        },
+        {
+          "zh": "的时候",
+          "py": "de shíhou",
+          "meaning": "at the time"
+        },
+        {
+          "zh": "天气",
+          "py": "tiānqì",
+          "meaning": "weather"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "晴朗",
+          "py": "qínglǎng",
+          "meaning": "clear"
+        }
+      ]
+    },
+    {
+      "chinese": "今天天气很好。",
+      "pinyin": "Jīntiān tiānqì hěn hǎo.",
+      "translation": "The weather is very good today.",
+      "usage": "Used to describe good weather conditions for the current day.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "今天",
+          "py": "jīntiān",
+          "meaning": "today"
+        },
+        {
+          "zh": "天气",
+          "py": "tiānqì",
+          "meaning": "weather"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good"
+        }
+      ]
+    },
+    {
+      "chinese": "我最喜欢春天。",
+      "pinyin": "Wǒ zuì xǐhuān chūntiān.",
+      "translation": "I like spring best.",
+      "usage": "Used to express a preference for a particular season.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "最",
+          "py": "zuì",
+          "meaning": "most"
+        },
+        {
+          "zh": "喜欢",
+          "py": "xǐhuān",
+          "meaning": "like"
+        },
+        {
+          "zh": "春天",
+          "py": "chūntiān",
+          "meaning": "spring"
+        }
+      ]
+    },
+    {
+      "chinese": "我讨厌冬天。",
+      "pinyin": "Wǒ tǎoyàn dōngtiān.",
+      "translation": "I hate winter.",
+      "usage": "Used to express dislike for a particular season.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "讨厌",
+          "py": "tǎoyàn",
+          "meaning": "hate"
+        },
+        {
+          "zh": "冬天",
+          "py": "dōngtiān",
+          "meaning": "winter"
+        }
+      ]
+    },
+    {
+      "chinese": "这个季节很热。",
+      "pinyin": "Zhège jìjié hěn rè.",
+      "translation": "This season is very hot.",
+      "usage": "Used to describe hot weather conditions for a particular season.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这个",
+          "py": "zhège",
+          "meaning": "this"
+        },
+        {
+          "zh": "季节",
+          "py": "jìjié",
+          "meaning": "season"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "热",
+          "py": "rè",
+          "meaning": "hot"
+        }
+      ]
+    }
+  ]
+}

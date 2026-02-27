@@ -1,0 +1,114 @@
+{
+  "sentences": [
+    {
+      "chinese": "社区中心",
+      "pinyin": "Shèqū zhōngxīn",
+      "translation": "Community Center",
+      "usage": "General term for a community center.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "社区",
+          "py": "shèqū",
+          "meaning": "community"
+        },
+        {
+          "zh": "中心",
+          "py": "zhōngxīn",
+          "meaning": "center"
+        }
+      ]
+    },
+    {
+      "chinese": "社区活动中心",
+      "pinyin": "Shèqū huódòng zhōngxīn",
+      "translation": "Community Activity Center",
+      "usage": "Specifies a center focused on activities.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "社区",
+          "py": "shèqū",
+          "meaning": "community"
+        },
+        {
+          "zh": "活动",
+          "py": "huódòng",
+          "meaning": "activities"
+        },
+        {
+          "zh": "中心",
+          "py": "zhōngxīn",
+          "meaning": "center"
+        }
+      ]
+    },
+    {
+      "chinese": "社区图书馆",
+      "pinyin": "Shèqū túshūguǎn",
+      "translation": "Community Library",
+      "usage": "A library located in a community center.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "社区",
+          "py": "shèqū",
+          "meaning": "community"
+        },
+        {
+          "zh": "图书馆",
+          "py": "túshūguǎn",
+          "meaning": "library"
+        }
+      ]
+    },
+    {
+      "chinese": "社区健身房",
+      "pinyin": "Shèqū jiànshēn fáng",
+      "translation": "Community Gym",
+      "usage": "A gym available for community members.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "社区",
+          "py": "shèqū",
+          "meaning": "community"
+        },
+        {
+          "zh": "健身",
+          "py": "jiànshēn",
+          "meaning": "gym"
+        },
+        {
+          "zh": "房",
+          "py": "fáng",
+          "meaning": "room"
+        }
+      ]
+    },
+    {
+      "chinese": "社区艺术中心",
+      "pinyin": "Shèqū yìshù zhōngxīn",
+      "translation": "Community Art Center",
+      "usage": "A center for art-related activities.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "社区",
+          "py": "shèqū",
+          "meaning": "community"
+        },
+        {
+          "zh": "艺术",
+          "py": "yìshù",
+          "meaning": "art"
+        },
+        {
+          "zh": "中心",
+          "py": "zhōngxīn",
+          "meaning": "center"
+        }
+      ]
+    }
+  ]
+}

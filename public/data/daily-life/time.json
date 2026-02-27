@@ -1,0 +1,760 @@
+{
+  "sentences": [
+    {
+      "chinese": "现在几点了？",
+      "pinyin": "Xiànzài jǐ diǎn le?",
+      "translation": "What time is it now?",
+      "usage": "Asks for the current time in an informal way",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "现在",
+          "py": "xiànzài",
+          "meaning": "now"
+        },
+        {
+          "zh": "几",
+          "py": "jǐ",
+          "meaning": "how many / what"
+        },
+        {
+          "zh": "点",
+          "py": "diǎn",
+          "meaning": "o'clock"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed action marker"
+        }
+      ]
+    },
+    {
+      "chinese": "现在是上午九点。",
+      "pinyin": "Xiànzài shì shàngwǔ jiǔ diǎn.",
+      "translation": "It is nine o'clock in the morning.",
+      "usage": "States the current time in a formal way",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "现在",
+          "py": "xiànzài",
+          "meaning": "now"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "is"
+        },
+        {
+          "zh": "上午",
+          "py": "shàngwǔ",
+          "meaning": "morning"
+        },
+        {
+          "zh": "九",
+          "py": "jiǔ",
+          "meaning": "nine"
+        },
+        {
+          "zh": "点",
+          "py": "diǎn",
+          "meaning": "o'clock"
+        }
+      ]
+    },
+    {
+      "chinese": "几点了？",
+      "pinyin": "Jǐ diǎn le?",
+      "translation": "What time is it?",
+      "usage": "Simple question about current time, very common",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "几",
+          "py": "jǐ",
+          "meaning": "what"
+        },
+        {
+          "zh": "点",
+          "py": "diǎn",
+          "meaning": "o'clock"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed action marker"
+        }
+      ]
+    },
+    {
+      "chinese": "现在是下午三点。",
+      "pinyin": "Xiànzài shì xiàwǔ sān diǎn.",
+      "translation": "It is three o'clock in the afternoon.",
+      "usage": "States afternoon time formally",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "现在",
+          "py": "xiànzài",
+          "meaning": "now"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "is"
+        },
+        {
+          "zh": "下午",
+          "py": "xiàwǔ",
+          "meaning": "afternoon"
+        },
+        {
+          "zh": "三",
+          "py": "sān",
+          "meaning": "three"
+        },
+        {
+          "zh": "点",
+          "py": "diǎn",
+          "meaning": "o'clock"
+        }
+      ]
+    },
+    {
+      "chinese": "现在是晚上八点。",
+      "pinyin": "Xiànzài shì wǎnshàng bā diǎn.",
+      "translation": "It is eight o'clock in the evening.",
+      "usage": "States evening time in a formal way",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "现在",
+          "py": "xiànzài",
+          "meaning": "now"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "is"
+        },
+        {
+          "zh": "晚上",
+          "py": "wǎnshàng",
+          "meaning": "evening"
+        },
+        {
+          "zh": "八",
+          "py": "bā",
+          "meaning": "eight"
+        },
+        {
+          "zh": "点",
+          "py": "diǎn",
+          "meaning": "o'clock"
+        }
+      ]
+    },
+    {
+      "chinese": "几点开始上课？",
+      "pinyin": "Jǐ diǎn kāishǐ shàngkè?",
+      "translation": "What time does class start?",
+      "usage": "Asks about the start time of a class or meeting",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "几",
+          "py": "jǐ",
+          "meaning": "what"
+        },
+        {
+          "zh": "点",
+          "py": "diǎn",
+          "meaning": "o'clock"
+        },
+        {
+          "zh": "开始",
+          "py": "kāishǐ",
+          "meaning": "start"
+        },
+        {
+          "zh": "上课",
+          "py": "shàngkè",
+          "meaning": "go to class"
+        }
+      ]
+    },
+    {
+      "chinese": "我们八点见面。",
+      "pinyin": "Wǒmen bā diǎn jiànmiàn.",
+      "translation": "We meet at eight o'clock.",
+      "usage": "Suggests or confirms a meeting time",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我们",
+          "py": "wǒmen",
+          "meaning": "we"
+        },
+        {
+          "zh": "八",
+          "py": "bā",
+          "meaning": "eight"
+        },
+        {
+          "zh": "点",
+          "py": "diǎn",
+          "meaning": "o'clock"
+        },
+        {
+          "zh": "见面",
+          "py": "jiànmiàn",
+          "meaning": "meet"
+        }
+      ]
+    },
+    {
+      "chinese": "现在是九点半。",
+      "pinyin": "Xiànzài shì jiǔ diǎn bàn.",
+      "translation": "It is half past nine now.",
+      "usage": "States time with half hour",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "现在",
+          "py": "xiànzài",
+          "meaning": "now"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "is"
+        },
+        {
+          "zh": "九",
+          "py": "jiǔ",
+          "meaning": "nine"
+        },
+        {
+          "zh": "点",
+          "py": "diǎn",
+          "meaning": "o'clock"
+        },
+        {
+          "zh": "半",
+          "py": "bàn",
+          "meaning": "half"
+        }
+      ]
+    },
+    {
+      "chinese": "下午三点钟。",
+      "pinyin": "Xiàwǔ sān diǎn zhōng.",
+      "translation": "Three o'clock in the afternoon.",
+      "usage": "Describes afternoon time, more formal than just '三点'",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "下午",
+          "py": "xiàwǔ",
+          "meaning": "afternoon"
+        },
+        {
+          "zh": "三",
+          "py": "sān",
+          "meaning": "three"
+        },
+        {
+          "zh": "点",
+          "py": "diǎn",
+          "meaning": "o'clock"
+        },
+        {
+          "zh": "钟",
+          "py": "zhōng",
+          "meaning": "o'clock (alternative)"
+        }
+      ]
+    },
+    {
+      "chinese": "现在是十一点。",
+      "pinyin": "Xiànzài shì shí yī diǎn.",
+      "translation": "It is eleven o'clock now.",
+      "usage": "States exact time in formal way",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "现在",
+          "py": "xiànzài",
+          "meaning": "now"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "is"
+        },
+        {
+          "zh": "十",
+          "py": "shí",
+          "meaning": "ten"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "点",
+          "py": "diǎn",
+          "meaning": "o'clock"
+        }
+      ]
+    },
+    {
+      "chinese": "你几点起床？",
+      "pinyin": "Nǐ jǐ diǎn qǐchuáng?",
+      "translation": "What time do you get up?",
+      "usage": "Asks about someone's personal morning routine",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "几",
+          "py": "jǐ",
+          "meaning": "what"
+        },
+        {
+          "zh": "点",
+          "py": "diǎn",
+          "meaning": "o'clock"
+        },
+        {
+          "zh": "起床",
+          "py": "qǐchuáng",
+          "meaning": "get up"
+        }
+      ]
+    },
+    {
+      "chinese": "我们十点半开始开会。",
+      "pinyin": "Wǒmen shí diǎn bàn kāishǐ kāihuì.",
+      "translation": "We start the meeting at half past ten.",
+      "usage": "States meeting start time with half hour",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我们",
+          "py": "wǒmen",
+          "meaning": "we"
+        },
+        {
+          "zh": "十",
+          "py": "shí",
+          "meaning": "ten"
+        },
+        {
+          "zh": "点",
+          "py": "diǎn",
+          "meaning": "o'clock"
+        },
+        {
+          "zh": "半",
+          "py": "bàn",
+          "meaning": "half"
+        },
+        {
+          "zh": "开始",
+          "py": "kāishǐ",
+          "meaning": "start"
+        },
+        {
+          "zh": "开会",
+          "py": "kāihuì",
+          "meaning": "hold a meeting"
+        }
+      ]
+    },
+    {
+      "chinese": "几点上课？",
+      "pinyin": "Jǐ diǎn shàngkè?",
+      "translation": "What time is class?",
+      "usage": "Asks about class time in a casual way",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "几",
+          "py": "jǐ",
+          "meaning": "what"
+        },
+        {
+          "zh": "点",
+          "py": "diǎn",
+          "meaning": "o'clock"
+        },
+        {
+          "zh": "上课",
+          "py": "shàngkè",
+          "meaning": "go to class"
+        }
+      ]
+    },
+    {
+      "chinese": "现在是十二点。",
+      "pinyin": "Xiànzài shì shí èr diǎn.",
+      "translation": "It is twelve o'clock now.",
+      "usage": "States exact noon time",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "现在",
+          "py": "xiànzài",
+          "meaning": "now"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "is"
+        },
+        {
+          "zh": "十",
+          "py": "shí",
+          "meaning": "ten"
+        },
+        {
+          "zh": "二",
+          "py": "èr",
+          "meaning": "two"
+        },
+        {
+          "zh": "点",
+          "py": "diǎn",
+          "meaning": "o'clock"
+        }
+      ]
+    },
+    {
+      "chinese": "下午三点钟开始。",
+      "pinyin": "Xiàwǔ sān diǎn zhōng kāishǐ.",
+      "translation": "It starts at three o'clock in the afternoon.",
+      "usage": "Describes when something starts, formal",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "下午",
+          "py": "xiàwǔ",
+          "meaning": "afternoon"
+        },
+        {
+          "zh": "三",
+          "py": "sān",
+          "meaning": "three"
+        },
+        {
+          "zh": "点",
+          "py": "diǎn",
+          "meaning": "o'clock"
+        },
+        {
+          "zh": "钟",
+          "py": "zhōng",
+          "meaning": "o'clock (alternative)"
+        },
+        {
+          "zh": "开始",
+          "py": "kāishǐ",
+          "meaning": "start"
+        }
+      ]
+    },
+    {
+      "chinese": "几点了？我该走了。",
+      "pinyin": "Jǐ diǎn le? Wǒ gāi zǒu le.",
+      "translation": "What time is it? I should go now.",
+      "usage": "Expresses urgency to leave based on time",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "几",
+          "py": "jǐ",
+          "meaning": "what"
+        },
+        {
+          "zh": "点",
+          "py": "diǎn",
+          "meaning": "o'clock"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed action marker"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "该",
+          "py": "gāi",
+          "meaning": "should"
+        },
+        {
+          "zh": "走",
+          "py": "zǒu",
+          "meaning": "go"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed action marker"
+        }
+      ]
+    },
+    {
+      "chinese": "现在是下午四点。",
+      "pinyin": "Xiànzài shì xiàwǔ sì diǎn.",
+      "translation": "It is four o'clock in the afternoon.",
+      "usage": "States afternoon time in formal way",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "现在",
+          "py": "xiànzài",
+          "meaning": "now"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "is"
+        },
+        {
+          "zh": "下午",
+          "py": "xiàwǔ",
+          "meaning": "afternoon"
+        },
+        {
+          "zh": "四",
+          "py": "sì",
+          "meaning": "four"
+        },
+        {
+          "zh": "点",
+          "py": "diǎn",
+          "meaning": "o'clock"
+        }
+      ]
+    },
+    {
+      "chinese": "我们十点出发。",
+      "pinyin": "Wǒmen shí diǎn chūfā.",
+      "translation": "We leave at ten o'clock.",
+      "usage": "States departure time for travel",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我们",
+          "py": "wǒmen",
+          "meaning": "we"
+        },
+        {
+          "zh": "十",
+          "py": "shí",
+          "meaning": "ten"
+        },
+        {
+          "zh": "点",
+          "py": "diǎn",
+          "meaning": "o'clock"
+        },
+        {
+          "zh": "出发",
+          "py": "chūfā",
+          "meaning": "set off"
+        }
+      ]
+    },
+    {
+      "chinese": "几点开始？",
+      "pinyin": "Jǐ diǎn kāishǐ?",
+      "translation": "What time does it start?",
+      "usage": "Asks about start time of an event",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "几",
+          "py": "jǐ",
+          "meaning": "what"
+        },
+        {
+          "zh": "点",
+          "py": "diǎn",
+          "meaning": "o'clock"
+        },
+        {
+          "zh": "开始",
+          "py": "kāishǐ",
+          "meaning": "start"
+        }
+      ]
+    },
+    {
+      "chinese": "现在是早上七点。",
+      "pinyin": "Xiànzài shì zǎoshang qī diǎn.",
+      "translation": "It is seven o'clock in the morning.",
+      "usage": "States morning time in formal way",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "现在",
+          "py": "xiànzài",
+          "meaning": "now"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "is"
+        },
+        {
+          "zh": "早上",
+          "py": "zǎoshang",
+          "meaning": "morning"
+        },
+        {
+          "zh": "七",
+          "py": "qī",
+          "meaning": "seven"
+        },
+        {
+          "zh": "点",
+          "py": "diǎn",
+          "meaning": "o'clock"
+        }
+      ]
+    },
+    {
+      "chinese": "几点起床？",
+      "pinyin": "Jǐ diǎn qǐchuáng?",
+      "translation": "What time do you get up?",
+      "usage": "Asks about someone's morning routine",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "几",
+          "py": "jǐ",
+          "meaning": "what"
+        },
+        {
+          "zh": "点",
+          "py": "diǎn",
+          "meaning": "o'clock"
+        },
+        {
+          "zh": "起床",
+          "py": "qǐchuáng",
+          "meaning": "get up"
+        }
+      ]
+    },
+    {
+      "chinese": "现在是晚上八点。",
+      "pinyin": "Xiànzài shì wǎnshàng bā diǎn.",
+      "translation": "It is eight o'clock in the evening.",
+      "usage": "States evening time in formal way",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "现在",
+          "py": "xiànzài",
+          "meaning": "now"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "is"
+        },
+        {
+          "zh": "晚上",
+          "py": "wǎnshàng",
+          "meaning": "evening"
+        },
+        {
+          "zh": "八",
+          "py": "bā",
+          "meaning": "eight"
+        },
+        {
+          "zh": "点",
+          "py": "diǎn",
+          "meaning": "o'clock"
+        }
+      ]
+    },
+    {
+      "chinese": "几点开始工作？",
+      "pinyin": "Jǐ diǎn kāishǐ gōngzuò?",
+      "translation": "What time do you start working?",
+      "usage": "Asks about work start time",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "几",
+          "py": "jǐ",
+          "meaning": "what"
+        },
+        {
+          "zh": "点",
+          "py": "diǎn",
+          "meaning": "o'clock"
+        },
+        {
+          "zh": "开始",
+          "py": "kāishǐ",
+          "meaning": "start"
+        },
+        {
+          "zh": "工作",
+          "py": "gōngzuò",
+          "meaning": "work"
+        }
+      ]
+    },
+    {
+      "chinese": "我们下午三点开始。",
+      "pinyin": "Wǒmen xiàwǔ sān diǎn kāishǐ.",
+      "translation": "We start at three o'clock in the afternoon.",
+      "usage": "States start time of event in afternoon",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我们",
+          "py": "wǒmen",
+          "meaning": "we"
+        },
+        {
+          "zh": "下午",
+          "py": "xiàwǔ",
+          "meaning": "afternoon"
+        },
+        {
+          "zh": "三",
+          "py": "sān",
+          "meaning": "three"
+        },
+        {
+          "zh": "点",
+          "py": "diǎn",
+          "meaning": "o'clock"
+        },
+        {
+          "zh": "开始",
+          "py": "kāishǐ",
+          "meaning": "start"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "sentences": [
+    {
+      "chinese": "电影",
+      "pinyin": "Diànyǐng",
+      "translation": "Movie",
+      "usage": "General term for a film.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "电",
+          "py": "Diàn",
+          "meaning": "Electricity"
+        },
+        {
+          "zh": "影",
+          "py": "Yǐng",
+          "meaning": "Shadow/image"
+        }
+      ]
+    },
+    {
+      "chinese": "电视剧",
+      "pinyin": "Diànshìjù",
+      "translation": "TV series",
+      "usage": "Refers to television dramas.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "电",
+          "py": "Diàn",
+          "meaning": "Electricity"
+        },
+        {
+          "zh": "视",
+          "py": "Shì",
+          "meaning": "Watch"
+        },
+        {
+          "zh": "剧",
+          "py": "Jù",
+          "meaning": "Play"
+        }
+      ]
+    },
+    {
+      "chinese": "我想看电影",
+      "pinyin": "Wǒ xiǎng kàn diànyǐng",
+      "translation": "I want to watch a movie.",
+      "usage": "Expressing the desire to watch a film.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "Wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "想",
+          "py": "Xiǎng",
+          "meaning": "Want"
+        },
+        {
+          "zh": "看",
+          "py": "Kàn",
+          "meaning": "Watch"
+        },
+        {
+          "zh": "电影",
+          "py": "Diànyǐng",
+          "meaning": "Movie"
+        }
+      ]
+    },
+    {
+      "chinese": "恐怖电影",
+      "pinyin": "Kǒngbù diànyǐng",
+      "translation": "Horror movie",
+      "usage": "Describes a scary genre film.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "恐",
+          "py": "Kǒng",
+          "meaning": "Fear"
+        },
+        {
+          "zh": "怖",
+          "py": "Bù",
+          "meaning": "Terror"
+        },
+        {
+          "zh": "电影",
+          "py": "Diànyǐng",
+          "meaning": "Movie"
+        }
+      ]
+    },
+    {
+      "chinese": "经典电影",
+      "pinyin": "Jīngdiǎn diànyǐng",
+      "translation": "Classic movie",
+      "usage": "Used for well-regarded films.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "经",
+          "py": "Jīng",
+          "meaning": "Classic"
+        },
+        {
+          "zh": "典",
+          "py": "Diǎn",
+          "meaning": "Standard"
+        },
+        {
+          "zh": "电影",
+          "py": "Diànyǐng",
+          "meaning": "Movie"
+        }
+      ]
+    },
+    {
+      "chinese": "我最近看了部好电影",
+      "pinyin": "Wǒ zuìjìn kàn le bù hǎo diànyǐng",
+      "translation": "I recently watched a good movie.",
+      "usage": "Sharing a recent film experience.",
+      "formality": "Casual",
+      "words": [
+        {
+          "zh": "我",
+          "py": "Wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "最近",
+          "py": "Zuìjìn",
+          "meaning": "Recently"
+        },
+        {
+          "zh": "看",
+          "py": "Kàn",
+          "meaning": "Watch"
+        },
+        {
+          "zh": "了",
+          "py": "Le",
+          "meaning": "Completed action"
+        },
+        {
+          "zh": "部",
+          "py": "Bù",
+          "meaning": "Classifier for films"
+        },
+        {
+          "zh": "好",
+          "py": "Hǎo",
+          "meaning": "Good"
+        },
+        {
+          "zh": "电影",
+          "py": "Diànyǐng",
+          "meaning": "Movie"
+        }
+      ]
+    },
+    {
+      "chinese": "这部剧很火",
+      "pinyin": "Zhè bù jù hěn huǒ",
+      "translation": "This series is very popular.",
+      "usage": "Discussing trending TV shows.",
+      "formality": "Casual",
+      "words": [
+        {
+          "zh": "这",
+          "py": "Zhè",
+          "meaning": "This"
+        },
+        {
+          "zh": "部",
+          "py": "Bù",
+          "meaning": "Classifier for series"
+        }
+      ]
+    }
+  ]
+}

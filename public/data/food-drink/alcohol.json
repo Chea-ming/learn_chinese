@@ -1,0 +1,834 @@
+{
+  "sentences": [
+    {
+      "chinese": "干杯！",
+      "pinyin": "Gān bēi!",
+      "translation": "Cheers!",
+      "usage": "Used when toasting with alcohol, equivalent to 'cheers' in English.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "干",
+          "py": "gān",
+          "meaning": "to drink (up)"
+        },
+        {
+          "zh": "杯",
+          "py": "bēi",
+          "meaning": "cup"
+        }
+      ]
+    },
+    {
+      "chinese": "来，大家一起干一杯！",
+      "pinyin": "Lái, yī qǐ dà jiā gān yī bēi!",
+      "translation": "Come on, everyone drink a cup together!",
+      "usage": "Used to encourage a group to toast together.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "来",
+          "py": "lái",
+          "meaning": "come"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "起",
+          "py": "qǐ",
+          "meaning": "together"
+        },
+        {
+          "zh": "大",
+          "py": "dà",
+          "meaning": "big / all"
+        },
+        {
+          "zh": "家",
+          "py": "jiā",
+          "meaning": "family / everyone"
+        },
+        {
+          "zh": "干",
+          "py": "gān",
+          "meaning": "to drink (up)"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "杯",
+          "py": "bēi",
+          "meaning": "cup"
+        }
+      ]
+    },
+    {
+      "chinese": "祝你身体健康！",
+      "pinyin": "Zhù nǐ shēn tǐ jiàn kāng!",
+      "translation": "Wishing you good health!",
+      "usage": "Common toast to express good health wishes.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "祝",
+          "py": "zhù",
+          "meaning": "to wish"
+        },
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "身",
+          "py": "shēn",
+          "meaning": "body"
+        },
+        {
+          "zh": "体",
+          "py": "tǐ",
+          "meaning": "body"
+        },
+        {
+          "zh": "健",
+          "py": "jiàn",
+          "meaning": "healthy"
+        },
+        {
+          "zh": "康",
+          "py": "kāng",
+          "meaning": "health"
+        }
+      ]
+    },
+    {
+      "chinese": "为友谊干杯！",
+      "pinyin": "Wèi yǒu yì gān bēi!",
+      "translation": "Cheers to friendship!",
+      "usage": "Used specifically to toast friendship or camaraderie.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "为",
+          "py": "wèi",
+          "meaning": "for / to"
+        },
+        {
+          "zh": "友",
+          "py": "yǒu",
+          "meaning": "friend"
+        },
+        {
+          "zh": "谊",
+          "py": "yì",
+          "meaning": "friendship"
+        },
+        {
+          "zh": "干",
+          "py": "gān",
+          "meaning": "to drink (up)"
+        },
+        {
+          "zh": "杯",
+          "py": "bēi",
+          "meaning": "cup"
+        }
+      ]
+    },
+    {
+      "chinese": "请慢用！",
+      "pinyin": "Qǐng màn yòng!",
+      "translation": "Please help yourself!",
+      "usage": "Used when offering drinks to others, indicating they should enjoy them.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "慢",
+          "py": "màn",
+          "meaning": "slowly / take your time"
+        },
+        {
+          "zh": "用",
+          "py": "yòng",
+          "meaning": "to use / to enjoy"
+        }
+      ]
+    },
+    {
+      "chinese": "喝酒要适量，不要过量。",
+      "pinyin": "Hē jiǔ yào shì liàng, bù yào guò liàng.",
+      "translation": "Drink alcohol in moderation, don't overdo it.",
+      "usage": "Used as a health warning about drinking.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "喝",
+          "py": "hē",
+          "meaning": "to drink"
+        },
+        {
+          "zh": "酒",
+          "py": "jiǔ",
+          "meaning": "alcohol"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "should"
+        },
+        {
+          "zh": "适",
+          "py": "shì",
+          "meaning": "appropriate"
+        },
+        {
+          "zh": "量",
+          "py": "liàng",
+          "meaning": "amount"
+        },
+        {
+          "zh": "不",
+          "py": "bù",
+          "meaning": "not"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "should"
+        },
+        {
+          "zh": "过",
+          "py": "guò",
+          "meaning": "excessive"
+        },
+        {
+          "zh": "量",
+          "py": "liàng",
+          "meaning": "amount"
+        }
+      ]
+    },
+    {
+      "chinese": "祝你升职加薪！",
+      "pinyin": "Zhù nǐ shēng zhí jiā xīn!",
+      "translation": "Wishing you promotion and raise!",
+      "usage": "Used to toast someone's career success.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "祝",
+          "py": "zhù",
+          "meaning": "to wish"
+        },
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "升",
+          "py": "shēng",
+          "meaning": "to rise"
+        },
+        {
+          "zh": "职",
+          "py": "zhí",
+          "meaning": "position"
+        },
+        {
+          "zh": "加",
+          "py": "jiā",
+          "meaning": "to add"
+        },
+        {
+          "zh": "薪",
+          "py": "xīn",
+          "meaning": "salary"
+        }
+      ]
+    },
+    {
+      "chinese": "来，我们敬你一杯！",
+      "pinyin": "Lái, wǒ men jìng nǐ yī bēi!",
+      "translation": "Come on, we toast you with one cup!",
+      "usage": "Used when giving a specific toast to someone.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "来",
+          "py": "lái",
+          "meaning": "come"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / we"
+        },
+        {
+          "zh": "们",
+          "py": "men",
+          "meaning": "plural marker"
+        },
+        {
+          "zh": "敬",
+          "py": "jìng",
+          "meaning": "to toast"
+        },
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "杯",
+          "py": "bēi",
+          "meaning": "cup"
+        }
+      ]
+    },
+    {
+      "chinese": "干了这杯，我们继续！",
+      "pinyin": "Gān le zhè bēi, wǒ men jì xù!",
+      "translation": "Drink this cup, let's continue!",
+      "usage": "Used to encourage someone to finish their drink and continue the celebration.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "干",
+          "py": "gān",
+          "meaning": "to drink (up)"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed"
+        },
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "杯",
+          "py": "bēi",
+          "meaning": "cup"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / we"
+        },
+        {
+          "zh": "们",
+          "py": "men",
+          "meaning": "plural marker"
+        },
+        {
+          "zh": "继",
+          "py": "jì",
+          "meaning": "continue"
+        },
+        {
+          "zh": "续",
+          "py": "xù",
+          "meaning": "continue"
+        }
+      ]
+    },
+    {
+      "chinese": "为成功干杯！",
+      "pinyin": "Wèi chéng gōng gān bēi!",
+      "translation": "Cheers to success!",
+      "usage": "Used to toast someone's achievements or success.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "为",
+          "py": "wèi",
+          "meaning": "for / to"
+        },
+        {
+          "zh": "成",
+          "py": "chéng",
+          "meaning": "to succeed"
+        },
+        {
+          "zh": "功",
+          "py": "gōng",
+          "meaning": "success"
+        },
+        {
+          "zh": "干",
+          "py": "gān",
+          "meaning": "to drink (up)"
+        },
+        {
+          "zh": "杯",
+          "py": "bēi",
+          "meaning": "cup"
+        }
+      ]
+    },
+    {
+      "chinese": "请用茶，不喝酒。",
+      "pinyin": "Qǐng yòng chá, bù hē jiǔ.",
+      "translation": "Please have tea, not alcohol.",
+      "usage": "Used when offering non-alcoholic drinks to those who don't drink.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "用",
+          "py": "yòng",
+          "meaning": "to use / to have"
+        },
+        {
+          "zh": "茶",
+          "py": "chá",
+          "meaning": "tea"
+        },
+        {
+          "zh": "不",
+          "py": "bù",
+          "meaning": "not"
+        },
+        {
+          "zh": "喝",
+          "py": "hē",
+          "meaning": "to drink"
+        },
+        {
+          "zh": "酒",
+          "py": "jiǔ",
+          "meaning": "alcohol"
+        }
+      ]
+    },
+    {
+      "chinese": "我们祝你新年快乐！",
+      "pinyin": "Wǒ men zhù nǐ xīn nián kuài lè!",
+      "translation": "We wish you a happy new year!",
+      "usage": "Used during New Year celebrations to toast someone's happiness.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / we"
+        },
+        {
+          "zh": "们",
+          "py": "men",
+          "meaning": "plural marker"
+        },
+        {
+          "zh": "祝",
+          "py": "zhù",
+          "meaning": "to wish"
+        },
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "新",
+          "py": "xīn",
+          "meaning": "new"
+        },
+        {
+          "zh": "年",
+          "py": "nián",
+          "meaning": "year"
+        },
+        {
+          "zh": "快",
+          "py": "kuài",
+          "meaning": "happy"
+        },
+        {
+          "zh": "乐",
+          "py": "lè",
+          "meaning": "joy"
+        }
+      ]
+    },
+    {
+      "chinese": "来，敬大家一杯！",
+      "pinyin": "Lái, jìng dà jiā yī bēi!",
+      "translation": "Come on, toast everyone with one cup!",
+      "usage": "Used when making a general toast to a group.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "来",
+          "py": "lái",
+          "meaning": "come"
+        },
+        {
+          "zh": "敬",
+          "py": "jìng",
+          "meaning": "to toast"
+        },
+        {
+          "zh": "大",
+          "py": "dà",
+          "meaning": "big / all"
+        },
+        {
+          "zh": "家",
+          "py": "jiā",
+          "meaning": "family / everyone"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "杯",
+          "py": "bēi",
+          "meaning": "cup"
+        }
+      ]
+    },
+    {
+      "chinese": "祝你心想事成！",
+      "pinyin": "Zhù nǐ xīn xiǎng shì chéng!",
+      "translation": "Wishing your heart's desires come true!",
+      "usage": "Used to wish someone good fortune and fulfillment of their wishes.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "祝",
+          "py": "zhù",
+          "meaning": "to wish"
+        },
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "心",
+          "py": "xīn",
+          "meaning": "heart / mind"
+        },
+        {
+          "zh": "想",
+          "py": "xiǎng",
+          "meaning": "to think"
+        },
+        {
+          "zh": "事",
+          "py": "shì",
+          "meaning": "matter / thing"
+        },
+        {
+          "zh": "成",
+          "py": "chéng",
+          "meaning": "to succeed"
+        }
+      ]
+    },
+    {
+      "chinese": "干杯，为我们的友谊！",
+      "pinyin": "Gān bēi, wèi wǒ men de yǒu yì!",
+      "translation": "Cheers, to our friendship!",
+      "usage": "Used to toast friendship with emphasis on the relationship.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "干",
+          "py": "gān",
+          "meaning": "to drink (up)"
+        },
+        {
+          "zh": "杯",
+          "py": "bēi",
+          "meaning": "cup"
+        },
+        {
+          "zh": "为",
+          "py": "wèi",
+          "meaning": "for / to"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / we"
+        },
+        {
+          "zh": "们",
+          "py": "men",
+          "meaning": "plural marker"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive marker"
+        },
+        {
+          "zh": "友",
+          "py": "yǒu",
+          "meaning": "friend"
+        },
+        {
+          "zh": "谊",
+          "py": "yì",
+          "meaning": "friendship"
+        }
+      ]
+    },
+    {
+      "chinese": "我敬你一杯，祝你幸福！",
+      "pinyin": "Wǒ jìng nǐ yī bēi, zhù nǐ xìng fú!",
+      "translation": "I toast you with one cup, wishing you happiness!",
+      "usage": "Used when making a personal toast to someone with a wish for their happiness.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "敬",
+          "py": "jìng",
+          "meaning": "to toast"
+        },
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "杯",
+          "py": "bēi",
+          "meaning": "cup"
+        },
+        {
+          "zh": "祝",
+          "py": "zhù",
+          "meaning": "to wish"
+        },
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "幸",
+          "py": "xìng",
+          "meaning": "happy"
+        },
+        {
+          "zh": "福",
+          "py": "fú",
+          "meaning": "fortune"
+        }
+      ]
+    },
+    {
+      "chinese": "祝你万事如意！",
+      "pinyin": "Zhù nǐ wàn shì rú yì!",
+      "translation": "Wishing you everything goes smoothly!",
+      "usage": "Used to wish someone good luck in all their endeavors.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "祝",
+          "py": "zhù",
+          "meaning": "to wish"
+        },
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "万",
+          "py": "wàn",
+          "meaning": "ten thousand"
+        },
+        {
+          "zh": "事",
+          "py": "shì",
+          "meaning": "matter / thing"
+        },
+        {
+          "zh": "如",
+          "py": "rú",
+          "meaning": "as"
+        },
+        {
+          "zh": "意",
+          "py": "yì",
+          "meaning": "intention"
+        }
+      ]
+    },
+    {
+      "chinese": "干杯，为我们的未来！",
+      "pinyin": "Gān bēi, wèi wǒ men de wèi lái!",
+      "translation": "Cheers, to our future!",
+      "usage": "Used to toast someone's future prospects and aspirations.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "干",
+          "py": "gān",
+          "meaning": "to drink (up)"
+        },
+        {
+          "zh": "杯",
+          "py": "bēi",
+          "meaning": "cup"
+        },
+        {
+          "zh": "为",
+          "py": "wèi",
+          "meaning": "for / to"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / we"
+        },
+        {
+          "zh": "们",
+          "py": "men",
+          "meaning": "plural marker"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive marker"
+        },
+        {
+          "zh": "未",
+          "py": "wèi",
+          "meaning": "future"
+        },
+        {
+          "zh": "来",
+          "py": "lái",
+          "meaning": "come"
+        }
+      ]
+    },
+    {
+      "chinese": "来，让我们一起干杯！",
+      "pinyin": "Lái, ràng wǒ men yī qǐ gān bēi!",
+      "translation": "Come on, let us all toast together!",
+      "usage": "Used to encourage a group to raise their glasses in unison.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "来",
+          "py": "lái",
+          "meaning": "come"
+        },
+        {
+          "zh": "让",
+          "py": "ràng",
+          "meaning": "to let"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / we"
+        },
+        {
+          "zh": "们",
+          "py": "men",
+          "meaning": "plural marker"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "起",
+          "py": "qǐ",
+          "meaning": "together"
+        },
+        {
+          "zh": "干",
+          "py": "gān",
+          "meaning": "to drink (up)"
+        },
+        {
+          "zh": "杯",
+          "py": "bēi",
+          "meaning": "cup"
+        }
+      ]
+    },
+    {
+      "chinese": "祝你身体健康！",
+      "pinyin": "Zhù nǐ shēn tǐ jiàn kāng!",
+      "translation": "Wishing you good health!",
+      "usage": "Used to wish someone good health and wellness.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "祝",
+          "py": "zhù",
+          "meaning": "to wish"
+        },
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "身",
+          "py": "shēn",
+          "meaning": "body"
+        },
+        {
+          "zh": "体",
+          "py": "tǐ",
+          "meaning": "body"
+        },
+        {
+          "zh": "健",
+          "py": "jiàn",
+          "meaning": "healthy"
+        },
+        {
+          "zh": "康",
+          "py": "kāng",
+          "meaning": "health"
+        }
+      ]
+    }
+  ]
+}

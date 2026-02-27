@@ -1,0 +1,281 @@
+{
+  "sentences": [
+    {
+      "chinese": "平板电脑",
+      "pinyin": "Píng bǎn diàn nǎo",
+      "translation": "Tablet computer",
+      "usage": "指介于手机和笔记本之间的便携设备",
+      "words": [
+        {
+          "zh": "平板",
+          "py": "Píng bǎn",
+          "meaning": "tablet"
+        },
+        {
+          "zh": "电脑",
+          "py": "diàn nǎo",
+          "meaning": "computer"
+        }
+      ]
+    },
+    {
+      "chinese": "无线耳机",
+      "pinyin": "Wú xiàn ěr jī",
+      "translation": "Wireless earphones",
+      "usage": "指通过蓝牙连接的便携式音频设备",
+      "words": [
+        {
+          "zh": "无线",
+          "py": "Wú xiàn",
+          "meaning": "wireless"
+        },
+        {
+          "zh": "耳机",
+          "py": "ěr jī",
+          "meaning": "earphones"
+        }
+      ]
+    },
+    {
+      "chinese": "智能手表",
+      "pinyin": "Zhì néng shǒu biǎo",
+      "translation": "Smartwatch",
+      "usage": "指具有通话和健康监测功能的腕表",
+      "words": [
+        {
+          "zh": "智能",
+          "py": "Zhì néng",
+          "meaning": "smart"
+        },
+        {
+          "zh": "手表",
+          "py": "shǒu biǎo",
+          "meaning": "wristwatch"
+        }
+      ]
+    },
+    {
+      "chinese": "虚拟现实眼镜",
+      "pinyin": "Xūn xī shí xiàn yǎn jīng",
+      "translation": "Virtual reality glasses",
+      "usage": "指沉浸式显示设备",
+      "words": [
+        {
+          "zh": "虚拟",
+          "py": "Xūn xī",
+          "meaning": "virtual"
+        },
+        {
+          "zh": "现实",
+          "py": "shí xiàn",
+          "meaning": "reality"
+        },
+        {
+          "zh": "眼镜",
+          "py": "yǎn jīng",
+          "meaning": "glasses"
+        }
+      ]
+    },
+    {
+      "chinese": "生物识别技术",
+      "pinyin": "Shēng wù shí biàn jì shù",
+      "translation": "Biometric technology",
+      "usage": "指指纹或虹膜识别技术",
+      "words": [
+        {
+          "zh": "生物",
+          "py": "Shēng wù",
+          "meaning": "biological"
+        },
+        {
+          "zh": "识别",
+          "py": "shí biàn",
+          "meaning": "recognition"
+        },
+        {
+          "zh": "技术",
+          "py": "jì shù",
+          "meaning": "technology"
+        }
+      ]
+    },
+    {
+      "chinese": "可穿戴设备",
+      "pinyin": "Kě yī chuān zài shè bèi",
+      "translation": "Wearable devices",
+      "usage": "指智能手环等便携设备",
+      "words": [
+        {
+          "zh": "可穿戴",
+          "py": "Kě yī chuān zài",
+          "meaning": "wearable"
+        },
+        {
+          "zh": "设备",
+          "py": "shè bèi",
+          "meaning": "devices"
+        }
+      ]
+    },
+    {
+      "chinese": "人工智能音箱",
+      "pinyin": "Rén gōng zhì néng xiǎng jī",
+      "translation": "Smart speaker",
+      "usage": "指语音助手设备",
+      "words": [
+        {
+          "zh": "人工",
+          "py": "Rén gōng",
+          "meaning": "artificial"
+        },
+        {
+          "zh": "智能",
+          "py": "zhì néng",
+          "meaning": "intelligence"
+        },
+        {
+          "zh": "音箱",
+          "py": "xiǎng jī",
+          "meaning": "speaker"
+        }
+      ]
+    },
+    {
+      "chinese": "云存储服务",
+      "pinyin": "Yún cún chǔ fú wù",
+      "translation": "Cloud storage service",
+      "usage": "指网络数据存储方案",
+      "words": [
+        {
+          "zh": "云",
+          "py": "Yún",
+          "meaning": "cloud"
+        },
+        {
+          "zh": "存储",
+          "py": "cún chǔ",
+          "meaning": "storage"
+        },
+        {
+          "zh": "服务",
+          "py": "fú wù",
+          "meaning": "service"
+        }
+      ]
+    },
+    {
+      "chinese": "物联网设备",
+      "pinyin": "Wù lián wǎng shè bèi",
+      "translation": "IoT devices",
+      "usage": "指智能家居连接设备",
+      "words": [
+        {
+          "zh": "物联",
+          "py": "Wù lián",
+          "meaning": "Internet of Things"
+        },
+        {
+          "zh": "网",
+          "py": "wǎng",
+          "meaning": "network"
+        },
+        {
+          "zh": "设备",
+          "py": "shè bèi",
+          "meaning": "devices"
+        }
+      ]
+    },
+    {
+      "chinese": "触控笔",
+      "pinyin": "Chù kòng bǐ",
+      "translation": "Stylus pen",
+      "usage": "指平板电脑的输入工具",
+      "words": [
+        {
+          "zh": "触控",
+          "py": "Chù kòng",
+          "meaning": "touch control"
+        },
+        {
+          "zh": "笔",
+          "py": "bǐ",
+          "meaning": "pen"
+        }
+      ]
+    },
+    {
+      "chinese": "充电宝",
+      "pinyin": "Chōng diàn bǎo",
+      "translation": "Power bank",
+      "usage": "指移动电源设备",
+      "words": [
+        {
+          "zh": "充电",
+          "py": "Chōng diàn",
+          "meaning": "charging"
+        },
+        {
+          "zh": "宝",
+          "py": "bǎo",
+          "meaning": "bank"
+        }
+      ]
+    },
+    {
+      "chinese": "智能音箱",
+      "pinyin": "Zhì néng xiǎng jī",
+      "translation": "Smart speaker",
+      "usage": "指语音交互音箱",
+      "words": [
+        {
+          "zh": "智能",
+          "py": "Zhì néng",
+          "meaning": "smart"
+        },
+        {
+          "zh": "音箱",
+          "py": "xiǎng jī",
+          "meaning": "speaker"
+        }
+      ]
+    },
+    {
+      "chinese": "全息投影仪",
+      "pinyin": "Quán xī tóu yǐng yí",
+      "translation": "Holographic projector",
+      "usage": "指三维影像显示设备",
+      "words": [
+        {
+          "zh": "全息",
+          "py": "Quán xī",
+          "meaning": "holographic"
+        },
+        {
+          "zh": "投影",
+          "py": "tóu yǐng",
+          "meaning": "projector"
+        },
+        {
+          "zh": "仪",
+          "py": "yí",
+          "meaning": "device"
+        }
+      ]
+    },
+    {
+      "chinese": "电子墨水屏",
+      "pinyin": "Diàn zǐ mò shuǐ píng",
+      "translation": "E-ink screen",
+      "usage": "指低功耗显示技术",
+      "words": [
+        {
+          "zh": "电子",
+          "py": "Diàn zǐ",
+          "meaning": "electronic"
+        }
+      ]
+    }
+  ]
+}

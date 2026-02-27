@@ -1,0 +1,241 @@
+{
+  "sentences": [
+    {
+      "chinese": "我的钱包丢了。",
+      "pinyin": "Wǒ de qiánbāo diū le.",
+      "translation": "My wallet is lost.",
+      "usage": "Used to declare a lost item.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive particle"
+        },
+        {
+          "zh": "钱包",
+          "py": "qiánbāo",
+          "meaning": "wallet"
+        },
+        {
+          "zh": "丢了",
+          "py": "diū le",
+          "meaning": "lost"
+        }
+      ]
+    },
+    {
+      "chinese": "请问这里可以挂失吗？",
+      "pinyin": "Pǐn gen zhèlǐ kěyǐ guàshī ma?",
+      "translation": "May I report a lost item here?",
+      "usage": "Asking to file a lost item report.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请问",
+          "py": "qǐngwèn",
+          "meaning": "excuse me"
+        },
+        {
+          "zh": "这里",
+          "py": "zhèlǐ",
+          "meaning": "here"
+        },
+        {
+          "zh": "可以",
+          "py": "kěyǐ",
+          "meaning": "can"
+        },
+        {
+          "zh": "挂失",
+          "py": "guàshī",
+          "meaning": "report loss"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "我丢了一部黑色的手机。",
+      "pinyin": "Wǒ diū le yī bù hēise de shǒujī.",
+      "translation": "I lost a black mobile phone.",
+      "usage": "Describing lost property details.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "丢",
+          "py": "diū",
+          "meaning": "lose"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed action"
+        },
+        {
+          "zh": "一部",
+          "py": "yī bù",
+          "meaning": "a"
+        },
+        {
+          "zh": "黑色的",
+          "py": "hēise de",
+          "meaning": "black"
+        },
+        {
+          "zh": "手机",
+          "py": "shǒujī",
+          "meaning": "mobile phone"
+        }
+      ]
+    },
+    {
+      "chinese": "请帮我留意一下这个物品。",
+      "pinyin": "Qǐng bāng wǒ liú yì yīxià zhège wùpǐn.",
+      "translation": "Please help me keep an eye on this item.",
+      "usage": "Requesting assistance in holding an item.",
+      "formality": "Polite",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "帮",
+          "py": "bāng",
+          "meaning": "help"
+        },
+        {
+          "zh": "留意",
+          "py": "liú yì",
+          "meaning": "pay attention"
+        },
+        {
+          "zh": "一下",
+          "py": "yīxià",
+          "meaning": "for a moment"
+        },
+        {
+          "zh": "这个",
+          "py": "zhège",
+          "meaning": "this"
+        },
+        {
+          "zh": "物品",
+          "py": "wùpǐn",
+          "meaning": "item"
+        }
+      ]
+    },
+    {
+      "chinese": "失物招领处在哪里？",
+      "pinyin": "Shīwù zhāolǐng chù zài nǎlǐ?",
+      "translation": "Where is the lost and found office?",
+      "usage": "Asking for location of lost property office.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "失物",
+          "py": "shīwù",
+          "meaning": "lost item"
+        },
+        {
+          "zh": "招领处",
+          "py": "zhāolǐng chù",
+          "meaning": "lost property office"
+        },
+        {
+          "zh": "在",
+          "py": "zài",
+          "meaning": "at"
+        },
+        {
+          "zh": "哪里",
+          "py": "nǎlǐ",
+          "meaning": "where"
+        }
+      ]
+    },
+    {
+      "chinese": "我的行李箱被拿错了。",
+      "pinyin": "Wǒ de lǐxié xiāng bèi ná cuò le.",
+      "translation": "My suitcase was taken by mistake.",
+      "usage": "Reporting a misplaced suitcase.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "行李箱",
+          "py": "lǐxié xiāng",
+          "meaning": "suitcase"
+        },
+        {
+          "zh": "被",
+          "py": "bèi",
+          "meaning": "passive marker"
+        },
+        {
+          "zh": "拿",
+          "py": "ná",
+          "meaning": "take"
+        },
+        {
+          "zh": "错",
+          "py": "cuò",
+          "meaning": "wrong"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed action"
+        }
+      ]
+    },
+    {
+      "chinese": "请问有收到我的钥匙吗？",
+      "pinyin": "Pǐn gen yǒu shōudào wǒ de yàoshi ma?",
+      "translation": "Have you received my keys?",
+      "usage": "Inquiring about found items.",
+      "formality": "Polite",
+      "words": [
+        {
+          "zh": "收到",
+          "py": "shōudào",
+          "meaning": "receive"
+        },
+        {
+          "zh": "钥匙",
+          "py": "yàoshi",
+          "meaning": "keys"
+        }
+      ]
+    },
+    {
+      "chinese": "这个钱包是你的吗？",
+      "pinyin": "Zhège qiánbāo shì nǐ de ma?",
+      "translation": "Is this wallet yours?",
+      "usage": "Identifying owner of found item.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "is"
+        },
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        }
+      ]
+    }
+  ]
+}

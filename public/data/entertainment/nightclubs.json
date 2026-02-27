@@ -1,0 +1,265 @@
+{
+  "sentences": [
+    {
+      "chinese": "我要点一杯莫吉托。",
+      "pinyin": "Wǒ yào diǎn yī bēi mòjītuō.",
+      "translation": "I'd like to order a mojito.",
+      "usage": "Ordering a specific cocktail at a bar",
+      "formality": "Casual",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "want"
+        },
+        {
+          "zh": "点",
+          "py": "diǎn",
+          "meaning": "order"
+        },
+        {
+          "zh": "一杯",
+          "py": "yī bēi",
+          "meaning": "a cup of"
+        },
+        {
+          "zh": "莫吉托",
+          "py": "mòjītuō",
+          "meaning": "mojito"
+        }
+      ]
+    },
+    {
+      "chinese": "推荐一下这里的特色酒。",
+      "pinyin": "Tuījiàn yīxià zhèlǐ de tèsè jiǔ.",
+      "translation": "Recommend some signature drinks here.",
+      "usage": "Asking for bar recommendations",
+      "formality": "Casual",
+      "words": [
+        {
+          "zh": "推荐",
+          "py": "tuījiàn",
+          "meaning": "recommend"
+        },
+        {
+          "zh": "一下",
+          "py": "yīxià",
+          "meaning": "please"
+        },
+        {
+          "zh": "这里",
+          "py": "zhèlǐ",
+          "meaning": "here"
+        },
+        {
+          "zh": "特色",
+          "py": "tèsè",
+          "meaning": "signature"
+        },
+        {
+          "zh": "酒",
+          "py": "jiǔ",
+          "meaning": "alcohol"
+        }
+      ]
+    },
+    {
+      "chinese": "这个酒度数高吗？",
+      "pinyin": "Zhège jiǔ dùshù gāo ma?",
+      "translation": "Is this drink strong?",
+      "usage": "Asking about alcohol strength",
+      "formality": "Casual",
+      "words": [
+        {
+          "zh": "这个",
+          "py": "zhège",
+          "meaning": "this"
+        },
+        {
+          "zh": "酒",
+          "py": "jiǔ",
+          "meaning": "alcohol"
+        },
+        {
+          "zh": "度数",
+          "py": "dùshù",
+          "meaning": "alcohol content"
+        },
+        {
+          "zh": "高",
+          "py": "gāo",
+          "meaning": "high"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "请给我单份龙舌兰。",
+      "pinyin": "Qǐng gěi wǒ dān fèn lóngshétáng.",
+      "translation": "Please give me a single shot of tequila.",
+      "usage": "Ordering spirits by measure",
+      "formality": "Casual",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "给",
+          "py": "gěi",
+          "meaning": "give"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "me"
+        },
+        {
+          "zh": "单份",
+          "py": "dān fèn",
+          "meaning": "single shot"
+        },
+        {
+          "zh": "龙舌兰",
+          "py": "lóngshétáng",
+          "meaning": "tequila"
+        }
+      ]
+    },
+    {
+      "chinese": "这个鸡尾酒怎么调的？",
+      "pinyin": "Zhège jīwěijiǔ zěnme diào de?",
+      "translation": "How is this cocktail made?",
+      "usage": "Asking about drink preparation",
+      "formality": "Casual",
+      "words": [
+        {
+          "zh": "这个",
+          "py": "zhège",
+          "meaning": "this"
+        },
+        {
+          "zh": "鸡尾酒",
+          "py": "jīwěijiǔ",
+          "meaning": "cocktail"
+        },
+        {
+          "zh": "怎么",
+          "py": "zěnme",
+          "meaning": "how"
+        },
+        {
+          "zh": "调",
+          "py": "diào",
+          "meaning": "mix"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "particle"
+        }
+      ]
+    },
+    {
+      "chinese": "能少糖吗？",
+      "pinyin": "Néng shǎo táng ma?",
+      "translation": "Can it be less sweet?",
+      "usage": "Asking for modified sweetening",
+      "formality": "Casual",
+      "words": [
+        {
+          "zh": "能",
+          "py": "néng",
+          "meaning": "can"
+        },
+        {
+          "zh": "少",
+          "py": "shǎo",
+          "meaning": "less"
+        },
+        {
+          "zh": "糖",
+          "py": "táng",
+          "meaning": "sugar"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "请加冰块。",
+      "pinyin": "Qǐng jiā bīngkuài.",
+      "translation": "Please add ice cubes.",
+      "usage": "Requesting ice cubes",
+      "formality": "Casual",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "加",
+          "py": "jiā",
+          "meaning": "add"
+        },
+        {
+          "zh": "冰块",
+          "py": "bīngkuài",
+          "meaning": "ice cubes"
+        }
+      ]
+    },
+    {
+      "chinese": "这杯多少钱？",
+      "pinyin": "Zhè bēi duōshǎo qián?",
+      "translation": "How much is this drink?",
+      "usage": "Asking for drink price",
+      "formality": "Casual",
+      "words": [
+        {
+          "zh": "这杯",
+          "py": "zhè bēi",
+          "meaning": "this drink"
+        },
+        {
+          "zh": "多少",
+          "py": "duōshǎo",
+          "meaning": "how much"
+        },
+        {
+          "zh": "钱",
+          "py": "qián",
+          "meaning": "money"
+        }
+      ]
+    },
+    {
+      "chinese": "再来一杯！",
+      "pinyin": "Zài lái yī bēi!",
+      "translation": "Another one, please!",
+      "usage": "Ordering another drink",
+      "formality": "Casual",
+      "words": [
+        {
+          "zh": "再",
+          "py": "zài",
+          "meaning": "again"
+        }
+      ]
+    }
+  ]
+}

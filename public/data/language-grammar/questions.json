@@ -1,0 +1,96 @@
+{
+  "sentences": [
+    {
+      "chinese": "你来了吗？",
+      "pinyin": "Nǐ lái le ma?",
+      "translation": "Have you come?",
+      "usage": "Standard yes/no question with 了吗 (le ma).",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "来",
+          "py": "lái",
+          "meaning": "to come"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completion marker"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "你是谁？",
+      "pinyin": "Nǐ shì shéi?",
+      "translation": "Who are you?",
+      "usage": "Basic question using 谁 (shéi) for 'who'.",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "to be"
+        },
+        {
+          "zh": "谁",
+          "py": "shéi",
+          "meaning": "who"
+        }
+      ]
+    },
+    {
+      "chinese": "你去哪？",
+      "pinyin": "Nǐ qù nǎ?",
+      "translation": "Where are you going?",
+      "usage": "Informal 'where' question using 哪 (nǎ).",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "to go"
+        },
+        {
+          "zh": "哪",
+          "py": "nǎ",
+          "meaning": "where"
+        }
+      ]
+    },
+    {
+      "chinese": "你有没有时间？",
+      "pinyin": "Nǐ yǒu méiyǒu shíjiān?",
+      "translation": "Do you have time?",
+      "usage": "Negative/positive question using 有没有 (yǒu méiyǒu).",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "to have"
+        }
+      ]
+    }
+  ]
+}

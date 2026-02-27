@@ -1,0 +1,240 @@
+{
+  "sentences": [
+    {
+      "chinese": "您好！",
+      "pinyin": "Nín hǎo!",
+      "translation": "Hello!",
+      "usage": "Formal greeting in business settings.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "您",
+          "py": "Nín",
+          "meaning": "you (polite)"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good"
+        }
+      ]
+    },
+    {
+      "chinese": "请多关照。",
+      "pinyin": "Qǐng duō guānzhào.",
+      "translation": "Please take care of me.",
+      "usage": "Used when meeting business partners for the first time.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "Qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "多",
+          "py": "duō",
+          "meaning": "more"
+        },
+        {
+          "zh": "关照",
+          "py": "guānzhào",
+          "meaning": "take care"
+        }
+      ]
+    },
+    {
+      "chinese": "递名片。",
+      "pinyin": "Dì míngpiàn.",
+      "translation": "Exchange business cards.",
+      "usage": "Mutual exchange of business cards during introductions.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "递",
+          "py": "Dì",
+          "meaning": "hand over"
+        },
+        {
+          "zh": "名",
+          "py": "míng",
+          "meaning": "name"
+        },
+        {
+          "zh": "片",
+          "py": "piàn",
+          "meaning": "card"
+        }
+      ]
+    },
+    {
+      "chinese": "会议开始，请准时参加。",
+      "pinyin": "Huìyì kāishǐ, qǐng zhǔnshí cānjiā.",
+      "translation": "The meeting will start, please attend on time.",
+      "usage": "Reminder for punctuality in meetings.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "会",
+          "py": "huì",
+          "meaning": "meeting"
+        },
+        {
+          "zh": "议",
+          "py": "yì",
+          "meaning": "discussion"
+        },
+        {
+          "zh": "开始",
+          "py": "kāishǐ",
+          "meaning": "start"
+        },
+        {
+          "zh": "准时",
+          "py": "zhǔnshí",
+          "meaning": "on time"
+        },
+        {
+          "zh": "参加",
+          "py": "cānjiā",
+          "meaning": "participate"
+        }
+      ]
+    },
+    {
+      "chinese": "您贵姓？",
+      "pinyin": "Nín guìxìng?",
+      "translation": "What's your esteemed surname?",
+      "usage": "Polite inquiry about someone's surname.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "您",
+          "py": "Nín",
+          "meaning": "you (polite)"
+        },
+        {
+          "zh": "贵",
+          "py": "guì",
+          "meaning": "esteemed"
+        },
+        {
+          "zh": "姓",
+          "py": "xìng",
+          "meaning": "surname"
+        }
+      ]
+    },
+    {
+      "chinese": "我姓李。",
+      "pinyin": "Wǒ xìng Lǐ.",
+      "translation": "My surname is Li.",
+      "usage": "Response to surname inquiry.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "我",
+          "py": "Wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "姓",
+          "py": "xìng",
+          "meaning": "surname"
+        },
+        {
+          "zh": "李",
+          "py": "Lǐ",
+          "meaning": "Li (surname)"
+        }
+      ]
+    },
+    {
+      "chinese": "我们再考虑一下。",
+      "pinyin": "Wǒmen zài kǎolǜ yīxià.",
+      "translation": "Let's think about it again.",
+      "usage": "Politely deferring a decision.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "我们",
+          "py": "Wǒmen",
+          "meaning": "we"
+        },
+        {
+          "zh": "再",
+          "py": "zài",
+          "meaning": "again"
+        },
+        {
+          "zh": "考虑",
+          "py": "kǎolǜ",
+          "meaning": "consider"
+        },
+        {
+          "zh": "一下",
+          "py": "yīxià",
+          "meaning": "for a moment"
+        }
+      ]
+    },
+    {
+      "chinese": "感谢您的时间。",
+      "pinyin": "Gǎnxiè nín de shíjiān.",
+      "translation": "Thank you for your time.",
+      "usage": "Closing a meeting politely.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "感谢",
+          "py": "gǎnxiè",
+          "meaning": "thank you"
+        },
+        {
+          "zh": "您",
+          "py": "Nín",
+          "meaning": "you (polite)"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "of"
+        },
+        {
+          "zh": "时间",
+          "py": "shíjiān",
+          "meaning": "time"
+        }
+      ]
+    },
+    {
+      "chinese": "诚挚邀请您参加...（活动名称）",
+      "pinyin": "Chéngzhì yàofú nín cānjia... (huódòng míngchēng)",
+      "translation": "We sincerely invite you to... (event name)",
+      "usage": "Formal invitation wording.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "诚挚",
+          "py": "chéngzhì",
+          "meaning": "sincerely"
+        },
+        {
+          "zh": "邀请",
+          "py": "yàofú",
+          "meaning": "invite"
+        },
+        {
+          "zh": "您",
+          "py": "Nín",
+          "meaning": "you (polite)"
+        },
+        {
+          "zh": "参加",
+          "py": "cānjiā",
+          "meaning": "participate"
+        }
+      ]
+    }
+  ]
+}

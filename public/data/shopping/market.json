@@ -1,0 +1,881 @@
+{
+  "sentences": [
+    {
+      "chinese": "你好！",
+      "pinyin": "Nǐ hǎo!",
+      "translation": "Hello!",
+      "usage": "The standard, all-purpose greeting. Suitable for almost any situation.",
+      "formality": "Neutral / Informal",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good / well"
+        }
+      ]
+    },
+    {
+      "chinese": "请问，这里卖苹果吗？",
+      "pinyin": "Qǐng wèn, zhè lǐ mài píngguǒ ma?",
+      "translation": "Excuse me, do you sell apples here?",
+      "usage": "Used when asking about product availability in a store or market.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "问",
+          "py": "wèn",
+          "meaning": "ask"
+        },
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "里",
+          "py": "lǐ",
+          "meaning": "here"
+        },
+        {
+          "zh": "卖",
+          "py": "mài",
+          "meaning": "sell"
+        },
+        {
+          "zh": "苹果",
+          "py": "píngguǒ",
+          "meaning": "apple"
+        }
+      ]
+    },
+    {
+      "chinese": "多少钱一斤？",
+      "pinyin": "Duōshao qián yī jīn?",
+      "translation": "How much per jin?",
+      "usage": "Used when asking for the price of goods, typically in markets or stores.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "多",
+          "py": "duō",
+          "meaning": "how much"
+        },
+        {
+          "zh": "少",
+          "py": "shǎo",
+          "meaning": "few"
+        },
+        {
+          "zh": "钱",
+          "py": "qián",
+          "meaning": "money"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "斤",
+          "py": "jīn",
+          "meaning": "jin (unit of weight)"
+        }
+      ]
+    },
+    {
+      "chinese": "我要买三斤苹果。",
+      "pinyin": "Wǒ yào mǎi sān jīn píngguǒ.",
+      "translation": "I want to buy three jin of apples.",
+      "usage": "Used when making a purchase request in a market or store.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "want to"
+        },
+        {
+          "zh": "买",
+          "py": "mǎi",
+          "meaning": "buy"
+        },
+        {
+          "zh": "三",
+          "py": "sān",
+          "meaning": "three"
+        },
+        {
+          "zh": "斤",
+          "py": "jīn",
+          "meaning": "jin (unit of weight)"
+        },
+        {
+          "zh": "苹果",
+          "py": "píngguǒ",
+          "meaning": "apple"
+        }
+      ]
+    },
+    {
+      "chinese": "这个多少钱？",
+      "pinyin": "Zhège duōshao qián?",
+      "translation": "How much is this?",
+      "usage": "Used when asking about the price of a specific item.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "个",
+          "py": "ge",
+          "meaning": "classifier for objects"
+        },
+        {
+          "zh": "多",
+          "py": "duō",
+          "meaning": "how much"
+        },
+        {
+          "zh": "少",
+          "py": "shǎo",
+          "meaning": "few"
+        },
+        {
+          "zh": "钱",
+          "py": "qián",
+          "meaning": "money"
+        }
+      ]
+    },
+    {
+      "chinese": "可以便宜一点吗？",
+      "pinyin": "Kěyǐ biàn yi diǎnr ma?",
+      "translation": "Can you make it a bit cheaper?",
+      "usage": "Used when trying to negotiate a better price.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "可",
+          "py": "kě",
+          "meaning": "can"
+        },
+        {
+          "zh": "以",
+          "py": "yǐ",
+          "meaning": "to be able to"
+        },
+        {
+          "zh": "便",
+          "py": "biàn",
+          "meaning": "convenient"
+        },
+        {
+          "zh": "宜",
+          "py": "yí",
+          "meaning": "appropriate"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "点",
+          "py": "diǎn",
+          "meaning": "bit"
+        }
+      ]
+    },
+    {
+      "chinese": "我看看，再决定。",
+      "pinyin": "Wǒ kànkan, zài juédìng.",
+      "translation": "Let me look first, then decide.",
+      "usage": "Used when you want to examine an item before purchasing.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "看",
+          "py": "kàn",
+          "meaning": "look"
+        },
+        {
+          "zh": "看",
+          "py": "kan",
+          "meaning": "look"
+        },
+        {
+          "zh": "再",
+          "py": "zài",
+          "meaning": "again"
+        },
+        {
+          "zh": "决",
+          "py": "jué",
+          "meaning": "decide"
+        },
+        {
+          "zh": "定",
+          "py": "dìng",
+          "meaning": "determine"
+        }
+      ]
+    },
+    {
+      "chinese": "这个太贵了。",
+      "pinyin": "Zhège tài guì le.",
+      "translation": "This is too expensive.",
+      "usage": "Used when expressing that an item is too costly.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "个",
+          "py": "ge",
+          "meaning": "classifier for objects"
+        },
+        {
+          "zh": "太",
+          "py": "tài",
+          "meaning": "too"
+        },
+        {
+          "zh": "贵",
+          "py": "guì",
+          "meaning": "expensive"
+        }
+      ]
+    },
+    {
+      "chinese": "我有这个吗？",
+      "pinyin": "Wǒ yǒu zhège ma?",
+      "translation": "Do I have this?",
+      "usage": "Used when checking if you already have something.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "have"
+        },
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "个",
+          "py": "ge",
+          "meaning": "classifier for objects"
+        }
+      ]
+    },
+    {
+      "chinese": "我要买点东西。",
+      "pinyin": "Wǒ yào mǎi diǎn dōngxi.",
+      "translation": "I want to buy some things.",
+      "usage": "Used when stating the intention to make a purchase.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "want to"
+        },
+        {
+          "zh": "买",
+          "py": "mǎi",
+          "meaning": "buy"
+        },
+        {
+          "zh": "点",
+          "py": "diǎn",
+          "meaning": "some"
+        },
+        {
+          "zh": "东",
+          "py": "dōng",
+          "meaning": "thing"
+        },
+        {
+          "zh": "西",
+          "py": "xi",
+          "meaning": "thing"
+        }
+      ]
+    },
+    {
+      "chinese": "这里有什么好吃的？",
+      "pinyin": "Zhè lǐ yǒu shénme hǎochī de?",
+      "translation": "What's good to eat here?",
+      "usage": "Used when asking for recommendations on food items.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "里",
+          "py": "lǐ",
+          "meaning": "here"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "have"
+        },
+        {
+          "zh": "什",
+          "py": "shén",
+          "meaning": "what"
+        },
+        {
+          "zh": "么",
+          "py": "me",
+          "meaning": "what"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good"
+        },
+        {
+          "zh": "吃",
+          "py": "chī",
+          "meaning": "eat"
+        }
+      ]
+    },
+    {
+      "chinese": "我想要一个。",
+      "pinyin": "Wǒ xiǎng yào yīgè.",
+      "translation": "I want one.",
+      "usage": "Used when requesting a single item.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "想",
+          "py": "xiǎng",
+          "meaning": "want to"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "want to"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "个",
+          "py": "ge",
+          "meaning": "classifier for objects"
+        }
+      ]
+    },
+    {
+      "chinese": "这个多少钱？",
+      "pinyin": "Zhège duōshao qián?",
+      "translation": "How much is this?",
+      "usage": "Used when asking about the price of a specific item.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "个",
+          "py": "ge",
+          "meaning": "classifier for objects"
+        },
+        {
+          "zh": "多",
+          "py": "duō",
+          "meaning": "how much"
+        },
+        {
+          "zh": "少",
+          "py": "shǎo",
+          "meaning": "few"
+        },
+        {
+          "zh": "钱",
+          "py": "qián",
+          "meaning": "money"
+        }
+      ]
+    },
+    {
+      "chinese": "我买了。",
+      "pinyin": "Wǒ mǎi le.",
+      "translation": "I bought it.",
+      "usage": "Used when confirming a purchase has been made.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "买",
+          "py": "mǎi",
+          "meaning": "buy"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed action marker"
+        }
+      ]
+    },
+    {
+      "chinese": "可以刷卡吗？",
+      "pinyin": "Kěyǐ shuākǎ ma?",
+      "translation": "Can I pay by card?",
+      "usage": "Used when asking about payment methods.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "可",
+          "py": "kě",
+          "meaning": "can"
+        },
+        {
+          "zh": "以",
+          "py": "yǐ",
+          "meaning": "to be able to"
+        },
+        {
+          "zh": "刷",
+          "py": "shuā",
+          "meaning": "to swipe"
+        },
+        {
+          "zh": "卡",
+          "py": "kǎ",
+          "meaning": "card"
+        }
+      ]
+    },
+    {
+      "chinese": "我用现金。",
+      "pinyin": "Wǒ yòng xiànjīn.",
+      "translation": "I'll use cash.",
+      "usage": "Used when stating your preferred payment method.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "用",
+          "py": "yòng",
+          "meaning": "use"
+        },
+        {
+          "zh": "现",
+          "py": "xiàn",
+          "meaning": "cash"
+        },
+        {
+          "zh": "金",
+          "py": "jīn",
+          "meaning": "money"
+        }
+      ]
+    },
+    {
+      "chinese": "这是我的钱包。",
+      "pinyin": "Zhè shì wǒ de qiánbāo.",
+      "translation": "This is my wallet.",
+      "usage": "Used when showing identification or ownership of personal items.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "is"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "of"
+        },
+        {
+          "zh": "钱",
+          "py": "qián",
+          "meaning": "money"
+        },
+        {
+          "zh": "包",
+          "py": "bāo",
+          "meaning": "bag"
+        }
+      ]
+    },
+    {
+      "chinese": "我需要包装。",
+      "pinyin": "Wǒ xūyào bāozhuāng.",
+      "translation": "I need packaging.",
+      "usage": "Used when requesting packaging for purchased items.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "需",
+          "py": "xū",
+          "meaning": "need"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "want to"
+        },
+        {
+          "zh": "包",
+          "py": "bāo",
+          "meaning": "wrap"
+        },
+        {
+          "zh": "装",
+          "py": "zhuāng",
+          "meaning": "pack"
+        }
+      ]
+    },
+    {
+      "chinese": "这个很好吃。",
+      "pinyin": "Zhège hěn hǎo chī.",
+      "translation": "This tastes very good.",
+      "usage": "Used when expressing that food tastes delicious.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "个",
+          "py": "ge",
+          "meaning": "classifier for objects"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good"
+        },
+        {
+          "zh": "吃",
+          "py": "chī",
+          "meaning": "eat"
+        }
+      ]
+    },
+    {
+      "chinese": "请给我一个。",
+      "pinyin": "Qǐng gěi wǒ yīgè.",
+      "translation": "Please give me one.",
+      "usage": "Used when politely requesting a single item.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "给",
+          "py": "gěi",
+          "meaning": "give"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "个",
+          "py": "ge",
+          "meaning": "classifier for objects"
+        }
+      ]
+    },
+    {
+      "chinese": "这个太贵了。",
+      "pinyin": "Zhège tài guì le.",
+      "translation": "This is too expensive.",
+      "usage": "Used when expressing that an item is too costly.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "个",
+          "py": "ge",
+          "meaning": "classifier for objects"
+        },
+        {
+          "zh": "太",
+          "py": "tài",
+          "meaning": "too"
+        },
+        {
+          "zh": "贵",
+          "py": "guì",
+          "meaning": "expensive"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed action marker"
+        }
+      ]
+    },
+    {
+      "chinese": "我看看。",
+      "pinyin": "Wǒ kànkan.",
+      "translation": "Let me look.",
+      "usage": "Used when indicating the intention to examine something.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "看",
+          "py": "kàn",
+          "meaning": "look"
+        },
+        {
+          "zh": "看",
+          "py": "kan",
+          "meaning": "look"
+        }
+      ]
+    },
+    {
+      "chinese": "我要买这个。",
+      "pinyin": "Wǒ yào mǎi zhège.",
+      "translation": "I want to buy this.",
+      "usage": "Used when expressing the intention to purchase a specific item.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "want to"
+        },
+        {
+          "zh": "买",
+          "py": "mǎi",
+          "meaning": "buy"
+        },
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "个",
+          "py": "ge",
+          "meaning": "classifier for objects"
+        }
+      ]
+    },
+    {
+      "chinese": "谢谢。",
+      "pinyin": "Xièxiè.",
+      "translation": "Thank you.",
+      "usage": "Used when expressing gratitude.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "谢",
+          "py": "xiè",
+          "meaning": "thank"
+        },
+        {
+          "zh": "谢",
+          "py": "xiè",
+          "meaning": "thank"
+        }
+      ]
+    },
+    {
+      "chinese": "再见。",
+      "pinyin": "Zàijiàn.",
+      "translation": "Goodbye.",
+      "usage": "Used when saying farewell.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "再",
+          "py": "zài",
+          "meaning": "again"
+        },
+        {
+          "zh": "见",
+          "py": "jiàn",
+          "meaning": "see"
+        }
+      ]
+    },
+    {
+      "chinese": "不客气。",
+      "pinyin": "Bù kèqi.",
+      "translation": "You're welcome.",
+      "usage": "Used in response to thanks.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "不",
+          "py": "bù",
+          "meaning": "not"
+        },
+        {
+          "zh": "客",
+          "py": "kè",
+          "meaning": "guest"
+        },
+        {
+          "zh": "气",
+          "py": "qi",
+          "meaning": "air"
+        }
+      ]
+    },
+    {
+      "chinese": "不，谢谢。",
+      "pinyin": "Bù, xièxiè.",
+      "translation": "No, thank you.",
+      "usage": "Used when politely declining an offer.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "不",
+          "py": "bù",
+          "meaning": "no"
+        },
+        {
+          "zh": "谢",
+          "py": "xiè",
+          "meaning": "thank"
+        },
+        {
+          "zh": "谢",
+          "py": "xiè",
+          "meaning": "thank"
+        }
+      ]
+    },
+    {
+      "chinese": "请稍等。",
+      "pinyin": "Qǐng shāoděng.",
+      "translation": "Please wait a moment.",
+      "usage": "Used when asking someone to wait.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "稍",
+          "py": "shāo",
+          "meaning": "a little"
+        },
+        {
+          "zh": "等",
+          "py": "děng",
+          "meaning": "wait"
+        }
+      ]
+    }
+  ]
+}

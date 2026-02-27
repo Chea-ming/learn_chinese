@@ -1,0 +1,659 @@
+{
+  "sentences": [
+    {
+      "chinese": "你好！",
+      "pinyin": "Nǐ hǎo!",
+      "translation": "Hello!",
+      "usage": "The standard, all-purpose greeting. Suitable for almost any situation.",
+      "formality": "Neutral / Informal",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good / well"
+        }
+      ]
+    },
+    {
+      "chinese": "请问，飞机什么时候起飞？",
+      "pinyin": "Qǐng wèn, fēijī shénme shíhou qǐfēi?",
+      "translation": "Excuse me, when does the plane take off?",
+      "usage": "Ask about flight departure time at the airport.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "问",
+          "py": "wèn",
+          "meaning": "ask"
+        },
+        {
+          "zh": "飞",
+          "py": "fēi",
+          "meaning": "fly"
+        },
+        {
+          "zh": "机",
+          "py": "jī",
+          "meaning": "plane"
+        },
+        {
+          "zh": "什么",
+          "py": "shénme",
+          "meaning": "what"
+        },
+        {
+          "zh": "时候",
+          "py": "shíhou",
+          "meaning": "time"
+        },
+        {
+          "zh": "起飞",
+          "py": "qǐfēi",
+          "meaning": "take off"
+        }
+      ]
+    },
+    {
+      "chinese": "我需要办理登机手续。",
+      "pinyin": "Wǒ xūyào bànlǐ dēnjī shǒuxù.",
+      "translation": "I need to check in for my flight.",
+      "usage": "Telling someone you need to check in at the airport.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "需要",
+          "py": "xūyào",
+          "meaning": "need"
+        },
+        {
+          "zh": "办理",
+          "py": "bànlǐ",
+          "meaning": "handle"
+        },
+        {
+          "zh": "登机",
+          "py": "dēnjī",
+          "meaning": "boarding"
+        },
+        {
+          "zh": "手续",
+          "py": "shǒuxù",
+          "meaning": "procedure"
+        }
+      ]
+    },
+    {
+      "chinese": "请问，哪里是安检口？",
+      "pinyin": "Qǐng wèn, nǎlǐ shì ānjiǎnkǒu?",
+      "translation": "Excuse me, where is the security check point?",
+      "usage": "Asking for security checkpoint location.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "问",
+          "py": "wèn",
+          "meaning": "ask"
+        },
+        {
+          "zh": "哪里",
+          "py": "nǎlǐ",
+          "meaning": "where"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "is"
+        },
+        {
+          "zh": "安检",
+          "py": "ānjiǎn",
+          "meaning": "security check"
+        },
+        {
+          "zh": "口",
+          "py": "kǒu",
+          "meaning": "gate"
+        }
+      ]
+    },
+    {
+      "chinese": "我的行李箱在哪里？",
+      "pinyin": "Wǒ de xíngliáng xiāng zài nǎlǐ?",
+      "translation": "Where is my suitcase?",
+      "usage": "Asking for location of your luggage.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "of"
+        },
+        {
+          "zh": "行李",
+          "py": "xíngliáng",
+          "meaning": "luggage"
+        },
+        {
+          "zh": "箱",
+          "py": "xiāng",
+          "meaning": "box"
+        },
+        {
+          "zh": "在",
+          "py": "zài",
+          "meaning": "at"
+        },
+        {
+          "zh": "哪里",
+          "py": "nǎlǐ",
+          "meaning": "where"
+        }
+      ]
+    },
+    {
+      "chinese": "我忘记带护照了。",
+      "pinyin": "Wǒ wàngjì dài hùzhào le.",
+      "translation": "I forgot to bring my passport.",
+      "usage": "Telling someone you forgot your passport.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "忘记",
+          "py": "wàngjì",
+          "meaning": "forget"
+        },
+        {
+          "zh": "带",
+          "py": "dài",
+          "meaning": "bring"
+        },
+        {
+          "zh": "护照",
+          "py": "hùzhào",
+          "meaning": "passport"
+        }
+      ]
+    },
+    {
+      "chinese": "请等一下。",
+      "pinyin": "Qǐng děng yīxià.",
+      "translation": "Please wait a moment.",
+      "usage": "Ask someone to wait briefly.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "等",
+          "py": "děng",
+          "meaning": "wait"
+        },
+        {
+          "zh": "一下",
+          "py": "yīxià",
+          "meaning": "a moment"
+        }
+      ]
+    },
+    {
+      "chinese": "这是我的登机牌。",
+      "pinyin": "Zhè shì wǒ de dēnjī pái.",
+      "translation": "This is my boarding pass.",
+      "usage": "Showing your boarding pass to someone.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "is"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "of"
+        },
+        {
+          "zh": "登机",
+          "py": "dēnjī",
+          "meaning": "boarding"
+        },
+        {
+          "zh": "牌",
+          "py": "pái",
+          "meaning": "card"
+        }
+      ]
+    },
+    {
+      "chinese": "我需要买机票。",
+      "pinyin": "Wǒ xūyào mǎi jīpiào.",
+      "translation": "I need to buy a plane ticket.",
+      "usage": "Expressing need to purchase a flight ticket.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "需要",
+          "py": "xūyào",
+          "meaning": "need"
+        },
+        {
+          "zh": "买",
+          "py": "mǎi",
+          "meaning": "buy"
+        },
+        {
+          "zh": "机票",
+          "py": "jīpiào",
+          "meaning": "plane ticket"
+        }
+      ]
+    },
+    {
+      "chinese": "请把我的行李放在这里。",
+      "pinyin": "Qǐng bǎ wǒ de xíngliáng fàng zài zhèlǐ.",
+      "translation": "Please put my luggage here.",
+      "usage": "Ask someone to place your luggage in a specific spot.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "把",
+          "py": "bǎ",
+          "meaning": "put"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "of"
+        },
+        {
+          "zh": "行李",
+          "py": "xíngliáng",
+          "meaning": "luggage"
+        },
+        {
+          "zh": "放",
+          "py": "fàng",
+          "meaning": "put"
+        },
+        {
+          "zh": "在",
+          "py": "zài",
+          "meaning": "at"
+        },
+        {
+          "zh": "这里",
+          "py": "zhèlǐ",
+          "meaning": "here"
+        }
+      ]
+    },
+    {
+      "chinese": "我错过了航班。",
+      "pinyin": "Wǒ cuòguò le fānghuá.",
+      "translation": "I missed my flight.",
+      "usage": "Telling someone you missed your flight.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "错过",
+          "py": "cuòguò",
+          "meaning": "miss"
+        },
+        {
+          "zh": "航班",
+          "py": "fānghuá",
+          "meaning": "flight"
+        }
+      ]
+    },
+    {
+      "chinese": "请帮我拿一下行李。",
+      "pinyin": "Qǐng bāng wǒ ná yīxià xíngliáng.",
+      "translation": "Please help me carry my luggage.",
+      "usage": "Asking someone to help with luggage.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "帮",
+          "py": "bāng",
+          "meaning": "help"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "拿",
+          "py": "ná",
+          "meaning": "carry"
+        },
+        {
+          "zh": "一下",
+          "py": "yīxià",
+          "meaning": "a moment"
+        },
+        {
+          "zh": "行李",
+          "py": "xíngliáng",
+          "meaning": "luggage"
+        }
+      ]
+    },
+    {
+      "chinese": "我需要一个座位。",
+      "pinyin": "Wǒ xūyào yīgè zuòwèi.",
+      "translation": "I need a seat.",
+      "usage": "Asking for a seat at the airport or on the plane.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "需要",
+          "py": "xūyào",
+          "meaning": "need"
+        },
+        {
+          "zh": "一个",
+          "py": "yīgè",
+          "meaning": "one"
+        },
+        {
+          "zh": "座位",
+          "py": "zuòwèi",
+          "meaning": "seat"
+        }
+      ]
+    },
+    {
+      "chinese": "请不要吸烟。",
+      "pinyin": "Qǐng bùyào xīyān.",
+      "translation": "Please do not smoke.",
+      "usage": "Requesting no smoking in a designated area.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "不要",
+          "py": "bùyào",
+          "meaning": "do not"
+        },
+        {
+          "zh": "吸烟",
+          "py": "xīyān",
+          "meaning": "smoke"
+        }
+      ]
+    },
+    {
+      "chinese": "我有行李要托运。",
+      "pinyin": "Wǒ yǒu xíngliáng yào tuōyùn.",
+      "translation": "I have luggage to check in.",
+      "usage": "Telling someone you have luggage to check.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "have"
+        },
+        {
+          "zh": "行李",
+          "py": "xíngliáng",
+          "meaning": "luggage"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "want to"
+        },
+        {
+          "zh": "托运",
+          "py": "tuōyùn",
+          "meaning": "check in"
+        }
+      ]
+    },
+    {
+      "chinese": "请问，洗手间在哪里？",
+      "pinyin": "Qǐng wèn, xǐshǒujiān zài nǎlǐ?",
+      "translation": "Excuse me, where is the restroom?",
+      "usage": "Asking for restroom location.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "问",
+          "py": "wèn",
+          "meaning": "ask"
+        },
+        {
+          "zh": "洗手间",
+          "py": "xǐshǒujiān",
+          "meaning": "restroom"
+        },
+        {
+          "zh": "在",
+          "py": "zài",
+          "meaning": "at"
+        },
+        {
+          "zh": "哪里",
+          "py": "nǎlǐ",
+          "meaning": "where"
+        }
+      ]
+    },
+    {
+      "chinese": "我需要办理签证。",
+      "pinyin": "Wǒ xūyào bànlǐ zhèngjiàn.",
+      "translation": "I need to get a visa.",
+      "usage": "Expressing need to obtain a visa.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "需要",
+          "py": "xūyào",
+          "meaning": "need"
+        },
+        {
+          "zh": "办理",
+          "py": "bànlǐ",
+          "meaning": "handle"
+        },
+        {
+          "zh": "签证",
+          "py": "zhèngjiàn",
+          "meaning": "visa"
+        }
+      ]
+    },
+    {
+      "chinese": "请帮我检查一下行李。",
+      "pinyin": "Qǐng bāng wǒ jiǎnchá yīxià xíngliáng.",
+      "translation": "Please help me check my luggage.",
+      "usage": "Asking someone to inspect your luggage.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "帮",
+          "py": "bāng",
+          "meaning": "help"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "检查",
+          "py": "jiǎnchá",
+          "meaning": "check"
+        },
+        {
+          "zh": "一下",
+          "py": "yīxià",
+          "meaning": "a moment"
+        },
+        {
+          "zh": "行李",
+          "py": "xíngliáng",
+          "meaning": "luggage"
+        }
+      ]
+    },
+    {
+      "chinese": "我需要排队。",
+      "pinyin": "Wǒ xūyào páiduì.",
+      "translation": "I need to wait in line.",
+      "usage": "Expressing need to wait in a queue.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "需要",
+          "py": "xūyào",
+          "meaning": "need"
+        },
+        {
+          "zh": "排队",
+          "py": "páiduì",
+          "meaning": "queue"
+        }
+      ]
+    },
+    {
+      "chinese": "请告诉我现在几点。",
+      "pinyin": "Qǐng gàosù wǒ xiànzài jǐdiǎn.",
+      "translation": "Please tell me what time it is now.",
+      "usage": "Asking for current time.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "告诉",
+          "py": "gàosù",
+          "meaning": "tell"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "现在",
+          "py": "xiànzài",
+          "meaning": "now"
+        },
+        {
+          "zh": "几点",
+          "py": "jǐdiǎn",
+          "meaning": "what time"
+        }
+      ]
+    }
+  ]
+}

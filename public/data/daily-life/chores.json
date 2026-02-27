@@ -1,0 +1,694 @@
+{
+  "sentences": [
+    {
+      "chinese": "我每天都要洗衣服。",
+      "pinyin": "Wǒ měi tiān dōu yào xǐ yīfu.",
+      "translation": "I have to wash clothes every day.",
+      "usage": "Used to express a daily household responsibility.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "每天",
+          "py": "měi tiān",
+          "meaning": "every day"
+        },
+        {
+          "zh": "都",
+          "py": "dōu",
+          "meaning": "all / always"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "must / have to"
+        },
+        {
+          "zh": "洗",
+          "py": "xǐ",
+          "meaning": "to wash"
+        },
+        {
+          "zh": "衣服",
+          "py": "yīfu",
+          "meaning": "clothes"
+        }
+      ]
+    },
+    {
+      "chinese": "妈妈在打扫房间。",
+      "pinyin": "Māma zài dǎsǎo fángjiān.",
+      "translation": "Mom is cleaning the room.",
+      "usage": "Describing someone doing housework at the moment.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "妈妈",
+          "py": "māma",
+          "meaning": "mom"
+        },
+        {
+          "zh": "在",
+          "py": "zài",
+          "meaning": "is / are (present continuous)"
+        },
+        {
+          "zh": "打扫",
+          "py": "dǎsǎo",
+          "meaning": "to clean"
+        },
+        {
+          "zh": "房间",
+          "py": "fángjiān",
+          "meaning": "room"
+        }
+      ]
+    },
+    {
+      "chinese": "请帮我扫地。",
+      "pinyin": "Qǐng bāng wǒ sǎo dì.",
+      "translation": "Please help me sweep the floor.",
+      "usage": "A polite request for assistance with chores.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "帮",
+          "py": "bāng",
+          "meaning": "to help"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "me"
+        },
+        {
+          "zh": "扫",
+          "py": "sǎo",
+          "meaning": "to sweep"
+        },
+        {
+          "zh": "地",
+          "py": "dì",
+          "meaning": "floor"
+        }
+      ]
+    },
+    {
+      "chinese": "洗碗是家务活。",
+      "pinyin": "Xǐ wǎn shì jiāwù huó.",
+      "translation": "Washing dishes is housework.",
+      "usage": "Used to explain what constitutes household chores.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "洗",
+          "py": "xǐ",
+          "meaning": "to wash"
+        },
+        {
+          "zh": "碗",
+          "py": "wǎn",
+          "meaning": "bowl / dish"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "is"
+        },
+        {
+          "zh": "家务",
+          "py": "jiāwù",
+          "meaning": "household"
+        },
+        {
+          "zh": "活",
+          "py": "huó",
+          "meaning": "work / job"
+        }
+      ]
+    },
+    {
+      "chinese": "你愿意做家务吗？",
+      "pinyin": "Nǐ yuànyì zuò jiāwù ma?",
+      "translation": "Do you want to do household chores?",
+      "usage": "Asking about someone's willingness to do chores.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "愿意",
+          "py": "yuànyì",
+          "meaning": "willing to"
+        },
+        {
+          "zh": "做",
+          "py": "zuò",
+          "meaning": "to do"
+        },
+        {
+          "zh": "家务",
+          "py": "jiāwù",
+          "meaning": "household work"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "我们需要整理房间。",
+      "pinyin": "Wǒmen xūyào zhěnglǐ fángjiān.",
+      "translation": "We need to tidy up the room.",
+      "usage": "Expressing a need to organize or clean a space.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我们",
+          "py": "wǒmen",
+          "meaning": "we"
+        },
+        {
+          "zh": "需要",
+          "py": "xūyào",
+          "meaning": "need"
+        },
+        {
+          "zh": "整理",
+          "py": "zhěnglǐ",
+          "meaning": "to organize / tidy"
+        },
+        {
+          "zh": "房间",
+          "py": "fángjiān",
+          "meaning": "room"
+        }
+      ]
+    },
+    {
+      "chinese": "这双鞋脏了，要洗。",
+      "pinyin": "Zhè shuāng xié zāng le, yào xǐ.",
+      "translation": "These shoes are dirty, they need washing.",
+      "usage": "Commenting on something that needs cleaning.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "these"
+        },
+        {
+          "zh": "双",
+          "py": "shuāng",
+          "meaning": "pair"
+        },
+        {
+          "zh": "鞋",
+          "py": "xié",
+          "meaning": "shoes"
+        },
+        {
+          "zh": "脏",
+          "py": "zāng",
+          "meaning": "dirty"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed / already"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "must / need"
+        },
+        {
+          "zh": "洗",
+          "py": "xǐ",
+          "meaning": "to wash"
+        }
+      ]
+    },
+    {
+      "chinese": "我正在做饭。",
+      "pinyin": "Wǒ zhèngzài zuò fàn.",
+      "translation": "I am cooking.",
+      "usage": "Describing someone currently engaged in cooking.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "正在",
+          "py": "zhèngzài",
+          "meaning": "currently / at present"
+        },
+        {
+          "zh": "做",
+          "py": "zuò",
+          "meaning": "to do"
+        },
+        {
+          "zh": "饭",
+          "py": "fàn",
+          "meaning": "meal / rice"
+        }
+      ]
+    },
+    {
+      "chinese": "洗衣服很累。",
+      "pinyin": "Xǐ yīfu hěn lèi.",
+      "translation": "Washing clothes is very tiring.",
+      "usage": "Expressing that doing laundry is exhausting.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "洗",
+          "py": "xǐ",
+          "meaning": "to wash"
+        },
+        {
+          "zh": "衣服",
+          "py": "yīfu",
+          "meaning": "clothes"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "累",
+          "py": "lèi",
+          "meaning": "tired"
+        }
+      ]
+    },
+    {
+      "chinese": "请把垃圾倒掉。",
+      "pinyin": "Qǐng bǎ lājī dǎo diào.",
+      "translation": "Please take out the trash.",
+      "usage": "A request to dispose of garbage.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "把",
+          "py": "bǎ",
+          "meaning": "to (object marker)"
+        },
+        {
+          "zh": "垃圾",
+          "py": "lājī",
+          "meaning": "garbage"
+        },
+        {
+          "zh": "倒",
+          "py": "dǎo",
+          "meaning": "to pour / dump"
+        },
+        {
+          "zh": "掉",
+          "py": "diào",
+          "meaning": "down / away"
+        }
+      ]
+    },
+    {
+      "chinese": "洗碗机在工作。",
+      "pinyin": "Xǐ wǎn jī zài gōngzuò.",
+      "translation": "The dishwasher is working.",
+      "usage": "Describing a dishwasher in operation.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "洗碗机",
+          "py": "xǐ wǎn jī",
+          "meaning": "dishwasher"
+        },
+        {
+          "zh": "在",
+          "py": "zài",
+          "meaning": "is / are (present continuous)"
+        },
+        {
+          "zh": "工作",
+          "py": "gōngzuò",
+          "meaning": "to work"
+        }
+      ]
+    },
+    {
+      "chinese": "我每天都扫地。",
+      "pinyin": "Wǒ měi tiān dōu sǎo dì.",
+      "translation": "I sweep the floor every day.",
+      "usage": "Stating a regular daily chore.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "每天",
+          "py": "měi tiān",
+          "meaning": "every day"
+        },
+        {
+          "zh": "都",
+          "py": "dōu",
+          "meaning": "always / all"
+        },
+        {
+          "zh": "扫",
+          "py": "sǎo",
+          "meaning": "to sweep"
+        },
+        {
+          "zh": "地",
+          "py": "dì",
+          "meaning": "floor"
+        }
+      ]
+    },
+    {
+      "chinese": "我洗完衣服就去洗澡。",
+      "pinyin": "Wǒ xǐ wán yīfu jiù qù xǐzǎo.",
+      "translation": "After I wash clothes, I go to take a shower.",
+      "usage": "Describing a sequence of household activities.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "洗",
+          "py": "xǐ",
+          "meaning": "to wash"
+        },
+        {
+          "zh": "完",
+          "py": "wán",
+          "meaning": "finished"
+        },
+        {
+          "zh": "衣服",
+          "py": "yīfu",
+          "meaning": "clothes"
+        },
+        {
+          "zh": "就",
+          "py": "jiù",
+          "meaning": "then / immediately"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "to go"
+        },
+        {
+          "zh": "洗澡",
+          "py": "xǐzǎo",
+          "meaning": "to bathe"
+        }
+      ]
+    },
+    {
+      "chinese": "你帮我洗碗吗？",
+      "pinyin": "Nǐ bāng wǒ xǐ wǎn ma?",
+      "translation": "Will you help me wash dishes?",
+      "usage": "Asking for assistance with dishwashing.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "帮",
+          "py": "bāng",
+          "meaning": "to help"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "me"
+        },
+        {
+          "zh": "洗",
+          "py": "xǐ",
+          "meaning": "to wash"
+        },
+        {
+          "zh": "碗",
+          "py": "wǎn",
+          "meaning": "dish"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "我需要买新拖鞋。",
+      "pinyin": "Wǒ xūyào mǎi xīn tuōxié.",
+      "translation": "I need to buy new slippers.",
+      "usage": "Expressing a need for household items.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "需要",
+          "py": "xūyào",
+          "meaning": "need"
+        },
+        {
+          "zh": "买",
+          "py": "mǎi",
+          "meaning": "to buy"
+        },
+        {
+          "zh": "新",
+          "py": "xīn",
+          "meaning": "new"
+        },
+        {
+          "zh": "拖鞋",
+          "py": "tuōxié",
+          "meaning": "slippers"
+        }
+      ]
+    },
+    {
+      "chinese": "洗衣服要用水。",
+      "pinyin": "Xǐ yīfu yào yòng shuǐ.",
+      "translation": "Washing clothes requires water.",
+      "usage": "Explaining what's needed for doing laundry.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "洗",
+          "py": "xǐ",
+          "meaning": "to wash"
+        },
+        {
+          "zh": "衣服",
+          "py": "yīfu",
+          "meaning": "clothes"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "requires"
+        },
+        {
+          "zh": "用",
+          "py": "yòng",
+          "meaning": "to use"
+        },
+        {
+          "zh": "水",
+          "py": "shuǐ",
+          "meaning": "water"
+        }
+      ]
+    },
+    {
+      "chinese": "我昨天洗了衣服。",
+      "pinyin": "Wǒ zuótiān xǐ le yīfu.",
+      "translation": "I washed clothes yesterday.",
+      "usage": "Describing a completed chore from the past.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "昨天",
+          "py": "zuótiān",
+          "meaning": "yesterday"
+        },
+        {
+          "zh": "洗",
+          "py": "xǐ",
+          "meaning": "to wash"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed"
+        },
+        {
+          "zh": "衣服",
+          "py": "yīfu",
+          "meaning": "clothes"
+        }
+      ]
+    },
+    {
+      "chinese": "请把衣服晾起来。",
+      "pinyin": "Qǐng bǎ yīfu liáng qǐlái.",
+      "translation": "Please hang up the clothes.",
+      "usage": "Requesting to put clothes on a line to dry.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "把",
+          "py": "bǎ",
+          "meaning": "to (object marker)"
+        },
+        {
+          "zh": "衣服",
+          "py": "yīfu",
+          "meaning": "clothes"
+        },
+        {
+          "zh": "晾",
+          "py": "liáng",
+          "meaning": "to air dry"
+        },
+        {
+          "zh": "起来",
+          "py": "qǐlái",
+          "meaning": "up"
+        }
+      ]
+    },
+    {
+      "chinese": "我洗完衣服后会熨烫。",
+      "pinyin": "Wǒ xǐ wán yīfu hòu huì yùntàng.",
+      "translation": "After I wash clothes, I will iron them.",
+      "usage": "Describing a follow-up chore after laundry.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "洗",
+          "py": "xǐ",
+          "meaning": "to wash"
+        },
+        {
+          "zh": "完",
+          "py": "wán",
+          "meaning": "finished"
+        },
+        {
+          "zh": "衣服",
+          "py": "yīfu",
+          "meaning": "clothes"
+        },
+        {
+          "zh": "后",
+          "py": "hòu",
+          "meaning": "after"
+        },
+        {
+          "zh": "会",
+          "py": "huì",
+          "meaning": "will"
+        },
+        {
+          "zh": "熨烫",
+          "py": "yùntàng",
+          "meaning": "to iron"
+        }
+      ]
+    },
+    {
+      "chinese": "洗碗机洗得很干净。",
+      "pinyin": "Xǐ wǎn jī xǐ de hěn gānjìng.",
+      "translation": "The dishwasher washes very cleanly.",
+      "usage": "Describing the effectiveness of a dishwasher.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "洗碗机",
+          "py": "xǐ wǎn jī",
+          "meaning": "dishwasher"
+        },
+        {
+          "zh": "洗",
+          "py": "xǐ",
+          "meaning": "to wash"
+        },
+        {
+          "zh": "得",
+          "py": "de",
+          "meaning": "so"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "干净",
+          "py": "gānjìng",
+          "meaning": "clean"
+        }
+      ]
+    }
+  ]
+}

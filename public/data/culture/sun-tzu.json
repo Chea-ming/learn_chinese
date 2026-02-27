@@ -1,0 +1,85 @@
+{
+  "sentences": [
+    {
+      "chinese": "知己知彼，百战不殆。",
+      "pinyin": "Zhī jǐ zhī bǐ, bǎi zhàn bù dài.",
+      "translation": "Know yourself and know your enemy, and you can fight a hundred battles without danger.",
+      "usage": "A core principle of Sun Tzu's strategy emphasizing mutual understanding.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "知己",
+          "py": "zhī jǐ",
+          "meaning": "know oneself"
+        },
+        {
+          "zh": "知彼",
+          "py": "zhī bǐ",
+          "meaning": "know the enemy"
+        },
+        {
+          "zh": "百战不殆",
+          "py": "bǎi zhàn bù dài",
+          "meaning": "unbeatable in battle"
+        }
+      ]
+    },
+    {
+      "chinese": "兵者，诡道也。",
+      "pinyin": "Bīng zhě, guǐ dào yě.",
+      "translation": "War is deception.",
+      "usage": "Highlights the importance of deception in military strategy.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "兵",
+          "py": "bīng",
+          "meaning": "war"
+        },
+        {
+          "zh": "诡道",
+          "py": "guǐ dào",
+          "meaning": "deceptive methods"
+        }
+      ]
+    },
+    {
+      "chinese": "不战而屈人之兵，善之善者也。",
+      "pinyin": "Bù zhàn ér qū rén zhī bīng, shàn zhī shàn zhě yě.",
+      "translation": "To subdue the enemy without fighting is the most excellent way.",
+      "usage": "Stresses non-violent conquest as the highest skill.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "不战",
+          "py": "bù zhàn",
+          "meaning": "without fighting"
+        },
+        {
+          "zh": "屈人之兵",
+          "py": "qū rén zhī bīng",
+          "meaning": "subdue the enemy's forces"
+        }
+      ]
+    },
+    {
+      "chinese": "以正合，以奇胜。",
+      "pinyin": "Yǐ zhèng hé, yǐ qí shèng.",
+      "translation": "By direct and regular methods we gain a partial victory; by extraordinary ones we gain a complete victory.",
+      "usage": "Emphasizes balancing conventional and unconventional tactics.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "以正合",
+          "py": "yǐ zhèng hé",
+          "meaning": "using orthodox methods"
+        },
+        {
+          "zh": "以奇胜",
+          "py": "yǐ qí shèng",
+          "meaning": "achieving victory through innovation"
+        }
+      ]
+    }
+  ]
+}

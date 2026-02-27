@@ -1,0 +1,246 @@
+{
+  "sentences": [
+    {
+      "chinese": "中国绘画讲究意境。",
+      "pinyin": "Zhōngguó huàhuì jiǎngjiū yìjìng.",
+      "translation": "Chinese painting emphasizes artistic conception.",
+      "usage": "Explaining the philosophy behind traditional Chinese painting.",
+      "formality": "Academic",
+      "words": [
+        {
+          "zh": "中国",
+          "py": "Zhōngguó",
+          "meaning": "China"
+        },
+        {
+          "zh": "绘画",
+          "py": "huàhuì",
+          "meaning": "painting"
+        },
+        {
+          "zh": "讲究",
+          "py": "jiǎngjiū",
+          "meaning": "emphasize"
+        },
+        {
+          "zh": "意境",
+          "py": "yìjìng",
+          "meaning": "artistic conception"
+        }
+      ]
+    },
+    {
+      "chinese": "书法是汉字的艺术。",
+      "pinyin": "Shūfǎ shì Hànzì de yìshù.",
+      "translation": "Calligraphy is the art of Chinese characters.",
+      "usage": "Introducing the concept of Chinese calligraphy.",
+      "formality": "Educational",
+      "words": [
+        {
+          "zh": "书法",
+          "py": "shūfǎ",
+          "meaning": "calligraphy"
+        },
+        {
+          "zh": "汉字",
+          "py": "Hànzì",
+          "meaning": "Chinese characters"
+        },
+        {
+          "zh": "艺术",
+          "py": "yìshù",
+          "meaning": "art"
+        }
+      ]
+    },
+    {
+      "chinese": "京剧脸谱象征人物性格。",
+      "pinyin": "Jīngjù liǎnsù zhàngxiàng rénwù xìnggé.",
+      "translation": "Peking opera facial makeup symbolizes characters' personalities.",
+      "usage": "Describing the symbolic system in Peking opera.",
+      "formality": "Cultural explanation",
+      "words": [
+        {
+          "zh": "京剧",
+          "py": "Jīngjù",
+          "meaning": "Peking opera"
+        },
+        {
+          "zh": "脸谱",
+          "py": "liǎnsù",
+          "meaning": "facial makeup"
+        },
+        {
+          "zh": "象征",
+          "py": "zhàngxiàng",
+          "meaning": "symbolize"
+        },
+        {
+          "zh": "人物",
+          "py": "rénwù",
+          "meaning": "character"
+        },
+        {
+          "zh": "性格",
+          "py": "xìnggé",
+          "meaning": "personality"
+        }
+      ]
+    },
+    {
+      "chinese": "剪纸艺术传承千年。",
+      "pinyin": "Jiǎnzhǐ yìshù chuánchéng qiānnián.",
+      "translation": "Paper-cutting art has been passed down for thousands of years.",
+      "usage": "Highlighting the history of folk art.",
+      "formality": "Cultural",
+      "words": [
+        {
+          "zh": "剪纸",
+          "py": "jiǎnzhǐ",
+          "meaning": "paper-cutting"
+        },
+        {
+          "zh": "艺术",
+          "py": "yìshù",
+          "meaning": "art"
+        },
+        {
+          "zh": "传承",
+          "py": "chuánchéng",
+          "meaning": "pass down"
+        },
+        {
+          "zh": "千年",
+          "py": "qiānnián",
+          "meaning": "thousands of years"
+        }
+      ]
+    },
+    {
+      "chinese": "青花瓷是陶瓷艺术瑰宝。",
+      "pinyin": "Qīnghuācí shì táocí yìshù guībǎo.",
+      "translation": "Blue and white porcelain is a treasure of ceramic art.",
+      "usage": "Describing Chinese porcelain craftsmanship.",
+      "formality": "Cultural",
+      "words": [
+        {
+          "zh": "青花瓷",
+          "py": "Qīnghuācí",
+          "meaning": "blue and white porcelain"
+        },
+        {
+          "zh": "陶瓷",
+          "py": "táocí",
+          "meaning": "ceramics"
+        },
+        {
+          "zh": "艺术",
+          "py": "yìshù",
+          "meaning": "art"
+        },
+        {
+          "zh": "瑰宝",
+          "py": "guībǎo",
+          "meaning": "treasure"
+        }
+      ]
+    },
+    {
+      "chinese": "水墨画以黑白色彩表现意境。",
+      "pinyin": "Shuǐmò huà yǐ hēi bái sècǎi biǎoxiàn yìjìng.",
+      "translation": "Ink wash painting uses black and white to express artistic conception.",
+      "usage": "Explaining the monochrome nature of traditional painting.",
+      "formality": "Academic",
+      "words": [
+        {
+          "zh": "水墨",
+          "py": "shuǐmò",
+          "meaning": "ink wash"
+        },
+        {
+          "zh": "画",
+          "py": "huà",
+          "meaning": "painting"
+        },
+        {
+          "zh": "黑白",
+          "py": "hēi bái",
+          "meaning": "black and white"
+        },
+        {
+          "zh": "色彩",
+          "py": "sècǎi",
+          "meaning": "color"
+        },
+        {
+          "zh": "表现",
+          "py": "biǎoxiàn",
+          "meaning": "express"
+        },
+        {
+          "zh": "意境",
+          "py": "yìjìng",
+          "meaning": "artistic conception"
+        }
+      ]
+    },
+    {
+      "chinese": "刺绣作品常饰以金线。",
+      "pinyin": "Cìxiù zuòpǐn cháng shì yǐ jīn xiàn.",
+      "translation": "Embroidery works are often decorated with gold threads.",
+      "usage": "Describing traditional Chinese embroidery techniques.",
+      "formality": "Cultural",
+      "words": [
+        {
+          "zh": "刺绣",
+          "py": "cìxiù",
+          "meaning": "embroidery"
+        },
+        {
+          "zh": "作品",
+          "py": "zuòpǐn",
+          "meaning": "work"
+        },
+        {
+          "zh": "装饰",
+          "py": "zhuāngshì",
+          "meaning": "decorate"
+        },
+        {
+          "zh": "金线",
+          "py": "jīn xiàn",
+          "meaning": "gold thread"
+        }
+      ]
+    },
+    {
+      "chinese": "皮影戏用灯光投射故事。",
+      "pinyin": "Píyǐng xì yòng dēngguāng tóushè gùshì.",
+      "translation": "Shadow puppetry uses light projection to tell stories.",
+      "usage": "Explaining traditional Chinese shadow theater.",
+      "formality": "Educational",
+      "words": [
+        {
+          "zh": "皮影戏",
+          "py": "píyǐng xì",
+          "meaning": "shadow puppetry"
+        },
+        {
+          "zh": "灯光",
+          "py": "dēngguāng",
+          "meaning": "light"
+        },
+        {
+          "zh": "投射",
+          "py": "tóushè",
+          "meaning": "project"
+        },
+        {
+          "zh": "故事",
+          "py": "gùshì",
+          "meaning": "story"
+        }
+      ]
+    }
+  ]
+}

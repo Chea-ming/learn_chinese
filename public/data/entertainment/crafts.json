@@ -1,0 +1,242 @@
+{
+  "sentences": [
+    {
+      "chinese": "手工制作",
+      "pinyin": "Shǒugōng zhìzuò",
+      "translation": "Handicraft making",
+      "usage": "General term for DIY crafts.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "手工",
+          "py": "shǒugōng",
+          "meaning": "handmade"
+        },
+        {
+          "zh": "制作",
+          "py": "zhìzuò",
+          "meaning": "making"
+        }
+      ]
+    },
+    {
+      "chinese": "编织毛衣",
+      "pinyin": "Biānzhī máoyī",
+      "translation": "Knitting a sweater",
+      "usage": "Refers to knitting projects.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "编织",
+          "py": "biānzhī",
+          "meaning": "weaving"
+        },
+        {
+          "zh": "毛衣",
+          "py": "máoyī",
+          "meaning": "sweater"
+        }
+      ]
+    },
+    {
+      "chinese": "木工工具",
+      "pinyin": "Mùgōng gōngjù",
+      "translation": "Woodworking tools",
+      "usage": "Describes tools for woodworking projects.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "木工",
+          "py": "mùgōng",
+          "meaning": "woodworking"
+        },
+        {
+          "zh": "工具",
+          "py": "gōngjù",
+          "meaning": "tools"
+        }
+      ]
+    },
+    {
+      "chinese": "缝纫机",
+      "pinyin": "Féngrèn jī",
+      "translation": "Sewing machine",
+      "usage": "Used for sewing projects.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "缝纫",
+          "py": "féng rèn",
+          "meaning": "sewing"
+        },
+        {
+          "zh": "机",
+          "py": "jī",
+          "meaning": "machine"
+        }
+      ]
+    },
+    {
+      "chinese": "手工艺市场",
+      "pinyin": "Shǒugōngyì shìchǎng",
+      "translation": "Craft market",
+      "usage": "Refers to markets selling handmade items.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "手工艺",
+          "py": "shǒugōngyì",
+          "meaning": "handicrafts"
+        },
+        {
+          "zh": "市场",
+          "py": "shìchǎng",
+          "meaning": "market"
+        }
+      ]
+    },
+    {
+      "chinese": "教我做蜡笔画",
+      "pinyin": "Jiào wǒ zuò làbǐ huà",
+      "translation": "Teach me to make crayon art",
+      "usage": "Requesting a tutorial for a craft.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "教",
+          "py": "jiào",
+          "meaning": "teach"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "me"
+        },
+        {
+          "zh": "做",
+          "py": "zuò",
+          "meaning": "make"
+        },
+        {
+          "zh": "蜡笔画",
+          "py": "lábǐ huà",
+          "meaning": "crayon drawing"
+        }
+      ]
+    },
+    {
+      "chinese": "废物利用",
+      "pinyin": "Fèiwù lìyòng",
+      "translation": "Upcycling",
+      "usage": "Creative reuse of discarded materials.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "废物",
+          "py": "fèiwù",
+          "meaning": "waste"
+        },
+        {
+          "zh": "利用",
+          "py": "lìyòng",
+          "meaning": "utilize"
+        }
+      ]
+    },
+    {
+      "chinese": "陶艺体验",
+      "pinyin": "Táo yì tǐyàn",
+      "translation": "Pottery experience",
+      "usage": "Activity involving making pottery.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "陶艺",
+          "py": "táo yì",
+          "meaning": "pottery art"
+        },
+        {
+          "zh": "体验",
+          "py": "tǐyàn",
+          "meaning": "experience"
+        }
+      ]
+    },
+    {
+      "chinese": "刺绣图案",
+      "pinyin": "Cìxiù tú'àn",
+      "translation": "Embroidery patterns",
+      "usage": "Refers to designs for embroidery.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "刺绣",
+          "py": "cìxiù",
+          "meaning": "embroidery"
+        },
+        {
+          "zh": "图案",
+          "py": "tú'àn",
+          "meaning": "patterns"
+        }
+      ]
+    },
+    {
+      "chinese": "自制玩具",
+      "pinyin": "Zìzhì wánjù",
+      "translation": "Homemade toys",
+      "usage": "DIY projects for children.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "自制",
+          "py": "zìzhì",
+          "meaning": "self-made"
+        },
+        {
+          "zh": "玩具",
+          "py": "wánjù",
+          "meaning": "toys"
+        }
+      ]
+    },
+    {
+      "chinese": "布艺拼贴",
+      "pinyin": "Bùyì pīn tiē",
+      "translation": "Fabric collage",
+      "usage": "Creating art with fabric scraps.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "布艺",
+          "py": "bùyì",
+          "meaning": "fabric art"
+        },
+        {
+          "zh": "拼贴",
+          "py": "pīn tiē",
+          "meaning": "collage"
+        }
+      ]
+    },
+    {
+      "chinese": "木雕艺术",
+      "pinyin": "Mùdiāo yìshù",
+      "translation": "Wood carving art",
+      "usage": "Creative woodworking technique.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "木雕",
+          "py": "mùdiāo",
+          "meaning": "wood carving"
+        },
+        {
+          "zh": "艺术",
+          "py": "yìshù",
+          "meaning": "art"
+        }
+      ]
+    }
+  ]
+}

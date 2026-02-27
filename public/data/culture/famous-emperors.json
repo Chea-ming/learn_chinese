@@ -1,0 +1,158 @@
+{
+  "sentences": [
+    {
+      "chinese": "秦始皇统一六国，建立了中央集权。",
+      "pinyin": "Qín Shǐhuáng tǒngyī liù guó, jiànlìle zhōngyāng jíquán.",
+      "translation": "Qin Shi Huang unified the six states and established a centralized authority.",
+      "usage": "Describes his political achievements and the foundation of imperial China.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "秦始皇",
+          "py": "Qín Shǐhuáng",
+          "meaning": "Qin Shi Huang"
+        },
+        {
+          "zh": "统一",
+          "py": "tǒngyī",
+          "meaning": "unify"
+        },
+        {
+          "zh": "六国",
+          "py": "liù guó",
+          "meaning": "six states"
+        },
+        {
+          "zh": "中央集权",
+          "py": "zhōngyāng jíquán",
+          "meaning": "centralized authority"
+        }
+      ]
+    },
+    {
+      "chinese": "汉武帝开拓丝绸之路，促进中西交流。",
+      "pinyin": "Hàn Wǔdì kāituò sīzhī lù, cùjìn zhōngxī jiāoliú.",
+      "translation": "Han Wu Di expanded the Silk Road, promoting Sino-Western exchanges.",
+      "usage": "Highlights his role in global trade networks.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "汉武帝",
+          "py": "Hàn Wǔdì",
+          "meaning": "Han Wu Di"
+        },
+        {
+          "zh": "开拓",
+          "py": "kāituò",
+          "meaning": "expand"
+        },
+        {
+          "zh": "丝绸之路",
+          "py": "sīzhī lù",
+          "meaning": "Silk Road"
+        },
+        {
+          "zh": "促进",
+          "py": "cùjìn",
+          "meaning": "promote"
+        }
+      ]
+    },
+    {
+      "chinese": "唐太宗以文治武功著称。",
+      "pinyin": "Táng Tàizōng yǐ wénzhì wǔgōng zhùchēng.",
+      "translation": "Tang Taizong is renowned for his cultural and military achievements.",
+      "usage": "Used to praise his governance and military strategy.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "唐太宗",
+          "py": "Táng Tàizōng",
+          "meaning": "Tang Taizong"
+        },
+        {
+          "zh": "文治武功",
+          "py": "wénzhì wǔgōng",
+          "meaning": "civil and military accomplishments"
+        },
+        {
+          "zh": "著称",
+          "py": "zhùchēng",
+          "meaning": "renowned"
+        }
+      ]
+    },
+    {
+      "chinese": "武则天是中国历史上唯一的女皇帝。",
+      "pinyin": "Wǔ Zétiān shì zhōngguó lìshǐ shàng wéi yī de nǚ huángdì.",
+      "translation": "Wu Zetian is the only female emperor in Chinese history.",
+      "usage": "Highlights her unique position in imperial history.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "武则天",
+          "py": "Wǔ Zétiān",
+          "meaning": "Wu Zetian"
+        },
+        {
+          "zh": "唯一",
+          "py": "wéi yī",
+          "meaning": "only"
+        },
+        {
+          "zh": "女皇帝",
+          "py": "nǚ huángdì",
+          "meaning": "female emperor"
+        }
+      ]
+    },
+    {
+      "chinese": "康熙帝平定三藩，巩固清朝统治。",
+      "pinyin": "Kāngxī dì píngdìng sān fān, gǒnggù qīngcháo zhìrùn.",
+      "translation": "Emperor Kangxi pacified the Three Feudatories, consolidating Qing rule.",
+      "usage": "Refers to his military campaigns to stabilize the empire.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "康熙帝",
+          "py": "Kāngxī dì",
+          "meaning": "Emperor Kangxi"
+        },
+        {
+          "zh": "平定",
+          "py": "píngdìng",
+          "meaning": "pacify"
+        },
+        {
+          "zh": "三藩",
+          "py": "sān fān",
+          "meaning": "Three Feudatories"
+        },
+        {
+          "zh": "巩固",
+          "py": "gǒnggù",
+          "meaning": "consolidate"
+        }
+      ]
+    },
+    {
+      "chinese": "乾隆帝编纂《四库全书》，推动文化发展。",
+      "pinyin": "Qiánlóng dì biānzhuàn 《Sìkù Quánshū》, tuīdòng wénhuà fāzhǎn.",
+      "translation": "Emperor Qianlong compiled the 'Four Treasuries of Books,' promoting cultural development.",
+      "usage": "Mentions his contribution to preserving Chinese literature.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "乾隆帝",
+          "py": "Qiánlóng dì",
+          "meaning": "Emperor Qianlong"
+        },
+        {
+          "zh": "编纂",
+          "py": "biānzhuàn",
+          "meaning": "compile"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,859 @@
+{
+  "sentences": [
+    {
+      "chinese": "我想订一张机票。",
+      "pinyin": "Wǒ xiǎng dìng yī zhāng jīpiào.",
+      "translation": "I want to book a plane ticket.",
+      "usage": "Used when making a reservation for a flight.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "想",
+          "py": "xiǎng",
+          "meaning": "want to"
+        },
+        {
+          "zh": "订",
+          "py": "dìng",
+          "meaning": "to book"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "张",
+          "py": "zhāng",
+          "meaning": "sheet / piece"
+        },
+        {
+          "zh": "机票",
+          "py": "jīpiào",
+          "meaning": "air ticket"
+        }
+      ]
+    },
+    {
+      "chinese": "请问，火车票还有吗？",
+      "pinyin": "Qǐng wèn, huǒchē piào hái yǒu ma?",
+      "translation": "Excuse me, are there any train tickets left?",
+      "usage": "Used when checking availability of train tickets.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请问",
+          "py": "qǐng wèn",
+          "meaning": "excuse me"
+        },
+        {
+          "zh": "火车",
+          "py": "huǒchē",
+          "meaning": "train"
+        },
+        {
+          "zh": "票",
+          "py": "piào",
+          "meaning": "ticket"
+        },
+        {
+          "zh": "还",
+          "py": "hái",
+          "meaning": "still"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "to have"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "我要预订一个房间。",
+      "pinyin": "Wǒ yào yùdìng yī gè fángjiān.",
+      "translation": "I want to book a room.",
+      "usage": "Used when making hotel reservations.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "want to"
+        },
+        {
+          "zh": "预订",
+          "py": "yùdìng",
+          "meaning": "to reserve"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "个",
+          "py": "gè",
+          "meaning": "measure word"
+        },
+        {
+          "zh": "房间",
+          "py": "fángjiān",
+          "meaning": "room"
+        }
+      ]
+    },
+    {
+      "chinese": "可以帮我订票吗？",
+      "pinyin": "Kěyǐ bāng wǒ dìng piào ma?",
+      "translation": "Can you help me book a ticket?",
+      "usage": "Used when asking someone to assist with booking.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "可以",
+          "py": "kěyǐ",
+          "meaning": "can"
+        },
+        {
+          "zh": "帮",
+          "py": "bāng",
+          "meaning": "to help"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "me"
+        },
+        {
+          "zh": "订",
+          "py": "dìng",
+          "meaning": "to book"
+        },
+        {
+          "zh": "票",
+          "py": "piào",
+          "meaning": "ticket"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "我想买两张电影票。",
+      "pinyin": "Wǒ xiǎng mǎi liǎng zhāng diànyǐng piào.",
+      "translation": "I want to buy two movie tickets.",
+      "usage": "Used when purchasing movie tickets.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "想",
+          "py": "xiǎng",
+          "meaning": "want to"
+        },
+        {
+          "zh": "买",
+          "py": "mǎi",
+          "meaning": "to buy"
+        },
+        {
+          "zh": "两",
+          "py": "liǎng",
+          "meaning": "two"
+        },
+        {
+          "zh": "张",
+          "py": "zhāng",
+          "meaning": "sheet / piece"
+        },
+        {
+          "zh": "电影",
+          "py": "diànyǐng",
+          "meaning": "movie"
+        },
+        {
+          "zh": "票",
+          "py": "piào",
+          "meaning": "ticket"
+        }
+      ]
+    },
+    {
+      "chinese": "请给我一张回程票。",
+      "pinyin": "Qǐng gěi wǒ yī zhāng huíchéng piào.",
+      "translation": "Please give me a return ticket.",
+      "usage": "Used when requesting a return ticket.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "给",
+          "py": "gěi",
+          "meaning": "to give"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "me"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "张",
+          "py": "zhāng",
+          "meaning": "sheet / piece"
+        },
+        {
+          "zh": "回程",
+          "py": "huíchéng",
+          "meaning": "return journey"
+        },
+        {
+          "zh": "票",
+          "py": "piào",
+          "meaning": "ticket"
+        }
+      ]
+    },
+    {
+      "chinese": "我需要提前订票。",
+      "pinyin": "Wǒ xūyào tíqián dìng piào.",
+      "translation": "I need to book tickets in advance.",
+      "usage": "Used when explaining the need for advance booking.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "需要",
+          "py": "xūyào",
+          "meaning": "need"
+        },
+        {
+          "zh": "提前",
+          "py": "tíqián",
+          "meaning": "in advance"
+        },
+        {
+          "zh": "订",
+          "py": "dìng",
+          "meaning": "to book"
+        },
+        {
+          "zh": "票",
+          "py": "piào",
+          "meaning": "ticket"
+        }
+      ]
+    },
+    {
+      "chinese": "请问，这个座位还有吗？",
+      "pinyin": "Qǐng wèn, zhège zuòwèi hái yǒu ma?",
+      "translation": "Excuse me, is this seat still available?",
+      "usage": "Used when checking seat availability.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请问",
+          "py": "qǐng wèn",
+          "meaning": "excuse me"
+        },
+        {
+          "zh": "这个",
+          "py": "zhège",
+          "meaning": "this"
+        },
+        {
+          "zh": "座位",
+          "py": "zuòwèi",
+          "meaning": "seat"
+        },
+        {
+          "zh": "还",
+          "py": "hái",
+          "meaning": "still"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "to have"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "我要订一间双人房。",
+      "pinyin": "Wǒ yào dìng yī jiān shuāngrén fáng.",
+      "translation": "I want to book a double room.",
+      "usage": "Used when booking a hotel room for two people.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "want to"
+        },
+        {
+          "zh": "订",
+          "py": "dìng",
+          "meaning": "to book"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "间",
+          "py": "jiān",
+          "meaning": "room"
+        },
+        {
+          "zh": "双人",
+          "py": "shuāngrén",
+          "meaning": "double"
+        },
+        {
+          "zh": "房",
+          "py": "fáng",
+          "meaning": "room"
+        }
+      ]
+    },
+    {
+      "chinese": "可以帮我查一下时间吗？",
+      "pinyin": "Kěyǐ bāng wǒ chá yīxià shíjiān ma?",
+      "translation": "Can you help me check the time?",
+      "usage": "Used when asking someone to check a schedule.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "可以",
+          "py": "kěyǐ",
+          "meaning": "can"
+        },
+        {
+          "zh": "帮",
+          "py": "bāng",
+          "meaning": "to help"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "me"
+        },
+        {
+          "zh": "查",
+          "py": "chá",
+          "meaning": "to check"
+        },
+        {
+          "zh": "一下",
+          "py": "yīxià",
+          "meaning": "a little"
+        },
+        {
+          "zh": "时间",
+          "py": "shíjiān",
+          "meaning": "time"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "我想订一张硬座票。",
+      "pinyin": "Wǒ xiǎng dìng yī zhāng yìngzuò piào.",
+      "translation": "I want to book a hard seat ticket.",
+      "usage": "Used when booking train tickets with hard seats.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "想",
+          "py": "xiǎng",
+          "meaning": "want to"
+        },
+        {
+          "zh": "订",
+          "py": "dìng",
+          "meaning": "to book"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "张",
+          "py": "zhāng",
+          "meaning": "sheet / piece"
+        },
+        {
+          "zh": "硬座",
+          "py": "yìngzuò",
+          "meaning": "hard seat"
+        },
+        {
+          "zh": "票",
+          "py": "piào",
+          "meaning": "ticket"
+        }
+      ]
+    },
+    {
+      "chinese": "请问，我要怎么订票？",
+      "pinyin": "Qǐng wèn, wǒ yào zěnme dìng piào?",
+      "translation": "Excuse me, how do I book a ticket?",
+      "usage": "Used when asking for instructions on booking.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请问",
+          "py": "qǐng wèn",
+          "meaning": "excuse me"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "want to"
+        },
+        {
+          "zh": "怎么",
+          "py": "zěnme",
+          "meaning": "how"
+        },
+        {
+          "zh": "订",
+          "py": "dìng",
+          "meaning": "to book"
+        },
+        {
+          "zh": "票",
+          "py": "piào",
+          "meaning": "ticket"
+        }
+      ]
+    },
+    {
+      "chinese": "我想要一个靠窗的座位。",
+      "pinyin": "Wǒ xiǎng yào yī gè kàochuāng de zuòwèi.",
+      "translation": "I want a window seat.",
+      "usage": "Used when requesting a specific type of seat.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "想",
+          "py": "xiǎng",
+          "meaning": "want to"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "to want"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "个",
+          "py": "gè",
+          "meaning": "measure word"
+        },
+        {
+          "zh": "靠窗",
+          "py": "kàochuāng",
+          "meaning": "window side"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive particle"
+        },
+        {
+          "zh": "座位",
+          "py": "zuòwèi",
+          "meaning": "seat"
+        }
+      ]
+    },
+    {
+      "chinese": "请问，我可以提前多久订票？",
+      "pinyin": "Qǐng wèn, wǒ kěyǐ tíqián duōjiǔ dìng piào?",
+      "translation": "Excuse me, how early can I book a ticket?",
+      "usage": "Used when asking about booking time limits.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请问",
+          "py": "qǐng wèn",
+          "meaning": "excuse me"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "可以",
+          "py": "kěyǐ",
+          "meaning": "can"
+        },
+        {
+          "zh": "提前",
+          "py": "tíqián",
+          "meaning": "in advance"
+        },
+        {
+          "zh": "多久",
+          "py": "duōjiǔ",
+          "meaning": "how long"
+        },
+        {
+          "zh": "订",
+          "py": "dìng",
+          "meaning": "to book"
+        },
+        {
+          "zh": "票",
+          "py": "piào",
+          "meaning": "ticket"
+        }
+      ]
+    },
+    {
+      "chinese": "我要订两张儿童票。",
+      "pinyin": "Wǒ yào dìng liǎng zhāng értóng piào.",
+      "translation": "I want to book two children's tickets.",
+      "usage": "Used when booking tickets for children.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "want to"
+        },
+        {
+          "zh": "订",
+          "py": "dìng",
+          "meaning": "to book"
+        },
+        {
+          "zh": "两",
+          "py": "liǎng",
+          "meaning": "two"
+        },
+        {
+          "zh": "张",
+          "py": "zhāng",
+          "meaning": "piece"
+        },
+        {
+          "zh": "儿童",
+          "py": "értóng",
+          "meaning": "children"
+        },
+        {
+          "zh": "票",
+          "py": "piào",
+          "meaning": "ticket"
+        }
+      ]
+    },
+    {
+      "chinese": "请问，这个座位是哪个航班的？",
+      "pinyin": "Qǐng wèn, zhège zuòwèi shì nǎge hángbān de?",
+      "translation": "Excuse me, which flight is this seat for?",
+      "usage": "Used when asking about flight information for a seat.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请问",
+          "py": "qǐng wèn",
+          "meaning": "excuse me"
+        },
+        {
+          "zh": "这个",
+          "py": "zhège",
+          "meaning": "this"
+        },
+        {
+          "zh": "座位",
+          "py": "zuòwèi",
+          "meaning": "seat"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "is"
+        },
+        {
+          "zh": "哪个",
+          "py": "nǎge",
+          "meaning": "which"
+        },
+        {
+          "zh": "航班",
+          "py": "hángbān",
+          "meaning": "flight"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive particle"
+        }
+      ]
+    },
+    {
+      "chinese": "我需要订一个单人房。",
+      "pinyin": "Wǒ xūyào dìng yī gè dānrén fáng.",
+      "translation": "I need to book a single room.",
+      "usage": "Used when booking a hotel room for one person.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "需要",
+          "py": "xūyào",
+          "meaning": "need to"
+        },
+        {
+          "zh": "订",
+          "py": "dìng",
+          "meaning": "to book"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "个",
+          "py": "gè",
+          "meaning": "measure word"
+        },
+        {
+          "zh": "单人",
+          "py": "dānrén",
+          "meaning": "single"
+        },
+        {
+          "zh": "房",
+          "py": "fáng",
+          "meaning": "room"
+        }
+      ]
+    },
+    {
+      "chinese": "请问，我可以在网上订票吗？",
+      "pinyin": "Qǐng wèn, wǒ kěyǐ zài wǎngshàng dìng piào ma?",
+      "translation": "Excuse me, can I book tickets online?",
+      "usage": "Used when asking about online booking options.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请问",
+          "py": "qǐng wèn",
+          "meaning": "excuse me"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "可以",
+          "py": "kěyǐ",
+          "meaning": "can"
+        },
+        {
+          "zh": "在",
+          "py": "zài",
+          "meaning": "on"
+        },
+        {
+          "zh": "网上",
+          "py": "wǎngshàng",
+          "meaning": "online"
+        },
+        {
+          "zh": "订",
+          "py": "dìng",
+          "meaning": "to book"
+        },
+        {
+          "zh": "票",
+          "py": "piào",
+          "meaning": "ticket"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "我想订一张卧铺票。",
+      "pinyin": "Wǒ xiǎng dìng yī zhāng wòpū piào.",
+      "translation": "I want to book a sleeper ticket.",
+      "usage": "Used when booking train tickets with sleeping berths.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "想",
+          "py": "xiǎng",
+          "meaning": "want to"
+        },
+        {
+          "zh": "订",
+          "py": "dìng",
+          "meaning": "to book"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "张",
+          "py": "zhāng",
+          "meaning": "piece"
+        },
+        {
+          "zh": "卧铺",
+          "py": "wòpū",
+          "meaning": "sleeper"
+        },
+        {
+          "zh": "票",
+          "py": "piào",
+          "meaning": "ticket"
+        }
+      ]
+    },
+    {
+      "chinese": "请问，我订的票什么时候开始？",
+      "pinyin": "Qǐng wèn, wǒ dìng de piào shénme shíhou kāishǐ?",
+      "translation": "Excuse me, when does my booked ticket start?",
+      "usage": "Used when asking about the start time of a booked ticket.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请问",
+          "py": "qǐng wèn",
+          "meaning": "excuse me"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "订",
+          "py": "dìng",
+          "meaning": "to book"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive particle"
+        },
+        {
+          "zh": "票",
+          "py": "piào",
+          "meaning": "ticket"
+        },
+        {
+          "zh": "什么",
+          "py": "shénme",
+          "meaning": "what"
+        },
+        {
+          "zh": "时候",
+          "py": "shíhou",
+          "meaning": "time"
+        },
+        {
+          "zh": "开始",
+          "py": "kāishǐ",
+          "meaning": "start"
+        }
+      ]
+    }
+  ]
+}

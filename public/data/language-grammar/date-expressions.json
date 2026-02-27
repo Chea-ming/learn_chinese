@@ -1,0 +1,186 @@
+{
+  "sentences": [
+    {
+      "chinese": "今天",
+      "pinyin": "Jīntiān",
+      "translation": "Today",
+      "usage": "Used to refer to the current day.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "今",
+          "py": "jīn",
+          "meaning": "now"
+        },
+        {
+          "zh": "天",
+          "py": "tiān",
+          "meaning": "day"
+        }
+      ]
+    },
+    {
+      "chinese": "明天",
+      "pinyin": "Míngtiān",
+      "translation": "Tomorrow",
+      "usage": "Indicates the following day.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "明",
+          "py": "míng",
+          "meaning": "bright"
+        },
+        {
+          "zh": "天",
+          "py": "tiān",
+          "meaning": "day"
+        }
+      ]
+    },
+    {
+      "chinese": "昨天",
+      "pinyin": "Zuótiān",
+      "translation": "Yesterday",
+      "usage": "Refers to the previous day.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "昨",
+          "py": "zuó",
+          "meaning": "last"
+        },
+        {
+          "zh": "天",
+          "py": "tiān",
+          "meaning": "day"
+        }
+      ]
+    },
+    {
+      "chinese": "下周一",
+      "pinyin": "Xià zhōuyī",
+      "translation": "Next Monday",
+      "usage": "Specifies a future weekday.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "下",
+          "py": "xià",
+          "meaning": "next"
+        },
+        {
+          "zh": "周",
+          "py": "zhōu",
+          "meaning": "week"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        }
+      ]
+    },
+    {
+      "chinese": "上个月",
+      "pinyin": "Shàng gè yuè",
+      "translation": "Last month",
+      "usage": "Refers to the previous month.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "上",
+          "py": "shàng",
+          "meaning": "last"
+        },
+        {
+          "zh": "个",
+          "py": "gè",
+          "meaning": "a"
+        },
+        {
+          "zh": "月",
+          "py": "yuè",
+          "meaning": "month"
+        }
+      ]
+    },
+    {
+      "chinese": "现在几点了？",
+      "pinyin": "Xiànzài jǐ diǎn le?",
+      "translation": "What time is it now?",
+      "usage": "Asks for the current time.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "现",
+          "py": "xiàn",
+          "meaning": "current"
+        },
+        {
+          "zh": "在",
+          "py": "zài",
+          "meaning": "in"
+        },
+        {
+          "zh": "几",
+          "py": "jǐ",
+          "meaning": "how many"
+        },
+        {
+          "zh": "点",
+          "py": "diǎn",
+          "meaning": "o'clock"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "particle indicating completion"
+        }
+      ]
+    },
+    {
+      "chinese": "请提前预约。",
+      "pinyin": "Qǐng tíqián yuēyù.",
+      "translation": "Please make an appointment in advance.",
+      "usage": "Formal request for scheduling.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "提前",
+          "py": "tíqián",
+          "meaning": "in advance"
+        },
+        {
+          "zh": "预约",
+          "py": "yuēyù",
+          "meaning": "appointment"
+        }
+      ]
+    },
+    {
+      "chinese": "我们约在下午三点。",
+      "pinyin": "Wǒmen yuē zài xiàwǔ sān diǎn.",
+      "translation": "We’ll meet at 3 PM.",
+      "usage": "Specifies a time for a meeting.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我们",
+          "py": "wǒmen",
+          "meaning": "we"
+        },
+        {
+          "zh": "约",
+          "py": "yuē",
+          "meaning": "to arrange"
+        }
+      ]
+    }
+  ]
+}

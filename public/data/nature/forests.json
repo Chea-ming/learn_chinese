@@ -1,0 +1,305 @@
+{
+  "sentences": [
+    {
+      "chinese": "森林",
+      "pinyin": "Sēn lín",
+      "translation": "Forest",
+      "usage": "General term for a large area of trees",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "森",
+          "py": "Sēn",
+          "meaning": "dense"
+        },
+        {
+          "zh": "林",
+          "py": "Lín",
+          "meaning": "grove"
+        }
+      ]
+    },
+    {
+      "chinese": "热带雨林",
+      "pinyin": "Rèdài yǔlín",
+      "translation": "Tropical rainforest",
+      "usage": "Describes humid equatorial forests",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "热",
+          "py": "Rè",
+          "meaning": "hot"
+        },
+        {
+          "zh": "带",
+          "py": "Dài",
+          "meaning": "belt"
+        },
+        {
+          "zh": "雨",
+          "py": "Yǔ",
+          "meaning": "rain"
+        },
+        {
+          "zh": "林",
+          "py": "Lín",
+          "meaning": "forest"
+        }
+      ]
+    },
+    {
+      "chinese": "保护森林",
+      "pinyin": "Bǎohù sēnlín",
+      "translation": "Forest conservation",
+      "usage": "Environmental protection term",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "保护",
+          "py": "Bǎohù",
+          "meaning": "protect"
+        },
+        {
+          "zh": "森林",
+          "py": "Sēn lín",
+          "meaning": "forest"
+        }
+      ]
+    },
+    {
+      "chinese": "丛林",
+      "pinyin": "Cóng lín",
+      "translation": "Jungle",
+      "usage": "Refers to dense vegetation",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "丛",
+          "py": "Cóng",
+          "meaning": "thick"
+        },
+        {
+          "zh": "林",
+          "py": "Lín",
+          "meaning": "grove"
+        }
+      ]
+    },
+    {
+      "chinese": "森林生态系统",
+      "pinyin": "Sēn lín shēngtài xìtǒng",
+      "translation": "Forest ecosystem",
+      "usage": "Scientific terminology",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "森林",
+          "py": "Sēn lín",
+          "meaning": "forest"
+        },
+        {
+          "zh": "生态",
+          "py": "Shēngtài",
+          "meaning": "ecological"
+        },
+        {
+          "zh": "系统",
+          "py": "Xìtǒng",
+          "meaning": "system"
+        }
+      ]
+    },
+    {
+      "chinese": "树木",
+      "pinyin": "Shù mù",
+      "translation": "Trees",
+      "usage": "General term for woody plants",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "树",
+          "py": "Shù",
+          "meaning": "tree"
+        },
+        {
+          "zh": "木",
+          "py": "Mù",
+          "meaning": "wood"
+        }
+      ]
+    },
+    {
+      "chinese": "植被",
+      "pinyin": "Zhí wù",
+      "translation": "Vegetation",
+      "usage": "Scientific term for plant life",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "植",
+          "py": "Zhí",
+          "meaning": "plant"
+        },
+        {
+          "zh": "被",
+          "py": "Wù",
+          "meaning": "cover"
+        }
+      ]
+    },
+    {
+      "chinese": "森林大火",
+      "pinyin": "Sēn lín dà huǒ",
+      "translation": "Forest fire",
+      "usage": "Describes wildfires",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "森林",
+          "py": "Sēn lín",
+          "meaning": "forest"
+        },
+        {
+          "zh": "大",
+          "py": "Dà",
+          "meaning": "big"
+        },
+        {
+          "zh": "火",
+          "py": "Huǒ",
+          "meaning": "fire"
+        }
+      ]
+    },
+    {
+      "chinese": "森林里",
+      "pinyin": "Sēn lín lǐ",
+      "translation": "In the forest",
+      "usage": "Location marker",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "森林",
+          "py": "Sēn lín",
+          "meaning": "forest"
+        },
+        {
+          "zh": "里",
+          "py": "Lǐ",
+          "meaning": "inside"
+        }
+      ]
+    },
+    {
+      "chinese": "树多的地方",
+      "pinyin": "Shù duō de dìfāng",
+      "translation": "Place with many trees",
+      "usage": "Colloquial description",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "树",
+          "py": "Shù",
+          "meaning": "tree"
+        },
+        {
+          "zh": "多",
+          "py": "Duō",
+          "meaning": "many"
+        },
+        {
+          "zh": "地方",
+          "py": "Dìfāng",
+          "meaning": "place"
+        }
+      ]
+    },
+    {
+      "chinese": "森林动物",
+      "pinyin": "Sēn lín dòngwù",
+      "translation": "Forest animals",
+      "usage": "Wildlife classification",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "森林",
+          "py": "Sēn lín",
+          "meaning": "forest"
+        },
+        {
+          "zh": "动物",
+          "py": "Dòngwù",
+          "meaning": "animals"
+        }
+      ]
+    },
+    {
+      "chinese": "砍伐森林",
+      "pinyin": "Kǎnfá sēnlín",
+      "translation": "Deforestation",
+      "usage": "Environmental issue term",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "砍",
+          "py": "Kǎn",
+          "meaning": "cut down"
+        },
+        {
+          "zh": "伐",
+          "py": "Fá",
+          "meaning": "fell"
+        },
+        {
+          "zh": "森林",
+          "py": "Sēn lín",
+          "meaning": "forest"
+        }
+      ]
+    },
+    {
+      "chinese": "森林深处",
+      "pinyin": "Sēn lín shēnchù",
+      "translation": "Deep in the forest",
+      "usage": "Describes remote areas",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "森林",
+          "py": "Sēn lín",
+          "meaning": "forest"
+        },
+        {
+          "zh": "深",
+          "py": "Shēn",
+          "meaning": "deep"
+        },
+        {
+          "zh": "处",
+          "py": "Chù",
+          "meaning": "place"
+        }
+      ]
+    },
+    {
+      "chinese": "原始森林",
+      "pinyin": "Yīnguǐ sēnlín",
+      "translation": "Primitive forest",
+      "usage": "Undisturbed wilderness",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "原始",
+          "py": "Yīnguǐ",
+          "meaning": "primitive"
+        },
+        {
+          "zh": "森林",
+          "py": "Sēn lín",
+          "meaning": "forest"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,268 @@
+{
+  "sentences": [
+    {
+      "chinese": "针灸疗法",
+      "pinyin": "Zhēnjiǔ liàofǎ",
+      "translation": "Acupuncture therapy",
+      "usage": "A traditional treatment using needles to stimulate specific points for healing.",
+      "formality": "Technical",
+      "words": [
+        {
+          "zh": "针",
+          "py": "zhēn",
+          "meaning": "needle"
+        },
+        {
+          "zh": "灸",
+          "py": "jiǔ",
+          "meaning": "moxibustion"
+        },
+        {
+          "zh": "疗法",
+          "py": "liàofǎ",
+          "meaning": "therapy"
+        }
+      ]
+    },
+    {
+      "chinese": "中药",
+      "pinyin": "Zhōngyào",
+      "translation": "Chinese herbal medicine",
+      "usage": "Herbal remedies derived from plants, minerals, or animal products.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "中",
+          "py": "zhōng",
+          "meaning": "Chinese"
+        },
+        {
+          "zh": "药",
+          "py": "yào",
+          "meaning": "medicine"
+        }
+      ]
+    },
+    {
+      "chinese": "阴阳平衡",
+      "pinyin": "Yīnyáng pínghéng",
+      "translation": "Yin-Yang balance",
+      "usage": "Concept of maintaining harmony between opposing forces in the body.",
+      "formality": "Cultural",
+      "words": [
+        {
+          "zh": "阴",
+          "py": "yīn",
+          "meaning": "Yin (passive, dark)"
+        },
+        {
+          "zh": "阳",
+          "py": "yáng",
+          "meaning": "Yang (active, bright)"
+        },
+        {
+          "zh": "平衡",
+          "py": "pínghéng",
+          "meaning": "balance"
+        }
+      ]
+    },
+    {
+      "chinese": "望闻问切",
+      "pinyin": "Wàng wén wèn qiē",
+      "translation": "Four diagnostic methods",
+      "usage": "TCM diagnostic techniques: observation, listening, questioning, and palpation.",
+      "formality": "Technical",
+      "words": [
+        {
+          "zh": "望",
+          "py": "wàng",
+          "meaning": "observation"
+        },
+        {
+          "zh": "闻",
+          "py": "wén",
+          "meaning": "listening/smell"
+        },
+        {
+          "zh": "问",
+          "py": "wèn",
+          "meaning": "questioning"
+        },
+        {
+          "zh": "切",
+          "py": "qiē",
+          "meaning": "palpation"
+        }
+      ]
+    },
+    {
+      "chinese": "气血通畅",
+      "pinyin": "Qìxuè tōngchàng",
+      "translation": "Smooth Qi and Blood flow",
+      "usage": "Health goal of ensuring unobstructed energy and blood circulation.",
+      "formality": "Cultural",
+      "words": [
+        {
+          "zh": "气",
+          "py": "qì",
+          "meaning": "Qi (vital energy)"
+        },
+        {
+          "zh": "血",
+          "py": "xuè",
+          "meaning": "blood"
+        },
+        {
+          "zh": "通畅",
+          "py": "tōngchàng",
+          "meaning": "smooth"
+        }
+      ]
+    },
+    {
+      "chinese": "经络系统",
+      "pinyin": "Jīngluò xìtǒng",
+      "translation": "Meridian system",
+      "usage": "Network of channels through which Qi flows in the body.",
+      "formality": "Technical",
+      "words": [
+        {
+          "zh": "经络",
+          "py": "jīngluò",
+          "meaning": "meridians"
+        },
+        {
+          "zh": "系统",
+          "py": "xìtǒng",
+          "meaning": "system"
+        }
+      ]
+    },
+    {
+      "chinese": "草药汤剂",
+      "pinyin": "Cǎoyào shāngjì",
+      "translation": "Herbal decoction",
+      "usage": "Medicinal soup made by boiling herbs.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "草",
+          "py": "cǎo",
+          "meaning": "herb"
+        },
+        {
+          "zh": "药",
+          "py": "yào",
+          "meaning": "medicine"
+        },
+        {
+          "zh": "汤剂",
+          "py": "shāngjì",
+          "meaning": "decoction"
+        }
+      ]
+    },
+    {
+      "chinese": "推拿按摩",
+      "pinyin": "Tuīná mósà",
+      "translation": "Chinese therapeutic massage",
+      "usage": "Manual techniques to promote healing and relaxation.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "推",
+          "py": "tuī",
+          "meaning": "push"
+        },
+        {
+          "zh": "拿",
+          "py": "ná",
+          "meaning": "grasp"
+        },
+        {
+          "zh": "按摩",
+          "py": "mósà",
+          "meaning": "massage"
+        }
+      ]
+    },
+    {
+      "chinese": "养生之道",
+      "pinyin": "Yǎngshēng zhī dào",
+      "translation": "The way of health preservation",
+      "usage": "Philosophy of maintaining health through lifestyle practices.",
+      "formality": "Cultural",
+      "words": [
+        {
+          "zh": "养",
+          "py": "yǎng",
+          "meaning": "nurture"
+        },
+        {
+          "zh": "生",
+          "py": "shēng",
+          "meaning": "life"
+        },
+        {
+          "zh": "之",
+          "py": "zhī",
+          "meaning": "of"
+        },
+        {
+          "zh": "道",
+          "py": "dào",
+          "meaning": "way"
+        }
+      ]
+    },
+    {
+      "chinese": "五行学说",
+      "pinyin": "Wǔxíng xuéshuō",
+      "translation": "Five Elements theory",
+      "usage": "Wood, Fire, Earth, Metal, Water framework for diagnosing imbalances.",
+      "formality": "Technical",
+      "words": [
+        {
+          "zh": "五",
+          "py": "wǔ",
+          "meaning": "five"
+        },
+        {
+          "zh": "行",
+          "py": "xíng",
+          "meaning": "elements"
+        },
+        {
+          "zh": "学说",
+          "py": "xuéshuō",
+          "meaning": "theory"
+        }
+      ]
+    },
+    {
+      "chinese": "冬病冬治",
+      "pinyin": "Dōngbìng dōngzhì",
+      "translation": "Winter illness treated in winter",
+      "usage": "Approach to treating winter-related ailments during the season they occur.",
+      "formality": "Cultural",
+      "words": [
+        {
+          "zh": "冬",
+          "py": "dōng",
+          "meaning": "winter"
+        },
+        {
+          "zh": "病",
+          "py": "bìng",
+          "meaning": "illness"
+        },
+        {
+          "zh": "治",
+          "py": "zhì",
+          "meaning": "treatment"
+        }
+      ]
+    }
+  ]
+}

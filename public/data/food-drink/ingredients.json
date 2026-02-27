@@ -1,0 +1,689 @@
+{
+  "sentences": [
+    {
+      "chinese": "我需要买一些苹果。",
+      "pinyin": "Wǒ xūyào mǎi yīxiē píngguǒ.",
+      "translation": "I need to buy some apples.",
+      "usage": "Used when listing items for a shopping trip or when asking someone to get something from the store.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / me"
+        },
+        {
+          "zh": "需要",
+          "py": "xūyào",
+          "meaning": "need"
+        },
+        {
+          "zh": "买",
+          "py": "mǎi",
+          "meaning": "buy"
+        },
+        {
+          "zh": "一些",
+          "py": "yīxiē",
+          "meaning": "some"
+        },
+        {
+          "zh": "苹果",
+          "py": "píngguǒ",
+          "meaning": "apple"
+        }
+      ]
+    },
+    {
+      "chinese": "这瓶牛奶多少钱？",
+      "pinyin": "Zhè píng niúnǎi duōshǎo qián?",
+      "translation": "How much does this bottle of milk cost?",
+      "usage": "Used when shopping and asking for prices at a store or market.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "瓶",
+          "py": "píng",
+          "meaning": "bottle"
+        },
+        {
+          "zh": "牛奶",
+          "py": "niúnǎi",
+          "meaning": "milk"
+        },
+        {
+          "zh": "多少",
+          "py": "duōshǎo",
+          "meaning": "how much"
+        },
+        {
+          "zh": "钱",
+          "py": "qián",
+          "meaning": "money"
+        }
+      ]
+    },
+    {
+      "chinese": "请给我一公斤大米。",
+      "pinyin": "Qǐng gěi wǒ yīgōngjīn dàimǐ.",
+      "translation": "Please give me one kilogram of rice.",
+      "usage": "Used when shopping for groceries and asking for specific quantities.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "给",
+          "py": "gěi",
+          "meaning": "give"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "me"
+        },
+        {
+          "zh": "一公斤",
+          "py": "yīgōngjīn",
+          "meaning": "one kilogram"
+        },
+        {
+          "zh": "大米",
+          "py": "dàimǐ",
+          "meaning": "rice"
+        }
+      ]
+    },
+    {
+      "chinese": "这个西红柿很新鲜。",
+      "pinyin": "Zhège xīhóngshì hěn xīnxiān.",
+      "translation": "This tomato is very fresh.",
+      "usage": "Used when examining produce at a market or grocery store to comment on quality.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这个",
+          "py": "zhège",
+          "meaning": "this one"
+        },
+        {
+          "zh": "西红柿",
+          "py": "xīhóngshì",
+          "meaning": "tomato"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "新鲜",
+          "py": "xīnxiān",
+          "meaning": "fresh"
+        }
+      ]
+    },
+    {
+      "chinese": "我们家没有盐了。",
+      "pinyin": "Wǒmen jiā méiyǒu yán le.",
+      "translation": "We ran out of salt at home.",
+      "usage": "Used when discussing household supplies or when realizing you need to buy something.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我们",
+          "py": "wǒmen",
+          "meaning": "we / us"
+        },
+        {
+          "zh": "家",
+          "py": "jiā",
+          "meaning": "home"
+        },
+        {
+          "zh": "没有",
+          "py": "méiyǒu",
+          "meaning": "don't have / run out of"
+        },
+        {
+          "zh": "盐",
+          "py": "yán",
+          "meaning": "salt"
+        }
+      ]
+    },
+    {
+      "chinese": "请帮我称一下这些苹果的重量。",
+      "pinyin": "Qǐng bāng wǒ chēng yīxiē píngguǒ de zhòngliàng.",
+      "translation": "Please help me weigh these apples.",
+      "usage": "Used when shopping for produce and asking for weight measurements.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "帮",
+          "py": "bāng",
+          "meaning": "help"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "me"
+        },
+        {
+          "zh": "称",
+          "py": "chēng",
+          "meaning": "weigh"
+        },
+        {
+          "zh": "这些",
+          "py": "yīxiē",
+          "meaning": "these"
+        },
+        {
+          "zh": "苹果",
+          "py": "píngguǒ",
+          "meaning": "apple"
+        },
+        {
+          "zh": "重量",
+          "py": "zhòngliàng",
+          "meaning": "weight"
+        }
+      ]
+    },
+    {
+      "chinese": "我想要买点面包。",
+      "pinyin": "Wǒ xiǎng yào mǎi diǎn miànbāo.",
+      "translation": "I want to buy some bread.",
+      "usage": "Used when shopping for baked goods or when planning a meal.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "想要",
+          "py": "xiǎng yào",
+          "meaning": "want to"
+        },
+        {
+          "zh": "买",
+          "py": "mǎi",
+          "meaning": "buy"
+        },
+        {
+          "zh": "点",
+          "py": "diǎn",
+          "meaning": "some"
+        },
+        {
+          "zh": "面包",
+          "py": "miànbāo",
+          "meaning": "bread"
+        }
+      ]
+    },
+    {
+      "chinese": "鸡蛋要放冰箱里。",
+      "pinyin": "Jīdàn yào fàng bīngxiāng lǐ.",
+      "translation": "Eggs should be kept in the refrigerator.",
+      "usage": "Used when discussing food storage or giving advice about keeping groceries fresh.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "鸡蛋",
+          "py": "jīdàn",
+          "meaning": "egg"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "should"
+        },
+        {
+          "zh": "放",
+          "py": "fàng",
+          "meaning": "put"
+        },
+        {
+          "zh": "冰箱",
+          "py": "bīngxiāng",
+          "meaning": "refrigerator"
+        },
+        {
+          "zh": "里",
+          "py": "lǐ",
+          "meaning": "inside"
+        }
+      ]
+    },
+    {
+      "chinese": "这个超市的商品很便宜。",
+      "pinyin": "Zhège chāoshì de shāngpǐn hěn piányi.",
+      "translation": "The products in this supermarket are very cheap.",
+      "usage": "Used when comparing prices or describing shopping experiences.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这个",
+          "py": "zhège",
+          "meaning": "this"
+        },
+        {
+          "zh": "超市",
+          "py": "chāoshì",
+          "meaning": "supermarket"
+        },
+        {
+          "zh": "商品",
+          "py": "shāngpǐn",
+          "meaning": "product"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "便宜",
+          "py": "piányi",
+          "meaning": "cheap"
+        }
+      ]
+    },
+    {
+      "chinese": "请给我一些面粉。",
+      "pinyin": "Qǐng gěi wǒ yīxiē miànfěn.",
+      "translation": "Please give me some flour.",
+      "usage": "Used when shopping for baking ingredients or when making a shopping list.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "给",
+          "py": "gěi",
+          "meaning": "give"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "me"
+        },
+        {
+          "zh": "一些",
+          "py": "yīxiē",
+          "meaning": "some"
+        },
+        {
+          "zh": "面粉",
+          "py": "miànfěn",
+          "meaning": "flour"
+        }
+      ]
+    },
+    {
+      "chinese": "我买了一盒茶叶。",
+      "pinyin": "Wǒ mǎi le yīhé cháyè.",
+      "translation": "I bought a box of tea leaves.",
+      "usage": "Used when describing shopping purchases or talking about beverages.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "买",
+          "py": "mǎi",
+          "meaning": "buy"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed action marker"
+        },
+        {
+          "zh": "一盒",
+          "py": "yīhé",
+          "meaning": "one box"
+        },
+        {
+          "zh": "茶叶",
+          "py": "cháyè",
+          "meaning": "tea leaves"
+        }
+      ]
+    },
+    {
+      "chinese": "这些蔬菜看起来很新鲜。",
+      "pinyin": "Zhèxiē shūcài kànqǐlái hěn xīnxiān.",
+      "translation": "These vegetables look very fresh.",
+      "usage": "Used when examining produce or when giving feedback about grocery quality.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这些",
+          "py": "zhèxiē",
+          "meaning": "these"
+        },
+        {
+          "zh": "蔬菜",
+          "py": "shūcài",
+          "meaning": "vegetables"
+        },
+        {
+          "zh": "看起来",
+          "py": "kànqǐlái",
+          "meaning": "look like"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "新鲜",
+          "py": "xīnxiān",
+          "meaning": "fresh"
+        }
+      ]
+    },
+    {
+      "chinese": "我需要买点油。",
+      "pinyin": "Wǒ xūyào mǎi diǎn yóu.",
+      "translation": "I need to buy some oil.",
+      "usage": "Used when making a shopping list or discussing cooking ingredients.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "需要",
+          "py": "xūyào",
+          "meaning": "need"
+        },
+        {
+          "zh": "买",
+          "py": "mǎi",
+          "meaning": "buy"
+        },
+        {
+          "zh": "点",
+          "py": "diǎn",
+          "meaning": "some"
+        },
+        {
+          "zh": "油",
+          "py": "yóu",
+          "meaning": "oil"
+        }
+      ]
+    },
+    {
+      "chinese": "请帮我找一下这个商品。",
+      "pinyin": "Qǐng bāng wǒ zhǎo yīxiē zhège shāngpǐn.",
+      "translation": "Please help me find this product.",
+      "usage": "Used when asking for assistance in a store or grocery store.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "帮",
+          "py": "bāng",
+          "meaning": "help"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "me"
+        },
+        {
+          "zh": "找",
+          "py": "zhǎo",
+          "meaning": "find"
+        },
+        {
+          "zh": "一下",
+          "py": "yīxiē",
+          "meaning": "a little"
+        },
+        {
+          "zh": "这个",
+          "py": "zhège",
+          "meaning": "this"
+        },
+        {
+          "zh": "商品",
+          "py": "shāngpǐn",
+          "meaning": "product"
+        }
+      ]
+    },
+    {
+      "chinese": "这个苹果很甜。",
+      "pinyin": "Zhège píngguǒ hěn tián.",
+      "translation": "This apple is very sweet.",
+      "usage": "Used when describing the taste of fruits or when shopping for produce.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这个",
+          "py": "zhège",
+          "meaning": "this"
+        },
+        {
+          "zh": "苹果",
+          "py": "píngguǒ",
+          "meaning": "apple"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "甜",
+          "py": "tián",
+          "meaning": "sweet"
+        }
+      ]
+    },
+    {
+      "chinese": "我们今天要去超市买菜。",
+      "pinyin": "Wǒmen jīntiān yào qù chāoshì mǎi cài.",
+      "translation": "We are going to the supermarket to buy vegetables today.",
+      "usage": "Used when planning shopping trips or discussing household activities.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我们",
+          "py": "wǒmen",
+          "meaning": "we"
+        },
+        {
+          "zh": "今天",
+          "py": "jīntiān",
+          "meaning": "today"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "going to"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "go"
+        },
+        {
+          "zh": "超市",
+          "py": "chāoshì",
+          "meaning": "supermarket"
+        },
+        {
+          "zh": "买",
+          "py": "mǎi",
+          "meaning": "buy"
+        },
+        {
+          "zh": "菜",
+          "py": "cài",
+          "meaning": "vegetables"
+        }
+      ]
+    },
+    {
+      "chinese": "请给我一袋盐。",
+      "pinyin": "Qǐng gěi wǒ yīdài yán.",
+      "translation": "Please give me one bag of salt.",
+      "usage": "Used when shopping and asking for specific packaging or quantities.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "给",
+          "py": "gěi",
+          "meaning": "give"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "me"
+        },
+        {
+          "zh": "一袋",
+          "py": "yīdài",
+          "meaning": "one bag"
+        },
+        {
+          "zh": "盐",
+          "py": "yán",
+          "meaning": "salt"
+        }
+      ]
+    },
+    {
+      "chinese": "这些水果很新鲜。",
+      "pinyin": "Zhèxiē shuǐguǒ hěn xīnxiān.",
+      "translation": "These fruits are very fresh.",
+      "usage": "Used when describing the quality of fruits or during shopping.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这些",
+          "py": "zhèxiē",
+          "meaning": "these"
+        },
+        {
+          "zh": "水果",
+          "py": "shuǐguǒ",
+          "meaning": "fruits"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "新鲜",
+          "py": "xīnxiān",
+          "meaning": "fresh"
+        }
+      ]
+    },
+    {
+      "chinese": "这个面包很香。",
+      "pinyin": "Zhège miànbāo hěn xiāng.",
+      "translation": "This bread is very fragrant.",
+      "usage": "Used when describing the smell or quality of baked goods.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这个",
+          "py": "zhège",
+          "meaning": "this"
+        },
+        {
+          "zh": "面包",
+          "py": "miànbāo",
+          "meaning": "bread"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "香",
+          "py": "xiāng",
+          "meaning": "fragrant"
+        }
+      ]
+    },
+    {
+      "chinese": "我需要买点糖。",
+      "pinyin": "Wǒ xūyào mǎi diǎn táng.",
+      "translation": "I need to buy some sugar.",
+      "usage": "Used when making shopping lists or discussing ingredients.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "需要",
+          "py": "xūyào",
+          "meaning": "need"
+        },
+        {
+          "zh": "买",
+          "py": "mǎi",
+          "meaning": "buy"
+        },
+        {
+          "zh": "点",
+          "py": "diǎn",
+          "meaning": "some"
+        },
+        {
+          "zh": "糖",
+          "py": "táng",
+          "meaning": "sugar"
+        }
+      ]
+    }
+  ]
+}

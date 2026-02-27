@@ -1,0 +1,826 @@
+{
+  "sentences": [
+    {
+      "chinese": "可以退货吗？",
+      "pinyin": "Kě yǐ tuì huò ma?",
+      "translation": "Can I return this?",
+      "usage": "Asking if a product can be returned, usually after purchase.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "可",
+          "py": "kě",
+          "meaning": "can"
+        },
+        {
+          "zh": "以",
+          "py": "yǐ",
+          "meaning": "can"
+        },
+        {
+          "zh": "退",
+          "py": "tuì",
+          "meaning": "return"
+        },
+        {
+          "zh": "货",
+          "py": "huò",
+          "meaning": "goods"
+        }
+      ]
+    },
+    {
+      "chinese": "换货需要什么手续？",
+      "pinyin": "Huàn huò xū yào shén me shù xù?",
+      "translation": "What procedures are needed for an exchange?",
+      "usage": "Inquiring about exchange process requirements.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "换",
+          "py": "huàn",
+          "meaning": "exchange"
+        },
+        {
+          "zh": "货",
+          "py": "huò",
+          "meaning": "goods"
+        },
+        {
+          "zh": "需",
+          "py": "xū",
+          "meaning": "need"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "need"
+        },
+        {
+          "zh": "什",
+          "py": "shén",
+          "meaning": "what"
+        },
+        {
+          "zh": "么",
+          "py": "me",
+          "meaning": "what"
+        },
+        {
+          "zh": "手续",
+          "py": "shù xù",
+          "meaning": "procedures"
+        }
+      ]
+    },
+    {
+      "chinese": "请问退货政策是什么？",
+      "pinyin": "Qǐng wèn tuì huò zhèng cè shì shén me?",
+      "translation": "What is the return policy?",
+      "usage": "Asking about specific return policies.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "问",
+          "py": "wèn",
+          "meaning": "ask"
+        },
+        {
+          "zh": "退",
+          "py": "tuì",
+          "meaning": "return"
+        },
+        {
+          "zh": "货",
+          "py": "huò",
+          "meaning": "goods"
+        },
+        {
+          "zh": "政",
+          "py": "zhèng",
+          "meaning": "policy"
+        },
+        {
+          "zh": "策",
+          "py": "cè",
+          "meaning": "policy"
+        }
+      ]
+    },
+    {
+      "chinese": "商品有瑕疵怎么办？",
+      "pinyin": "Shāng pǐn yǒu jiá cī zěn me bàn?",
+      "translation": "What should I do if the product has defects?",
+      "usage": "Reporting damaged or defective items.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "商",
+          "py": "shāng",
+          "meaning": "commodity"
+        },
+        {
+          "zh": "品",
+          "py": "pǐn",
+          "meaning": "product"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "has"
+        },
+        {
+          "zh": "瑕",
+          "py": "jiá",
+          "meaning": "flaw"
+        },
+        {
+          "zh": "疵",
+          "py": "cī",
+          "meaning": "defect"
+        },
+        {
+          "zh": "怎",
+          "py": "zěn",
+          "meaning": "how"
+        },
+        {
+          "zh": "么",
+          "py": "me",
+          "meaning": "what"
+        },
+        {
+          "zh": "办",
+          "py": "bàn",
+          "meaning": "do"
+        }
+      ]
+    },
+    {
+      "chinese": "退货流程是怎样的？",
+      "pinyin": "Tuì huò liú chéng shì zěn me de?",
+      "translation": "What is the return process like?",
+      "usage": "Inquiring about return steps.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "退",
+          "py": "tuì",
+          "meaning": "return"
+        },
+        {
+          "zh": "货",
+          "py": "huò",
+          "meaning": "goods"
+        },
+        {
+          "zh": "流",
+          "py": "liú",
+          "meaning": "process"
+        },
+        {
+          "zh": "程",
+          "py": "chéng",
+          "meaning": "process"
+        },
+        {
+          "zh": "怎",
+          "py": "zěn",
+          "meaning": "how"
+        },
+        {
+          "zh": "么",
+          "py": "me",
+          "meaning": "what"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "of"
+        }
+      ]
+    },
+    {
+      "chinese": "换货需要保留购物小票吗？",
+      "pinyin": "Huàn huò xū yào bǎo liú gòu wù xiǎo piào ma?",
+      "translation": "Do I need to keep the receipt for an exchange?",
+      "usage": "Asking about required documents for exchanges.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "换",
+          "py": "huàn",
+          "meaning": "exchange"
+        },
+        {
+          "zh": "货",
+          "py": "huò",
+          "meaning": "goods"
+        },
+        {
+          "zh": "需",
+          "py": "xū",
+          "meaning": "need"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "need"
+        },
+        {
+          "zh": "保",
+          "py": "bǎo",
+          "meaning": "keep"
+        },
+        {
+          "zh": "留",
+          "py": "liú",
+          "meaning": "retain"
+        },
+        {
+          "zh": "购",
+          "py": "gòu",
+          "meaning": "purchase"
+        },
+        {
+          "zh": "物",
+          "py": "wù",
+          "meaning": "goods"
+        },
+        {
+          "zh": "小",
+          "py": "xiǎo",
+          "meaning": "small"
+        },
+        {
+          "zh": "票",
+          "py": "piào",
+          "meaning": "receipt"
+        }
+      ]
+    },
+    {
+      "chinese": "超过退货期限怎么办？",
+      "pinyin": "Chāo guò tuì huò qī xiàn zěn me bàn?",
+      "translation": "What if I return after the return period?",
+      "usage": "Asking about late returns.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "超",
+          "py": "chāo",
+          "meaning": "exceed"
+        },
+        {
+          "zh": "过",
+          "py": "guò",
+          "meaning": "over"
+        },
+        {
+          "zh": "退",
+          "py": "tuì",
+          "meaning": "return"
+        },
+        {
+          "zh": "货",
+          "py": "huò",
+          "meaning": "goods"
+        },
+        {
+          "zh": "期",
+          "py": "qī",
+          "meaning": "period"
+        },
+        {
+          "zh": "限",
+          "py": "xiàn",
+          "meaning": "limit"
+        },
+        {
+          "zh": "怎",
+          "py": "zěn",
+          "meaning": "how"
+        },
+        {
+          "zh": "么",
+          "py": "me",
+          "meaning": "what"
+        },
+        {
+          "zh": "办",
+          "py": "bàn",
+          "meaning": "do"
+        }
+      ]
+    },
+    {
+      "chinese": "可以换不同颜色吗？",
+      "pinyin": "Kě yǐ huàn bù tóng yán sè ma?",
+      "translation": "Can I exchange for a different color?",
+      "usage": "Asking about color exchanges.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "可",
+          "py": "kě",
+          "meaning": "can"
+        },
+        {
+          "zh": "以",
+          "py": "yǐ",
+          "meaning": "can"
+        },
+        {
+          "zh": "换",
+          "py": "huàn",
+          "meaning": "exchange"
+        },
+        {
+          "zh": "不",
+          "py": "bù",
+          "meaning": "not"
+        },
+        {
+          "zh": "同",
+          "py": "tóng",
+          "meaning": "different"
+        },
+        {
+          "zh": "颜",
+          "py": "yán",
+          "meaning": "color"
+        },
+        {
+          "zh": "色",
+          "py": "sè",
+          "meaning": "color"
+        }
+      ]
+    },
+    {
+      "chinese": "退货需要支付运费吗？",
+      "pinyin": "Tuì huò xū yào zhī fù yùn fèi ma?",
+      "translation": "Do I need to pay return shipping fees?",
+      "usage": "Inquiring about shipping costs for returns.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "退",
+          "py": "tuì",
+          "meaning": "return"
+        },
+        {
+          "zh": "货",
+          "py": "huò",
+          "meaning": "goods"
+        },
+        {
+          "zh": "需",
+          "py": "xū",
+          "meaning": "need"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "need"
+        },
+        {
+          "zh": "支",
+          "py": "zhī",
+          "meaning": "pay"
+        },
+        {
+          "zh": "付",
+          "py": "fù",
+          "meaning": "pay"
+        },
+        {
+          "zh": "运",
+          "py": "yùn",
+          "meaning": "shipping"
+        },
+        {
+          "zh": "费",
+          "py": "fèi",
+          "meaning": "fee"
+        }
+      ]
+    },
+    {
+      "chinese": "商品不对尺寸怎么办？",
+      "pinyin": "Shāng pǐn bù duì chǐ cun zěn me bàn?",
+      "translation": "What if the product is the wrong size?",
+      "usage": "Reporting incorrect sizing issues.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "商",
+          "py": "shāng",
+          "meaning": "commodity"
+        },
+        {
+          "zh": "品",
+          "py": "pǐn",
+          "meaning": "product"
+        },
+        {
+          "zh": "不",
+          "py": "bù",
+          "meaning": "not"
+        },
+        {
+          "zh": "对",
+          "py": "duì",
+          "meaning": "correct"
+        },
+        {
+          "zh": "尺",
+          "py": "chǐ",
+          "meaning": "size"
+        },
+        {
+          "zh": "寸",
+          "py": "cun",
+          "meaning": "inch"
+        },
+        {
+          "zh": "怎",
+          "py": "zěn",
+          "meaning": "how"
+        },
+        {
+          "zh": "么",
+          "py": "me",
+          "meaning": "what"
+        },
+        {
+          "zh": "办",
+          "py": "bàn",
+          "meaning": "do"
+        }
+      ]
+    },
+    {
+      "chinese": "可以部分退款吗？",
+      "pinyin": "Kě yǐ bù fēn tuì kuǎn ma?",
+      "translation": "Can I get a partial refund?",
+      "usage": "Asking about partial refunds.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "可",
+          "py": "kě",
+          "meaning": "can"
+        },
+        {
+          "zh": "以",
+          "py": "yǐ",
+          "meaning": "can"
+        },
+        {
+          "zh": "部",
+          "py": "bù",
+          "meaning": "part"
+        },
+        {
+          "zh": "分",
+          "py": "fēn",
+          "meaning": "partial"
+        },
+        {
+          "zh": "退",
+          "py": "tuì",
+          "meaning": "return"
+        },
+        {
+          "zh": "款",
+          "py": "kuǎn",
+          "meaning": "money"
+        }
+      ]
+    },
+    {
+      "chinese": "换货需要多久？",
+      "pinyin": "Huàn huò xū yào duō jiǔ?",
+      "translation": "How long does the exchange take?",
+      "usage": "Inquiring about exchange processing time.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "换",
+          "py": "huàn",
+          "meaning": "exchange"
+        },
+        {
+          "zh": "货",
+          "py": "huò",
+          "meaning": "goods"
+        },
+        {
+          "zh": "需",
+          "py": "xū",
+          "meaning": "need"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "need"
+        },
+        {
+          "zh": "多",
+          "py": "duō",
+          "meaning": "how many"
+        },
+        {
+          "zh": "久",
+          "py": "jiǔ",
+          "meaning": "long"
+        }
+      ]
+    },
+    {
+      "chinese": "退货地址是什么？",
+      "pinyin": "Tuì huò dì zhǐ shì shén me?",
+      "translation": "What is the return address?",
+      "usage": "Asking for return shipping address.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "退",
+          "py": "tuì",
+          "meaning": "return"
+        },
+        {
+          "zh": "货",
+          "py": "huò",
+          "meaning": "goods"
+        },
+        {
+          "zh": "地",
+          "py": "dì",
+          "meaning": "address"
+        },
+        {
+          "zh": "址",
+          "py": "zhǐ",
+          "meaning": "address"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "is"
+        },
+        {
+          "zh": "什",
+          "py": "shén",
+          "meaning": "what"
+        },
+        {
+          "zh": "么",
+          "py": "me",
+          "meaning": "what"
+        }
+      ]
+    },
+    {
+      "chinese": "可以更换包装吗？",
+      "pinyin": "Kě yǐ gēng huàn bāo zhuāng ma?",
+      "translation": "Can I change the packaging?",
+      "usage": "Asking about packaging changes.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "可",
+          "py": "kě",
+          "meaning": "can"
+        },
+        {
+          "zh": "以",
+          "py": "yǐ",
+          "meaning": "can"
+        },
+        {
+          "zh": "更",
+          "py": "gēng",
+          "meaning": "change"
+        },
+        {
+          "zh": "换",
+          "py": "huàn",
+          "meaning": "exchange"
+        },
+        {
+          "zh": "包",
+          "py": "bāo",
+          "meaning": "package"
+        },
+        {
+          "zh": "装",
+          "py": "zhuāng",
+          "meaning": "packaging"
+        }
+      ]
+    },
+    {
+      "chinese": "商品有质量问题怎么办？",
+      "pinyin": "Shāng pǐn yǒu zhì liàng wèn tí zěn me bàn?",
+      "translation": "What if the product has quality issues?",
+      "usage": "Reporting quality problems.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "商",
+          "py": "shāng",
+          "meaning": "commodity"
+        },
+        {
+          "zh": "品",
+          "py": "pǐn",
+          "meaning": "product"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "has"
+        },
+        {
+          "zh": "质",
+          "py": "zhì",
+          "meaning": "quality"
+        },
+        {
+          "zh": "量",
+          "py": "liàng",
+          "meaning": "quantity/quality"
+        },
+        {
+          "zh": "问",
+          "py": "wèn",
+          "meaning": "question"
+        },
+        {
+          "zh": "题",
+          "py": "tí",
+          "meaning": "issue"
+        },
+        {
+          "zh": "怎",
+          "py": "zěn",
+          "meaning": "how"
+        },
+        {
+          "zh": "么",
+          "py": "me",
+          "meaning": "what"
+        },
+        {
+          "zh": "办",
+          "py": "bàn",
+          "meaning": "do"
+        }
+      ]
+    },
+    {
+      "chinese": "退货流程是什么？",
+      "pinyin": "Tuì huò liú chéng shì shén me?",
+      "translation": "What is the return process?",
+      "usage": "Inquiring about return procedures.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "退",
+          "py": "tuì",
+          "meaning": "return"
+        },
+        {
+          "zh": "货",
+          "py": "huò",
+          "meaning": "goods"
+        },
+        {
+          "zh": "流",
+          "py": "liú",
+          "meaning": "process"
+        },
+        {
+          "zh": "程",
+          "py": "chéng",
+          "meaning": "process"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "is"
+        },
+        {
+          "zh": "什",
+          "py": "shén",
+          "meaning": "what"
+        },
+        {
+          "zh": "么",
+          "py": "me",
+          "meaning": "what"
+        }
+      ]
+    },
+    {
+      "chinese": "可以换不同款式吗？",
+      "pinyin": "Kě yǐ huàn bù tóng kǎn shì ma?",
+      "translation": "Can I exchange for a different style?",
+      "usage": "Asking about style exchanges.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "可",
+          "py": "kě",
+          "meaning": "can"
+        },
+        {
+          "zh": "以",
+          "py": "yǐ",
+          "meaning": "can"
+        },
+        {
+          "zh": "换",
+          "py": "huàn",
+          "meaning": "exchange"
+        },
+        {
+          "zh": "不",
+          "py": "bù",
+          "meaning": "not"
+        },
+        {
+          "zh": "同",
+          "py": "tóng",
+          "meaning": "different"
+        },
+        {
+          "zh": "款",
+          "py": "kuǎn",
+          "meaning": "style"
+        },
+        {
+          "zh": "式",
+          "py": "shì",
+          "meaning": "style"
+        }
+      ]
+    },
+    {
+      "chinese": "退货需要哪些材料？",
+      "pinyin": "Tuì huò xū yào nǎ xiē cái liào?",
+      "translation": "What materials are needed for return?",
+      "usage": "Inquiring about required documents for returns.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "退",
+          "py": "tuì",
+          "meaning": "return"
+        },
+        {
+          "zh": "货",
+          "py": "huò",
+          "meaning": "goods"
+        },
+        {
+          "zh": "需",
+          "py": "xū",
+          "meaning": "need"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "need"
+        },
+        {
+          "zh": "哪",
+          "py": "nǎ",
+          "meaning": "which"
+        },
+        {
+          "zh": "些",
+          "py": "xiē",
+          "meaning": "some"
+        },
+        {
+          "zh": "材",
+          "py": "cái",
+          "meaning": "material"
+        },
+        {
+          "zh": "料",
+          "py": "liào",
+          "meaning": "materials"
+        }
+      ]
+    }
+  ]
+}

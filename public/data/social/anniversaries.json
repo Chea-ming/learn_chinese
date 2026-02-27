@@ -1,0 +1,617 @@
+{
+  "sentences": [
+    {
+      "chinese": "结婚纪念日快乐！",
+      "pinyin": "Jié hūn jì niàn rì kuài lè!",
+      "translation": "Happy wedding anniversary!",
+      "usage": "Used to celebrate a wedding anniversary. Common in formal or semi-formal settings.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "结婚",
+          "py": "jié hūn",
+          "meaning": "to get married"
+        },
+        {
+          "zh": "纪念",
+          "py": "jì niàn",
+          "meaning": "to commemorate"
+        },
+        {
+          "zh": "日",
+          "py": "rì",
+          "meaning": "day"
+        },
+        {
+          "zh": "快乐",
+          "py": "kuài lè",
+          "meaning": "happy"
+        }
+      ]
+    },
+    {
+      "chinese": "生日快乐！",
+      "pinyin": "Shēng rì kuài lè!",
+      "translation": "Happy birthday!",
+      "usage": "Universal birthday greeting. Can be formal or informal depending on context.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "生日",
+          "py": "shēng rì",
+          "meaning": "birthday"
+        },
+        {
+          "zh": "快乐",
+          "py": "kuài lè",
+          "meaning": "happy"
+        }
+      ]
+    },
+    {
+      "chinese": "今天是我们的结婚纪念日！",
+      "pinyin": "Jīn tiān shì wǒ men de jié hūn jì niàn rì!",
+      "translation": "Today is our wedding anniversary!",
+      "usage": "Personal announcement of a wedding anniversary. Informal.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "今天",
+          "py": "jīn tiān",
+          "meaning": "today"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "is"
+        },
+        {
+          "zh": "我们",
+          "py": "wǒ men",
+          "meaning": "we"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive particle"
+        },
+        {
+          "zh": "结婚",
+          "py": "jié hūn",
+          "meaning": "to get married"
+        },
+        {
+          "zh": "纪念",
+          "py": "jì niàn",
+          "meaning": "to commemorate"
+        },
+        {
+          "zh": "日",
+          "py": "rì",
+          "meaning": "day"
+        }
+      ]
+    },
+    {
+      "chinese": "祝你们幸福美满！",
+      "pinyin": "Zhù nǐ men xìng fú měi mǎn!",
+      "translation": "Wishing you happiness and a harmonious life!",
+      "usage": "Well-wishes for anniversaries. Formal or semi-formal.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "祝",
+          "py": "zhù",
+          "meaning": "to wish"
+        },
+        {
+          "zh": "你们",
+          "py": "nǐ men",
+          "meaning": "you (plural)"
+        },
+        {
+          "zh": "幸福",
+          "py": "xìng fú",
+          "meaning": "happiness"
+        },
+        {
+          "zh": "美满",
+          "py": "měi mǎn",
+          "meaning": "harmonious, fulfilling"
+        }
+      ]
+    },
+    {
+      "chinese": "公司成立十周年！",
+      "pinyin": "Gōng sī chéng lì shí zhōu nián!",
+      "translation": "The company's 10th anniversary!",
+      "usage": "Announcement of a company's anniversary. Formal.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "公司",
+          "py": "gōng sī",
+          "meaning": "company"
+        },
+        {
+          "zh": "成立",
+          "py": "chéng lì",
+          "meaning": "to establish"
+        },
+        {
+          "zh": "十",
+          "py": "shí",
+          "meaning": "ten"
+        },
+        {
+          "zh": "周年",
+          "py": "zhōu nián",
+          "meaning": "anniversary"
+        }
+      ]
+    },
+    {
+      "chinese": "今天是公司成立十周年！",
+      "pinyin": "Jīn tiān shì gōng sī chéng lì shí zhōu nián!",
+      "translation": "Today is the company's 10th anniversary!",
+      "usage": "Official announcement for a company's anniversary. Formal.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "今天",
+          "py": "jīn tiān",
+          "meaning": "today"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "is"
+        },
+        {
+          "zh": "公司",
+          "py": "gōng sī",
+          "meaning": "company"
+        },
+        {
+          "zh": "成立",
+          "py": "chéng lì",
+          "meaning": "to establish"
+        },
+        {
+          "zh": "十",
+          "py": "shí",
+          "meaning": "ten"
+        },
+        {
+          "zh": "周年",
+          "py": "zhōu nián",
+          "meaning": "anniversary"
+        }
+      ]
+    },
+    {
+      "chinese": "记得庆祝每一个重要的日子！",
+      "pinyin": "Jì dé qìng zhù měi yī gè zhòng yào de rì zi!",
+      "translation": "Remember to celebrate every important day!",
+      "usage": "Encouraging reminder for anniversaries. Neutral.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "记得",
+          "py": "jì dé",
+          "meaning": "remember"
+        },
+        {
+          "zh": "庆祝",
+          "py": "qìng zhù",
+          "meaning": "to celebrate"
+        },
+        {
+          "zh": "每一个",
+          "py": "měi yī gè",
+          "meaning": "every"
+        },
+        {
+          "zh": "重要的",
+          "py": "zhòng yào de",
+          "meaning": "important"
+        },
+        {
+          "zh": "日子",
+          "py": "rì zi",
+          "meaning": "day"
+        }
+      ]
+    },
+    {
+      "chinese": "祝你们结婚纪念日快乐！",
+      "pinyin": "Zhù nǐ men jié hūn jì niàn rì kuài lè!",
+      "translation": "Wishing you a happy wedding anniversary!",
+      "usage": "Well-wishes for a wedding anniversary. Formal.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "祝",
+          "py": "zhù",
+          "meaning": "to wish"
+        },
+        {
+          "zh": "你们",
+          "py": "nǐ men",
+          "meaning": "you (plural)"
+        },
+        {
+          "zh": "结婚",
+          "py": "jié hūn",
+          "meaning": "to get married"
+        },
+        {
+          "zh": "纪念",
+          "py": "jì niàn",
+          "meaning": "to commemorate"
+        },
+        {
+          "zh": "日",
+          "py": "rì",
+          "meaning": "day"
+        },
+        {
+          "zh": "快乐",
+          "py": "kuài lè",
+          "meaning": "happy"
+        }
+      ]
+    },
+    {
+      "chinese": "我们庆祝五周年！",
+      "pinyin": "Wǒ men qìng zhù wǔ zhōu nián!",
+      "translation": "We are celebrating our 5th anniversary!",
+      "usage": "Announcement of a personal or organizational anniversary. Neutral.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我们",
+          "py": "wǒ men",
+          "meaning": "we"
+        },
+        {
+          "zh": "庆祝",
+          "py": "qìng zhù",
+          "meaning": "to celebrate"
+        },
+        {
+          "zh": "五",
+          "py": "wǔ",
+          "meaning": "five"
+        },
+        {
+          "zh": "周年",
+          "py": "zhōu nián",
+          "meaning": "anniversary"
+        }
+      ]
+    },
+    {
+      "chinese": "今天是我们的十周年纪念日！",
+      "pinyin": "Jīn tiān shì wǒ men de shí zhōu nián jì niàn rì!",
+      "translation": "Today is our 10th anniversary!",
+      "usage": "Personal announcement of a milestone anniversary. Informal.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "今天",
+          "py": "jīn tiān",
+          "meaning": "today"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "is"
+        },
+        {
+          "zh": "我们",
+          "py": "wǒ men",
+          "meaning": "we"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive particle"
+        },
+        {
+          "zh": "十",
+          "py": "shí",
+          "meaning": "ten"
+        },
+        {
+          "zh": "周年",
+          "py": "zhōu nián",
+          "meaning": "anniversary"
+        },
+        {
+          "zh": "纪念",
+          "py": "jì niàn",
+          "meaning": "to commemorate"
+        },
+        {
+          "zh": "日",
+          "py": "rì",
+          "meaning": "day"
+        }
+      ]
+    },
+    {
+      "chinese": "公司十周年庆典开始啦！",
+      "pinyin": "Gōng sī shí zhōu nián qìng diǎn kāi shǐ lā!",
+      "translation": "The company's 10th anniversary celebration has begun!",
+      "usage": "Announcement for a company event. Formal.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "公司",
+          "py": "gōng sī",
+          "meaning": "company"
+        },
+        {
+          "zh": "十",
+          "py": "shí",
+          "meaning": "ten"
+        },
+        {
+          "zh": "周年",
+          "py": "zhōu nián",
+          "meaning": "anniversary"
+        },
+        {
+          "zh": "庆典",
+          "py": "qìng diǎn",
+          "meaning": "celebration"
+        },
+        {
+          "zh": "开始",
+          "py": "kāi shǐ",
+          "meaning": "to begin"
+        },
+        {
+          "zh": "啦",
+          "py": "lā",
+          "meaning": "exclamation particle"
+        }
+      ]
+    },
+    {
+      "chinese": "祝你们幸福美满！",
+      "pinyin": "Zhù nǐ men xìng fú měi mǎn!",
+      "translation": "Wishing you happiness and a harmonious life!",
+      "usage": "Well-wishes for anniversaries. Formal.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "祝",
+          "py": "zhù",
+          "meaning": "to wish"
+        },
+        {
+          "zh": "你们",
+          "py": "nǐ men",
+          "meaning": "you (plural)"
+        },
+        {
+          "zh": "幸福",
+          "py": "xìng fú",
+          "meaning": "happiness"
+        },
+        {
+          "zh": "美满",
+          "py": "měi mǎn",
+          "meaning": "harmonious, fulfilling"
+        }
+      ]
+    },
+    {
+      "chinese": "今天是公司成立五周年！",
+      "pinyin": "Jīn tiān shì gōng sī chéng lì wǔ zhōu nián!",
+      "translation": "Today is the company's 5th anniversary!",
+      "usage": "Official announcement for a company's anniversary. Formal.",
+      "form,ality": "Formal",
+      "words": [
+        {
+          "zh": "今天",
+          "py": "jīn tiān",
+          "meaning": "today"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "is"
+        },
+        {
+          "zh": "公司",
+          "py": "gōng sī",
+          "meaning": "company"
+        },
+        {
+          "zh": "成立",
+          "py": "chéng lì",
+          "meaning": "to establish"
+        },
+        {
+          "zh": "五",
+          "py": "wǔ",
+          "meaning": "five"
+        },
+        {
+          "zh": "周年",
+          "py": "zhōu nián",
+          "meaning": "anniversary"
+        }
+      ]
+    },
+    {
+      "chinese": "记得每年庆祝结婚纪念日！",
+      "pinyin": "Jì dé měi nián qìng zhù jié hūn jì niàn rì!",
+      "translation": "Remember to celebrate your wedding anniversary every year!",
+      "usage": "Reminder for maintaining anniversaries. Neutral.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "记得",
+          "py": "jì dé",
+          "meaning": "remember"
+        },
+        {
+          "zh": "每年",
+          "py": "měi nián",
+          "meaning": "every year"
+        },
+        {
+          "zh": "庆祝",
+          "py": "qìng zhù",
+          "meaning": "to celebrate"
+        },
+        {
+          "zh": "结婚",
+          "py": "jié hūn",
+          "meaning": "to get married"
+        },
+        {
+          "zh": "纪念",
+          "py": "jì niàn",
+          "meaning": "to commemorate"
+        },
+        {
+          "zh": "日",
+          "py": "rì",
+          "meaning": "day"
+        }
+      ]
+    },
+    {
+      "chinese": "我们庆祝公司成立十周年！",
+      "pinyin": "Wǒ men qìng zhù gōng sī chéng lì shí zhōu nián!",
+      "translation": "We are celebrating the company's 10th anniversary!",
+      "usage": "Announcement for a company event. Formal.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "我们",
+          "py": "wǒ men",
+          "meaning": "we"
+        },
+        {
+          "zh": "庆祝",
+          "py": "qìng zhù",
+          "meaning": "to celebrate"
+        },
+        {
+          "zh": "公司",
+          "py": "gōng sī",
+          "meaning": "company"
+        },
+        {
+          "zh": "成立",
+          "py": "chéng lì",
+          "meaning": "to establish"
+        },
+        {
+          "zh": "十",
+          "py": "shí",
+          "meaning": "ten"
+        },
+        {
+          "zh": "周年",
+          "py": "zhōu nián",
+          "meaning": "anniversary"
+        }
+      ]
+    },
+    {
+      "chinese": "祝你们公司十周年快乐！",
+      "pinyin": "Zhù nǐ men gōng sī shí zhōu nián kuài lè!",
+      "translation": "Wishing you a happy 10th anniversary for your company!",
+      "usage": "Well-wishes for a company's anniversary. Formal.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "祝",
+          "py": "zhù",
+          "meaning": "to wish"
+        },
+        {
+          "zh": "你们",
+          "py": "nǐ men",
+          "meaning": "you (plural)"
+        },
+        {
+          "zh": "公司",
+          "py": "gōng sī",
+          "meaning": "company"
+        },
+        {
+          "zh": "十",
+          "py": "shí",
+          "meaning": "ten"
+        },
+        {
+          "zh": "周年",
+          "py": "zhōu nián",
+          "meaning": "anniversary"
+        },
+        {
+          "zh": "快乐",
+          "py": "kuài lè",
+          "meaning": "happy"
+        }
+      ]
+    },
+    {
+      "chinese": "今天是我们的五周年纪念日！",
+      "pinyin": "Jīn tiān shì wǒ men de wǔ zhōu nián jì niàn rì!",
+      "translation": "Today is our 5th anniversary!",
+      "usage": "Personal announcement of a milestone anniversary. Informal.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "今天",
+          "py": "jīn tiān",
+          "meaning": "today"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "is"
+        },
+        {
+          "zh": "我们",
+          "py": "wǒ men",
+          "meaning": "we"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive particle"
+        },
+        {
+          "zh": "五",
+          "py": "wǔ",
+          "meaning": "five"
+        },
+        {
+          "zh": "周年",
+          "py": "zhōu nián",
+          "meaning": "anniversary"
+        },
+        {
+          "zh": "纪念",
+          "py": "jì niàn",
+          "meaning": "to commemorate"
+        },
+        {
+          "zh": "日",
+          "py": "rì",
+          "meaning": "day"
+        }
+      ]
+    }
+  ]
+}

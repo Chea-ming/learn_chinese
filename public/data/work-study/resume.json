@@ -1,0 +1,232 @@
+{
+  "sentences": [
+    {
+      "chinese": "简历",
+      "pinyin": "Jièlǐ",
+      "translation": "Résumé/CV",
+      "usage": "The primary document summarizing one's qualifications.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "简",
+          "py": " Jiǎn",
+          "meaning": "brief"
+        },
+        {
+          "zh": "历",
+          "py": " lì",
+          "meaning": "experience"
+        }
+      ]
+    },
+    {
+      "chinese": "个人简介",
+      "pinyin": "Gèrén jiǎnjiè",
+      "translation": "Personal Summary",
+      "usage": "A brief overview of one's background and strengths.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "个人",
+          "py": "Gèrén",
+          "meaning": "personal"
+        },
+        {
+          "zh": "简介",
+          "py": "jiǎnjiè",
+          "meaning": "summary"
+        }
+      ]
+    },
+    {
+      "chinese": "教育背景",
+      "pinyin": "Jiàoyù beijǐng",
+      "translation": "Education Background",
+      "usage": "Section listing degrees and institutions.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "教育",
+          "py": "Jiàoyù",
+          "meaning": "education"
+        },
+        {
+          "zh": "背景",
+          "py": "beijǐng",
+          "meaning": "background"
+        }
+      ]
+    },
+    {
+      "chinese": "工作经验",
+      "pinyin": "Gōngzuò jīngyàn",
+      "translation": "Work Experience",
+      "usage": "Section detailing past employment history.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "工作",
+          "py": "Gōngzuò",
+          "meaning": "work"
+        },
+        {
+          "zh": "经验",
+          "py": "jīngyàn",
+          "meaning": "experience"
+        }
+      ]
+    },
+    {
+      "chinese": "专业技能",
+      "pinyin": "Zhuānyè jìnéng",
+      "translation": "Professional Skills",
+      "usage": "List of technical or vocational abilities.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "专业",
+          "py": "Zhuānyè",
+          "meaning": "professional"
+        },
+        {
+          "zh": "技能",
+          "py": "jìnéng",
+          "meaning": "skills"
+        }
+      ]
+    },
+    {
+      "chinese": "项目经验",
+      "pinyin": "Xiàngmù jīngyàn",
+      "translation": "Project Experience",
+      "usage": "Description of specific projects completed.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "项目",
+          "py": "Xiàngmù",
+          "meaning": "project"
+        },
+        {
+          "zh": "经验",
+          "py": "jīngyàn",
+          "meaning": "experience"
+        }
+      ]
+    },
+    {
+      "chinese": "荣誉奖项",
+      "pinyin": "Róngyù jiǎngxiàng",
+      "translation": "Awards and Honors",
+      "usage": "Section highlighting academic/professional recognition.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "荣誉",
+          "py": "Róngyù",
+          "meaning": "honors"
+        },
+        {
+          "zh": "奖项",
+          "py": "jiǎngxiàng",
+          "meaning": "awards"
+        }
+      ]
+    },
+    {
+      "chinese": "语言能力",
+      "pinyin": "Yǔyán nénglì",
+      "translation": "Language Proficiency",
+      "usage": "Listing languages and proficiency levels.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "语言",
+          "py": "Yǔyán",
+          "meaning": "language"
+        },
+        {
+          "zh": "能力",
+          "py": "nénglì",
+          "meaning": "ability"
+        }
+      ]
+    },
+    {
+      "chinese": "自我评价",
+      "pinyin": "Zìwǒ píngjià",
+      "translation": "Self Evaluation",
+      "usage": "Personal assessment of strengths and achievements.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "自我",
+          "py": "Zìwǒ",
+          "meaning": "self"
+        },
+        {
+          "zh": "评价",
+          "py": "píngjià",
+          "meaning": "evaluation"
+        }
+      ]
+    },
+    {
+      "chinese": "联系方式",
+      "pinyin": "Liánxì fāngshì",
+      "translation": "Contact Information",
+      "usage": "Section with email, phone number, etc.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "联系",
+          "py": "Liánxì",
+          "meaning": "contact"
+        },
+        {
+          "zh": "方式",
+          "py": "fāngshì",
+          "meaning": "method"
+        }
+      ]
+    },
+    {
+      "chinese": "求职意向",
+      "pinyin": "Qiúzhí yìxiàng",
+      "translation": "Career Objective",
+      "usage": "Statement of job goals.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "求职",
+          "py": "Qiúzhí",
+          "meaning": "job seeking"
+        },
+        {
+          "zh": "意向",
+          "py": "yìxiàng",
+          "meaning": "intent"
+        }
+      ]
+    },
+    {
+      "chinese": "工作职责",
+      "pinyin": "Gōngzuò zéwù",
+      "translation": "Job Responsibilities",
+      "usage": "Description of duties in a role.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "工作",
+          "py": "Gōngzuò",
+          "meaning": "work"
+        },
+        {
+          "zh": "职责",
+          "py": "zéwù",
+          "meaning": "responsibilities"
+        }
+      ]
+    }
+  ]
+}

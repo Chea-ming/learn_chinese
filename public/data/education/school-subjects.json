@@ -1,0 +1,118 @@
+{
+  "sentences": [
+    {
+      "chinese": "数学",
+      "pinyin": "Shùxué",
+      "translation": "Mathematics",
+      "usage": "A core academic subject focusing on numbers, patterns, and logical reasoning.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "数",
+          "py": "Shù",
+          "meaning": "number, quantity"
+        },
+        {
+          "zh": "学",
+          "py": "Xué",
+          "meaning": "study, subject"
+        }
+      ]
+    },
+    {
+      "chinese": "语文",
+      "pinyin": "Yǔwén",
+      "translation": "Chinese Language and Literature",
+      "usage": "Fundamental subject in Chinese education covering language, writing, and classical texts.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "语",
+          "py": "Yǔ",
+          "meaning": "language"
+        },
+        {
+          "zh": "文",
+          "py": "Wén",
+          "meaning": "literature, writing"
+        }
+      ]
+    },
+    {
+      "chinese": "英语",
+      "pinyin": "Yīngyǔ",
+      "translation": "English",
+      "usage": "Foreign language subject taught globally for international communication.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "英",
+          "py": "Yīng",
+          "meaning": "British, English"
+        },
+        {
+          "zh": "语",
+          "py": "Yǔ",
+          "meaning": "language"
+        }
+      ]
+    },
+    {
+      "chinese": "物理",
+      "pinyin": "Wùlǐ",
+      "translation": "Physics",
+      "usage": "Science subject studying matter, energy, and natural laws.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "物",
+          "py": "Wù",
+          "meaning": "object, matter"
+        },
+        {
+          "zh": "理",
+          "py": "Lǐ",
+          "meaning": "principles, laws"
+        }
+      ]
+    },
+    {
+      "chinese": "化学",
+      "pinyin": "Huàxué",
+      "translation": "Chemistry",
+      "usage": "Science subject analyzing substances and chemical reactions.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "化",
+          "py": "Huà",
+          "meaning": "transformation"
+        },
+        {
+          "zh": "学",
+          "py": "Xué",
+          "meaning": "study"
+        }
+      ]
+    },
+    {
+      "chinese": "生物",
+      "pinyin": "Shēngwù",
+      "translation": "Biology",
+      "usage": "Study of living organisms and their ecosystems.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "生",
+          "py": "Shēng",
+          "meaning": "life, living"
+        },
+        {
+          "zh": "物",
+          "py": "Wù",
+          "meaning": "things, beings"
+        }
+      ]
+    }
+  ]
+}

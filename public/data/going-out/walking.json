@@ -1,0 +1,859 @@
+{
+  "sentences": [
+    {
+      "chinese": "我们去散步吧。",
+      "pinyin": "Wǒmen qù sǎnbù ba.",
+      "translation": "Let's go for a walk.",
+      "usage": "Suggesting a casual walk, often used with friends or family.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "we"
+        },
+        {
+          "zh": "们",
+          "py": "men",
+          "meaning": "plural marker"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "to go"
+        },
+        {
+          "zh": "散",
+          "py": "sǎn",
+          "meaning": "to walk"
+        },
+        {
+          "zh": "步",
+          "py": "bù",
+          "meaning": "walk"
+        },
+        {
+          "zh": "吧",
+          "py": "ba",
+          "meaning": "let's"
+        }
+      ]
+    },
+    {
+      "chinese": "今天天气很好，适合徒步。",
+      "pinyin": "Jīntiān tiānqì hěn hǎo, shìhé túbù.",
+      "translation": "The weather is very good today, perfect for hiking.",
+      "usage": "Describing ideal conditions for hiking or walking outdoors.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "今",
+          "py": "jīn",
+          "meaning": "today"
+        },
+        {
+          "zh": "天",
+          "py": "tiān",
+          "meaning": "day"
+        },
+        {
+          "zh": "天",
+          "py": "tiān",
+          "meaning": "weather"
+        },
+        {
+          "zh": "气",
+          "py": "qì",
+          "meaning": "weather"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good"
+        },
+        {
+          "zh": "适",
+          "py": "shì",
+          "meaning": "suitable"
+        },
+        {
+          "zh": "合",
+          "py": "hé",
+          "meaning": "for"
+        },
+        {
+          "zh": "徒",
+          "py": "tú",
+          "meaning": "hiking"
+        },
+        {
+          "zh": "步",
+          "py": "bù",
+          "meaning": "walk"
+        }
+      ]
+    },
+    {
+      "chinese": "我想去爬山。",
+      "pinyin": "Wǒ xiǎng qù pá shān.",
+      "translation": "I want to go hiking.",
+      "usage": "Expressing desire to go hiking or mountain climbing.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "想",
+          "py": "xiǎng",
+          "meaning": "want"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "to go"
+        },
+        {
+          "zh": "爬",
+          "py": "pá",
+          "meaning": "to climb"
+        },
+        {
+          "zh": "山",
+          "py": "shān",
+          "meaning": "mountain"
+        }
+      ]
+    },
+    {
+      "chinese": "这是一条很好的徒步路线。",
+      "pinyin": "Zhè shì yī tiáo hěn hǎo de túbù lùxiàn.",
+      "translation": "This is a very good hiking trail.",
+      "usage": "Describing a hiking path or route that is recommended.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "is"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "条",
+          "py": "tiáo",
+          "meaning": "a path"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "of"
+        },
+        {
+          "zh": "徒",
+          "py": "tú",
+          "meaning": "hiking"
+        },
+        {
+          "zh": "步",
+          "py": "bù",
+          "meaning": "walk"
+        },
+        {
+          "zh": "路",
+          "py": "lù",
+          "meaning": "path"
+        },
+        {
+          "zh": "线",
+          "py": "xiàn",
+          "meaning": "route"
+        }
+      ]
+    },
+    {
+      "chinese": "请穿舒适的鞋子。",
+      "pinyin": "Qǐng chuān shūshì de xiézi.",
+      "translation": "Please wear comfortable shoes.",
+      "usage": "Advice given before going hiking or walking for comfort.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "穿",
+          "py": "chuān",
+          "meaning": "to wear"
+        },
+        {
+          "zh": "舒",
+          "py": "shū",
+          "meaning": "comfortable"
+        },
+        {
+          "zh": "适",
+          "py": "shì",
+          "meaning": "comfortable"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "of"
+        },
+        {
+          "zh": "鞋",
+          "py": "xié",
+          "meaning": "shoes"
+        },
+        {
+          "zh": "子",
+          "py": "zi",
+          "meaning": "child"
+        }
+      ]
+    },
+    {
+      "chinese": "我们要走很久。",
+      "pinyin": "Wǒmen yào zǒu hěn jiǔ.",
+      "translation": "We have to walk for a long time.",
+      "usage": "Describing a long walking journey or hike.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "we"
+        },
+        {
+          "zh": "们",
+          "py": "men",
+          "meaning": "plural marker"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "have to"
+        },
+        {
+          "zh": "走",
+          "py": "zǒu",
+          "meaning": "to walk"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "久",
+          "py": "jiǔ",
+          "meaning": "long time"
+        }
+      ]
+    },
+    {
+      "chinese": "走快一点。",
+      "pinyin": "Zǒu kuài yīdiǎn.",
+      "translation": "Walk a bit faster.",
+      "usage": "Encouraging someone to increase walking pace.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "走",
+          "py": "zǒu",
+          "meaning": "to walk"
+        },
+        {
+          "zh": "快",
+          "py": "kuài",
+          "meaning": "fast"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "a bit"
+        },
+        {
+          "zh": "点",
+          "py": "diǎn",
+          "meaning": "bit"
+        }
+      ]
+    },
+    {
+      "chinese": "我们沿着小路走。",
+      "pinyin": "Wǒmen yánzhe xiǎo lù zǒu.",
+      "translation": "We walk along the path.",
+      "usage": "Describing walking along a specific route or path.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "we"
+        },
+        {
+          "zh": "们",
+          "py": "men",
+          "meaning": "plural marker"
+        },
+        {
+          "zh": "沿",
+          "py": "yán",
+          "meaning": "along"
+        },
+        {
+          "zh": "着",
+          "py": "zhe",
+          "meaning": "along"
+        },
+        {
+          "zh": "小",
+          "py": "xiǎo",
+          "meaning": "small"
+        },
+        {
+          "zh": "路",
+          "py": "lù",
+          "meaning": "path"
+        },
+        {
+          "zh": "走",
+          "py": "zǒu",
+          "meaning": "to walk"
+        }
+      ]
+    },
+    {
+      "chinese": "爬山很累。",
+      "pinyin": "Pá shān hěn lèi.",
+      "translation": "Climbing mountains is very tiring.",
+      "usage": "Expressing that hiking or mountain climbing is exhausting.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "爬",
+          "py": "pá",
+          "meaning": "to climb"
+        },
+        {
+          "zh": "山",
+          "py": "shān",
+          "meaning": "mountain"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "累",
+          "py": "lèi",
+          "meaning": "tired"
+        }
+      ]
+    },
+    {
+      "chinese": "你累吗？",
+      "pinyin": "Nǐ lèi ma?",
+      "translation": "Are you tired?",
+      "usage": "Asking someone if they are feeling tired during walking or hiking.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "累",
+          "py": "lèi",
+          "meaning": "tired"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "我们要休息一下。",
+      "pinyin": "Wǒmen yào xiūxí yīxià.",
+      "translation": "We need to rest for a while.",
+      "usage": "Suggesting a short break during walking or hiking.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "we"
+        },
+        {
+          "zh": "们",
+          "py": "men",
+          "meaning": "plural marker"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "need to"
+        },
+        {
+          "zh": "休",
+          "py": "xiū",
+          "meaning": "rest"
+        },
+        {
+          "zh": "息",
+          "py": "xí",
+          "meaning": "rest"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "下",
+          "py": "xià",
+          "meaning": "a while"
+        }
+      ]
+    },
+    {
+      "chinese": "这里风景很美。",
+      "pinyin": "Zhèlǐ fēngjǐng hěn měi.",
+      "translation": "The scenery here is very beautiful.",
+      "usage": "Commenting on beautiful surroundings during a walk or hike.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "here"
+        },
+        {
+          "zh": "里",
+          "py": "lǐ",
+          "meaning": "place"
+        },
+        {
+          "zh": "风",
+          "py": "fēng",
+          "meaning": "scenery"
+        },
+        {
+          "zh": "景",
+          "py": "jǐng",
+          "meaning": "scenery"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "美",
+          "py": "měi",
+          "meaning": "beautiful"
+        }
+      ]
+    },
+    {
+      "chinese": "我们要小心走路。",
+      "pinyin": "Wǒmen yào xiǎoxīn zǒulù.",
+      "translation": "We need to be careful when walking.",
+      "usage": "Warning about being cautious while walking, especially on uneven terrain.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "we"
+        },
+        {
+          "zh": "们",
+          "py": "men",
+          "meaning": "plural marker"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "need to"
+        },
+        {
+          "zh": "小",
+          "py": "xiǎo",
+          "meaning": "careful"
+        },
+        {
+          "zh": "心",
+          "py": "xīn",
+          "meaning": "careful"
+        },
+        {
+          "zh": "走",
+          "py": "zǒu",
+          "meaning": "to walk"
+        },
+        {
+          "zh": "路",
+          "py": "lù",
+          "meaning": "road"
+        }
+      ]
+    },
+    {
+      "chinese": "这是一次愉快的徒步旅行。",
+      "pinyin": "Zhè shì yī cì yúkuài de túbù lǚxíng.",
+      "translation": "This is an enjoyable hiking trip.",
+      "usage": "Describing a pleasant hiking experience or journey.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "is"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "次",
+          "py": "cì",
+          "meaning": "time"
+        },
+        {
+          "zh": "愉",
+          "py": "yú",
+          "meaning": "pleasant"
+        },
+        {
+          "zh": "快",
+          "py": "kuài",
+          "meaning": "pleasant"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "of"
+        },
+        {
+          "zh": "徒",
+          "py": "tú",
+          "meaning": "hiking"
+        },
+        {
+          "zh": "步",
+          "py": "bù",
+          "meaning": "walk"
+        },
+        {
+          "zh": "旅",
+          "py": "lǚ",
+          "meaning": "trip"
+        },
+        {
+          "zh": "行",
+          "py": "xíng",
+          "meaning": "travel"
+        }
+      ]
+    },
+    {
+      "chinese": "我们走累了。",
+      "pinyin": "Wǒmen zǒu lèi le.",
+      "translation": "We are tired from walking.",
+      "usage": "Expressing that walking has caused fatigue.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "we"
+        },
+        {
+          "zh": "们",
+          "py": "men",
+          "meaning": "plural marker"
+        },
+        {
+          "zh": "走",
+          "py": "zǒu",
+          "meaning": "to walk"
+        },
+        {
+          "zh": "累",
+          "py": "lèi",
+          "meaning": "tired"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed"
+        }
+      ]
+    },
+    {
+      "chinese": "我们要慢慢走。",
+      "pinyin": "Wǒmen yào mànmàn zǒu.",
+      "translation": "We should walk slowly.",
+      "usage": "Suggesting a slow walking pace, perhaps for safety or enjoyment.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "we"
+        },
+        {
+          "zh": "们",
+          "py": "men",
+          "meaning": "plural marker"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "should"
+        },
+        {
+          "zh": "慢",
+          "py": "màn",
+          "meaning": "slow"
+        },
+        {
+          "zh": "慢",
+          "py": "màn",
+          "meaning": "slow"
+        },
+        {
+          "zh": "走",
+          "py": "zǒu",
+          "meaning": "to walk"
+        }
+      ]
+    },
+    {
+      "chinese": "我们沿着河边走。",
+      "pinyin": "Wǒmen yánzhe hébiān zǒu.",
+      "translation": "We walk along the riverbank.",
+      "usage": "Describing walking along a river or stream.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "we"
+        },
+        {
+          "zh": "们",
+          "py": "men",
+          "meaning": "plural marker"
+        },
+        {
+          "zh": "沿",
+          "py": "yán",
+          "meaning": "along"
+        },
+        {
+          "zh": "着",
+          "py": "zhe",
+          "meaning": "along"
+        },
+        {
+          "zh": "河",
+          "py": "hé",
+          "meaning": "river"
+        },
+        {
+          "zh": "边",
+          "py": "biān",
+          "meaning": "bank"
+        },
+        {
+          "zh": "走",
+          "py": "zǒu",
+          "meaning": "to walk"
+        }
+      ]
+    },
+    {
+      "chinese": "我们走着走着就到了。",
+      "pinyin": "Wǒmen zǒuzhe zǒuzhe jiù dàole.",
+      "translation": "We walked and walked until we arrived.",
+      "usage": "Describing the process of walking to a destination over time.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "we"
+        },
+        {
+          "zh": "们",
+          "py": "men",
+          "meaning": "plural marker"
+        },
+        {
+          "zh": "走",
+          "py": "zǒu",
+          "meaning": "to walk"
+        },
+        {
+          "zh": "着",
+          "py": "zhe",
+          "meaning": "continuing"
+        },
+        {
+          "zh": "走",
+          "py": "zǒu",
+          "meaning": "to walk"
+        },
+        {
+          "zh": "着",
+          "py": "zhe",
+          "meaning": "continuing"
+        },
+        {
+          "zh": "就",
+          "py": "jiù",
+          "meaning": "then"
+        },
+        {
+          "zh": "到",
+          "py": "dào",
+          "meaning": "arrived"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed"
+        }
+      ]
+    },
+    {
+      "chinese": "我们走得太快了。",
+      "pinyin": "Wǒmen zǒu de tài kuài le.",
+      "translation": "We walked too fast.",
+      "usage": "Commenting on walking at a pace that was too fast.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "we"
+        },
+        {
+          "zh": "们",
+          "py": "men",
+          "meaning": "plural marker"
+        },
+        {
+          "zh": "走",
+          "py": "zǒu",
+          "meaning": "to walk"
+        },
+        {
+          "zh": "得",
+          "py": "de",
+          "meaning": "so"
+        },
+        {
+          "zh": "太",
+          "py": "tài",
+          "meaning": "too"
+        },
+        {
+          "zh": "快",
+          "py": "kuài",
+          "meaning": "fast"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed"
+        }
+      ]
+    },
+    {
+      "chinese": "我们要走回原路。",
+      "pinyin": "Wǒmen yào zǒu huí yuánlù.",
+      "translation": "We need to walk back the same way.",
+      "usage": "Suggesting returning by the same path taken.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "we"
+        },
+        {
+          "zh": "们",
+          "py": "men",
+          "meaning": "plural marker"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "need to"
+        },
+        {
+          "zh": "走",
+          "py": "zǒu",
+          "meaning": "to walk"
+        },
+        {
+          "zh": "回",
+          "py": "huí",
+          "meaning": "back"
+        },
+        {
+          "zh": "原",
+          "py": "yuán",
+          "meaning": "original"
+        },
+        {
+          "zh": "路",
+          "py": "lù",
+          "meaning": "path"
+        }
+      ]
+    }
+  ]
+}

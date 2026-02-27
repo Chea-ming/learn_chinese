@@ -1,0 +1,246 @@
+{
+  "sentences": [
+    {
+      "chinese": "申请留学",
+      "pinyin": "Shēn qǐng liúxué",
+      "translation": "Apply for studying abroad",
+      "usage": "Used when initiating the process of studying abroad.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "申请",
+          "py": "shēn qǐng",
+          "meaning": "apply"
+        },
+        {
+          "zh": "留学",
+          "py": "liúxué",
+          "meaning": "study abroad"
+        }
+      ]
+    },
+    {
+      "chinese": "选择大学",
+      "pinyin": "Xuǎn zé dàxué",
+      "translation": "Choose a university",
+      "usage": "Refers to selecting an institution for international study.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "选择",
+          "py": "xuǎn zé",
+          "meaning": "choose"
+        },
+        {
+          "zh": "大学",
+          "py": "dàxué",
+          "meaning": "university"
+        }
+      ]
+    },
+    {
+      "chinese": "准备材料",
+      "pinyin": "Zhǔn bèi cáiliào",
+      "translation": "Prepare documents",
+      "usage": "Collecting necessary paperwork for applications.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "准备",
+          "py": "zhǔn bèi",
+          "meaning": "prepare"
+        },
+        {
+          "zh": "材料",
+          "py": "cáiliào",
+          "meaning": "materials"
+        }
+      ]
+    },
+    {
+      "chinese": "语言考试",
+      "pinyin": "Yǔyán kǎoshì",
+      "translation": "Language test",
+      "usage": "Refers to exams like TOEFL or IELTS.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "语言",
+          "py": "yǔyán",
+          "meaning": "language"
+        },
+        {
+          "zh": "考试",
+          "py": "kǎoshì",
+          "meaning": "exam"
+        }
+      ]
+    },
+    {
+      "chinese": "办理签证",
+      "pinyin": "Bàn lǐ qiānzì",
+      "translation": "Apply for a visa",
+      "usage": "Process of obtaining a study permit for a country.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "办理",
+          "py": "bàn lǐ",
+          "meaning": "handle"
+        },
+        {
+          "zh": "签证",
+          "py": "qiānzì",
+          "meaning": "visa"
+        }
+      ]
+    },
+    {
+      "chinese": "适应文化",
+      "pinyin": "Shì yìng wénhuà",
+      "translation": "Adapt to the culture",
+      "usage": "Adjusting to a new cultural environment abroad.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "适应",
+          "py": "shì yìng",
+          "meaning": "adapt"
+        },
+        {
+          "zh": "文化",
+          "py": "wénhuà",
+          "meaning": "culture"
+        }
+      ]
+    },
+    {
+      "chinese": "学术支持",
+      "pinyin": "Xuéshù zhīchí",
+      "translation": "Academic support",
+      "usage": "Refers to resources like tutoring or counseling.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "学术",
+          "py": "xuéshù",
+          "meaning": "academic"
+        },
+        {
+          "zh": "支持",
+          "py": "zhīchí",
+          "meaning": "support"
+        }
+      ]
+    },
+    {
+      "chinese": "完成学业",
+      "pinyin": "Wán chéng xuéyè",
+      "translation": "Complete studies",
+      "usage": "Finish a degree program abroad.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "完成",
+          "py": "wán chéng",
+          "meaning": "complete"
+        },
+        {
+          "zh": "学业",
+          "py": "xuéyè",
+          "meaning": "academic work"
+        }
+      ]
+    },
+    {
+      "chinese": "语言课程",
+      "pinyin": "Yǔyán kèchéng",
+      "translation": "Language courses",
+      "usage": "Refers to learning the local language.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "语言",
+          "py": "yǔyán",
+          "meaning": "language"
+        },
+        {
+          "zh": "课程",
+          "py": "kèchéng",
+          "meaning": "courses"
+        }
+      ]
+    },
+    {
+      "chinese": "留学费用",
+      "pinyin": "Liúxué fèiyong",
+      "translation": "Study abroad costs",
+      "usage": "Budgeting for tuition and living expenses.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "留学",
+          "py": "liúxué",
+          "meaning": "study abroad"
+        },
+        {
+          "zh": "费用",
+          "py": "fèiyong",
+          "meaning": "costs"
+        }
+      ]
+    },
+    {
+      "chinese": "寻找奖学金",
+      "pinyin": "Xún zhǎo xuéshěng jīn",
+      "translation": "Seek scholarships",
+      "usage": "Searching for financial aid opportunities.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "寻找",
+          "py": "xún zhǎo",
+          "meaning": "search for"
+        },
+        {
+          "zh": "奖学金",
+          "py": "xuéshěng jīn",
+          "meaning": "scholarship"
+        }
+      ]
+    },
+    {
+      "chinese": "住宿安排",
+      "pinyin": "Zhùzù ānpái",
+      "translation": "Accommodation arrangements",
+      "usage": "Finding housing in a foreign country.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "住宿",
+          "py": "zhùzù",
+          "meaning": "accommodation"
+        },
+        {
+          "zh": "安排",
+          "py": "ānpái",
+          "meaning": "arrangements"
+        }
+      ]
+    },
+    {
+      "chinese": "文化差异",
+      "pinyin": "Wénhuà chāyì",
+      "translation": "Cultural differences",
+      "usage": "Understanding differences between countries.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "文化",
+          "py": "wénhuà",
+          "meaning": "culture"
+        }
+      ]
+    }
+  ]
+}

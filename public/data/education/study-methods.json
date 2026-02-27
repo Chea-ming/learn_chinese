@@ -1,0 +1,231 @@
+{
+  "sentences": [
+    {
+      "chinese": "主动学习",
+      "pinyin": "Zhǔ dòng xué xí",
+      "translation": "Active learning",
+      "usage": "Used to describe self-motivated study habits.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "主",
+          "py": "zhǔ",
+          "meaning": "main"
+        },
+        {
+          "zh": "动",
+          "py": "dòng",
+          "meaning": "active"
+        },
+        {
+          "zh": "学",
+          "py": "xué",
+          "meaning": "study"
+        },
+        {
+          "zh": "习",
+          "py": "xí",
+          "meaning": "practice"
+        }
+      ]
+    },
+    {
+      "chinese": "时间管理",
+      "pinyin": "Shí jiān guǎn lǐ",
+      "translation": "Time management",
+      "usage": "Refers to planning study schedules effectively.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "时",
+          "py": "shí",
+          "meaning": "time"
+        },
+        {
+          "zh": "间",
+          "py": "jiān",
+          "meaning": "interval"
+        },
+        {
+          "zh": "管",
+          "py": "guǎn",
+          "meaning": "manage"
+        },
+        {
+          "zh": "理",
+          "py": "lǐ",
+          "meaning": "organize"
+        }
+      ]
+    },
+    {
+      "chinese": "记笔记",
+      "pinyin": "Jì bǐ jì",
+      "translation": "Take notes",
+      "usage": "Common advice for retaining information.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "记",
+          "py": "jì",
+          "meaning": "record"
+        },
+        {
+          "zh": "笔",
+          "py": "bǐ",
+          "meaning": "pen"
+        },
+        {
+          "zh": "记",
+          "py": "jì",
+          "meaning": "notes"
+        }
+      ]
+    },
+    {
+      "chinese": "分散学习",
+      "pinyin": "Fēn sàn xué xí",
+      "translation": "Spaced repetition",
+      "usage": "A method to spread out study sessions.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "分",
+          "py": "fēn",
+          "meaning": "split"
+        },
+        {
+          "zh": "散",
+          "py": "sàn",
+          "meaning": "scatter"
+        },
+        {
+          "zh": "学",
+          "py": "xué",
+          "meaning": "study"
+        },
+        {
+          "zh": "习",
+          "py": "xí",
+          "meaning": "practice"
+        }
+      ]
+    },
+    {
+      "chinese": "集中复习",
+      "pinyin": "Jí zhōng fù xí",
+      "translation": "Focused review",
+      "usage": "Intensive practice before exams.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "集",
+          "py": "jí",
+          "meaning": "gather"
+        },
+        {
+          "zh": "中",
+          "py": "zhōng",
+          "meaning": "center"
+        },
+        {
+          "zh": "复",
+          "py": "fù",
+          "meaning": "repeat"
+        },
+        {
+          "zh": "习",
+          "py": "xí",
+          "meaning": "review"
+        }
+      ]
+    },
+    {
+      "chinese": "做练习题",
+      "pinyin": "Zuò liàn xí tí",
+      "translation": "Do practice problems",
+      "usage": "Encouraged for skill development.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "做",
+          "py": "zuò",
+          "meaning": "do"
+        },
+        {
+          "zh": "练",
+          "py": "liàn",
+          "meaning": "practice"
+        },
+        {
+          "zh": "习",
+          "py": "xí",
+          "meaning": "exercise"
+        },
+        {
+          "zh": "题",
+          "py": "tí",
+          "meaning": "questions"
+        }
+      ]
+    },
+    {
+      "chinese": "使用在线资源",
+      "pinyin": "Shǐ yòng zài xiàn zī yuán",
+      "translation": "Use online resources",
+      "usage": "Leverage digital tools for learning.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "使",
+          "py": "shǐ",
+          "meaning": "use"
+        },
+        {
+          "zh": "用",
+          "py": "yòng",
+          "meaning": "utilize"
+        },
+        {
+          "zh": "在",
+          "py": "zài",
+          "meaning": "online"
+        },
+        {
+          "zh": "线",
+          "py": "xiàn",
+          "meaning": "resources"
+        },
+        {
+          "zh": "资",
+          "py": "zī",
+          "meaning": "materials"
+        },
+        {
+          "zh": "源",
+          "py": "yuán",
+          "meaning": "sources"
+        }
+      ]
+    },
+    {
+      "chinese": "番茄工作法",
+      "pinyin": "Fān qié gōng zuò fǎ",
+      "translation": "Pomodoro technique",
+      "usage": "Time management method in study.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "番",
+          "py": "fān",
+          "meaning": "tomato"
+        },
+        {
+          "zh": "茄",
+          "py": "qié",
+          "meaning": "tomato"
+        }
+      ]
+    }
+  ]
+}

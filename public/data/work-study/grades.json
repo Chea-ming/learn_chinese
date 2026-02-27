@@ -1,0 +1,162 @@
+{
+  "sentences": [
+    {
+      "chinese": "成绩单",
+      "pinyin": "Chéngjì dān",
+      "translation": "Report card",
+      "usage": "Document listing academic performance.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "成",
+          "py": "chéng",
+          "meaning": "achieve"
+        },
+        {
+          "zh": "绩",
+          "py": "jì",
+          "meaning": "record"
+        },
+        {
+          "zh": "单",
+          "py": "dān",
+          "meaning": "document"
+        }
+      ]
+    },
+    {
+      "chinese": "考试",
+      "pinyin": "Kǎo shì",
+      "translation": "Exam",
+      "usage": "Formal assessment of knowledge.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "考",
+          "py": "kǎo",
+          "meaning": "test"
+        },
+        {
+          "zh": "试",
+          "py": "shì",
+          "meaning": "trial"
+        }
+      ]
+    },
+    {
+      "chinese": "取得好成绩",
+      "pinyin": "Qǔ dé hǎo chéngjì",
+      "translation": "Achieve good grades",
+      "usage": "Used to express academic success.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "取",
+          "py": "qǔ",
+          "meaning": "obtain"
+        },
+        {
+          "zh": "得",
+          "py": "dé",
+          "meaning": "gain"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good"
+        },
+        {
+          "zh": "成绩",
+          "py": "chéngjì",
+          "meaning": "academic record"
+        }
+      ]
+    },
+    {
+      "chinese": "平均绩点",
+      "pinyin": "Píngjūn jìdiǎn",
+      "translation": "GPA (Grade Point Average)",
+      "usage": "Academic performance metric in GPA systems.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "平均",
+          "py": "píngjūn",
+          "meaning": "average"
+        },
+        {
+          "zh": "绩点",
+          "py": "jìdiǎn",
+          "meaning": "grade points"
+        }
+      ]
+    },
+    {
+      "chinese": "作弊",
+      "pinyin": "Zuòbì",
+      "translation": "Cheating",
+      "usage": "Unethical academic behavior.",
+      "formality": "Negative",
+      "words": [
+        {
+          "zh": "作",
+          "py": "zuò",
+          "meaning": "to act"
+        },
+        {
+          "zh": "弊",
+          "py": "bì",
+          "meaning": "corruption"
+        }
+      ]
+    },
+    {
+      "chinese": "努力学习",
+      "pinyin": "Nǔlì xuéxí",
+      "translation": "Study hard",
+      "usage": "Encouragement to work diligently.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "努",
+          "py": "nǔ",
+          "meaning": "effort"
+        },
+        {
+          "zh": "力",
+          "py": "lì",
+          "meaning": "power"
+        },
+        {
+          "zh": "学",
+          "py": "xué",
+          "meaning": "study"
+        },
+        {
+          "zh": "习",
+          "py": "xí",
+          "meaning": "practice"
+        }
+      ]
+    },
+    {
+      "chinese": "失败",
+      "pinyin": "Shībài",
+      "translation": "Failure",
+      "usage": "Academic or performance failure.",
+      "formality": "Negative",
+      "words": [
+        {
+          "zh": "失",
+          "py": "shī",
+          "meaning": "lose"
+        },
+        {
+          "zh": "败",
+          "py": "bài",
+          "meaning": "defeat"
+        }
+      ]
+    }
+  ]
+}

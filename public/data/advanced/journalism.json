@@ -1,0 +1,189 @@
+{
+  "sentences": [
+    {
+      "chinese": "事实核查",
+      "pinyin": "Shìjiàn chéhé",
+      "translation": "Fact-checking",
+      "usage": "Used in media to verify the accuracy of information before publication.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "事实",
+          "py": "shìjiàn",
+          "meaning": "fact"
+        },
+        {
+          "zh": "核查",
+          "py": "chéhé",
+          "meaning": "verify, check"
+        }
+      ]
+    },
+    {
+      "chinese": "调查记者",
+      "pinyin": "Diàochá jìzhě",
+      "translation": "Investigative journalist",
+      "usage": "Refers to reporters specializing in in-depth investigations.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "调查",
+          "py": "diàochá",
+          "meaning": "investigate"
+        },
+        {
+          "zh": "记者",
+          "py": "jìzhě",
+          "meaning": "journalist"
+        }
+      ]
+    },
+    {
+      "chinese": "新闻伦理",
+      "pinyin": "Xīnwén lúnlǐ",
+      "translation": "Journalistic ethics",
+      "usage": "Guiding principles for responsible media practices.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "新闻",
+          "py": "xīnwén",
+          "meaning": "news"
+        },
+        {
+          "zh": "伦理",
+          "py": "lúnlǐ",
+          "meaning": "ethics"
+        }
+      ]
+    },
+    {
+      "chinese": "舆论监督",
+      "pinyin": "Yúlùn jiāndū",
+      "translation": "Public opinion supervision",
+      "usage": "Media's role in holding institutions accountable.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "舆论",
+          "py": "yúlùn",
+          "meaning": "public opinion"
+        },
+        {
+          "zh": "监督",
+          "py": "jiāndū",
+          "meaning": "supervision"
+        }
+      ]
+    },
+    {
+      "chinese": "虚假新闻",
+      "pinyin": "Xūjiǎo xīnwén",
+      "translation": "Fake news",
+      "usage": "Misleading or false information presented as factual.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "虚假",
+          "py": "xūjiǎo",
+          "meaning": "fake"
+        },
+        {
+          "zh": "新闻",
+          "py": "xīnwén",
+          "meaning": "news"
+        }
+      ]
+    },
+    {
+      "chinese": "信息茧房",
+      "pinyin": "Xìnxī jiǎnfáng",
+      "translation": "Information cocoon",
+      "usage": "Overexposure to filtered, personalized content.",
+      "formality": "Academic",
+      "words": [
+        {
+          "zh": "信息",
+          "py": "xìnxī",
+          "meaning": "information"
+        },
+        {
+          "zh": "茧房",
+          "py": "jiǎnfáng",
+          "meaning": "cocoon"
+        }
+      ]
+    },
+    {
+      "chinese": "新闻发布会",
+      "pinyin": "Xīnwén huìbǐshì",
+      "translation": "Press conference",
+      "usage": "Official event to share information with media.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "新闻",
+          "py": "xīnwén",
+          "meaning": "news"
+        },
+        {
+          "zh": "发布会",
+          "py": "huìbǐshì",
+          "meaning": "release event"
+        }
+      ]
+    },
+    {
+      "chinese": "编辑独立性",
+      "pinyin": "Biānjí dúlìxìng",
+      "translation": "Editorial independence",
+      "usage": "Freedom from external influence in content creation.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "编辑",
+          "py": "biānjí",
+          "meaning": "editor"
+        },
+        {
+          "zh": "独立性",
+          "py": "dúlìxìng",
+          "meaning": "independence"
+        }
+      ]
+    },
+    {
+      "chinese": "深度报道",
+      "pinyin": "Shēndù bàodào",
+      "translation": "In-depth reporting",
+      "usage": "Detailed analysis of a topic over time.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "深度",
+          "py": "shēndù",
+          "meaning": "depth"
+        },
+        {
+          "zh": "报道",
+          "py": "bàodào",
+          "meaning": "reporting"
+        }
+      ]
+    },
+    {
+      "chinese": "媒体素养",
+      "pinyin": "Méiti yǎngsù",
+      "translation": "Media literacy",
+      "usage": "Ability to critically analyze media content.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "媒体",
+          "py": "méiti",
+          "meaning": "media"
+        }
+      ]
+    }
+  ]
+}

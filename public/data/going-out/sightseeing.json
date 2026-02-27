@@ -1,0 +1,894 @@
+{
+  "sentences": [
+    {
+      "chinese": "我们去旅游吧！",
+      "pinyin": "Wǒmen qù lǚyóu ba!",
+      "translation": "Let's go on a trip!",
+      "usage": "Used to suggest going on a vacation or trip with others",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / we"
+        },
+        {
+          "zh": "们",
+          "py": "men",
+          "meaning": "plural marker"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "to go"
+        },
+        {
+          "zh": "旅",
+          "py": "lǚ",
+          "meaning": "travel"
+        },
+        {
+          "zh": "游",
+          "py": "yóu",
+          "meaning": "tour"
+        },
+        {
+          "zh": "吧",
+          "py": "ba",
+          "meaning": "particle indicating suggestion"
+        }
+      ]
+    },
+    {
+      "chinese": "这是什么地方？",
+      "pinyin": "Zhè shì shénme dìfang?",
+      "translation": "What place is this?",
+      "usage": "Used when asking about location or place identification",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "is"
+        },
+        {
+          "zh": "什",
+          "py": "shén",
+          "meaning": "what"
+        },
+        {
+          "zh": "么",
+          "py": "me",
+          "meaning": "particle for question"
+        },
+        {
+          "zh": "地",
+          "py": "dì",
+          "meaning": "place"
+        },
+        {
+          "zh": "方",
+          "py": "fang",
+          "meaning": "place"
+        }
+      ]
+    },
+    {
+      "chinese": "我们参观博物馆。",
+      "pinyin": "Wǒmen cānguān bówùguǎn.",
+      "translation": "We are visiting a museum.",
+      "usage": "Describing the activity of visiting a museum",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / we"
+        },
+        {
+          "zh": "们",
+          "py": "men",
+          "meaning": "plural marker"
+        },
+        {
+          "zh": "参",
+          "py": "cān",
+          "meaning": "to visit"
+        },
+        {
+          "zh": "观",
+          "py": "guān",
+          "meaning": "to observe"
+        },
+        {
+          "zh": "博",
+          "py": "bó",
+          "meaning": "museum"
+        },
+        {
+          "zh": "物",
+          "py": "wù",
+          "meaning": "object"
+        },
+        {
+          "zh": "馆",
+          "py": "guǎn",
+          "meaning": "building"
+        }
+      ]
+    },
+    {
+      "chinese": "这个景点很美。",
+      "pinyin": "Zhège jǐngdiǎn hěn měi.",
+      "translation": "This scenic spot is very beautiful.",
+      "usage": "Describing the beauty of a tourist location",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "个",
+          "py": "ge",
+          "meaning": "classifier"
+        },
+        {
+          "zh": "景",
+          "py": "jǐng",
+          "meaning": "scenery"
+        },
+        {
+          "zh": "点",
+          "py": "diǎn",
+          "meaning": "spot"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "美",
+          "py": "měi",
+          "meaning": "beautiful"
+        }
+      ]
+    },
+    {
+      "chinese": "我想买纪念品。",
+      "pinyin": "Wǒ xiǎng mǎi jìniàn pǐn.",
+      "translation": "I want to buy souvenirs.",
+      "usage": "Expressing desire to purchase tourist items or gifts",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "想",
+          "py": "xiǎng",
+          "meaning": "want to"
+        },
+        {
+          "zh": "买",
+          "py": "mǎi",
+          "meaning": "to buy"
+        },
+        {
+          "zh": "纪",
+          "py": "jì",
+          "meaning": "memorial"
+        },
+        {
+          "zh": "念",
+          "py": "niàn",
+          "meaning": "remembrance"
+        },
+        {
+          "zh": "品",
+          "py": "pǐn",
+          "meaning": "item"
+        }
+      ]
+    },
+    {
+      "chinese": "请给我一张地图。",
+      "pinyin": "Qǐng gěi wǒ yī zhāng dìtú.",
+      "translation": "Please give me a map.",
+      "usage": "Requesting a map from someone",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "给",
+          "py": "gěi",
+          "meaning": "to give"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "me"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "张",
+          "py": "zhāng",
+          "meaning": "classifier for flat objects"
+        },
+        {
+          "zh": "地",
+          "py": "dì",
+          "meaning": "map"
+        },
+        {
+          "zh": "图",
+          "py": "tú",
+          "meaning": "picture"
+        }
+      ]
+    },
+    {
+      "chinese": "这趟旅行太棒了！",
+      "pinyin": "Zhè tàng lǚxíng tài bàng le!",
+      "translation": "This trip was amazing!",
+      "usage": "Expressing enthusiasm about a completed journey",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "趟",
+          "py": "tàng",
+          "meaning": "trip"
+        },
+        {
+          "zh": "旅",
+          "py": "lǚ",
+          "meaning": "travel"
+        },
+        {
+          "zh": "行",
+          "py": "xíng",
+          "meaning": "journey"
+        },
+        {
+          "zh": "太",
+          "py": "tài",
+          "meaning": "too"
+        },
+        {
+          "zh": "棒",
+          "py": "bàng",
+          "meaning": "great"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "exclamation particle"
+        }
+      ]
+    },
+    {
+      "chinese": "我们明天去长城。",
+      "pinyin": "Wǒmen míngtiān qù chángchéng.",
+      "translation": "We are going to the Great Wall tomorrow.",
+      "usage": "Stating a future travel plan to a specific location",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / we"
+        },
+        {
+          "zh": "们",
+          "py": "men",
+          "meaning": "plural marker"
+        },
+        {
+          "zh": "明",
+          "py": "míng",
+          "meaning": "tomorrow"
+        },
+        {
+          "zh": "天",
+          "py": "tiān",
+          "meaning": "day"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "to go"
+        },
+        {
+          "zh": "长",
+          "py": "cháng",
+          "meaning": "long"
+        },
+        {
+          "zh": "城",
+          "py": "chéng",
+          "meaning": "city"
+        }
+      ]
+    },
+    {
+      "chinese": "这个导游讲解得很好。",
+      "pinyin": "Zhège dàoyóu jiǎngjiě dé hěn hǎo.",
+      "translation": "This tour guide explains very well.",
+      "usage": "Praising the quality of a tour guide's explanation",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "个",
+          "py": "ge",
+          "meaning": "classifier"
+        },
+        {
+          "zh": "导",
+          "py": "dǎo",
+          "meaning": "guide"
+        },
+        {
+          "zh": "游",
+          "py": "yóu",
+          "meaning": "tour"
+        },
+        {
+          "zh": "讲",
+          "py": "jiǎng",
+          "meaning": "to explain"
+        },
+        {
+          "zh": "解",
+          "py": "jiě",
+          "meaning": "interpret"
+        },
+        {
+          "zh": "得",
+          "py": "dé",
+          "meaning": "to do"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good"
+        }
+      ]
+    },
+    {
+      "chinese": "我们走散了。",
+      "pinyin": "Wǒmen zǒu sàn le.",
+      "translation": "We got separated.",
+      "usage": "When people in a group lose track of each other during travel",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / we"
+        },
+        {
+          "zh": "们",
+          "py": "men",
+          "meaning": "plural marker"
+        },
+        {
+          "zh": "走",
+          "py": "zǒu",
+          "meaning": "to walk"
+        },
+        {
+          "zh": "散",
+          "py": "sàn",
+          "meaning": "scatter"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed action"
+        }
+      ]
+    },
+    {
+      "chinese": "这里的风景很迷人。",
+      "pinyin": "Zhè lǐ de fēngjǐng hěn mírén.",
+      "translation": "The scenery here is very charming.",
+      "usage": "Describing the attractive natural beauty of a place",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "here"
+        },
+        {
+          "zh": "里",
+          "py": "lǐ",
+          "meaning": "place"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive particle"
+        },
+        {
+          "zh": "风",
+          "py": "fēng",
+          "meaning": "wind"
+        },
+        {
+          "zh": "景",
+          "py": "jǐng",
+          "meaning": "scenery"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "迷",
+          "py": "mí",
+          "meaning": "charming"
+        },
+        {
+          "zh": "人",
+          "py": "rén",
+          "meaning": "people"
+        }
+      ]
+    },
+    {
+      "chinese": "我们乘公交车去。",
+      "pinyin": "Wǒmen chéng gōngjiāo chē qù.",
+      "translation": "We will take the bus there.",
+      "usage": "Describing the mode of transportation used for travel",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / we"
+        },
+        {
+          "zh": "们",
+          "py": "men",
+          "meaning": "plural marker"
+        },
+        {
+          "zh": "乘",
+          "py": "chéng",
+          "meaning": "to take"
+        },
+        {
+          "zh": "公",
+          "py": "gōng",
+          "meaning": "public"
+        },
+        {
+          "zh": "交",
+          "py": "jiāo",
+          "meaning": "transportation"
+        },
+        {
+          "zh": "车",
+          "py": "chē",
+          "meaning": "vehicle"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "to go"
+        }
+      ]
+    },
+    {
+      "chinese": "这个景区需要门票。",
+      "pinyin": "Zhège jǐngqū xūyào ménpiào.",
+      "translation": "This scenic area requires admission tickets.",
+      "usage": "Informing about the cost of entry to a tourist attraction",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "个",
+          "py": "ge",
+          "meaning": "classifier"
+        },
+        {
+          "zh": "景",
+          "py": "jǐng",
+          "meaning": "scenery"
+        },
+        {
+          "zh": "区",
+          "py": "qū",
+          "meaning": "area"
+        },
+        {
+          "zh": "需",
+          "py": "xū",
+          "meaning": "need"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "to require"
+        },
+        {
+          "zh": "门",
+          "py": "mén",
+          "meaning": "gate"
+        },
+        {
+          "zh": "票",
+          "py": "piào",
+          "meaning": "ticket"
+        }
+      ]
+    },
+    {
+      "chinese": "我们拍了很多照片。",
+      "pinyin": "Wǒmen pāi le hěn duō zhàopiàn.",
+      "translation": "We took many photos.",
+      "usage": "Describing the activity of taking pictures during travel",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / we"
+        },
+        {
+          "zh": "们",
+          "py": "men",
+          "meaning": "plural marker"
+        },
+        {
+          "zh": "拍",
+          "py": "pāi",
+          "meaning": "to take"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed action"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "多",
+          "py": "duō",
+          "meaning": "many"
+        },
+        {
+          "zh": "照",
+          "py": "zhào",
+          "meaning": "photo"
+        },
+        {
+          "zh": "片",
+          "py": "piàn",
+          "meaning": "picture"
+        }
+      ]
+    },
+    {
+      "chinese": "我们住在酒店里。",
+      "pinyin": "Wǒmen zhù zài jiǔdiàn lǐ.",
+      "translation": "We are staying at a hotel.",
+      "usage": "Describing where one is lodging during travel",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / we"
+        },
+        {
+          "zh": "们",
+          "py": "men",
+          "meaning": "plural marker"
+        },
+        {
+          "zh": "住",
+          "py": "zhù",
+          "meaning": "to stay"
+        },
+        {
+          "zh": "在",
+          "py": "zài",
+          "meaning": "at"
+        },
+        {
+          "zh": "酒",
+          "py": "jiǔ",
+          "meaning": "wine"
+        },
+        {
+          "zh": "店",
+          "py": "diàn",
+          "meaning": "shop"
+        },
+        {
+          "zh": "里",
+          "py": "lǐ",
+          "meaning": "inside"
+        }
+      ]
+    },
+    {
+      "chinese": "我们坐飞机去。",
+      "pinyin": "Wǒmen zuò fēijī qù.",
+      "translation": "We are taking a plane there.",
+      "usage": "Describing air travel as a means of transportation",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / we"
+        },
+        {
+          "zh": "们",
+          "py": "men",
+          "meaning": "plural marker"
+        },
+        {
+          "zh": "坐",
+          "py": "zuò",
+          "meaning": "to take"
+        },
+        {
+          "zh": "飞",
+          "py": "fēi",
+          "meaning": "fly"
+        },
+        {
+          "zh": "机",
+          "py": "jī",
+          "meaning": "airplane"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "to go"
+        }
+      ]
+    },
+    {
+      "chinese": "我们参观了博物馆。",
+      "pinyin": "Wǒmen cānguān le bówùguǎn.",
+      "translation": "We visited the museum.",
+      "usage": "Describing a tourist activity of visiting a cultural institution",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / we"
+        },
+        {
+          "zh": "们",
+          "py": "men",
+          "meaning": "plural marker"
+        },
+        {
+          "zh": "参",
+          "py": "cānguān",
+          "meaning": "to visit"
+        },
+        {
+          "zh": "观",
+          "py": "guān",
+          "meaning": "view"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed action"
+        },
+        {
+          "zh": "博",
+          "py": "bó",
+          "meaning": "great"
+        },
+        {
+          "zh": "物",
+          "py": "wù",
+          "meaning": "thing"
+        },
+        {
+          "zh": "馆",
+          "py": "guǎn",
+          "meaning": "hall"
+        }
+      ]
+    },
+    {
+      "chinese": "我们买了很多纪念品。",
+      "pinyin": "Wǒmen mǎi le hěn duō jìniàn pǐn.",
+      "translation": "We bought many souvenirs.",
+      "usage": "Describing the activity of purchasing gifts or mementos during travel",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / we"
+        },
+        {
+          "zh": "们",
+          "py": "men",
+          "meaning": "plural marker"
+        },
+        {
+          "zh": "买",
+          "py": "mǎi",
+          "meaning": "to buy"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed action"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "多",
+          "py": "duō",
+          "meaning": "many"
+        },
+        {
+          "zh": "纪",
+          "py": "jì",
+          "meaning": "memory"
+        },
+        {
+          "zh": "念",
+          "py": "niàn",
+          "meaning": "remembrance"
+        },
+        {
+          "zh": "品",
+          "py": "pǐn",
+          "meaning": "product"
+        }
+      ]
+    },
+    {
+      "chinese": "我们玩得很开心。",
+      "pinyin": "Wǒmen wán dé hěn kāixīn.",
+      "translation": "We had a great time.",
+      "usage": "Expressing satisfaction with a travel experience",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / we"
+        },
+        {
+          "zh": "们",
+          "py": "men",
+          "meaning": "plural marker"
+        },
+        {
+          "zh": "玩",
+          "py": "wán",
+          "meaning": "to play"
+        },
+        {
+          "zh": "得",
+          "py": "dé",
+          "meaning": "to do"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "开",
+          "py": "kāi",
+          "meaning": "open"
+        },
+        {
+          "zh": "心",
+          "py": "xīn",
+          "meaning": "heart"
+        }
+      ]
+    },
+    {
+      "chinese": "我们计划下个月去。",
+      "pinyin": "Wǒmen jìhuà xià gè yuè qù.",
+      "translation": "We plan to go next month.",
+      "usage": "Stating a future travel intention or schedule",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / we"
+        },
+        {
+          "zh": "们",
+          "py": "men",
+          "meaning": "plural marker"
+        },
+        {
+          "zh": "计",
+          "py": "jì",
+          "meaning": "plan"
+        },
+        {
+          "zh": "划",
+          "py": "huà",
+          "meaning": "plan"
+        },
+        {
+          "zh": "下",
+          "py": "xià",
+          "meaning": "next"
+        },
+        {
+          "zh": "个",
+          "py": "gè",
+          "meaning": "classifier"
+        },
+        {
+          "zh": "月",
+          "py": "yuè",
+          "meaning": "month"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "to go"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "sentences": [
+    {
+      "chinese": "开门红",
+      "pinyin": "Kāi mén hóng",
+      "translation": "Starting off with good luck",
+      "usage": "Wishes for auspicious beginnings, e.g., during Lunar New Year.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "开",
+          "py": "Kāi",
+          "meaning": "to open"
+        },
+        {
+          "zh": "门",
+          "py": "Mén",
+          "meaning": "door"
+        },
+        {
+          "zh": "红",
+          "py": "Hóng",
+          "meaning": "red (symbolizing good fortune)"
+        }
+      ]
+    },
+    {
+      "chinese": "破财消灾",
+      "pinyin": "Pò cái xiāo zāi",
+      "translation": "Losing money to avert disaster",
+      "usage": "Belief that financial loss can prevent misfortune.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "破",
+          "py": "Pò",
+          "meaning": "to break"
+        },
+        {
+          "zh": "财",
+          "py": "Cái",
+          "meaning": "wealth"
+        },
+        {
+          "zh": "消",
+          "py": "Xiāo",
+          "meaning": "to eliminate"
+        },
+        {
+          "zh": "灾",
+          "py": "Zāi",
+          "meaning": "disaster"
+        }
+      ]
+    },
+    {
+      "chinese": "步步高升",
+      "pinyin": "Bù bù gāo shēng",
+      "translation": "Rising step by step",
+      "usage": "Wishes for career advancement or improvement in life.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "步",
+          "py": "Bù",
+          "meaning": "step"
+        },
+        {
+          "zh": "步",
+          "py": "Bù",
+          "meaning": "step"
+        },
+        {
+          "zh": "高",
+          "py": "Gāo",
+          "meaning": "high"
+        },
+        {
+          "zh": "升",
+          "py": "Shēng",
+          "meaning": "to rise"
+        }
+      ]
+    },
+    {
+      "chinese": "招财进宝",
+      "pinyin": "Zhāo cái jìn bǎo",
+      "translation": "Attract wealth and treasures",
+      "usage": "Common in business to invite prosperity.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "招",
+          "py": "Zhāo",
+          "meaning": "to attract"
+        },
+        {
+          "zh": "财",
+          "py": "Cái",
+          "meaning": "wealth"
+        },
+        {
+          "zh": "进",
+          "py": "Jìn",
+          "meaning": "to enter"
+        },
+        {
+          "zh": "宝",
+          "py": "Bǎo",
+          "meaning": "treasure"
+        }
+      ]
+    },
+    {
+      "chinese": "不要踩别人的影子",
+      "pinyin": "Bú yào cǎi bié rén de yǐng zi",
+      "translation": "Don't step on someone's shadow",
+      "usage": "Avoid bad luck by not disturbing another's shadow.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "不",
+          "py": "Bú",
+          "meaning": "not"
+        },
+        {
+          "zh": "要",
+          "py": "Yào",
+          "meaning": "to want"
+        },
+        {
+          "zh": "踩",
+          "py": "Cǎi",
+          "meaning": "to step on"
+        },
+        {
+          "zh": "别人",
+          "py": "Biérén",
+          "meaning": "other people"
+        },
+        {
+          "zh": "的",
+          "py": "De",
+          "meaning": "possession"
+        },
+        {
+          "zh": "影子",
+          "py": "Yǐngzi",
+          "meaning": "shadow"
+        }
+      ]
+    },
+    {
+      "chinese": "数字4",
+      "pinyin": "Shù zì sì",
+      "translation": "The number 4",
+      "usage": "Avoided as it sounds like 'death' (sǐ) in Chinese.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "数",
+          "py": "Shù",
+          "meaning": "number"
+        },
+        {
+          "zh": "字",
+          "py": "Zì",
+          "meaning": "character"
+        },
+        {
+          "zh": "四",
+          "py": "Sì",
+          "meaning": "four"
+        }
+      ]
+    }
+  ]
+}

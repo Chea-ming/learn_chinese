@@ -1,0 +1,156 @@
+{
+  "sentences": [
+    {
+      "chinese": "茶道",
+      "pinyin": "Chá dào",
+      "translation": "Tea ceremony",
+      "usage": "Refers to the practice and philosophy of tea art.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "茶",
+          "py": "Chá",
+          "meaning": "tea"
+        },
+        {
+          "zh": "道",
+          "py": "Dào",
+          "meaning": "way/path"
+        }
+      ]
+    },
+    {
+      "chinese": "功夫茶",
+      "pinyin": "Gōng fu chá",
+      "translation": "Gongfu tea",
+      "usage": "A traditional Chinese tea brewing method emphasizing patience and precision.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "功",
+          "py": "Gōng",
+          "meaning": "skill"
+        },
+        {
+          "zh": "夫",
+          "py": "Fū",
+          "meaning": "man"
+        },
+        {
+          "zh": "茶",
+          "py": "Chá",
+          "meaning": "tea"
+        }
+      ]
+    },
+    {
+      "chinese": "泡茶",
+      "pinyin": "Pào chá",
+      "translation": "To brew tea",
+      "usage": "Common verb for preparing tea.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "泡",
+          "py": "Pào",
+          "meaning": "to steep"
+        },
+        {
+          "zh": "茶",
+          "py": "Chá",
+          "meaning": "tea"
+        }
+      ]
+    },
+    {
+      "chinese": "品茶",
+      "pinyin": "Pǐn chá",
+      "translation": "To appreciate tea",
+      "usage": "Used to describe savoring tea's aroma and flavor.",
+      "formality": "Cultural",
+      "words": [
+        {
+          "zh": "品",
+          "py": "Pǐn",
+          "meaning": "to taste"
+        },
+        {
+          "zh": "茶",
+          "py": "Chá",
+          "meaning": "tea"
+        }
+      ]
+    },
+    {
+      "chinese": "茶艺",
+      "pinyin": "Chá yì",
+      "translation": "Tea art",
+      "usage": "Refers to the artistic presentation of tea.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "茶",
+          "py": "Chá",
+          "meaning": "tea"
+        },
+        {
+          "zh": "艺",
+          "py": "Yì",
+          "meaning": "art"
+        }
+      ]
+    },
+    {
+      "chinese": "茶文化",
+      "pinyin": "Chá wén huà",
+      "translation": "Tea culture",
+      "usage": "Describes the cultural significance of tea.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "茶",
+          "py": "Chá",
+          "meaning": "tea"
+        },
+        {
+          "zh": "文化",
+          "py": "Wén huà",
+          "meaning": "culture"
+        }
+      ]
+    },
+    {
+      "chinese": "茶馆",
+      "pinyin": "Chá guǎn",
+      "translation": "Tea house",
+      "usage": "A venue for drinking tea and socializing.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "茶",
+          "py": "Chá",
+          "meaning": "tea"
+        },
+        {
+          "zh": "馆",
+          "py": "Guǎn",
+          "meaning": "hall"
+        }
+      ]
+    },
+    {
+      "chinese": "冲泡",
+      "pinyin": "Chōng pào",
+      "translation": "To brew (tea)",
+      "usage": "Technical term for the brewing process.",
+      "formality": "Technical",
+      "words": [
+        {
+          "zh": "冲",
+          "py": "Chōng",
+          "meaning": "to pour"
+        }
+      ]
+    }
+  ]
+}

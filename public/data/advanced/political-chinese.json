@@ -1,0 +1,220 @@
+{
+  "sentences": [
+    {
+      "chinese": "科学发展观",
+      "pinyin": "Kēxué Fāzhǎn Guān",
+      "translation": "Scientific Development Concept",
+      "usage": "A policy framework emphasizing sustainable and harmonious development.",
+      "formality": "High",
+      "words": [
+        {
+          "zh": "科学",
+          "py": "Kēxué",
+          "meaning": "scientific"
+        },
+        {
+          "zh": "发展",
+          "py": "Fāzhǎn",
+          "meaning": "development"
+        },
+        {
+          "zh": "观",
+          "py": "Guān",
+          "meaning": "concept"
+        }
+      ]
+    },
+    {
+      "chinese": "全面深化改革",
+      "pinyin": "Quánmiàn Shēnhuà Gǎigé",
+      "translation": "Comprehensive Deepening of Reforms",
+      "usage": "A key policy under China's economic modernization strategy.",
+      "formality": "High",
+      "words": [
+        {
+          "zh": "全面",
+          "py": "Quánmiàn",
+          "meaning": "comprehensive"
+        },
+        {
+          "zh": "深化",
+          "py": "Shēnhuà",
+          "meaning": "deepen"
+        },
+        {
+          "zh": "改革",
+          "py": "Gǎigé",
+          "meaning": "reform"
+        }
+      ]
+    },
+    {
+      "chinese": "人类命运共同体",
+      "pinyin": "Rénlèi Mìngyùn Gòngtóngtǐ",
+      "translation": "Community of Shared Future for Mankind",
+      "usage": "A diplomatic concept advocating global cooperation.",
+      "formality": "High",
+      "words": [
+        {
+          "zh": "人类",
+          "py": "Rénlèi",
+          "meaning": "humankind"
+        },
+        {
+          "zh": "命运",
+          "py": "Mìngyùn",
+          "meaning": "destiny"
+        },
+        {
+          "zh": "共同体",
+          "py": "Gòngtóngtǐ",
+          "meaning": "community"
+        }
+      ]
+    },
+    {
+      "chinese": "中国梦",
+      "pinyin": "Zhōngguó Mèng",
+      "translation": "Chinese Dream",
+      "usage": "A national vision for prosperity and global influence.",
+      "formality": "High",
+      "words": [
+        {
+          "zh": "中国",
+          "py": "Zhōngguó",
+          "meaning": "China"
+        },
+        {
+          "zh": "梦",
+          "py": "Mèng",
+          "meaning": "dream"
+        }
+      ]
+    },
+    {
+      "chinese": "依法治国",
+      "pinyin": "Yīfǎ Zhìguó",
+      "translation": "Rule of Law",
+      "usage": "A core principle in China's legal reforms.",
+      "formality": "High",
+      "words": [
+        {
+          "zh": "依",
+          "py": "Yī",
+          "meaning": "according to"
+        },
+        {
+          "zh": "法",
+          "py": "Fǎ",
+          "meaning": "law"
+        },
+        {
+          "zh": "治国",
+          "py": "Zhìguó",
+          "meaning": "govern the country"
+        }
+      ]
+    },
+    {
+      "chinese": "从严治党",
+      "pinyin": "Chángyán Dǎngzhì",
+      "translation": "Comprehensive Strict Governance of the Party",
+      "usage": "A CCP initiative to combat corruption.",
+      "formality": "High",
+      "words": [
+        {
+          "zh": "从严",
+          "py": "Chángyán",
+          "meaning": "strictly"
+        },
+        {
+          "zh": "治党",
+          "py": "Zhìdǎng",
+          "meaning": "govern the party"
+        }
+      ]
+    },
+    {
+      "chinese": "生态文明建设",
+      "pinyin": "Shēngtài Wénmíng Jiànshè",
+      "translation": "Ecological Civilization Construction",
+      "usage": "A policy goal for sustainable environmental development.",
+      "formality": "High",
+      "words": [
+        {
+          "zh": "生态",
+          "py": "Shēngtài",
+          "meaning": "ecological"
+        },
+        {
+          "zh": "文明",
+          "py": "Wénmíng",
+          "meaning": "civilization"
+        },
+        {
+          "zh": "建设",
+          "py": "Jiànshè",
+          "meaning": "construction"
+        }
+      ]
+    },
+    {
+      "chinese": "不忘初心，牢记使命",
+      "pinyin": "Bù Wàng Chū Xīn, Láo Jì Míng Yì",
+      "translation": "Stay True to Our Original Aspiration and Keep Our Mission Firmly in Mind",
+      "usage": "A CCP slogan for maintaining ideological discipline.",
+      "formality": "High",
+      "words": [
+        {
+          "zh": "不忘",
+          "py": "Bù Wàng",
+          "meaning": "never forget"
+        },
+        {
+          "zh": "初心",
+          "py": "Chū Xīn",
+          "meaning": "original aspiration"
+        },
+        {
+          "zh": "牢记",
+          "py": "Láo Jì",
+          "meaning": "firmly remember"
+        },
+        {
+          "zh": "使命",
+          "py": "Míng Yì",
+          "meaning": "mission"
+        }
+      ]
+    },
+    {
+      "chinese": "供给侧结构性改革",
+      "pinyin": "Gōngjǐ Shēnghuó Cèjié Gǎigé",
+      "translation": "Supply-Side Structural Reform",
+      "usage": "An economic policy to optimize industrial structures.",
+      "formality": "High",
+      "words": [
+        {
+          "zh": "供给侧",
+          "py": "Gōngjǐ Shēnghuó",
+          "meaning": "supply side"
+        },
+        {
+          "zh": "结构",
+          "py": "Jiégòu",
+          "meaning": "structure"
+        },
+        {
+          "zh": "性",
+          "py": "Xìng",
+          "meaning": "nature"
+        },
+        {
+          "zh": "改革",
+          "py": "Gǎigé",
+          "meaning": "reform"
+        }
+      ]
+    }
+  ]
+}

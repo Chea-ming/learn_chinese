@@ -1,0 +1,886 @@
+{
+  "sentences": [
+    {
+      "chinese": "这是给你的礼物。",
+      "pinyin": "Zhè shì gěi nǐ de lǐwù.",
+      "translation": "This is a gift for you.",
+      "usage": "Used when presenting a gift to someone directly.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "is"
+        },
+        {
+          "zh": "给",
+          "py": "gěi",
+          "meaning": "to / for"
+        },
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive particle"
+        },
+        {
+          "zh": "礼物",
+          "py": "lǐwù",
+          "meaning": "gift"
+        }
+      ]
+    },
+    {
+      "chinese": "谢谢你的礼物！",
+      "pinyin": "Xièxiè nǐ de lǐwù!",
+      "translation": "Thank you for your gift!",
+      "usage": "Used when receiving a gift from someone.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "谢谢",
+          "py": "xièxiè",
+          "meaning": "thank you"
+        },
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive particle"
+        },
+        {
+          "zh": "礼物",
+          "py": "lǐwù",
+          "meaning": "gift"
+        }
+      ]
+    },
+    {
+      "chinese": "我送你一个礼物。",
+      "pinyin": "Wǒ sòng nǐ yī gè lǐwù.",
+      "translation": "I'm giving you a gift.",
+      "usage": "Used when giving a gift to someone.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "送",
+          "py": "sòng",
+          "meaning": "to give"
+        },
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "个",
+          "py": "ge",
+          "meaning": "classifier for objects"
+        },
+        {
+          "zh": "礼物",
+          "py": "lǐwù",
+          "meaning": "gift"
+        }
+      ]
+    },
+    {
+      "chinese": "祝你生日快乐！",
+      "pinyin": "Zhù nǐ shēngrì kuàilè!",
+      "translation": "Happy birthday to you!",
+      "usage": "Used when wishing someone a happy birthday.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "祝",
+          "py": "zhù",
+          "meaning": "to wish"
+        },
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "生日",
+          "py": "shēngrì",
+          "meaning": "birthday"
+        },
+        {
+          "zh": "快乐",
+          "py": "kuàilè",
+          "meaning": "happy"
+        }
+      ]
+    },
+    {
+      "chinese": "新年快乐！",
+      "pinyin": "Xīnnián kuàilè!",
+      "translation": "Happy New Year!",
+      "usage": "Used during the Chinese New Year celebration.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "新年",
+          "py": "xīnnián",
+          "meaning": "new year"
+        },
+        {
+          "zh": "快乐",
+          "py": "kuàilè",
+          "meaning": "happy"
+        }
+      ]
+    },
+    {
+      "chinese": "节日快乐！",
+      "pinyin": "Jiérì kuàilè!",
+      "translation": "Happy holiday!",
+      "usage": "Used when wishing someone a happy holiday.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "节日",
+          "py": "jiérì",
+          "meaning": "holiday"
+        },
+        {
+          "zh": "快乐",
+          "py": "kuàilè",
+          "meaning": "happy"
+        }
+      ]
+    },
+    {
+      "chinese": "恭喜发财！",
+      "pinyin": "Gōngxǐ fācái!",
+      "translation": "Congratulations and good fortune!",
+      "usage": "Used during Chinese New Year to wish prosperity.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "恭喜",
+          "py": "gōngxǐ",
+          "meaning": "congratulations"
+        },
+        {
+          "zh": "发财",
+          "py": "fācái",
+          "meaning": "to become rich"
+        }
+      ]
+    },
+    {
+      "chinese": "你太客气了。",
+      "pinyin": "Nǐ tài kèqiǎo le.",
+      "translation": "You're too kind.",
+      "usage": "Used when someone gives you a gift and you want to politely decline or show appreciation.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "太",
+          "py": "tài",
+          "meaning": "too"
+        },
+        {
+          "zh": "客气",
+          "py": "kèqiǎo",
+          "meaning": "polite / courteous"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "aspect particle"
+        }
+      ]
+    },
+    {
+      "chinese": "不用客气。",
+      "pinyin": "Bùyòng kèqiǎo.",
+      "translation": "Don't be so polite.",
+      "usage": "Used when someone thanks you for a gift and you want to respond modestly.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "不用",
+          "py": "bùyòng",
+          "meaning": "no need to"
+        },
+        {
+          "zh": "客气",
+          "py": "kèqiǎo",
+          "meaning": "polite / courteous"
+        }
+      ]
+    },
+    {
+      "chinese": "这礼物太贵重了。",
+      "pinyin": "Zhè lǐwù tài guìzhòng le.",
+      "translation": "This gift is too expensive.",
+      "usage": "Used when receiving a very expensive gift and feeling uncomfortable.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "礼物",
+          "py": "lǐwù",
+          "meaning": "gift"
+        },
+        {
+          "zh": "太",
+          "py": "tài",
+          "meaning": "too"
+        },
+        {
+          "zh": "贵重",
+          "py": "guìzhòng",
+          "meaning": "expensive / valuable"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "aspect particle"
+        }
+      ]
+    },
+    {
+      "chinese": "礼物收到，谢谢！",
+      "pinyin": "Lǐwù shōudào, xièxiè!",
+      "translation": "Gift received, thank you!",
+      "usage": "Used when you have received a gift and want to acknowledge it.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "礼物",
+          "py": "lǐwù",
+          "meaning": "gift"
+        },
+        {
+          "zh": "收到",
+          "py": "shōudào",
+          "meaning": "to receive"
+        },
+        {
+          "zh": "谢谢",
+          "py": "xièxiè",
+          "meaning": "thank you"
+        }
+      ]
+    },
+    {
+      "chinese": "礼物包装得真好。",
+      "pinyin": "Lǐwù bāozhuāng dé zhēn hǎo.",
+      "translation": "The gift is wrapped very well.",
+      "usage": "Used when complimenting someone on how nicely a gift is wrapped.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "礼物",
+          "py": "lǐwù",
+          "meaning": "gift"
+        },
+        {
+          "zh": "包装",
+          "py": "bāozhuāng",
+          "meaning": "to wrap"
+        },
+        {
+          "zh": "得",
+          "py": "dé",
+          "meaning": "particle indicating result"
+        },
+        {
+          "zh": "真",
+          "py": "zhēn",
+          "meaning": "really"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good"
+        }
+      ]
+    },
+    {
+      "chinese": "这份礼物太棒了！",
+      "pinyin": "Zhè fèn lǐwù tài bàng le!",
+      "translation": "This gift is amazing!",
+      "usage": "Used when you really love a gift you've received.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "份",
+          "py": "fèn",
+          "meaning": "classifier for gifts"
+        },
+        {
+          "zh": "礼物",
+          "py": "lǐwù",
+          "meaning": "gift"
+        },
+        {
+          "zh": "太",
+          "py": "tài",
+          "meaning": "too"
+        },
+        {
+          "zh": "棒",
+          "py": "bàng",
+          "meaning": "great / excellent"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "exclamation particle"
+        }
+      ]
+    },
+    {
+      "chinese": "我准备了一个惊喜。",
+      "pinyin": "Wǒ zhǔnbèi le yī gè cǎoxī.",
+      "translation": "I've prepared a surprise.",
+      "usage": "Used when you're about to give someone a surprise gift.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "准备",
+          "py": "zhǔnbèi",
+          "meaning": "to prepare"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "aspect particle"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "个",
+          "py": "ge",
+          "meaning": "classifier"
+        },
+        {
+          "zh": "惊喜",
+          "py": "cǎoxī",
+          "meaning": "surprise"
+        }
+      ]
+    },
+    {
+      "chinese": "请收下这份礼物。",
+      "pinyin": "Qǐng shōuxià zhè fèn lǐwù.",
+      "translation": "Please accept this gift.",
+      "usage": "Used when giving a gift formally or politely.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "收下",
+          "py": "shōuxià",
+          "meaning": "to accept"
+        },
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "份",
+          "py": "fèn",
+          "meaning": "classifier"
+        },
+        {
+          "zh": "礼物",
+          "py": "lǐwù",
+          "meaning": "gift"
+        }
+      ]
+    },
+    {
+      "chinese": "这份礼物我非常喜欢。",
+      "pinyin": "Zhè fèn lǐwù wǒ fēicháng xǐhuān.",
+      "translation": "I really like this gift.",
+      "usage": "Used when expressing genuine appreciation for a gift.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "份",
+          "py": "fèn",
+          "meaning": "classifier"
+        },
+        {
+          "zh": "礼物",
+          "py": "lǐwù",
+          "meaning": "gift"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "非常",
+          "py": "fēicháng",
+          "meaning": "very"
+        },
+        {
+          "zh": "喜欢",
+          "py": "xǐhuān",
+          "meaning": "to like"
+        }
+      ]
+    },
+    {
+      "chinese": "送礼要选对时机。",
+      "pinyin": "Sòng lǐ yào xuǎn duì shíjī.",
+      "translation": "Gift-giving requires choosing the right timing.",
+      "usage": "Used when discussing the importance of timing in gift-giving.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "送",
+          "py": "sòng",
+          "meaning": "to give"
+        },
+        {
+          "zh": "礼",
+          "py": "lǐ",
+          "meaning": "gift"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "need to"
+        },
+        {
+          "zh": "选",
+          "py": "xuǎn",
+          "meaning": "to choose"
+        },
+        {
+          "zh": "对",
+          "py": "duì",
+          "meaning": "right"
+        },
+        {
+          "zh": "时机",
+          "py": "shíjī",
+          "meaning": "timing"
+        }
+      ]
+    },
+    {
+      "chinese": "礼物虽小，情意深。",
+      "pinyin": "Lǐwù suī xiǎo, qíngyì shēn.",
+      "translation": "Though the gift is small, the sentiment is deep.",
+      "usage": "Used to emphasize that the thought behind a gift matters more than its cost.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "礼物",
+          "py": "lǐwù",
+          "meaning": "gift"
+        },
+        {
+          "zh": "虽",
+          "py": "suī",
+          "meaning": "although"
+        },
+        {
+          "zh": "小",
+          "py": "xiǎo",
+          "meaning": "small"
+        },
+        {
+          "zh": "情意",
+          "py": "qíngyì",
+          "meaning": "sentiment"
+        },
+        {
+          "zh": "深",
+          "py": "shēn",
+          "meaning": "deep"
+        }
+      ]
+    },
+    {
+      "chinese": "我不会忘记这份礼物。",
+      "pinyin": "Wǒ bù huì wàngjì zhè fèn lǐwù.",
+      "translation": "I won't forget this gift.",
+      "usage": "Used when expressing that you will remember a gift you've received.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "不会",
+          "py": "bù huì",
+          "meaning": "will not"
+        },
+        {
+          "zh": "忘记",
+          "py": "wàngjì",
+          "meaning": "to forget"
+        },
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "份",
+          "py": "fèn",
+          "meaning": "classifier"
+        },
+        {
+          "zh": "礼物",
+          "py": "lǐwù",
+          "meaning": "gift"
+        }
+      ]
+    },
+    {
+      "chinese": "礼物心意最重要。",
+      "pinyin": "Lǐwù xīnyì zuì zhòngyào.",
+      "translation": "The thought behind the gift is most important.",
+      "usage": "Used to emphasize that the sentiment matters more than the gift itself.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "礼物",
+          "py": "lǐwù",
+          "meaning": "gift"
+        },
+        {
+          "zh": "心意",
+          "py": "xīnyì",
+          "meaning": "thought"
+        },
+        {
+          "zh": "最",
+          "py": "zuì",
+          "meaning": "most"
+        },
+        {
+          "zh": "重要",
+          "py": "zhòngyào",
+          "meaning": "important"
+        }
+      ]
+    },
+    {
+      "chinese": "礼物要适合对方。",
+      "pinyin": "Lǐwù yào shìhé duìfāng.",
+      "translation": "Gifts should be appropriate for the recipient.",
+      "usage": "Used when discussing the importance of choosing appropriate gifts.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "礼物",
+          "py": "lǐwù",
+          "meaning": "gift"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "should"
+        },
+        {
+          "zh": "适合",
+          "py": "shìhé",
+          "meaning": "to suit"
+        },
+        {
+          "zh": "对方",
+          "py": "duìfāng",
+          "meaning": "the other person"
+        }
+      ]
+    },
+    {
+      "chinese": "我收到很多礼物。",
+      "pinyin": "Wǒ shōudào hěn duō lǐwù.",
+      "translation": "I received many gifts.",
+      "usage": "Used when talking about receiving multiple gifts.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "收到",
+          "py": "shōudào",
+          "meaning": "to receive"
+        },
+        {
+          "zh": "很多",
+          "py": "hěn duō",
+          "meaning": "many"
+        },
+        {
+          "zh": "礼物",
+          "py": "lǐwù",
+          "meaning": "gift"
+        }
+      ]
+    },
+    {
+      "chinese": "礼物心意传情谊。",
+      "pinyin": "Lǐwù xīnyì chuán qíngyì.",
+      "translation": "Gifts and good intentions convey friendship.",
+      "usage": "Used to express that gifts are a way of showing care and friendship.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "礼物",
+          "py": "lǐwù",
+          "meaning": "gift"
+        },
+        {
+          "zh": "心意",
+          "py": "xīnyì",
+          "meaning": "thought"
+        },
+        {
+          "zh": "传",
+          "py": "chuán",
+          "meaning": "to convey"
+        },
+        {
+          "zh": "情谊",
+          "py": "qíngyì",
+          "meaning": "friendship"
+        }
+      ]
+    },
+    {
+      "chinese": "送礼是表达心意。",
+      "pinyin": "Sòng lǐ shì biǎodá xīnyì.",
+      "translation": "Gift-giving is a way of expressing one's feelings.",
+      "usage": "Used to explain the meaning behind gift-giving.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "送",
+          "py": "sòng",
+          "meaning": "to give"
+        },
+        {
+          "zh": "礼",
+          "py": "lǐ",
+          "meaning": "gift"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "is"
+        },
+        {
+          "zh": "表达",
+          "py": "biǎodá",
+          "meaning": "to express"
+        },
+        {
+          "zh": "心意",
+          "py": "xīnyì",
+          "meaning": "thought"
+        }
+      ]
+    },
+    {
+      "chinese": "这份礼物很实用。",
+      "pinyin": "Zhè fèn lǐwù hěn shíyòng.",
+      "translation": "This gift is very practical.",
+      "usage": "Used when praising a gift for its usefulness.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "份",
+          "py": "fèn",
+          "meaning": "classifier"
+        },
+        {
+          "zh": "礼物",
+          "py": "lǐwù",
+          "meaning": "gift"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "实用",
+          "py": "shíyòng",
+          "meaning": "practical"
+        }
+      ]
+    },
+    {
+      "chinese": "送礼要讲究方式。",
+      "pinyin": "Sòng lǐ yào jiǎngjiū fāngshì.",
+      "translation": "Gift-giving should be done with proper method.",
+      "usage": "Used when discussing proper etiquette in gift-giving.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "送",
+          "py": "sòng",
+          "meaning": "to give"
+        },
+        {
+          "zh": "礼",
+          "py": "lǐ",
+          "meaning": "gift"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "should"
+        },
+        {
+          "zh": "讲究",
+          "py": "jiǎngjiū",
+          "meaning": "to pay attention to"
+        },
+        {
+          "zh": "方式",
+          "py": "fāngshì",
+          "meaning": "way"
+        }
+      ]
+    },
+    {
+      "chinese": "礼物要用心挑选。",
+      "pinyin": "Lǐwù yào yòngxīn tiāoxuǎn.",
+      "translation": "Gifts should be carefully chosen.",
+      "usage": "Used when emphasizing the importance of thoughtfulness in gift selection.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "礼物",
+          "py": "lǐwù",
+          "meaning": "gift"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "should"
+        },
+        {
+          "zh": "用心",
+          "py": "yòngxīn",
+          "meaning": "with care"
+        },
+        {
+          "zh": "挑选",
+          "py": "tiāoxuǎn",
+          "meaning": "to select"
+        }
+      ]
+    },
+    {
+      "chinese": "这份礼物太贴心了。",
+      "pinyin": "Zhè fèn lǐwù tài tiēxīn le.",
+      "translation": "This gift is so thoughtful.",
+      "usage": "Used when praising a gift for its thoughtfulness.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "份",
+          "py": "fèn",
+          "meaning": "classifier"
+        },
+        {
+          "zh": "礼物",
+          "py": "lǐwù",
+          "meaning": "gift"
+        },
+        {
+          "zh": "太",
+          "py": "tài",
+          "meaning": "too"
+        },
+        {
+          "zh": "贴心",
+          "py": "tiēxīn",
+          "meaning": "thoughtful"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "exclamation particle"
+        }
+      ]
+    }
+  ]
+}

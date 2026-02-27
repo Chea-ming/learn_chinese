@@ -1,0 +1,190 @@
+{
+  "sentences": [
+    {
+      "chinese": "菊花",
+      "pinyin": "Jú huā",
+      "translation": "Chrysanthemum",
+      "usage": "A type of flower often associated with autumn.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "菊",
+          "py": "Jú",
+          "meaning": "chrysanthemum"
+        },
+        {
+          "zh": "花",
+          "py": "huā",
+          "meaning": "flower"
+        }
+      ]
+    },
+    {
+      "chinese": "玫瑰",
+      "pinyin": "Méi guī",
+      "translation": "Rose",
+      "usage": "A symbol of love and romance.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "玫",
+          "py": "méi",
+          "meaning": "rose"
+        },
+        {
+          "zh": "瑰",
+          "py": "guī",
+          "meaning": "precious"
+        }
+      ]
+    },
+    {
+      "chinese": "勿忘我",
+      "pinyin": "Wù wàng wǒ",
+      "translation": "Forget-me-not",
+      "usage": "A small blue flower symbolizing remembrance.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "勿",
+          "py": "wù",
+          "meaning": "do not"
+        },
+        {
+          "zh": "忘",
+          "py": "wàng",
+          "meaning": "forget"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "me"
+        }
+      ]
+    },
+    {
+      "chinese": "向日葵",
+      "pinyin": "Xiàng rì kuí",
+      "translation": "Sunflower",
+      "usage": "A bright flower that follows the sun.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "向",
+          "py": "xiàng",
+          "meaning": "toward"
+        },
+        {
+          "zh": "日",
+          "py": "rì",
+          "meaning": "sun"
+        },
+        {
+          "zh": "葵",
+          "py": "kuí",
+          "meaning": "sunflower"
+        }
+      ]
+    },
+    {
+      "chinese": "樱花",
+      "pinyin": "Yīng huā",
+      "translation": "Cherry blossom",
+      "usage": "A pink flower associated with spring in Japan.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "樱",
+          "py": "yīng",
+          "meaning": "cherry"
+        },
+        {
+          "zh": "花",
+          "py": "huā",
+          "meaning": "flower"
+        }
+      ]
+    },
+    {
+      "chinese": "荷花",
+      "pinyin": "Hé huā",
+      "translation": "Lotus flower",
+      "usage": "A sacred flower in Buddhist culture.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "荷",
+          "py": "hé",
+          "meaning": "lotus"
+        },
+        {
+          "zh": "花",
+          "py": "huā",
+          "meaning": "flower"
+        }
+      ]
+    },
+    {
+      "chinese": "蝴蝶兰",
+      "pinyin": "Hú dié lán",
+      "translation": "Phalaenopsis orchid",
+      "usage": "A popular orchid with butterfly-shaped petals.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "蝴蝶",
+          "py": "hú dié",
+          "meaning": "butterfly"
+        },
+        {
+          "zh": "兰",
+          "py": "lán",
+          "meaning": "orchid"
+        }
+      ]
+    },
+    {
+      "chinese": "花园",
+      "pinyin": "Huā yuán",
+      "translation": "Garden",
+      "usage": "A cultivated area for growing plants and flowers.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "花",
+          "py": "huā",
+          "meaning": "flower"
+        },
+        {
+          "zh": "园",
+          "py": "yuán",
+          "meaning": "garden"
+        }
+      ]
+    },
+    {
+      "chinese": "植物园",
+      "pinyin": "Zhí wù yuán",
+      "translation": "Botanical garden",
+      "usage": "A park dedicated to plant species.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "植",
+          "py": "zhí",
+          "meaning": "plant"
+        },
+        {
+          "zh": "物",
+          "py": "wù",
+          "meaning": "being"
+        },
+        {
+          "zh": "园",
+          "py": "yuán",
+          "meaning": "garden"
+        }
+      ]
+    }
+  ]
+}

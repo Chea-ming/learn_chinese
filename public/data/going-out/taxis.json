@@ -1,0 +1,699 @@
+{
+  "sentences": [
+    {
+      "chinese": "我想打车。",
+      "pinyin": "Wǒ xiǎng dǎ chē.",
+      "translation": "I want to take a taxi.",
+      "usage": "Used when you need to ask for a taxi service.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "想",
+          "py": "xiǎng",
+          "meaning": "want to"
+        },
+        {
+          "zh": "打",
+          "py": "dǎ",
+          "meaning": "to take"
+        },
+        {
+          "zh": "车",
+          "py": "chē",
+          "meaning": "vehicle"
+        }
+      ]
+    },
+    {
+      "chinese": "请问，去机场怎么走？",
+      "pinyin": "Qǐng wèn, qù jīchǎng zěnme zǒu?",
+      "translation": "Excuse me, how do I get to the airport?",
+      "usage": "Used when asking for directions to the airport.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "问",
+          "py": "wèn",
+          "meaning": "ask"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "to go to"
+        },
+        {
+          "zh": "机场",
+          "py": "jīchǎng",
+          "meaning": "airport"
+        },
+        {
+          "zh": "怎么",
+          "py": "zěnme",
+          "meaning": "how"
+        },
+        {
+          "zh": "走",
+          "py": "zǒu",
+          "meaning": "to go"
+        }
+      ]
+    },
+    {
+      "chinese": "打车多少钱？",
+      "pinyin": "Dǎ chē duōshǎo qián?",
+      "translation": "How much does it cost to take a taxi?",
+      "usage": "Used to inquire about taxi fare before getting in.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "打车",
+          "py": "dǎ chē",
+          "meaning": "to take a taxi"
+        },
+        {
+          "zh": "多少",
+          "py": "duōshǎo",
+          "meaning": "how much"
+        },
+        {
+          "zh": "钱",
+          "py": "qián",
+          "meaning": "money"
+        }
+      ]
+    },
+    {
+      "chinese": "我需要一个出租车。",
+      "pinyin": "Wǒ xūyào yīgè chūzūchē.",
+      "translation": "I need a taxi.",
+      "usage": "Used when formally requesting a taxi service.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "需要",
+          "py": "xūyào",
+          "meaning": "need"
+        },
+        {
+          "zh": "一个",
+          "py": "yīgè",
+          "meaning": "one"
+        },
+        {
+          "zh": "出租车",
+          "py": "chūzūchē",
+          "meaning": "taxi"
+        }
+      ]
+    },
+    {
+      "chinese": "可以帮我叫个车吗？",
+      "pinyin": "Kěyǐ bāng wǒ jiào gè chē ma?",
+      "translation": "Can you help me call a taxi?",
+      "usage": "Used when asking someone to call a taxi for you.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "可以",
+          "py": "kěyǐ",
+          "meaning": "can"
+        },
+        {
+          "zh": "帮",
+          "py": "bāng",
+          "meaning": "help"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "me"
+        },
+        {
+          "zh": "叫",
+          "py": "jiào",
+          "meaning": "call"
+        },
+        {
+          "zh": "个",
+          "py": "gè",
+          "meaning": "a unit of measure"
+        },
+        {
+          "zh": "车",
+          "py": "chē",
+          "meaning": "vehicle"
+        }
+      ]
+    },
+    {
+      "chinese": "到那里要多久？",
+      "pinyin": "Dào nàli yào duōjiǔ?",
+      "translation": "How long will it take to get there?",
+      "usage": "Used when asking about travel time to a destination.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "到",
+          "py": "dào",
+          "meaning": "to arrive at"
+        },
+        {
+          "zh": "那里",
+          "py": "nàli",
+          "meaning": "there"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "to need"
+        },
+        {
+          "zh": "多久",
+          "py": "duōjiǔ",
+          "meaning": "how long"
+        }
+      ]
+    },
+    {
+      "chinese": "我从网上预约了车。",
+      "pinyin": "Wǒ cóng wǎngshàng yùyuē le chē.",
+      "translation": "I booked a taxi online.",
+      "usage": "Used when explaining how you arranged your taxi service.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "从",
+          "py": "cóng",
+          "meaning": "from"
+        },
+        {
+          "zh": "网上",
+          "py": "wǎngshàng",
+          "meaning": "online"
+        },
+        {
+          "zh": "预约",
+          "py": "yùyuē",
+          "meaning": "book"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed action marker"
+        },
+        {
+          "zh": "车",
+          "py": "chē",
+          "meaning": "vehicle"
+        }
+      ]
+    },
+    {
+      "chinese": "司机师傅，麻烦您开快点。",
+      "pinyin": "Sījī shīfu, máfan nín kāi kuài diǎn.",
+      "translation": "Driver, could you please drive a bit faster?",
+      "usage": "Used when politely asking the taxi driver to increase speed.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "司机",
+          "py": "sījī",
+          "meaning": "driver"
+        },
+        {
+          "zh": "师傅",
+          "py": "shīfu",
+          "meaning": "master / sir"
+        },
+        {
+          "zh": "麻烦",
+          "py": "máfan",
+          "meaning": "trouble"
+        },
+        {
+          "zh": "您",
+          "py": "nín",
+          "meaning": "you (polite)"
+        },
+        {
+          "zh": "开",
+          "py": "kāi",
+          "meaning": "to drive"
+        },
+        {
+          "zh": "快",
+          "py": "kuài",
+          "meaning": "fast"
+        },
+        {
+          "zh": "点",
+          "py": "diǎn",
+          "meaning": "a little bit"
+        }
+      ]
+    },
+    {
+      "chinese": "我坐网约车。",
+      "pinyin": "Wǒ zuò wǎngyùnchē.",
+      "translation": "I take an online ride-hailing service.",
+      "usage": "Used when explaining which ride-hailing service you use.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "坐",
+          "py": "zuò",
+          "meaning": "to take"
+        },
+        {
+          "zh": "网约车",
+          "py": "wǎngyùnchē",
+          "meaning": "online ride-hailing vehicle"
+        }
+      ]
+    },
+    {
+      "chinese": "请等一下，我马上来。",
+      "pinyin": "Qǐng děng yīxià, wǒ mǎshàng lái.",
+      "translation": "Please wait a moment, I'll be right there.",
+      "usage": "Used when you're running late to a taxi pickup point.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "等",
+          "py": "děng",
+          "meaning": "to wait"
+        },
+        {
+          "zh": "一下",
+          "py": "yīxià",
+          "meaning": "a moment"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "马上",
+          "py": "mǎshàng",
+          "meaning": "right away"
+        },
+        {
+          "zh": "来",
+          "py": "lái",
+          "meaning": "to come"
+        }
+      ]
+    },
+    {
+      "chinese": "我的车在前面等。",
+      "pinyin": "Wǒ de chē zài qiánmiàn děng.",
+      "translation": "My car is waiting ahead.",
+      "usage": "Used when informing someone that your taxi is already waiting.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive marker"
+        },
+        {
+          "zh": "车",
+          "py": "chē",
+          "meaning": "vehicle"
+        },
+        {
+          "zh": "在",
+          "py": "zài",
+          "meaning": "at"
+        },
+        {
+          "zh": "前面",
+          "py": "qiánmiàn",
+          "meaning": "ahead"
+        },
+        {
+          "zh": "等",
+          "py": "děng",
+          "meaning": "to wait"
+        }
+      ]
+    },
+    {
+      "chinese": "我要去火车站。",
+      "pinyin": "Wǒ yào qù huǒchēzhàn.",
+      "translation": "I'm going to the train station.",
+      "usage": "Used when stating your destination to a taxi driver.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "want to"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "to go to"
+        },
+        {
+          "zh": "火车站",
+          "py": "huǒchēzhàn",
+          "meaning": "train station"
+        }
+      ]
+    },
+    {
+      "chinese": "请帮我叫一辆出租车。",
+      "pinyin": "Qǐng bāng wǒ jiào yīliàng chūzūchē.",
+      "translation": "Please help me call a taxi.",
+      "usage": "Used when asking someone to call a taxi for you.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "帮",
+          "py": "bāng",
+          "meaning": "help"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "me"
+        },
+        {
+          "zh": "叫",
+          "py": "jiào",
+          "meaning": "call"
+        },
+        {
+          "zh": "一辆",
+          "py": "yīliàng",
+          "meaning": "one vehicle"
+        },
+        {
+          "zh": "出租车",
+          "py": "chūzūchē",
+          "meaning": "taxi"
+        }
+      ]
+    },
+    {
+      "chinese": "可以走高速路吗？",
+      "pinyin": "Kěyǐ zǒu gāosù lù ma?",
+      "translation": "Can we take the highway?",
+      "usage": "Used when asking about highway routes with taxi driver.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "可以",
+          "py": "kěyǐ",
+          "meaning": "can"
+        },
+        {
+          "zh": "走",
+          "py": "zǒu",
+          "meaning": "to go"
+        },
+        {
+          "zh": "高速",
+          "py": "gāosù",
+          "meaning": "high-speed"
+        },
+        {
+          "zh": "路",
+          "py": "lù",
+          "meaning": "road"
+        }
+      ]
+    },
+    {
+      "chinese": "我坐的是滴滴打车。",
+      "pinyin": "Wǒ zuò de shì dīdī dǎchē.",
+      "translation": "I'm taking a Didi taxi.",
+      "usage": "Used when specifying which ride-hailing service you're using.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "坐",
+          "py": "zuò",
+          "meaning": "to take"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive marker"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "is"
+        },
+        {
+          "zh": "滴滴",
+          "py": "dīdī",
+          "meaning": "Didi (ride-hailing app)"
+        },
+        {
+          "zh": "打车",
+          "py": "dǎchē",
+          "meaning": "to take a taxi"
+        }
+      ]
+    },
+    {
+      "chinese": "麻烦您把车停在路边。",
+      "pinyin": "Máfan nín bǎ chē tíng zài lùbiān.",
+      "translation": "Could you please park the car by the roadside?",
+      "usage": "Used when asking the taxi driver to park at a specific location.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "麻烦",
+          "py": "máfan",
+          "meaning": "trouble"
+        },
+        {
+          "zh": "您",
+          "py": "nín",
+          "meaning": "you (polite)"
+        },
+        {
+          "zh": "把",
+          "py": "bǎ",
+          "meaning": "to put"
+        },
+        {
+          "zh": "车",
+          "py": "chē",
+          "meaning": "vehicle"
+        },
+        {
+          "zh": "停",
+          "py": "tíng",
+          "meaning": "to park"
+        },
+        {
+          "zh": "在",
+          "py": "zài",
+          "meaning": "at"
+        },
+        {
+          "zh": "路边",
+          "py": "lùbiān",
+          "meaning": "roadside"
+        }
+      ]
+    },
+    {
+      "chinese": "请问，这里可以打车吗？",
+      "pinyin": "Qǐng wèn, zhèlǐ kěyǐ dǎ chē ma?",
+      "translation": "Excuse me, can I take a taxi here?",
+      "usage": "Used when asking if taxi service is available at a specific location.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "问",
+          "py": "wèn",
+          "meaning": "ask"
+        },
+        {
+          "zh": "这里",
+          "py": "zhèlǐ",
+          "meaning": "here"
+        },
+        {
+          "zh": "可以",
+          "py": "kěyǐ",
+          "meaning": "can"
+        },
+        {
+          "zh": "打车",
+          "py": "dǎ chē",
+          "meaning": "to take a taxi"
+        }
+      ]
+    },
+    {
+      "chinese": "我的手机没电了。",
+      "pinyin": "Wǒ de shǒujī méidiàn le.",
+      "translation": "My phone battery is dead.",
+      "usage": "Used when explaining why you can't call for a taxi.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive marker"
+        },
+        {
+          "zh": "手机",
+          "py": "shǒujī",
+          "meaning": "phone"
+        },
+        {
+          "zh": "没电",
+          "py": "méidiàn",
+          "meaning": "no power"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed action marker"
+        }
+      ]
+    },
+    {
+      "chinese": "请把车费算一下。",
+      "pinyin": "Qǐng bǎ chēfèi suàn yīxià.",
+      "translation": "Please calculate the fare.",
+      "usage": "Used when asking the taxi driver to calculate the total cost.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "把",
+          "py": "bǎ",
+          "meaning": "to put"
+        },
+        {
+          "zh": "车费",
+          "py": "chēfèi",
+          "meaning": "taxi fare"
+        },
+        {
+          "zh": "算",
+          "py": "suàn",
+          "meaning": "to calculate"
+        },
+        {
+          "zh": "一下",
+          "py": "yīxià",
+          "meaning": "a moment"
+        }
+      ]
+    },
+    {
+      "chinese": "我坐的是首汽约车。",
+      "pinyin": "Wǒ zuò de shì shǒuqì yuēchē.",
+      "translation": "I'm taking a Shouqi ride-hailing service.",
+      "usage": "Used when specifying which ride-hailing service you're using.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "坐",
+          "py": "zuò",
+          "meaning": "to take"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive marker"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "is"
+        },
+        {
+          "zh": "首汽",
+          "py": "shǒuqì",
+          "meaning": "Shouqi (ride-hailing company)"
+        },
+        {
+          "zh": "约车",
+          "py": "yuēchē",
+          "meaning": "to book a car"
+        }
+      ]
+    }
+  ]
+}

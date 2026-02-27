@@ -1,0 +1,210 @@
+{
+  "sentences": [
+    {
+      "chinese": "开始写报告",
+      "pinyin": "Kāishǐ xiě bàogào",
+      "translation": "Start writing the report",
+      "usage": "Used to initiate the report-writing process.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "开始",
+          "py": "kāishǐ",
+          "meaning": "start"
+        },
+        {
+          "zh": "写",
+          "py": "xiě",
+          "meaning": "write"
+        },
+        {
+          "zh": "报告",
+          "py": "bàogào",
+          "meaning": "report"
+        }
+      ]
+    },
+    {
+      "chinese": "收集相关数据",
+      "pinyin": "Shōují xiāngguān shùjù",
+      "translation": "Collect relevant data",
+      "usage": "For gathering information before writing.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "收集",
+          "py": "shōují",
+          "meaning": "collect"
+        },
+        {
+          "zh": "相关",
+          "py": "xiāngguān",
+          "meaning": "relevant"
+        },
+        {
+          "zh": "数据",
+          "py": "shùjù",
+          "meaning": "data"
+        }
+      ]
+    },
+    {
+      "chinese": "组织报告结构",
+      "pinyin": "Zǔzhī bàogào jiéshù",
+      "translation": "Organize the report structure",
+      "usage": "To plan the report's outline.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "组织",
+          "py": "zǔzhī",
+          "meaning": "organize"
+        },
+        {
+          "zh": "结构",
+          "py": "jiéshù",
+          "meaning": "structure"
+        }
+      ]
+    },
+    {
+      "chinese": "撰写引言部分",
+      "pinyin": "Zhàixiě yǐnyán bùfèn",
+      "translation": "Write the introduction section",
+      "usage": "For the opening paragraph of a report.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "撰写",
+          "py": "zhàixiě",
+          "meaning": "write (formal)"
+        },
+        {
+          "zh": "引言",
+          "py": "yǐnyán",
+          "meaning": "introduction"
+        },
+        {
+          "zh": "部分",
+          "py": "bùfèn",
+          "meaning": "section"
+        }
+      ]
+    },
+    {
+      "chinese": "参考文献列表",
+      "pinyin": "Cānkǎo wénxiàn liánpíng",
+      "translation": "Reference list",
+      "usage": "For citing sources at the end of a report.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "参考",
+          "py": "cānkǎo",
+          "meaning": "refer to"
+        },
+        {
+          "zh": "文献",
+          "py": "wénxiàn",
+          "meaning": "literature"
+        },
+        {
+          "zh": "列表",
+          "py": "liánpíng",
+          "meaning": "list"
+        }
+      ]
+    },
+    {
+      "chinese": "分析关键数据",
+      "pinyin": "Fēnxī guānjiàn shùjù",
+      "translation": "Analyze key data",
+      "usage": "To process important information in a report.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "分析",
+          "py": "fēnxī",
+          "meaning": "analyze"
+        },
+        {
+          "zh": "关键",
+          "py": "guānjiàn",
+          "meaning": "key"
+        },
+        {
+          "zh": "数据",
+          "py": "shùjù",
+          "meaning": "data"
+        }
+      ]
+    },
+    {
+      "chinese": "校对报告内容",
+      "pinyin": "Jiàoduì bàogào nèiróng",
+      "translation": "Proofread the report content",
+      "usage": "For checking errors before submission.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "校对",
+          "py": "jiàoduì",
+          "meaning": "proofread"
+        },
+        {
+          "zh": "内容",
+          "py": "nèiróng",
+          "meaning": "content"
+        }
+      ]
+    },
+    {
+      "chinese": "提交最终版本",
+      "pinyin": "Tóuchi zuìzhōng bǎnben",
+      "translation": "Submit the final version",
+      "usage": "To hand in the completed report.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "提交",
+          "py": "tóuchi",
+          "meaning": "submit"
+        },
+        {
+          "zh": "最终",
+          "py": "zuìzhōng",
+          "meaning": "final"
+        },
+        {
+          "zh": "版本",
+          "py": "bǎnben",
+          "meaning": "version"
+        }
+      ]
+    },
+    {
+      "chinese": "使用正式语言",
+      "pinyin": "Shǐyòng zhèngshì yǔyán",
+      "translation": "Use formal language",
+      "usage": "For professional report writing.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "使用",
+          "py": "shǐyòng",
+          "meaning": "use"
+        },
+        {
+          "zh": "正式",
+          "py": "zhèngshì",
+          "meaning": "formal"
+        },
+        {
+          "zh": "语言",
+          "py": "yǔyán",
+          "meaning": "language"
+        }
+      ]
+    }
+  ]
+}

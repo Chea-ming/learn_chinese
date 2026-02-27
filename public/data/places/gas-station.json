@@ -1,0 +1,173 @@
+{
+  "sentences": [
+    {
+      "chinese": "加油站",
+      "pinyin": "jiāyóu zhàn",
+      "translation": "Gas station",
+      "usage": "The general term for a fueling station.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "加",
+          "py": "jiā",
+          "meaning": "add"
+        },
+        {
+          "zh": "油",
+          "py": "yóu",
+          "meaning": "fuel"
+        },
+        {
+          "zh": "站",
+          "py": "zhàn",
+          "meaning": "station"
+        }
+      ]
+    },
+    {
+      "chinese": "最近的加油站在哪里？",
+      "pinyin": "zuìjìn de jiāyóu zhàn zài nǎlǐ?",
+      "translation": "Where is the nearest gas station?",
+      "usage": "Asking for directions to the closest gas station.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "最近",
+          "py": "zuìjìn",
+          "meaning": "nearest"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "of"
+        },
+        {
+          "zh": "在",
+          "py": "zài",
+          "meaning": "at"
+        },
+        {
+          "zh": "哪里",
+          "py": "nǎlǐ",
+          "meaning": "where"
+        }
+      ]
+    },
+    {
+      "chinese": "我的车没油了",
+      "pinyin": "wǒ de chē méi yóu le",
+      "translation": "My car is out of fuel.",
+      "usage": "Informing someone about a fuel emergency.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "of"
+        },
+        {
+          "zh": "车",
+          "py": "chē",
+          "meaning": "car"
+        },
+        {
+          "zh": "没",
+          "py": "méi",
+          "meaning": "out of"
+        },
+        {
+          "zh": "油",
+          "py": "yóu",
+          "meaning": "fuel"
+        }
+      ]
+    },
+    {
+      "chinese": "请关掉引擎",
+      "pinyin": "qǐng guāndiào yǐnjī",
+      "translation": "Please turn off the engine.",
+      "usage": "Safety instruction during refueling.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "关",
+          "py": "guān",
+          "meaning": "turn off"
+        },
+        {
+          "zh": "掉",
+          "py": "diào",
+          "meaning": "completely"
+        },
+        {
+          "zh": "引擎",
+          "py": "yǐnjī",
+          "meaning": "engine"
+        }
+      ]
+    },
+    {
+      "chinese": "严禁烟火",
+      "pinyin": "yánjìn huǒyàn",
+      "translation": "No smoking or open flames.",
+      "usage": "Warning sign at fuel stations.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "严",
+          "py": "yán",
+          "meaning": "strict"
+        },
+        {
+          "zh": "禁",
+          "py": "jìn",
+          "meaning": "prohibit"
+        },
+        {
+          "zh": "火",
+          "py": "huǒ",
+          "meaning": "fire"
+        },
+        {
+          "zh": "焰",
+          "py": "yàn",
+          "meaning": "flame"
+        }
+      ]
+    },
+    {
+      "chinese": "便利店",
+      "pinyin": "biàn lì diàn",
+      "translation": "Convenience store",
+      "usage": "Term for a store inside or near a gas station.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "便",
+          "py": "biàn",
+          "meaning": "convenient"
+        },
+        {
+          "zh": "利",
+          "py": "lì",
+          "meaning": "benefit"
+        },
+        {
+          "zh": "店",
+          "py": "diàn",
+          "meaning": "shop"
+        }
+      ]
+    }
+  ]
+}

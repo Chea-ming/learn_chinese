@@ -1,0 +1,294 @@
+{
+  "sentences": [
+    {
+      "chinese": "四大名著",
+      "pinyin": "Sì dà míngzhù",
+      "translation": "Four Great Classical Novels",
+      "usage": "Refers to the four most acclaimed classical Chinese novels.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "四",
+          "py": "Sì",
+          "meaning": "four"
+        },
+        {
+          "zh": "大",
+          "py": "Dà",
+          "meaning": "great"
+        },
+        {
+          "zh": "名著",
+          "py": "Míngzhù",
+          "meaning": "classical novels"
+        }
+      ]
+    },
+    {
+      "chinese": "红楼梦",
+      "pinyin": "Hónglóu Mèng",
+      "translation": "Dream of the Red Chamber",
+      "usage": "A classic 18th-century novel by Cao Xueqin.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "红",
+          "py": "Hóng",
+          "meaning": "red"
+        },
+        {
+          "zh": "楼",
+          "py": "Lóu",
+          "meaning": "building"
+        },
+        {
+          "zh": "梦",
+          "py": "Mèng",
+          "meaning": "dream"
+        }
+      ]
+    },
+    {
+      "chinese": "鲁迅作品",
+      "pinyin": "Lǔ Xùn zuòpǐn",
+      "translation": "Lu Xun's works",
+      "usage": "Refers to modern Chinese literary works by Lu Xun.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "鲁迅",
+          "py": "Lǔ Xùn",
+          "meaning": "Lu Xun"
+        },
+        {
+          "zh": "作品",
+          "py": "Zuòpǐn",
+          "meaning": "works"
+        }
+      ]
+    },
+    {
+      "chinese": "新文化运动",
+      "pinyin": "Xīn Wénhuà Yùndòng",
+      "translation": "New Culture Movement",
+      "usage": "A 20th-century cultural and literary reform period.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "新",
+          "py": "Xīn",
+          "meaning": "new"
+        },
+        {
+          "zh": "文化",
+          "py": "Wénhuà",
+          "meaning": "culture"
+        },
+        {
+          "zh": "运动",
+          "py": "Yùndòng",
+          "meaning": "movement"
+        }
+      ]
+    },
+    {
+      "chinese": "古典文学",
+      "pinyin": "Gǔdiǎn Wénxué",
+      "translation": "Classical Chinese literature",
+      "usage": "Literature from before the 20th century.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "古典",
+          "py": "Gǔdiǎn",
+          "meaning": "classical"
+        },
+        {
+          "zh": "文学",
+          "py": "Wénxué",
+          "meaning": "literature"
+        }
+      ]
+    },
+    {
+      "chinese": "白话文",
+      "pinyin": "Báihuàwén",
+      "translation": "Vernacular Chinese",
+      "usage": "Modern simplified language used in literature.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "白",
+          "py": "Bái",
+          "meaning": "white"
+        },
+        {
+          "zh": "话",
+          "py": "Huà",
+          "meaning": "speech"
+        },
+        {
+          "zh": "文",
+          "py": "Wén",
+          "meaning": "writing"
+        }
+      ]
+    },
+    {
+      "chinese": "唐诗",
+      "pinyin": "Tángshī",
+      "translation": "Tang dynasty poetry",
+      "usage": "Poems from the Tang dynasty (618–907 CE).",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "唐",
+          "py": "Táng",
+          "meaning": "Tang dynasty"
+        },
+        {
+          "zh": "诗",
+          "py": "Shī",
+          "meaning": "poetry"
+        }
+      ]
+    },
+    {
+      "chinese": "宋词",
+      "pinyin": "Sòngcí",
+      "translation": "Song dynasty lyrics",
+      "usage": "Lyric poetry from the Song dynasty (960–1279 CE).",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "宋",
+          "py": "Sòng",
+          "meaning": "Song dynasty"
+        },
+        {
+          "zh": "词",
+          "py": "Cí",
+          "meaning": "lyrics"
+        }
+      ]
+    },
+    {
+      "chinese": "元曲",
+      "pinyin": "Yuánqǔ",
+      "translation": "Yuan dynasty opera",
+      "usage": "Musical and theatrical works from the Yuan dynasty.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "元",
+          "py": "Yuán",
+          "meaning": "Yuan dynasty"
+        },
+        {
+          "zh": "曲",
+          "py": "Qǔ",
+          "meaning": "opera"
+        }
+      ]
+    },
+    {
+      "chinese": "四大名著之一",
+      "pinyin": "Sì dà míngzhù zhī yī",
+      "translation": "One of the Four Great Classical Novels",
+      "usage": "Describes any of the four seminal novels.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "之一",
+          "py": "Zhī yī",
+          "meaning": "one of"
+        }
+      ]
+    },
+    {
+      "chinese": "文学巨匠",
+      "pinyin": "Wénxué jùjiàng",
+      "translation": "Literary giant",
+      "usage": "Used to describe influential writers.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "巨匠",
+          "py": "Jùjiàng",
+          "meaning": "master"
+        }
+      ]
+    },
+    {
+      "chinese": "楚辞",
+      "pinyin": "Chǔcí",
+      "translation": "Songs of Chu",
+      "usage": "An ancient anthology of poetry from the Chu region.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "楚",
+          "py": "Chǔ",
+          "meaning": "Chu"
+        },
+        {
+          "zh": "辞",
+          "py": "Cí",
+          "meaning": "poems"
+        }
+      ]
+    },
+    {
+      "chinese": "汉赋",
+      "pinyin": "Hàn fù",
+      "translation": "Han dynasty rhapsodies",
+      "usage": "Eloquent prose-poetry from the Han dynasty.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "汉",
+          "py": "Hàn",
+          "meaning": "Han dynasty"
+        },
+        {
+          "zh": "赋",
+          "py": "Fù",
+          "meaning": "rhapsody"
+        }
+      ]
+    },
+    {
+      "chinese": "明清小说",
+      "pinyin": "Míngqīng xiǎoshuō",
+      "translation": "Ming and Qing dynasty novels",
+      "usage": "Refers to novels from the Ming and Qing periods.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "明清",
+          "py": "Míngqīng",
+          "meaning": "Ming and Qing"
+        },
+        {
+          "zh": "小说",
+          "py": "Xiǎoshuō",
+          "meaning": "novels"
+        }
+      ]
+    },
+    {
+      "chinese": "文学遗产",
+      "pinyin": "Wénxué yíchǎn",
+      "translation": "Literary heritage",
+      "usage": "Refers to China's enduring literary works.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "遗产",
+          "py": "Yíchǎn",
+          "meaning": "heritage"
+        }
+      ]
+    }
+  ]
+}

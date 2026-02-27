@@ -1,0 +1,759 @@
+{
+  "sentences": [
+    {
+      "chinese": "你今天看起来很棒！",
+      "pinyin": "Nǐ jīntiān kàn qǐlái hěn bèng!",
+      "translation": "You look great today!",
+      "usage": "Used to compliment someone's appearance or overall look on a particular day.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "今天",
+          "py": "jīntiān",
+          "meaning": "today"
+        },
+        {
+          "zh": "看",
+          "py": "kàn",
+          "meaning": "to look"
+        },
+        {
+          "zh": "起来",
+          "py": "qǐlái",
+          "meaning": "to appear"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "棒",
+          "py": "bèng",
+          "meaning": "great / excellent"
+        }
+      ]
+    },
+    {
+      "chinese": "你的新发型真好看。",
+      "pinyin": "Nǐ de xīn fàxíng zhēn hǎokàn.",
+      "translation": "Your new hairstyle looks really good.",
+      "usage": "Specific compliment about someone's hair style or appearance.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive particle"
+        },
+        {
+          "zh": "新",
+          "py": "xīn",
+          "meaning": "new"
+        },
+        {
+          "zh": "发型",
+          "py": "fàxíng",
+          "meaning": "hair style"
+        },
+        {
+          "zh": "真",
+          "py": "zhēn",
+          "meaning": "really / truly"
+        },
+        {
+          "zh": "好看",
+          "py": "hǎokàn",
+          "meaning": "pretty / good-looking"
+        }
+      ]
+    },
+    {
+      "chinese": "你做得非常好！",
+      "pinyin": "Nǐ zuò de fēicháng hǎo!",
+      "translation": "You did a very good job!",
+      "usage": "Compliment someone's performance or work effort in a formal or professional setting.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "做",
+          "py": "zuò",
+          "meaning": "to do"
+        },
+        {
+          "zh": "得",
+          "py": "de",
+          "meaning": "particle showing result"
+        },
+        {
+          "zh": "非常",
+          "py": "fēicháng",
+          "meaning": "very"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good"
+        }
+      ]
+    },
+    {
+      "chinese": "你穿这件衣服很适合。",
+      "pinyin": "Nǐ chuān zhè jiàn yīfu hěn shìhé.",
+      "translation": "You look very suitable in this outfit.",
+      "usage": "Compliment someone on their clothing choice or overall appearance.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "穿",
+          "py": "chuān",
+          "meaning": "to wear"
+        },
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "件",
+          "py": "jiàn",
+          "meaning": "piece (of clothing)"
+        },
+        {
+          "zh": "衣服",
+          "py": "yīfu",
+          "meaning": "clothes"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "适合",
+          "py": "shìhé",
+          "meaning": "suitable / fit"
+        }
+      ]
+    },
+    {
+      "chinese": "你真是太聪明了！",
+      "pinyin": "Nǐ zhēn tài cōngmíng le!",
+      "translation": "You are so smart!",
+      "usage": "Used to compliment someone's intelligence or cleverness in an informal way.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "真",
+          "py": "zhēn",
+          "meaning": "really"
+        },
+        {
+          "zh": "太",
+          "py": "tài",
+          "meaning": "too / very"
+        },
+        {
+          "zh": "聪明",
+          "py": "cōngmíng",
+          "meaning": "smart / intelligent"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "particle indicating completion"
+        }
+      ]
+    },
+    {
+      "chinese": "你的演讲很精彩。",
+      "pinyin": "Nǐ de yǎnjiǎng hěn jīngcǎi.",
+      "translation": "Your speech was very impressive.",
+      "usage": "Used to compliment someone's public speaking or presentation skills.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive particle"
+        },
+        {
+          "zh": "演讲",
+          "py": "yǎnjiǎng",
+          "meaning": "speech / presentation"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "精彩",
+          "py": "jīngcǎi",
+          "meaning": "wonderful / impressive"
+        }
+      ]
+    },
+    {
+      "chinese": "你画的画真美。",
+      "pinyin": "Nǐ huà de huà zhēn měi.",
+      "translation": "The painting you drew is really beautiful.",
+      "usage": "Used to compliment someone's artistic work or drawing skills.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "画",
+          "py": "huà",
+          "meaning": "to draw"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive particle"
+        },
+        {
+          "zh": "画",
+          "py": "huà",
+          "meaning": "painting"
+        },
+        {
+          "zh": "真",
+          "py": "zhēn",
+          "meaning": "really"
+        },
+        {
+          "zh": "美",
+          "py": "měi",
+          "meaning": "beautiful"
+        }
+      ]
+    },
+    {
+      "chinese": "你说话很有条理。",
+      "pinyin": "Nǐ shuōhuà hěn yǒu tiáolǐ.",
+      "translation": "You speak very logically.",
+      "usage": "Used to compliment someone's communication or speaking skills.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "说话",
+          "py": "shuōhuà",
+          "meaning": "to speak"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "to have"
+        },
+        {
+          "zh": "条理",
+          "py": "tiáolǐ",
+          "meaning": "logic / organization"
+        }
+      ]
+    },
+    {
+      "chinese": "你真是太棒了！",
+      "pinyin": "Nǐ zhēn tài bèng le!",
+      "translation": "You are so amazing!",
+      "usage": "Used to express strong admiration or appreciation for someone's achievement.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "真",
+          "py": "zhēn",
+          "meaning": "really"
+        },
+        {
+          "zh": "太",
+          "py": "tài",
+          "meaning": "too / very"
+        },
+        {
+          "zh": "棒",
+          "py": "bèng",
+          "meaning": "great / excellent"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "particle indicating completion"
+        }
+      ]
+    },
+    {
+      "chinese": "你做得太好了。",
+      "pinyin": "Nǐ zuò de tài hǎo le.",
+      "translation": "You did it too well.",
+      "usage": "Used to compliment someone's performance, often with a tone of admiration.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "做",
+          "py": "zuò",
+          "meaning": "to do"
+        },
+        {
+          "zh": "得",
+          "py": "de",
+          "meaning": "particle showing result"
+        },
+        {
+          "zh": "太",
+          "py": "tài",
+          "meaning": "too / very"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "particle indicating completion"
+        }
+      ]
+    },
+    {
+      "chinese": "你真是个好人。",
+      "pinyin": "Nǐ zhēn shì gè hǎo rén.",
+      "translation": "You are really a good person.",
+      "usage": "Used to compliment someone's character or kindness.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "真",
+          "py": "zhēn",
+          "meaning": "really"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "to be"
+        },
+        {
+          "zh": "个",
+          "py": "gè",
+          "meaning": "classifier"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good"
+        },
+        {
+          "zh": "人",
+          "py": "rén",
+          "meaning": "person"
+        }
+      ]
+    },
+    {
+      "chinese": "你的工作态度很棒。",
+      "pinyin": "Nǐ de gōngzuò tàidù bèng bèng.",
+      "translation": "Your work attitude is great.",
+      "usage": "Used to compliment someone's professional behavior or attitude.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive particle"
+        },
+        {
+          "zh": "工作",
+          "py": "gōngzuò",
+          "meaning": "work"
+        },
+        {
+          "zh": "态度",
+          "py": "tàidù",
+          "meaning": "attitude"
+        },
+        {
+          "zh": "很棒",
+          "py": "bèng bèng",
+          "meaning": "great / excellent"
+        }
+      ]
+    },
+    {
+      "chinese": "你今天看起来很精神。",
+      "pinyin": "Nǐ jīntiān kàn qǐlái hěn jīngshén.",
+      "translation": "You look very energetic today.",
+      "usage": "Used to compliment someone's vitality or appearance.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "今天",
+          "py": "jīntiān",
+          "meaning": "today"
+        },
+        {
+          "zh": "看",
+          "py": "kàn",
+          "meaning": "to look"
+        },
+        {
+          "zh": "起来",
+          "py": "qǐlái",
+          "meaning": "to appear"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "精神",
+          "py": "jīngshén",
+          "meaning": "energetic / spirited"
+        }
+      ]
+    },
+    {
+      "chinese": "你的想法很有创意。",
+      "pinyin": "Nǐ de xiǎngfǎ hěn yǒu chuàngyì.",
+      "translation": "Your idea is very creative.",
+      "usage": "Used to compliment someone's innovative thinking or originality.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive particle"
+        },
+        {
+          "zh": "想法",
+          "py": "xiǎngfǎ",
+          "meaning": "idea / thought"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "to have"
+        },
+        {
+          "zh": "创意",
+          "py": "chuàngyì",
+          "meaning": "creativity"
+        }
+      ]
+    },
+    {
+      "chinese": "你真的很有才华。",
+      "pinyin": "Nǐ zhēn de hěn yǒu cáihuá.",
+      "translation": "You really have a lot of talent.",
+      "usage": "Used to compliment someone's abilities or natural gifts.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "真",
+          "py": "zhēn",
+          "meaning": "really"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "particle indicating emphasis"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "to have"
+        },
+        {
+          "zh": "才华",
+          "py": "cáihuá",
+          "meaning": "talent / ability"
+        }
+      ]
+    },
+    {
+      "chinese": "你的字写得真漂亮。",
+      "pinyin": "Nǐ de zì xiě dé zhēn piàoliang.",
+      "translation": "Your handwriting is really beautiful.",
+      "usage": "Used to compliment someone's writing or handwriting quality.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive particle"
+        },
+        {
+          "zh": "字",
+          "py": "zì",
+          "meaning": "character / word"
+        },
+        {
+          "zh": "写",
+          "py": "xiě",
+          "meaning": "to write"
+        },
+        {
+          "zh": "得",
+          "py": "dé",
+          "meaning": "particle showing result"
+        },
+        {
+          "zh": "真",
+          "py": "zhēn",
+          "meaning": "really"
+        },
+        {
+          "zh": "漂亮",
+          "py": "piàoliang",
+          "meaning": "beautiful"
+        }
+      ]
+    },
+    {
+      "chinese": "你真是个天才。",
+      "pinyin": "Nǐ zhēn shì gè tiāncái.",
+      "translation": "You are really a genius.",
+      "usage": "Used to express admiration for someone's exceptional abilities.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "真",
+          "py": "zhēn",
+          "meaning": "really"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "to be"
+        },
+        {
+          "zh": "个",
+          "py": "gè",
+          "meaning": "classifier"
+        },
+        {
+          "zh": "天才",
+          "py": "tiāncái",
+          "meaning": "genius"
+        }
+      ]
+    },
+    {
+      "chinese": "你的笑容真温暖。",
+      "pinyin": "Nǐ de xiàoróng zhēn wēnnuǎn.",
+      "translation": "Your smile is really warm.",
+      "usage": "Used to compliment someone's expression or warmth.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive particle"
+        },
+        {
+          "zh": "笑容",
+          "py": "xiàoróng",
+          "meaning": "smile"
+        },
+        {
+          "zh": "真",
+          "py": "zhēn",
+          "meaning": "really"
+        },
+        {
+          "zh": "温暖",
+          "py": "wēnnuǎn",
+          "meaning": "warm"
+        }
+      ]
+    },
+    {
+      "chinese": "你太让人佩服了。",
+      "pinyin": "Nǐ tài ràng rén pèifú le.",
+      "translation": "You're too admirable.",
+      "usage": "Used to express deep admiration for someone's qualities or actions.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "太",
+          "py": "tài",
+          "meaning": "too / very"
+        },
+        {
+          "zh": "让",
+          "py": "ràng",
+          "meaning": "to let"
+        },
+        {
+          "zh": "人",
+          "py": "rén",
+          "meaning": "person"
+        },
+        {
+          "zh": "佩服",
+          "py": "pèifú",
+          "meaning": "admire"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "particle indicating completion"
+        }
+      ]
+    },
+    {
+      "chinese": "你真是个大好人。",
+      "pinyin": "Nǐ zhēn shì gè dà hǎo rén.",
+      "translation": "You are really a very good person.",
+      "usage": "Used to express strong admiration for someone's kindness or character.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "真",
+          "py": "zhēn",
+          "meaning": "really"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "to be"
+        },
+        {
+          "zh": "个",
+          "py": "gè",
+          "meaning": "classifier"
+        },
+        {
+          "zh": "大",
+          "py": "dà",
+          "meaning": "big / very"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good"
+        },
+        {
+          "zh": "人",
+          "py": "rén",
+          "meaning": "person"
+        }
+      ]
+    }
+  ]
+}

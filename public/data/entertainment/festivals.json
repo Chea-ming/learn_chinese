@@ -1,0 +1,382 @@
+{
+  "sentences": [
+    {
+      "chinese": "春节快乐！",
+      "pinyin": "Chūnjié kuàilè!",
+      "translation": "Happy Spring Festival!",
+      "usage": "Standard greeting during Chinese New Year celebrations",
+      "words": [
+        {
+          "zh": "春节",
+          "py": "Chūnjié",
+          "meaning": "Spring Festival"
+        },
+        {
+          "zh": "快乐",
+          "py": "kuàilè",
+          "meaning": "happy"
+        }
+      ]
+    },
+    {
+      "chinese": "端午安康",
+      "pinyin": "Dǒngwǔ ān'kāng",
+      "translation": "Peaceful and healthy on Dragon Boat Festival",
+      "usage": "Alternative greeting for Dragon Boat Festival (5th lunar month)",
+      "words": [
+        {
+          "zh": "端午",
+          "py": "Dǒngwǔ",
+          "meaning": "Dragon Boat Festival"
+        },
+        {
+          "zh": "安康",
+          "py": "ān'kāng",
+          "meaning": "peace and health"
+        }
+      ]
+    },
+    {
+      "chinese": "中秋快乐",
+      "pinyin": "Zhōngqiū kuàilè",
+      "translation": "Happy Mid-Autumn Festival",
+      "usage": "Used during mooncake festival in autumn",
+      "words": [
+        {
+          "zh": "中秋",
+          "py": "Zhōngqiū",
+          "meaning": "Mid-Autumn"
+        },
+        {
+          "zh": "快乐",
+          "py": "kuàilè",
+          "meaning": "happy"
+        }
+      ]
+    },
+    {
+      "chinese": "万圣节快乐",
+      "pinyin": "Wànshèngjié kuàilè",
+      "translation": "Happy Halloween",
+      "usage": "Greeting for October 31st Halloween celebrations",
+      "words": [
+        {
+          "zh": "万圣节",
+          "py": "Wànshèngjié",
+          "meaning": "Halloween"
+        },
+        {
+          "zh": "快乐",
+          "py": "kuàilè",
+          "meaning": "happy"
+        }
+      ]
+    },
+    {
+      "chinese": "圣诞快乐",
+      "pinyin": "Shèngdàn kuàilè",
+      "translation": "Merry Christmas",
+      "usage": "Common greeting for Christmas Day",
+      "words": [
+        {
+          "zh": "圣诞",
+          "py": "Shèngdàn",
+          "meaning": "Christmas"
+        },
+        {
+          "zh": "快乐",
+          "py": "kuàilè",
+          "meaning": "happy"
+        }
+      ]
+    },
+    {
+      "chinese": "元宵节快乐",
+      "pinyin": "Yuánxiāo jié kuàilè",
+      "translation": "Happy Lantern Festival",
+      "usage": "For 15th day of Lunar New Year",
+      "words": [
+        {
+          "zh": "元宵节",
+          "py": "Yuánxiāo jié",
+          "meaning": "Lantern Festival"
+        },
+        {
+          "zh": "快乐",
+          "py": "kuàilè",
+          "meaning": "happy"
+        }
+      ]
+    },
+    {
+      "chinese": "舞龙表演",
+      "pinyin": "Wǔlóng biǎoyǎn",
+      "translation": "Dragon dance performance",
+      "usage": "Traditional festival activity with dragon puppets",
+      "words": [
+        {
+          "zh": "舞龙",
+          "py": "Wǔlóng",
+          "meaning": "dragon dance"
+        },
+        {
+          "zh": "表演",
+          "py": "biǎoyǎn",
+          "meaning": "performance"
+        }
+      ]
+    },
+    {
+      "chinese": "放鞭炮",
+      "pinyin": "Fàng biānpào",
+      "translation": "Set off firecrackers",
+      "usage": "Festival tradition for good luck",
+      "words": [
+        {
+          "zh": "放",
+          "py": "Fàng",
+          "meaning": "set off"
+        },
+        {
+          "zh": "鞭炮",
+          "py": "biānpào",
+          "meaning": "firecrackers"
+        }
+      ]
+    },
+    {
+      "chinese": "吃月饼",
+      "pinyin": "Chī yuèbǐng",
+      "translation": "Eat mooncakes",
+      "usage": "Mid-Autumn Festival tradition",
+      "words": [
+        {
+          "zh": "吃",
+          "py": "Chī",
+          "meaning": "eat"
+        },
+        {
+          "zh": "月饼",
+          "py": "yuèbǐng",
+          "meaning": "mooncake"
+        }
+      ]
+    },
+    {
+      "chinese": "贴春联",
+      "pinyin": "Tiē chūnlián",
+      "translation": "Put up Spring Festival couplets",
+      "usage": "Red paper writings during New Year",
+      "words": [
+        {
+          "zh": "贴",
+          "py": "Tiē",
+          "meaning": "put up"
+        },
+        {
+          "zh": "春联",
+          "py": "chūnlián",
+          "meaning": "Spring Festival couplets"
+        }
+      ]
+    },
+    {
+      "chinese": "赏花灯",
+      "pinyin": "Shǎng huādēng",
+      "translation": "Admire lanterns",
+      "usage": "Lantern Festival activity",
+      "words": [
+        {
+          "zh": "赏",
+          "py": "Shǎng",
+          "meaning": "admire"
+        },
+        {
+          "zh": "花灯",
+          "py": "huādēng",
+          "meaning": "lanterns"
+        }
+      ]
+    },
+    {
+      "chinese": "包饺子",
+      "pinyin": "Bāo jiǎozi",
+      "translation": "Make dumplings",
+      "usage": "Chinese New Year tradition",
+      "words": [
+        {
+          "zh": "包",
+          "py": "Bāo",
+          "meaning": "wrap"
+        },
+        {
+          "zh": "饺子",
+          "py": "jiǎozi",
+          "meaning": "dumplings"
+        }
+      ]
+    },
+    {
+      "chinese": "拜年",
+      "pinyin": "Bài nián",
+      "translation": "Visit relatives during New Year",
+      "usage": "Traditional New Year custom",
+      "words": [
+        {
+          "zh": "拜",
+          "py": "Bài",
+          "meaning": "pay respects"
+        },
+        {
+          "zh": "年",
+          "py": "nián",
+          "meaning": "year"
+        }
+      ]
+    },
+    {
+      "chinese": "圣诞树",
+      "pinyin": "Shèngdàn shù",
+      "translation": "Christmas tree",
+      "usage": "Holiday decoration with ornaments",
+      "words": [
+        {
+          "zh": "圣诞",
+          "py": "Shèngdàn",
+          "meaning": "Christmas"
+        },
+        {
+          "zh": "树",
+          "py": "shù",
+          "meaning": "tree"
+        }
+      ]
+    },
+    {
+      "chinese": "情人节快乐",
+      "pinyin": "Qíngrénjié kuàilè",
+      "translation": "Happy Valentine's Day",
+      "usage": "February 14th greeting for lovers",
+      "words": [
+        {
+          "zh": "情人节",
+          "py": "Qíngrénjié",
+          "meaning": "Valentine's Day"
+        },
+        {
+          "zh": "快乐",
+          "py": "kuàilè",
+          "meaning": "happy"
+        }
+      ]
+    },
+    {
+      "chinese": "跨年晚会",
+      "pinyin": "kuànián wǎnhuì",
+      "translation": "New Year's Eve party",
+      "usage": "Year-end celebration event",
+      "words": [
+        {
+          "zh": "跨年",
+          "py": "kuànián",
+          "meaning": "year transition"
+        },
+        {
+          "zh": "晚会",
+          "py": "wǎnhuì",
+          "meaning": "party"
+        }
+      ]
+    },
+    {
+      "chinese": "端午赛龙舟",
+      "pinyin": "Dǒngwǔ Sài Lóngzhōu",
+      "translation": "Dragon Boat Festival races",
+      "usage": "Dragon boat racing tradition",
+      "words": [
+        {
+          "zh": "端午",
+          "py": "Dǒngwǔ",
+          "meaning": "Dragon Boat Festival"
+        },
+        {
+          "zh": "赛龙舟",
+          "py": "Sài Lóngzhōu",
+          "meaning": "dragon boat race"
+        }
+      ]
+    },
+    {
+      "chinese": "万圣妆",
+      "pinyin": "Wànshèngzhuāng",
+      "translation": "Halloween costume",
+      "usage": "Disguise worn during Halloween",
+      "words": [
+        {
+          "zh": "万圣",
+          "py": "Wànshèng",
+          "meaning": "Halloween"
+        },
+        {
+          "zh": "妆",
+          "py": "zhuāng",
+          "meaning": "costume"
+        }
+      ]
+    },
+    {
+      "chinese": "除夕团圆",
+      "pinyin": "Chúxī tuányuán",
+      "translation": "Reunion on New Year's Eve",
+      "usage": "Family gathering tradition",
+      "words": [
+        {
+          "zh": "除夕",
+          "py": "Chúxī",
+          "meaning": "New Year's Eve"
+        },
+        {
+          "zh": "团圆",
+          "py": "tuányuán",
+          "meaning": "reunion"
+        }
+      ]
+    },
+    {
+      "chinese": "烧纸钱",
+      "pinyin": "Shāo zhǐqián",
+      "translation": "Burn paper money",
+      "usage": "Festival ancestor offerings",
+      "words": [
+        {
+          "zh": "烧",
+          "py": "Shāo",
+          "meaning": "burn"
+        },
+        {
+          "zh": "纸钱",
+          "py": "zhǐqián",
+          "meaning": "paper money"
+        }
+      ]
+    },
+    {
+      "chinese": "逛庙会",
+      "pinyin": "Guàng miàohuì",
+      "translation": "Visit temple fair",
+      "usage": "Festival market events",
+      "words": [
+        {
+          "zh": "逛",
+          "py": "Guàng",
+          "meaning": "visit"
+        },
+        {
+          "zh": "庙会",
+          "py": "miàohuì",
+          "meaning": "temple fair"
+        }
+      ]
+    }
+  ]
+}

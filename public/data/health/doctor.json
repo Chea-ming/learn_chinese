@@ -1,0 +1,231 @@
+{
+  "sentences": [
+    {
+      "chinese": "预约挂号",
+      "pinyin": "Yùyuē guàhù",
+      "translation": "Make an appointment",
+      "usage": "Used to schedule a doctor visit.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "预",
+          "py": "yù",
+          "meaning": "pre-"
+        },
+        {
+          "zh": "约",
+          "py": "yuē",
+          "meaning": "appointment"
+        },
+        {
+          "zh": "挂",
+          "py": "guà",
+          "meaning": "registration"
+        },
+        {
+          "zh": "号",
+          "py": "hào",
+          "meaning": "number"
+        }
+      ]
+    },
+    {
+      "chinese": "我头疼",
+      "pinyin": "Wǒ tóu téng",
+      "translation": "I have a headache",
+      "usage": "To describe a headache symptom.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "头",
+          "py": "tóu",
+          "meaning": "head"
+        },
+        {
+          "zh": "疼",
+          "py": "téng",
+          "meaning": "pain"
+        }
+      ]
+    },
+    {
+      "chinese": "请给我看看医生",
+      "pinyin": "Qǐng gěi wǒ kàn kàn yīshēng",
+      "translation": "Please let me see a doctor",
+      "usage": "Request to consult a doctor.",
+      "formality": "Polite",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "给",
+          "py": "gěi",
+          "meaning": "for"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "me"
+        },
+        {
+          "zh": "看",
+          "py": "kàn",
+          "meaning": "see"
+        },
+        {
+          "zh": "医生",
+          "py": "yīshēng",
+          "meaning": "doctor"
+        }
+      ]
+    },
+    {
+      "chinese": "体温多少度？",
+      "pinyin": "Tǐwēn duō shǎo dù?",
+      "translation": "What is my temperature?",
+      "usage": "Ask about body temperature.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "体",
+          "py": "tǐ",
+          "meaning": "body"
+        },
+        {
+          "zh": "温",
+          "py": "wēn",
+          "meaning": "temperature"
+        },
+        {
+          "zh": "多少",
+          "py": "duō shǎo",
+          "meaning": "how much"
+        },
+        {
+          "zh": "度",
+          "py": "dù",
+          "meaning": "degree"
+        }
+      ]
+    },
+    {
+      "chinese": "我必须吃药",
+      "pinyin": "Wǒ bìxū chī yào",
+      "translation": "I need to take medicine",
+      "usage": "State the necessity of medication.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "必须",
+          "py": "bìxū",
+          "meaning": "must"
+        },
+        {
+          "zh": "吃",
+          "py": "chī",
+          "meaning": "take"
+        },
+        {
+          "zh": "药",
+          "py": "yào",
+          "meaning": "medicine"
+        }
+      ]
+    },
+    {
+      "chinese": "医生建议我休息",
+      "pinyin": "Yīshēng jiànyì wǒ xiūxi",
+      "translation": "The doctor advised me to rest",
+      "usage": "Describe medical advice.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "医生",
+          "py": "yīshēng",
+          "meaning": "doctor"
+        },
+        {
+          "zh": "建议",
+          "py": "jiànyì",
+          "meaning": "advise"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "me"
+        },
+        {
+          "zh": "休息",
+          "py": "xiūxi",
+          "meaning": "rest"
+        }
+      ]
+    },
+    {
+      "chinese": "做X光检查",
+      "pinyin": "Zuò X guāng jiǎnchá",
+      "translation": "Have an X-ray examination",
+      "usage": "Request or describe an X-ray.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "做",
+          "py": "zuò",
+          "meaning": "to do"
+        },
+        {
+          "zh": "X光",
+          "py": "X guāng",
+          "meaning": "X-ray"
+        },
+        {
+          "zh": "检查",
+          "py": "jiǎnchá",
+          "meaning": "examination"
+        }
+      ]
+    },
+    {
+      "chinese": "我感觉不舒服",
+      "pinyin": "Wǒ gǎnjué bù shūfú",
+      "translation": "I feel unwell",
+      "usage": "General description of illness.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "感觉",
+          "py": "gǎnjué",
+          "meaning": "feel"
+        },
+        {
+          "zh": "不",
+          "py": "bù",
+          "meaning": "not"
+        },
+        {
+          "zh": "舒服",
+          "py": "shūfú",
+          "meaning": "comfortable"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "sentences": [
+    {
+      "chinese": "武术",
+      "pinyin": "Wǔ shù",
+      "translation": "Martial Arts",
+      "usage": "General term for Chinese martial arts.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "武",
+          "py": "Wǔ",
+          "meaning": "martial"
+        },
+        {
+          "zh": "术",
+          "py": "Shù",
+          "meaning": "arts/techniques"
+        }
+      ]
+    },
+    {
+      "chinese": "太极拳",
+      "pinyin": "Tàijí quán",
+      "translation": "Tai Chi",
+      "usage": "Refers to Tai Chi as a martial art and health practice.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "太极",
+          "py": "Tàijí",
+          "meaning": "Supreme Ultimate"
+        },
+        {
+          "zh": "拳",
+          "py": "Quán",
+          "meaning": "fist/technique"
+        }
+      ]
+    },
+    {
+      "chinese": "少林寺",
+      "pinyin": "Shàolín sì",
+      "translation": "Shaolin Temple",
+      "usage": "Refers to the famed Shaolin Temple and its martial arts.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "少林",
+          "py": "Shàolín",
+          "meaning": "Shaolin (origin of the temple)"
+        },
+        {
+          "zh": "寺",
+          "py": "Sì",
+          "meaning": "temple"
+        }
+      ]
+    },
+    {
+      "chinese": "功夫",
+      "pinyin": "Gōngfu",
+      "translation": "Kung Fu",
+      "usage": "Refers to Chinese martial arts or dedicated practice.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "功",
+          "py": "Gōng",
+          "meaning": "effort"
+        },
+        {
+          "zh": "夫",
+          "py": "Fū",
+          "meaning": "man/stage"
+        }
+      ]
+    },
+    {
+      "chinese": "以柔克刚",
+      "pinyin": "Yǐ róu kè gāng",
+      "translation": "Overcome hardness with softness",
+      "usage": "Martial arts philosophy emphasizing flexibility.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "以",
+          "py": "Yǐ",
+          "meaning": "by"
+        },
+        {
+          "zh": "柔",
+          "py": "Róu",
+          "meaning": "softness"
+        },
+        {
+          "zh": "克",
+          "py": "Kè",
+          "meaning": "overcome"
+        },
+        {
+          "zh": "刚",
+          "py": "Gāng",
+          "meaning": "hardness"
+        }
+      ]
+    },
+    {
+      "chinese": "内外兼修",
+      "pinyin": "Nèi wài jiān xiū",
+      "translation": "Cultivate both internal and external",
+      "usage": "Emphasizes holistic training in martial arts.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "内",
+          "py": "Nèi",
+          "meaning": "internal"
+        },
+        {
+          "zh": "外",
+          "py": "Wài",
+          "meaning": "external"
+        },
+        {
+          "zh": "兼修",
+          "py": "Jiān xiū",
+          "meaning": "cultivate together"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "sentences": [
+    {
+      "chinese": "芭蕾舞",
+      "pinyin": "Bā léi wǔ",
+      "translation": "Ballet",
+      "usage": "A classical dance form originating in Italy and France.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "芭蕾",
+          "py": "Bā léi",
+          "meaning": "Ballet"
+        },
+        {
+          "zh": "舞",
+          "py": "wǔ",
+          "meaning": "dance"
+        }
+      ]
+    },
+    {
+      "chinese": "跳芭蕾舞",
+      "pinyin": "Tiào bā léi wǔ",
+      "translation": "To do ballet",
+      "usage": "Describes the action of performing ballet.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "跳",
+          "py": "tiào",
+          "meaning": "to jump/dance"
+        },
+        {
+          "zh": "芭蕾舞",
+          "py": "bā léi wǔ",
+          "meaning": "ballet"
+        }
+      ]
+    },
+    {
+      "chinese": "芭蕾舞演员",
+      "pinyin": "Bā léi wǔ yǎn yuán",
+      "translation": "Ballet dancer",
+      "usage": "Refers to a professional ballet performer.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "芭蕾舞",
+          "py": "bā léi wǔ",
+          "meaning": "ballet"
+        },
+        {
+          "zh": "演员",
+          "py": "yǎn yuán",
+          "meaning": "performer"
+        }
+      ]
+    },
+    {
+      "chinese": "圆舞曲",
+      "pinyin": "Yuán wǔ qǔ",
+      "translation": "Waltz",
+      "usage": "A ballroom dance in triple meter.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "圆",
+          "py": "yuán",
+          "meaning": "round"
+        },
+        {
+          "zh": "舞曲",
+          "py": "wǔ qǔ",
+          "meaning": "dance music"
+        }
+      ]
+    },
+    {
+      "chinese": "拉丁舞",
+      "pinyin": "Lā dīn wǔ",
+      "translation": "Latin dance",
+      "usage": "A category of partner dances with Latin American origins.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "拉丁",
+          "py": "Lā dīn",
+          "meaning": "Latin"
+        },
+        {
+          "zh": "舞",
+          "py": "wǔ",
+          "meaning": "dance"
+        }
+      ]
+    },
+    {
+      "chinese": "现代舞",
+      "pinyin": "Xiàn dài wǔ",
+      "translation": "Modern dance",
+      "usage": "A genre of dance that broke away from classical ballet.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "现代",
+          "py": "xiàn dài",
+          "meaning": "modern"
+        },
+        {
+          "zh": "舞",
+          "py": "wǔ",
+          "meaning": "dance"
+        }
+      ]
+    },
+    {
+      "chinese": "看芭蕾舞表演",
+      "pinyin": "Kàn bā léi wǔ biǎo yǎn",
+      "translation": "Watch a ballet performance",
+      "usage": "Used when attending a ballet show.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "看",
+          "py": "kàn",
+          "meaning": "to watch"
+        },
+        {
+          "zh": "芭蕾舞表演",
+          "py": "bā léi wǔ biǎo yǎn",
+          "meaning": "ballet performance"
+        }
+      ]
+    },
+    {
+      "chinese": "舞蹈学校",
+      "pinyin": "Wǔ dǎo xué xiào",
+      "translation": "Dance school",
+      "usage": "An institution teaching dance styles.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "舞蹈",
+          "py": "wǔ dǎo",
+          "meaning": "dance"
+        },
+        {
+          "zh": "学校",
+          "py": "xué xiào",
+          "meaning": "school"
+        }
+      ]
+    },
+    {
+      "chinese": "学芭蕾",
+      "pinyin": "Xué bā léi",
+      "translation": "To learn ballet",
+      "usage": "Expressing the action of studying ballet.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "学",
+          "py": "xué",
+          "meaning": "to learn"
+        },
+        {
+          "zh": "芭蕾",
+          "py": "bā léi",
+          "meaning": "ballet"
+        }
+      ]
+    },
+    {
+      "chinese": "舞蹈比赛",
+      "pinyin": "Wǔ dǎo bǐ sài",
+      "translation": "Dance competition",
+      "usage": "An event where dancers compete.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "舞蹈",
+          "py": "wǔ dǎo",
+          "meaning": "dance"
+        },
+        {
+          "zh": "比赛",
+          "py": "bǐ sài",
+          "meaning": "competition"
+        }
+      ]
+    },
+    {
+      "chinese": "优雅的舞姿",
+      "pinyin": "Yōu yǎ de wǔ zī",
+      "translation": "Graceful dance moves",
+      "usage": "Describes elegant dancing.",
+      "formality": "Positive",
+      "words": [
+        {
+          "zh": "优雅",
+          "py": "yōu yǎ",
+          "meaning": "graceful"
+        },
+        {
+          "zh": "舞姿",
+          "py": "wǔ zī",
+          "meaning": "dance posture"
+        }
+      ]
+    },
+    {
+      "chinese": "跳华尔兹",
+      "pinyin": "Tiào huá ěr zī",
+      "translation": "To waltz",
+      "usage": "Describes dancing the waltz.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "跳",
+          "py": "tiào",
+          "meaning": "to dance"
+        },
+        {
+          "zh": "华尔兹",
+          "py": "huá ěr zī",
+          "meaning": "waltz"
+        }
+      ]
+    },
+    {
+      "chinese": "芭蕾舞剧",
+      "pinyin": "Bā léi wǔ jù",
+      "translation": "Ballet play",
+      "usage": "A theatrical performance combining ballet and storytelling.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "芭蕾舞",
+          "py": "bā léi wǔ",
+          "meaning": "ballet"
+        },
+        {
+          "zh": "剧",
+          "py": "jù",
+          "meaning": "play"
+        }
+      ]
+    }
+  ]
+}

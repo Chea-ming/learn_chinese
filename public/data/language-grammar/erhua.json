@@ -1,0 +1,230 @@
+{
+  "sentences": [
+    {
+      "chinese": "花儿开了。",
+      "pinyin": "Huār kāi le.",
+      "translation": "The flowers are blooming.",
+      "usage": "Erhua emphasizes the delicate nature of blooming flowers.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "花儿",
+          "py": "huār",
+          "meaning": "flower (with diminutive nuance)"
+        },
+        {
+          "zh": "开",
+          "py": "kāi",
+          "meaning": "open"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "particle indicating change"
+        }
+      ]
+    },
+    {
+      "chinese": "小孩儿真可爱。",
+      "pinyin": "Xiǎoháir zhēn kě ài.",
+      "translation": "The child is so cute.",
+      "usage": "Erhua softens the term for children, common in northern dialects.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "小孩儿",
+          "py": "xiǎoháir",
+          "meaning": "child"
+        },
+        {
+          "zh": "真",
+          "py": "zhēn",
+          "meaning": "really"
+        },
+        {
+          "zh": "可爱",
+          "py": "kě ài",
+          "meaning": "cute"
+        }
+      ]
+    },
+    {
+      "chinese": "玩儿得开心。",
+      "pinyin": "Wánr de kāi xīn.",
+      "translation": "Have fun playing.",
+      "usage": "Erhua adds a playful tone to the verb phrase.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "玩儿",
+          "py": "wánr",
+          "meaning": "play (colloquial)"
+        },
+        {
+          "zh": "得",
+          "py": "de",
+          "meaning": "particle linking verb and complement"
+        },
+        {
+          "zh": "开心",
+          "py": "kāi xīn",
+          "meaning": "happy"
+        }
+      ]
+    },
+    {
+      "chinese": "鸟儿在唱歌。",
+      "pinyin": "Niǎor zài chàng gē.",
+      "translation": "The birds are singing.",
+      "usage": "Erhua personifies birds as small, vocal creatures.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "鸟儿",
+          "py": "niǎor",
+          "meaning": "bird"
+        },
+        {
+          "zh": "在",
+          "py": "zài",
+          "meaning": "in the process of"
+        },
+        {
+          "zh": "唱",
+          "py": "chàng",
+          "meaning": "sing"
+        },
+        {
+          "zh": "歌",
+          "py": "gē",
+          "meaning": "song"
+        }
+      ]
+    },
+    {
+      "chinese": "火车儿来了。",
+      "pinyin": "Huǒchēr lái le.",
+      "translation": "The train is coming.",
+      "usage": "Erhua adds a colloquial tone to 'train'.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "火车儿",
+          "py": "huǒchēr",
+          "meaning": "train"
+        },
+        {
+          "zh": "来",
+          "py": "lái",
+          "meaning": "come"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "particle indicating immediacy"
+        }
+      ]
+    },
+    {
+      "chinese": "事儿多着呢。",
+      "pinyin": "Shìr duo zhe ne.",
+      "translation": "There are plenty of matters.",
+      "usage": "Erhua softens the noun 'matter' for casual speech.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "事儿",
+          "py": "shìr",
+          "meaning": "matter"
+        },
+        {
+          "zh": "多",
+          "py": "duō",
+          "meaning": "many"
+        },
+        {
+          "zh": "着呢",
+          "py": "zhe ne",
+          "meaning": "intensifier for emphasis"
+        }
+      ]
+    },
+    {
+      "chinese": "窗儿开着呢。",
+      "pinyin": "Chuāngr kāi zhe ne.",
+      "translation": "The window is open.",
+      "usage": "Erhua denotes a small window, common in northern speech.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "窗儿",
+          "py": "chuāngr",
+          "meaning": "small window"
+        },
+        {
+          "zh": "开",
+          "py": "kāi",
+          "meaning": "open"
+        },
+        {
+          "zh": "着呢",
+          "py": "zhe ne",
+          "meaning": "emphasizes ongoing state"
+        }
+      ]
+    },
+    {
+      "chinese": "糖儿甜丝丝的。",
+      "pinyin": "Táng r tián sī sī de.",
+      "translation": "The candy is sweet.",
+      "usage": "Erhua enhances the sensory experience of sweetness.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "糖儿",
+          "py": "táng r",
+          "meaning": "candy"
+        },
+        {
+          "zh": "甜",
+          "py": "tián",
+          "meaning": "sweet"
+        },
+        {
+          "zh": "丝丝",
+          "py": "sī sī",
+          "meaning": "intensifier for taste"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive particle"
+        }
+      ]
+    },
+    {
+      "chinese": "小孩儿蹦蹦跳跳。",
+      "pinyin": "Xiǎoháir bēng bēng tiào tiào.",
+      "translation": "The child is jumping around.",
+      "usage": "Erhua emphasizes the child's lively energy.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "小孩儿",
+          "py": "xiǎoháir",
+          "meaning": "child"
+        },
+        {
+          "zh": "蹦",
+          "py": "bēng",
+          "meaning": "jump"
+        },
+        {
+          "zh": "跳",
+          "py": "tiào",
+          "meaning": "leap"
+        }
+      ]
+    }
+  ]
+}

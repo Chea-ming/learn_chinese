@@ -1,0 +1,255 @@
+{
+  "sentences": [
+    {
+      "chinese": "北京烤鸭",
+      "pinyin": "Běijīng kǎo yā",
+      "translation": "Beijing Roast Duck",
+      "usage": "Classic Peking-style roasted duck dish",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "北京",
+          "py": "Běijīng",
+          "meaning": "Beijing"
+        },
+        {
+          "zh": "烤鸭",
+          "py": "kǎo yā",
+          "meaning": "roast duck"
+        }
+      ]
+    },
+    {
+      "chinese": "四川火锅",
+      "pinyin": "Sìchuān huǒguō",
+      "translation": "Sichuan Hot Pot",
+      "usage": "Spicy Sichuan hot pot",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "四川",
+          "py": "Sìchuān",
+          "meaning": "Sichuan province"
+        },
+        {
+          "zh": "火锅",
+          "py": "huǒguō",
+          "meaning": "hot pot"
+        }
+      ]
+    },
+    {
+      "chinese": "广东早茶",
+      "pinyin": "Gǔangdōng zǎo chá",
+      "translation": "Cantonese Dim Sum",
+      "usage": "Tea-time dim sum in Guangdong",
+      "formality": "Casual",
+      "words": [
+        {
+          "zh": "广东",
+          "py": "Gǔangdōng",
+          "meaning": "Guangdong province"
+        },
+        {
+          "zh": "早茶",
+          "py": "zǎo chá",
+          "meaning": "tea-time snacks"
+        }
+      ]
+    },
+    {
+      "chinese": "湖南辣子鸡",
+      "pinyin": "Húnán làzi jī",
+      "translation": "Hunan Spicy Chicken",
+      "usage": "Signature Sichuan-style chicken dish",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "湖南",
+          "py": "Húnán",
+          "meaning": "Hunan province"
+        },
+        {
+          "zh": "辣子鸡",
+          "py": "lǎzi jī",
+          "meaning": "spicy chicken"
+        }
+      ]
+    },
+    {
+      "chinese": "上海小笼包",
+      "pinyin": "Shànghǎi xiǎolóngbāo",
+      "translation": "Shanghai Soup Dumplings",
+      "usage": "Steamed dumplings with juice filling",
+      "formality": "Casual",
+      "words": [
+        {
+          "zh": "上海",
+          "py": "Shànghǎi",
+          "meaning": "Shanghai"
+        },
+        {
+          "zh": "小笼包",
+          "py": "xiǎolóngbāo",
+          "meaning": "soup dumplings"
+        }
+      ]
+    },
+    {
+      "chinese": "陕西肉夹馍",
+      "pinyin": "Shǎnxī ròu jiā mò",
+      "translation": "Shaanxi Roujiamo",
+      "usage": "Shaanxi's signature sandwich",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "陕西",
+          "py": "Shǎnxī",
+          "meaning": "Shaanxi province"
+        },
+        {
+          "zh": "肉夹馍",
+          "py": "ròu jiā mò",
+          "meaning": "meat in steamed bun"
+        }
+      ]
+    },
+    {
+      "chinese": "云南过桥米线",
+      "pinyin": "Yúnzhōng guòqiáo mǐxiàn",
+      "translation": "Yunnan Crossing Bridge Rice Noodles",
+      "usage": "Interactive noodle dish assembly",
+      "formality": "Casual",
+      "words": [
+        {
+          "zh": "云南",
+          "py": "Yúnzhōng",
+          "meaning": "Yunnan province"
+        },
+        {
+          "zh": "过桥米线",
+          "py": "guòqiáo mǐxiàn",
+          "meaning": "crossing bridge rice noodles"
+        }
+      ]
+    },
+    {
+      "chinese": "鲁菜",
+      "pinyin": "Lǔcài",
+      "translation": "Shandong Cuisine",
+      "usage": "Northeastern China's representative cuisine",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "鲁菜",
+          "py": "Lǔcài",
+          "meaning": "Shandong cuisine"
+        }
+      ]
+    },
+    {
+      "chinese": "夜市小吃",
+      "pinyin": "Yèshì xiǎochī",
+      "translation": "Night Market Snacks",
+      "usage": "Street food culture description",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "夜市",
+          "py": "yèshì",
+          "meaning": "night market"
+        },
+        {
+          "zh": "小吃",
+          "py": "xiǎochī",
+          "meaning": "snacks"
+        }
+      ]
+    },
+    {
+      "chinese": "饺子",
+      "pinyin": "jiǎozi",
+      "translation": "Dumplings",
+      "usage": "Traditional Chinese dumplings",
+      "formality": "Casual",
+      "words": [
+        {
+          "zh": "饺子",
+          "py": "jiǎozi",
+          "meaning": "dumplings"
+        }
+      ]
+    },
+    {
+      "chinese": "西湖醋鱼",
+      "pinyin": "Xīhú cù yú",
+      "translation": "West Lake Vinegar Fish",
+      "usage": "Hangzhou specialty dish",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "西湖",
+          "py": "Xīhú",
+          "meaning": "West Lake"
+        },
+        {
+          "zh": "醋鱼",
+          "py": "cù yú",
+          "meaning": "vinegar fish"
+        }
+      ]
+    },
+    {
+      "chinese": "螺蛳粉",
+      "pinyin": "Luósi fěn",
+      "translation": "Snail Rice Noodles",
+      "usage": "Famous Liuzhou street food",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "螺蛳",
+          "py": "Luósi",
+          "meaning": "snails"
+        },
+        {
+          "zh": "粉",
+          "py": "fěn",
+          "meaning": "powdered noodles"
+        }
+      ]
+    },
+    {
+      "chinese": "凉拌黄瓜",
+      "pinyin": "Liángbàn huángguā",
+      "translation": "Cold Cucumber Salad",
+      "usage": "Popular summer dish",
+      "formality": "Casual",
+      "words": [
+        {
+          "zh": "凉拌",
+          "py": "liángbàn",
+          "meaning": "cold salad"
+        },
+        {
+          "zh": "黄瓜",
+          "py": "huángguā",
+          "meaning": "cucumber"
+        }
+      ]
+    },
+    {
+      "chinese": "糖醋里脊",
+      "pinyin": "Tángcù lǐjǐ",
+      "translation": "Sweet and Sour Pork",
+      "usage": "Classic Chinese stir-fry",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "糖醋",
+          "py": "tángcù",
+          "meaning": "sweet and sour"
+        }
+      ]
+    }
+  ]
+}

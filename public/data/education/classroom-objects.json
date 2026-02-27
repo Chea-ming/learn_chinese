@@ -1,0 +1,289 @@
+{
+  "sentences": [
+    {
+      "chinese": "书桌",
+      "pinyin": "Shū zhuōzi",
+      "translation": "Desk",
+      "usage": "Student's writing surface",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "书",
+          "py": "shū",
+          "meaning": "Book"
+        },
+        {
+          "zh": "桌子",
+          "py": "zhuōzi",
+          "meaning": "Table"
+        }
+      ]
+    },
+    {
+      "chinese": "椅子",
+      "pinyin": "Yǐzǐ",
+      "translation": "Chair",
+      "usage": "Seating furniture",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "椅",
+          "py": "yǐ",
+          "meaning": "Seat"
+        },
+        {
+          "zh": "子",
+          "py": "zi",
+          "meaning": "Classifier"
+        }
+      ]
+    },
+    {
+      "chinese": "黑板",
+      "pinyin": "Hēibǎn",
+      "translation": "Blackboard",
+      "usage": "Writing surface for teaching",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "黑",
+          "py": "hēi",
+          "meaning": "Black"
+        },
+        {
+          "zh": "板",
+          "py": "bǎn",
+          "meaning": "Board"
+        }
+      ]
+    },
+    {
+      "chinese": "白板",
+      "pinyin": "Bái bǎn",
+      "translation": "Whiteboard",
+      "usage": "Modern teaching board",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "白",
+          "py": "bái",
+          "meaning": "White"
+        },
+        {
+          "zh": "板",
+          "py": "bǎn",
+          "meaning": "Board"
+        }
+      ]
+    },
+    {
+      "chinese": "粉笔",
+      "pinyin": "Fěn bǐ",
+      "translation": "Chalk",
+      "usage": "Writing on blackboards",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "粉",
+          "py": "fěn",
+          "meaning": "Powder"
+        },
+        {
+          "zh": "笔",
+          "py": "bǐ",
+          "meaning": "Pencil"
+        }
+      ]
+    },
+    {
+      "chinese": "白板笔",
+      "pinyin": "Bái bǎn bǐ",
+      "translation": "Whiteboard marker",
+      "usage": "For writing on whiteboards",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "白",
+          "py": "bái",
+          "meaning": "White"
+        },
+        {
+          "zh": "板",
+          "py": "bǎn",
+          "meaning": "Board"
+        },
+        {
+          "zh": "笔",
+          "py": "bǐ",
+          "meaning": "Pen"
+        }
+      ]
+    },
+    {
+      "chinese": "书包",
+      "pinyin": "Shū bāo",
+      "translation": "Schoolbag",
+      "usage": "Carries school supplies",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "书",
+          "py": "shū",
+          "meaning": "Book"
+        },
+        {
+          "zh": "包",
+          "py": "bāo",
+          "meaning": "Bag"
+        }
+      ]
+    },
+    {
+      "chinese": "课本",
+      "pinyin": "Kè běn",
+      "translation": "Textbook",
+      "usage": "Classroom learning material",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "课",
+          "py": "kè",
+          "meaning": "Lesson"
+        },
+        {
+          "zh": "本",
+          "py": "běn",
+          "meaning": "Book"
+        }
+      ]
+    },
+    {
+      "chinese": "练习本",
+      "pinyin": "Liànxí běn",
+      "translation": "Notebook",
+      "usage": "Student practice book",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "练习",
+          "py": "liànxí",
+          "meaning": "Exercise"
+        },
+        {
+          "zh": "本",
+          "py": "běn",
+          "meaning": "Book"
+        }
+      ]
+    },
+    {
+      "chinese": "铅笔",
+      "pinyin": "Qiān bǐ",
+      "translation": "Pencil",
+      "usage": "Writing instrument",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "铅",
+          "py": "qiān",
+          "meaning": "Lead"
+        },
+        {
+          "zh": "笔",
+          "py": "bǐ",
+          "meaning": "Pen"
+        }
+      ]
+    },
+    {
+      "chinese": "橡皮",
+      "pinyin": "Xiàng pí",
+      "translation": "Eraser",
+      "usage": "For correcting mistakes",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "橡",
+          "py": "xiàng",
+          "meaning": "Rubber"
+        },
+        {
+          "zh": "皮",
+          "py": "pí",
+          "meaning": "Piece"
+        }
+      ]
+    },
+    {
+      "chinese": "尺子",
+      "pinyin": "Chǐ zi",
+      "translation": "Ruler",
+      "usage": "Measuring tool",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "尺",
+          "py": "chǐ",
+          "meaning": "Foot (unit)"
+        },
+        {
+          "zh": "子",
+          "py": "zi",
+          "meaning": "Classifier"
+        }
+      ]
+    },
+    {
+      "chinese": "投影仪",
+      "pinyin": "Tóuyǐng yí",
+      "translation": "Projector",
+      "usage": "Visual presentation",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "投影",
+          "py": "tóuyǐng",
+          "meaning": "Projection"
+        },
+        {
+          "zh": "仪",
+          "py": "yí",
+          "meaning": "Device"
+        }
+      ]
+    },
+    {
+      "chinese": "电脑",
+      "pinyin": "Diànnǎo",
+      "translation": "Computer",
+      "usage": "Classroom technology",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "电",
+          "py": "diàn",
+          "meaning": "Electric"
+        },
+        {
+          "zh": "脑",
+          "py": "nǎo",
+          "meaning": "Brain"
+        }
+      ]
+    },
+    {
+      "chinese": "风扇",
+      "pinyin": "Fēngshàn",
+      "translation": "Fan",
+      "usage": "Classroom ventilation",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "风",
+          "py": "fēng",
+          "meaning": "Wind"
+        }
+      ]
+    }
+  ]
+}

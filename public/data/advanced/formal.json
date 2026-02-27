@@ -1,0 +1,118 @@
+{
+  "sentences": [
+    {
+      "chinese": "尊敬的，您好！",
+      "pinyin": "Zūnjìng de, nín hǎo!",
+      "translation": "Dear [Name], Hello!",
+      "usage": "Formal opening in letters or emails.",
+      "formality": "Advanced",
+      "words": [
+        {
+          "zh": "尊敬的",
+          "py": "zūnjìng de",
+          "meaning": "respected"
+        },
+        {
+          "zh": "您好",
+          "py": "nín hǎo",
+          "meaning": "hello"
+        }
+      ]
+    },
+    {
+      "chinese": "结尾部分请参考附件。",
+      "pinyin": "Jiéwěi bùfèn qǐng cānkǎo fùjiàn.",
+      "translation": "Please refer to the attachment for the conclusion.",
+      "usage": "Formal writing to direct readers to supplementary materials.",
+      "formality": "Advanced",
+      "words": [
+        {
+          "zh": "结尾",
+          "py": "jiéwěi",
+          "meaning": "conclusion"
+        },
+        {
+          "zh": "附件",
+          "py": "fùjiàn",
+          "meaning": "attachment"
+        }
+      ]
+    },
+    {
+      "chinese": "结论需基于充分数据。",
+      "pinyin": "Jiélùn xū jīyú chōngfèn shùjù.",
+      "translation": "The conclusion must be based on sufficient data.",
+      "usage": "Academic or research writing to emphasize evidence.",
+      "formality": "Advanced",
+      "words": [
+        {
+          "zh": "结论",
+          "py": "jiélùn",
+          "meaning": "conclusion"
+        },
+        {
+          "zh": "数据",
+          "py": "shùjù",
+          "meaning": "data"
+        }
+      ]
+    },
+    {
+      "chinese": "逻辑性是关键。",
+      "pinyin": "Luójí xìng shì guānjiàn.",
+      "translation": "Logical coherence is essential.",
+      "usage": "Formal speeches or essays to highlight structure.",
+      "formality": "Advanced",
+      "words": [
+        {
+          "zh": "逻辑",
+          "py": "luójí",
+          "meaning": "logic"
+        },
+        {
+          "zh": "关键",
+          "py": "guānjiàn",
+          "meaning": "key"
+        }
+      ]
+    },
+    {
+      "chinese": "严谨的论证不可少。",
+      "pinyin": "Yánjǐn de lìngzhèng bùkě shǎo.",
+      "translation": "Rigorous argumentation is indispensable.",
+      "usage": "Scholarly writing to stress thorough analysis.",
+      "formality": "Advanced",
+      "words": [
+        {
+          "zh": "严谨",
+          "py": "yánjǐn",
+          "meaning": "rigorous"
+        },
+        {
+          "zh": "论证",
+          "py": "lìngzhèng",
+          "meaning": "argumentation"
+        }
+      ]
+    },
+    {
+      "chinese": "请查阅正式文件。",
+      "pinyin": "Qǐng chá yuè zhèngshì wénjiàn.",
+      "translation": "Please consult the official document.",
+      "usage": "Directing readers to authoritative sources.",
+      "formality": "Advanced",
+      "words": [
+        {
+          "zh": "查阅",
+          "py": "cháyuè",
+          "meaning": "consult"
+        },
+        {
+          "zh": "正式",
+          "py": "zhèngshì",
+          "meaning": "official"
+        }
+      ]
+    }
+  ]
+}

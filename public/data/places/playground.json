@@ -1,0 +1,261 @@
+{
+  "sentences": [
+    {
+      "chinese": "游乐场",
+      "pinyin": "Yóuyuè chǎng",
+      "translation": "Playground",
+      "usage": "A public area for children to play.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "游乐",
+          "py": "Yóuyuè",
+          "meaning": "play"
+        },
+        {
+          "zh": "场",
+          "py": "Chǎng",
+          "meaning": "field/area"
+        }
+      ]
+    },
+    {
+      "chinese": "滑梯",
+      "pinyin": "Huá tī",
+      "translation": "Slide",
+      "usage": "A sloping structure for sliding down.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "滑",
+          "py": "Huá",
+          "meaning": "slide"
+        },
+        {
+          "zh": "梯",
+          "py": "Tī",
+          "meaning": "ladder"
+        }
+      ]
+    },
+    {
+      "chinese": "秋千",
+      "pinyin": "Qiū qiān",
+      "translation": "Swing",
+      "usage": "A seat suspended by ropes for swinging.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "秋",
+          "py": "Qiū",
+          "meaning": "autumn (archaic prefix)"
+        },
+        {
+          "zh": "千",
+          "py": "Qiān",
+          "meaning": "thousand (idiomatic)"
+        }
+      ]
+    },
+    {
+      "chinese": "跷跷板",
+      "pinyin": "Qiāo qiāo bǎn",
+      "translation": "Seesaw",
+      "usage": "A balanced board for up-and-down motion.",
+      "formality": "Casual",
+      "words": [
+        {
+          "zh": "跷",
+          "py": "Qiāo",
+          "meaning": "rock"
+        },
+        {
+          "zh": "板",
+          "py": "Bǎn",
+          "meaning": "board"
+        }
+      ]
+    },
+    {
+      "chinese": "沙坑",
+      "pinyin": "Shā kēng",
+      "translation": "Sandpit",
+      "usage": "A sandbox for children to play with sand.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "沙",
+          "py": "Shā",
+          "meaning": "sand"
+        },
+        {
+          "zh": "坑",
+          "py": "Kēng",
+          "meaning": "pit"
+        }
+      ]
+    },
+    {
+      "chinese": "儿童游乐区",
+      "pinyin": "Ér tóng yóuyuè qū",
+      "translation": "Children's play area",
+      "usage": "Designated area for young children.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "儿童",
+          "py": "Ér tóng",
+          "meaning": "children"
+        },
+        {
+          "zh": "游乐",
+          "py": "Yóuyuè",
+          "meaning": "play"
+        },
+        {
+          "zh": "区",
+          "py": "Qū",
+          "meaning": "zone"
+        }
+      ]
+    },
+    {
+      "chinese": "攀岩墙",
+      "pinyin": "Pān yán qiáng",
+      "translation": "Climbing wall",
+      "usage": "Indoor/outdoor rock climbing structure.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "攀",
+          "py": "Pān",
+          "meaning": "climb"
+        },
+        {
+          "zh": "岩",
+          "py": "Yán",
+          "meaning": "rock"
+        },
+        {
+          "zh": "墙",
+          "py": "Qiáng",
+          "meaning": "wall"
+        }
+      ]
+    },
+    {
+      "chinese": "蹦床",
+      "pinyin": "Bèng chuáng",
+      "translation": "Trampoline",
+      "usage": "Bounce-rebound recreational equipment.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "蹦",
+          "py": "Bèng",
+          "meaning": "jump"
+        },
+        {
+          "zh": "床",
+          "py": "Chuáng",
+          "meaning": "bed (structure)"
+        }
+      ]
+    },
+    {
+      "chinese": "旋转木马",
+      "pinyin": "Xuán zhuǎn mù mǎ",
+      "translation": "Carousel",
+      "usage": "Rotating amusement ride with horses.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "旋转",
+          "py": "Xuán zhuǎn",
+          "meaning": "rotate"
+        },
+        {
+          "zh": "木马",
+          "py": "Mù mǎ",
+          "meaning": "wooden horse"
+        }
+      ]
+    },
+    {
+      "chinese": "碰碰车",
+      "pinyin": "Pèng pèng chē",
+      "translation": "Bumper cars",
+      "usage": "Crash-avoidance amusement vehicles.",
+      "formality": "Casual",
+      "words": [
+        {
+          "zh": "碰",
+          "py": "Pèng",
+          "meaning": "collide"
+        },
+        {
+          "zh": "车",
+          "py": "Chē",
+          "meaning": "car"
+        }
+      ]
+    },
+    {
+      "chinese": "水滑梯",
+      "pinyin": "Shuǐ huá tī",
+      "translation": "Water slide",
+      "usage": "Aquatic recreational slide.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "水",
+          "py": "Shuǐ",
+          "meaning": "water"
+        },
+        {
+          "zh": "滑梯",
+          "py": "Huá tī",
+          "meaning": "slide"
+        }
+      ]
+    },
+    {
+      "chinese": "安全围栏",
+      "pinyin": "Ān quán wéi lán",
+      "translation": "Safety fence",
+      "usage": "Protective barrier for play areas.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "安全",
+          "py": "Ān quán",
+          "meaning": "safe"
+        },
+        {
+          "zh": "围栏",
+          "py": "Wéi lán",
+          "meaning": "fence"
+        }
+      ]
+    },
+    {
+      "chinese": "沙雕",
+      "pinyin": "Shā diāo",
+      "translation": "Sand sculpture",
+      "usage": "Artwork made from sand.",
+      "formality": "Casual",
+      "words": [
+        {
+          "zh": "沙",
+          "py": "Shā",
+          "meaning": "sand"
+        },
+        {
+          "zh": "雕",
+          "py": "Diāo",
+          "meaning": "carving"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,239 @@
+{
+  "sentences": [
+    {
+      "chinese": "紧急联络人",
+      "pinyin": "Jǐnjí liánnèi rén",
+      "translation": "Emergency Contact Person",
+      "usage": "Refers to someone you can contact during emergencies.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "紧急",
+          "py": "jǐnjí",
+          "meaning": "emergency"
+        },
+        {
+          "zh": "联络人",
+          "py": "liánnèi rén",
+          "meaning": "contact person"
+        }
+      ]
+    },
+    {
+      "chinese": "紧急服务号码",
+      "pinyin": "Jǐnjí fúwù hàomǎ",
+      "translation": "Emergency Service Numbers",
+      "usage": "Collects numbers for emergency services.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "紧急",
+          "py": "jǐnjí",
+          "meaning": "emergency"
+        },
+        {
+          "zh": "服务",
+          "py": "fúwù",
+          "meaning": "service"
+        },
+        {
+          "zh": "号码",
+          "py": "hàomǎ",
+          "meaning": "numbers"
+        }
+      ]
+    },
+    {
+      "chinese": "报警电话",
+      "pinyin": "Bàojǐng diànhuà",
+      "translation": "Alarm/Police Number",
+      "usage": "Calls the police in emergency situations.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "报警",
+          "py": "bàojǐng",
+          "meaning": "report an alarm"
+        },
+        {
+          "zh": "电话",
+          "py": "diànhuà",
+          "meaning": "phone number"
+        }
+      ]
+    },
+    {
+      "chinese": "救护车号码",
+      "pinyin": "Jiùshēngchē hàomǎ",
+      "translation": "Ambulance Number",
+      "usage": "For contacting emergency medical services.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "救护",
+          "py": "jiùshù",
+          "meaning": "emergency medical"
+        },
+        {
+          "zh": "车",
+          "py": "chē",
+          "meaning": "vehicle"
+        },
+        {
+          "zh": "号码",
+          "py": "hàomǎ",
+          "meaning": "number"
+        }
+      ]
+    },
+    {
+      "chinese": "火警电话",
+      "pinyin": "Huǒjǐng diànhuà",
+      "translation": "Fire Department Number",
+      "usage": "Contacts firefighters in case of fires.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "火警",
+          "py": "huǒjǐng",
+          "meaning": "fire alarm"
+        },
+        {
+          "zh": "电话",
+          "py": "diànhuà",
+          "meaning": "phone number"
+        }
+      ]
+    },
+    {
+      "chinese": "我需要帮助！",
+      "pinyin": "Wǒ xūyào bāngzhù!",
+      "translation": "I need help!",
+      "usage": "Used to request immediate assistance.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "需要",
+          "py": "xūyào",
+          "meaning": "need"
+        },
+        {
+          "zh": "帮助",
+          "py": "bāngzhù",
+          "meaning": "help"
+        }
+      ]
+    },
+    {
+      "chinese": "请帮助我！",
+      "pinyin": "Qǐng bāngzhù wǒ!",
+      "translation": "Please help me!",
+      "usage": "Urgent plea for assistance.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "帮助",
+          "py": "bāngzhù",
+          "meaning": "help"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "me"
+        }
+      ]
+    },
+    {
+      "chinese": "紧急情况下的联系方式",
+      "pinyin": "Jǐnjí qíngkuàng xià de liánnèi fāngshì",
+      "translation": "Contact Information in Emergency Situations",
+      "usage": "Describes how to reach someone during emergencies.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "紧急",
+          "py": "jǐnjí",
+          "meaning": "emergency"
+        },
+        {
+          "zh": "情况",
+          "py": "qíngkuàng",
+          "meaning": "situation"
+        },
+        {
+          "zh": "联系",
+          "py": "liánxì",
+          "meaning": "contact"
+        },
+        {
+          "zh": "方式",
+          "py": "fāngshì",
+          "meaning": "method"
+        }
+      ]
+    },
+    {
+      "chinese": "紧急联系卡",
+      "pinyin": "Jǐnjí liánnèi kǎ",
+      "translation": "Emergency Contact Card",
+      "usage": "A card with emergency contact details.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "紧急",
+          "py": "jǐnjí",
+          "meaning": "emergency"
+        },
+        {
+          "zh": "联系",
+          "py": "liánxì",
+          "meaning": "contact"
+        },
+        {
+          "zh": "卡",
+          "py": "kǎ",
+          "meaning": "card"
+        }
+      ]
+    },
+    {
+      "chinese": "紧急时联系谁？",
+      "pinyin": "Jǐnjí shí liánnèi shéi?",
+      "translation": "Who to Contact in an Emergency?",
+      "usage": "Asks for emergency contact guidance.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "紧急",
+          "py": "jǐnjí",
+          "meaning": "emergency"
+        },
+        {
+          "zh": "时",
+          "py": "shí",
+          "meaning": "when"
+        },
+        {
+          "zh": "联系",
+          "py": "liánxì",
+          "meaning": "contact"
+        },
+        {
+          "zh": "谁",
+          "py": "shéi",
+          "meaning": "who"
+        }
+      ]
+    }
+  ]
+}

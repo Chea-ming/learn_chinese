@@ -1,0 +1,919 @@
+{
+  "sentences": [
+    {
+      "chinese": "你好！",
+      "pinyin": "Nǐ hǎo!",
+      "translation": "Hello!",
+      "usage": "The standard, all-purpose greeting. Suitable for almost any situation.",
+      "formality": "Neutral / Informal",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good / well"
+        }
+      ]
+    },
+    {
+      "chinese": "邻居们好！",
+      "pinyin": "Línjū men hǎo!",
+      "translation": "Hello, neighbors!",
+      "usage": "Used when greeting neighbors in a friendly manner, often in the morning or evening.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "邻",
+          "py": "lín",
+          "meaning": "neighbor"
+        },
+        {
+          "zh": "居",
+          "py": "jū",
+          "meaning": "reside"
+        },
+        {
+          "zh": "们",
+          "py": "men",
+          "meaning": "plural marker"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good / well"
+        }
+      ]
+    },
+    {
+      "chinese": "我们是邻居。",
+      "pinyin": "Wǒmen shì línjū.",
+      "translation": "We are neighbors.",
+      "usage": "Used to introduce or confirm a neighbor relationship.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / we"
+        },
+        {
+          "zh": "们",
+          "py": "men",
+          "meaning": "plural marker"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "to be"
+        },
+        {
+          "zh": "邻",
+          "py": "lín",
+          "meaning": "neighbor"
+        },
+        {
+          "zh": "居",
+          "py": "jū",
+          "meaning": "reside"
+        }
+      ]
+    },
+    {
+      "chinese": "邻居真好！",
+      "pinyin": "Línjū zhēn hǎo!",
+      "translation": "Our neighbors are really nice!",
+      "usage": "Expresses appreciation for good neighbors.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "邻",
+          "py": "lín",
+          "meaning": "neighbor"
+        },
+        {
+          "zh": "居",
+          "py": "jū",
+          "meaning": "reside"
+        },
+        {
+          "zh": "真",
+          "py": "zhēn",
+          "meaning": "really"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good"
+        }
+      ]
+    },
+    {
+      "chinese": "请问，您是住在几楼？",
+      "pinyin": "Qǐng wèn, nín shì zhù zài jǐ lóu?",
+      "translation": "Excuse me, which floor do you live on?",
+      "usage": "Used when asking a neighbor about their apartment or house location.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "问",
+          "py": "wèn",
+          "meaning": "ask"
+        },
+        {
+          "zh": "您",
+          "py": "nín",
+          "meaning": "you (respectful)"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "to be"
+        },
+        {
+          "zh": "住",
+          "py": "zhù",
+          "meaning": "live"
+        },
+        {
+          "zh": "在",
+          "py": "zài",
+          "meaning": "at / in"
+        },
+        {
+          "zh": "几",
+          "py": "jǐ",
+          "meaning": "how many / which"
+        },
+        {
+          "zh": "楼",
+          "py": "lóu",
+          "meaning": "floor / building"
+        }
+      ]
+    },
+    {
+      "chinese": "邻居之间要互相帮助。",
+      "pinyin": "Línjū zhī jiān yào hùxiāng bāngzhù.",
+      "translation": "Neighbors should help each other.",
+      "usage": "A common saying about good neighborly behavior and community spirit.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "邻",
+          "py": "lín",
+          "meaning": "neighbor"
+        },
+        {
+          "zh": "居",
+          "py": "jū",
+          "meaning": "reside"
+        },
+        {
+          "zh": "之",
+          "py": "zhī",
+          "meaning": "of"
+        },
+        {
+          "zh": "间",
+          "py": "jiān",
+          "meaning": "between"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "should"
+        },
+        {
+          "zh": "互",
+          "py": "hù",
+          "meaning": "mutual"
+        },
+        {
+          "zh": "相",
+          "py": "xiāng",
+          "meaning": "each other"
+        },
+        {
+          "zh": "帮",
+          "py": "bāng",
+          "meaning": "help"
+        },
+        {
+          "zh": "助",
+          "py": "zhù",
+          "meaning": "assist"
+        }
+      ]
+    },
+    {
+      "chinese": "我们小区的居民很友善。",
+      "pinyin": "Wǒmen xiǎoqū de jūmín hěn yǒushàn.",
+      "translation": "The residents of our neighborhood are very friendly.",
+      "usage": "Used to describe positive community relationships.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我们",
+          "py": "wǒmen",
+          "meaning": "we / us"
+        },
+        {
+          "zh": "小",
+          "py": "xiǎo",
+          "meaning": "small"
+        },
+        {
+          "zh": "区",
+          "py": "qū",
+          "meaning": "district"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "of"
+        },
+        {
+          "zh": "居",
+          "py": "jū",
+          "meaning": "reside"
+        },
+        {
+          "zh": "民",
+          "py": "mín",
+          "meaning": "people / citizen"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "友",
+          "py": "yǒu",
+          "meaning": "friendly"
+        },
+        {
+          "zh": "善",
+          "py": "shàn",
+          "meaning": "kind"
+        }
+      ]
+    },
+    {
+      "chinese": "邻居们经常一起聚餐。",
+      "pinyin": "Línjū men jīngcháng yīqǐ jùcān.",
+      "translation": "Neighbors often have dinner together.",
+      "usage": "Describes a common social activity among neighbors.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "邻",
+          "py": "lín",
+          "meaning": "neighbor"
+        },
+        {
+          "zh": "居",
+          "py": "jū",
+          "meaning": "reside"
+        },
+        {
+          "zh": "们",
+          "py": "men",
+          "meaning": "plural marker"
+        },
+        {
+          "zh": "经",
+          "py": "jīng",
+          "meaning": "often"
+        },
+        {
+          "zh": "常",
+          "py": "cháng",
+          "meaning": "often"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "起",
+          "py": "qǐ",
+          "meaning": "together"
+        },
+        {
+          "zh": "聚",
+          "py": "jù",
+          "meaning": "gather"
+        },
+        {
+          "zh": "餐",
+          "py": "cān",
+          "meaning": "meal"
+        }
+      ]
+    },
+    {
+      "chinese": "请不要在楼道里大声喧哗。",
+      "pinyin": "Qǐng bùyào zài lóudào lǐ dàshēng xuānhuá.",
+      "translation": "Please don't make loud noise in the hallway.",
+      "usage": "Used to politely request quiet behavior in shared spaces.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "不",
+          "py": "bù",
+          "meaning": "not"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "want / should"
+        },
+        {
+          "zh": "在",
+          "py": "zài",
+          "meaning": "in / at"
+        },
+        {
+          "zh": "楼",
+          "py": "lóu",
+          "meaning": "building"
+        },
+        {
+          "zh": "道",
+          "py": "dào",
+          "meaning": "passage"
+        },
+        {
+          "zh": "里",
+          "py": "lǐ",
+          "meaning": "inside"
+        },
+        {
+          "zh": "大",
+          "py": "dà",
+          "meaning": "big / loud"
+        },
+        {
+          "zh": "声",
+          "py": "shēng",
+          "meaning": "voice / sound"
+        },
+        {
+          "zh": "喧",
+          "py": "xuān",
+          "meaning": "noise"
+        },
+        {
+          "zh": "哗",
+          "py": "huá",
+          "meaning": "clamor"
+        }
+      ]
+    },
+    {
+      "chinese": "我们住得很近。",
+      "pinyin": "Wǒmen zhù dé hěn jìn.",
+      "translation": "We live very close to each other.",
+      "usage": "Used to describe how close neighbors live.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / we"
+        },
+        {
+          "zh": "们",
+          "py": "men",
+          "meaning": "plural marker"
+        },
+        {
+          "zh": "住",
+          "py": "zhù",
+          "meaning": "live"
+        },
+        {
+          "zh": "得",
+          "py": "dé",
+          "meaning": "adverbial particle"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "近",
+          "py": "jìn",
+          "meaning": "near"
+        }
+      ]
+    },
+    {
+      "chinese": "邻居之间应该互相尊重。",
+      "pinyin": "Línjū zhī jiān yīnggāi hùxiāng zūnzhòng.",
+      "translation": "Neighbors should respect each other.",
+      "usage": "Used to emphasize good neighborly behavior and respect.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "邻",
+          "py": "lín",
+          "meaning": "neighbor"
+        },
+        {
+          "zh": "居",
+          "py": "jū",
+          "meaning": "reside"
+        },
+        {
+          "zh": "之",
+          "py": "zhī",
+          "meaning": "of"
+        },
+        {
+          "zh": "间",
+          "py": "jiān",
+          "meaning": "between"
+        },
+        {
+          "zh": "应",
+          "py": "yīng",
+          "meaning": "should"
+        },
+        {
+          "zh": "该",
+          "py": "gāi",
+          "meaning": "ought to"
+        },
+        {
+          "zh": "互",
+          "py": "hù",
+          "meaning": "mutual"
+        },
+        {
+          "zh": "相",
+          "py": "xiāng",
+          "meaning": "each other"
+        },
+        {
+          "zh": "尊",
+          "py": "zūn",
+          "meaning": "respect"
+        },
+        {
+          "zh": "重",
+          "py": "zhòng",
+          "meaning": "respect"
+        }
+      ]
+    },
+    {
+      "chinese": "社区活动很有趣。",
+      "pinyin": "Shèqū huódòng hěn yǒuqù.",
+      "translation": "Community activities are very interesting.",
+      "usage": "Used to describe positive community events or gatherings.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "社",
+          "py": "shè",
+          "meaning": "society"
+        },
+        {
+          "zh": "区",
+          "py": "qū",
+          "meaning": "district"
+        },
+        {
+          "zh": "活",
+          "py": "huó",
+          "meaning": "activity"
+        },
+        {
+          "zh": "动",
+          "py": "dòng",
+          "meaning": "activity"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "have"
+        },
+        {
+          "zh": "趣",
+          "py": "qù",
+          "meaning": "interesting"
+        }
+      ]
+    },
+    {
+      "chinese": "邻居帮忙搬东西。",
+      "pinyin": "Línjū bāngmáng bān dōngxi.",
+      "translation": "Neighbors helped carry things.",
+      "usage": "Used to describe helpful neighborly behavior.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "邻",
+          "py": "lín",
+          "meaning": "neighbor"
+        },
+        {
+          "zh": "居",
+          "py": "jū",
+          "meaning": "reside"
+        },
+        {
+          "zh": "帮",
+          "py": "bāng",
+          "meaning": "help"
+        },
+        {
+          "zh": "忙",
+          "py": "máng",
+          "meaning": "busy"
+        },
+        {
+          "zh": "搬",
+          "py": "bān",
+          "meaning": "carry"
+        },
+        {
+          "zh": "东",
+          "py": "dōng",
+          "meaning": "thing"
+        },
+        {
+          "zh": "西",
+          "py": "xi",
+          "meaning": "thing"
+        }
+      ]
+    },
+    {
+      "chinese": "大家都是邻居，要和睦相处。",
+      "pinyin": "Dàjiā dōu shì línjū, yào hé' mò xiāngchǔ.",
+      "translation": "Everyone is a neighbor, so we should live in harmony.",
+      "usage": "Used to encourage good relationships and peaceful coexistence.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "大",
+          "py": "dà",
+          "meaning": "all"
+        },
+        {
+          "zh": "家",
+          "py": "jiā",
+          "meaning": "people"
+        },
+        {
+          "zh": "都",
+          "py": "dōu",
+          "meaning": "all"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "to be"
+        },
+        {
+          "zh": "邻",
+          "py": "lín",
+          "meaning": "neighbor"
+        },
+        {
+          "zh": "居",
+          "py": "jū",
+          "meaning": "reside"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "should"
+        },
+        {
+          "zh": "和",
+          "py": "hé",
+          "meaning": "harmony"
+        },
+        {
+          "zh": "睦",
+          "py": "mò",
+          "meaning": "peaceful"
+        },
+        {
+          "zh": "相",
+          "py": "xiāng",
+          "meaning": "mutual"
+        },
+        {
+          "zh": "处",
+          "py": "chǔ",
+          "meaning": "live"
+        }
+      ]
+    },
+    {
+      "chinese": "小区里有花园。",
+      "pinyin": "Xiǎoqū lǐ yǒu huāyuán.",
+      "translation": "There is a garden in the residential area.",
+      "usage": "Used to describe shared community spaces.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "小",
+          "py": "xiǎo",
+          "meaning": "small"
+        },
+        {
+          "zh": "区",
+          "py": "qū",
+          "meaning": "district"
+        },
+        {
+          "zh": "里",
+          "py": "lǐ",
+          "meaning": "inside"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "there is"
+        },
+        {
+          "zh": "花",
+          "py": "huā",
+          "meaning": "flower"
+        },
+        {
+          "zh": "园",
+          "py": "yuán",
+          "meaning": "garden"
+        }
+      ]
+    },
+    {
+      "chinese": "邻居的孩子很聪明。",
+      "pinyin": "Línjū de háizi hěn cōngming.",
+      "translation": "The neighbor's child is very smart.",
+      "usage": "Used to compliment a neighbor's child.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "邻",
+          "py": "lín",
+          "meaning": "neighbor"
+        },
+        {
+          "zh": "居",
+          "py": "jū",
+          "meaning": "reside"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive particle"
+        },
+        {
+          "zh": "孩",
+          "py": "hái",
+          "meaning": "child"
+        },
+        {
+          "zh": "子",
+          "py": "zi",
+          "meaning": "child"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "聪",
+          "py": "cōng",
+          "meaning": "smart"
+        },
+        {
+          "zh": "明",
+          "py": "ming",
+          "meaning": "smart"
+        }
+      ]
+    },
+    {
+      "chinese": "我们经常在楼下聊天。",
+      "pinyin": "Wǒmen jīngcháng zài lóuxià liáotiān.",
+      "translation": "We often chat downstairs.",
+      "usage": "Used to describe friendly neighborly interactions.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / we"
+        },
+        {
+          "zh": "们",
+          "py": "men",
+          "meaning": "plural marker"
+        },
+        {
+          "zh": "经",
+          "py": "jīng",
+          "meaning": "often"
+        },
+        {
+          "zh": "常",
+          "py": "cháng",
+          "meaning": "often"
+        },
+        {
+          "zh": "在",
+          "py": "zài",
+          "meaning": "at"
+        },
+        {
+          "zh": "楼",
+          "py": "lóu",
+          "meaning": "floor"
+        },
+        {
+          "zh": "下",
+          "py": "xià",
+          "meaning": "under"
+        },
+        {
+          "zh": "聊",
+          "py": "liáo",
+          "meaning": "chat"
+        },
+        {
+          "zh": "天",
+          "py": "tiān",
+          "meaning": "talk"
+        }
+      ]
+    },
+    {
+      "chinese": "邻居们很友善。",
+      "pinyin": "Línjūmen hěn yǒushàn.",
+      "translation": "Neighbors are very friendly.",
+      "usage": "Used to describe good neighborly relationships.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "邻",
+          "py": "lín",
+          "meaning": "neighbor"
+        },
+        {
+          "zh": "居",
+          "py": "jū",
+          "meaning": "reside"
+        },
+        {
+          "zh": "们",
+          "py": "men",
+          "meaning": "plural marker"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "友",
+          "py": "yǒu",
+          "meaning": "friendly"
+        },
+        {
+          "zh": "善",
+          "py": "shàn",
+          "meaning": "kind"
+        }
+      ]
+    },
+    {
+      "chinese": "社区里有图书馆。",
+      "pinyin": "Shèqū lǐ yǒu túshūguǎn.",
+      "translation": "There is a library in the community.",
+      "usage": "Used to describe shared community facilities.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "社",
+          "py": "shè",
+          "meaning": "society"
+        },
+        {
+          "zh": "区",
+          "py": "qū",
+          "meaning": "district"
+        },
+        {
+          "zh": "里",
+          "py": "lǐ",
+          "meaning": "inside"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "there is"
+        },
+        {
+          "zh": "图",
+          "py": "tú",
+          "meaning": "picture"
+        },
+        {
+          "zh": "书",
+          "py": "shū",
+          "meaning": "book"
+        },
+        {
+          "zh": "馆",
+          "py": "guǎn",
+          "meaning": "library"
+        }
+      ]
+    },
+    {
+      "chinese": "邻居们经常互相帮助。",
+      "pinyin": "Línjūmen jīngcháng hùxiāng bāngzhù.",
+      "translation": "Neighbors often help each other.",
+      "usage": "Used to describe helpful neighborly behavior.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "邻",
+          "py": "lín",
+          "meaning": "neighbor"
+        },
+        {
+          "zh": "居",
+          "py": "jū",
+          "meaning": "reside"
+        },
+        {
+          "zh": "们",
+          "py": "men",
+          "meaning": "plural marker"
+        },
+        {
+          "zh": "经",
+          "py": "jīng",
+          "meaning": "often"
+        },
+        {
+          "zh": "常",
+          "py": "cháng",
+          "meaning": "often"
+        },
+        {
+          "zh": "互",
+          "py": "hù",
+          "meaning": "mutual"
+        },
+        {
+          "zh": "相",
+          "py": "xiāng",
+          "meaning": "each other"
+        },
+        {
+          "zh": "帮",
+          "py": "bāng",
+          "meaning": "help"
+        },
+        {
+          "zh": "助",
+          "py": "zhù",
+          "meaning": "help"
+        }
+      ]
+    }
+  ]
+}

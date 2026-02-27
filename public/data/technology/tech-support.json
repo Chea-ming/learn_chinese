@@ -1,0 +1,247 @@
+{
+  "sentences": [
+    {
+      "chinese": "有什么可以帮助您的吗？",
+      "pinyin": "Yǒu shénme kěyǐ bāngzhù nín de ma?",
+      "translation": "How can I help you?",
+      "usage": "Standard opening for support interactions.",
+      "formality": "Polite",
+      "words": [
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "have"
+        },
+        {
+          "zh": "什么",
+          "py": "shénme",
+          "meaning": "what"
+        },
+        {
+          "zh": "可以",
+          "py": "kěyǐ",
+          "meaning": "can"
+        },
+        {
+          "zh": "帮助",
+          "py": "bāngzhù",
+          "meaning": "help"
+        },
+        {
+          "zh": "您",
+          "py": "nín",
+          "meaning": "you (formal)"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question marker"
+        }
+      ]
+    },
+    {
+      "chinese": "您的设备是否连接到电源？",
+      "pinyin": "Nín de shèbèi shìfǒu liánjiē dào diànyuán?",
+      "translation": "Is your device connected to the power supply?",
+      "usage": "Checking hardware power issues.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "您",
+          "py": "nín",
+          "meaning": "you (formal)"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive"
+        },
+        {
+          "zh": "设备",
+          "py": "shèbèi",
+          "meaning": "device"
+        },
+        {
+          "zh": "是否",
+          "py": "shìfǒu",
+          "meaning": "is... or not"
+        },
+        {
+          "zh": "连接",
+          "py": "liánjiē",
+          "meaning": "connect"
+        },
+        {
+          "zh": "到",
+          "py": "dào",
+          "meaning": "to"
+        },
+        {
+          "zh": "电源",
+          "py": "diànyuán",
+          "meaning": "power source"
+        }
+      ]
+    },
+    {
+      "chinese": "请尝试重启电脑。",
+      "pinyin": "Qǐng chángshì zhòngqǐ diànnǎo.",
+      "translation": "Please try restarting your computer.",
+      "usage": "Common troubleshooting step.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "尝试",
+          "py": "chángshì",
+          "meaning": "try"
+        },
+        {
+          "zh": "重启",
+          "py": "zhòngqǐ",
+          "meaning": "reboot"
+        },
+        {
+          "zh": "电脑",
+          "py": "diànnǎo",
+          "meaning": "computer"
+        }
+      ]
+    },
+    {
+      "chinese": "网络连接是否正常？",
+      "pinyin": "Wǎngluò liánjiē shìfǒu zhèngcháng?",
+      "translation": "Is the network connection normal?",
+      "usage": "Checking connectivity issues.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "网络",
+          "py": "wǎngluò",
+          "meaning": "network"
+        },
+        {
+          "zh": "连接",
+          "py": "liánjiē",
+          "meaning": "connection"
+        },
+        {
+          "zh": "是否",
+          "py": "shìfǒu",
+          "meaning": "is... or not"
+        },
+        {
+          "zh": "正常",
+          "py": "zhèngcháng",
+          "meaning": "normal"
+        }
+      ]
+    },
+    {
+      "chinese": "您需要更新操作系统吗？",
+      "pinyin": "Nín xūyào gèngxīn cāozuò xìtǒng ma?",
+      "translation": "Do you need to update the operating system?",
+      "usage": "Suggesting software updates.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "您",
+          "py": "nín",
+          "meaning": "you (formal)"
+        },
+        {
+          "zh": "需要",
+          "py": "xūyào",
+          "meaning": "need"
+        },
+        {
+          "zh": "更新",
+          "py": "gèngxīn",
+          "meaning": "update"
+        },
+        {
+          "zh": "操作",
+          "py": "cāozuò",
+          "meaning": "operate"
+        },
+        {
+          "zh": "系统",
+          "py": "xìtǒng",
+          "meaning": "system"
+        }
+      ]
+    },
+    {
+      "chinese": "错误代码是多少？",
+      "pinyin": "Cuòwù dài mǎ shì duōshǎo?",
+      "translation": "What is the error code?",
+      "usage": "Identifying specific issues.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "错误",
+          "py": "cuòwù",
+          "meaning": "error"
+        },
+        {
+          "zh": "代码",
+          "py": "dàimǎ",
+          "meaning": "code"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "is"
+        },
+        {
+          "zh": "多少",
+          "py": "duōshǎo",
+          "meaning": "how much"
+        }
+      ]
+    },
+    {
+      "chinese": "建议您检查防火墙设置。",
+      "pinyin": "Jiànyì nín jiǎnchá fánghuǒqiáng shèzhì.",
+      "translation": "We recommend you check the firewall settings.",
+      "usage": "Network security troubleshooting.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "建议",
+          "py": "jiànyì",
+          "meaning": "recommend"
+        },
+        {
+          "zh": "您",
+          "py": "nín",
+          "meaning": "you (formal)"
+        },
+        {
+          "zh": "检查",
+          "py": "jiǎnchá",
+          "meaning": "check"
+        },
+        {
+          "zh": "防火墙",
+          "py": "fánghuǒqiáng",
+          "meaning": "firewall"
+        },
+        {
+          "zh": "设置",
+          "py": "shèzhì",
+          "meaning": "settings"
+        }
+      ]
+    }
+  ]
+}

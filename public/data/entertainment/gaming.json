@@ -1,0 +1,241 @@
+{
+  "sentences": [
+    {
+      "chinese": "打游戏",
+      "pinyin": "Dǎ yóu xì",
+      "translation": "Play a video game",
+      "usage": "General term for playing video games.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "打",
+          "py": "dǎ",
+          "meaning": "to play"
+        },
+        {
+          "zh": "游戏",
+          "py": "yóu xì",
+          "meaning": "game"
+        }
+      ]
+    },
+    {
+      "chinese": "游戏角色",
+      "pinyin": "Yóu xì jué sè",
+      "translation": "Game character",
+      "usage": "Refers to a character in a video game.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "游戏",
+          "py": "yóu xì",
+          "meaning": "game"
+        },
+        {
+          "zh": "角色",
+          "py": "jué sè",
+          "meaning": "character"
+        }
+      ]
+    },
+    {
+      "chinese": "关卡",
+      "pinyin": "Guān qiǎ",
+      "translation": "Level (in a game)",
+      "usage": "Describes a stage or level in a game.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "关",
+          "py": "guān",
+          "meaning": "stage"
+        },
+        {
+          "zh": "卡",
+          "py": "qiǎ",
+          "meaning": "checkpoint"
+        }
+      ]
+    },
+    {
+      "chinese": "Boss",
+      "pinyin": "Bō sī",
+      "translation": "Boss (final enemy)",
+      "usage": "Used for a powerful enemy at the end of a level.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "Boss",
+          "py": "Bō sī",
+          "meaning": "final boss"
+        }
+      ]
+    },
+    {
+      "chinese": "得分",
+      "pinyin": "Dēi fēn",
+      "translation": "Score",
+      "usage": "To earn points in a game.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "得",
+          "py": "dé",
+          "meaning": "to gain"
+        },
+        {
+          "zh": "分",
+          "py": "fēn",
+          "meaning": "points"
+        }
+      ]
+    },
+    {
+      "chinese": "胜利",
+      "pinyin": "Shèng lì",
+      "translation": "Win",
+      "usage": "To win a game or level.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "胜",
+          "py": "shèng",
+          "meaning": "victory"
+        },
+        {
+          "zh": "利",
+          "py": "lì",
+          "meaning": "benefit"
+        }
+      ]
+    },
+    {
+      "chinese": "失败",
+      "pinyin": "Shī bài",
+      "translation": "Lose",
+      "usage": "To lose a game or level.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "失",
+          "py": "shī",
+          "meaning": "loss"
+        },
+        {
+          "zh": "败",
+          "py": "bài",
+          "meaning": "defeat"
+        }
+      ]
+    },
+    {
+      "chinese": "作弊",
+      "pinyin": "Cheat",
+      "translation": "Cheating",
+      "usage": "Using unfair advantages in games.",
+      "formality": "Negative",
+      "words": [
+        {
+          "zh": "作弊",
+          "py": "cheat",
+          "meaning": "cheating"
+        }
+      ]
+    },
+    {
+      "chinese": "多人游戏",
+      "pinyin": "Duō rén yóu xì",
+      "translation": "Multiplayer game",
+      "usage": "Game played by multiple people.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "多人",
+          "py": "duō rén",
+          "meaning": "multiple people"
+        },
+        {
+          "zh": "游戏",
+          "py": "yóu xì",
+          "meaning": "game"
+        }
+      ]
+    },
+    {
+      "chinese": "单人游戏",
+      "pinyin": "Dān rén yóu xì",
+      "translation": "Single-player game",
+      "usage": "Game played by one person.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "单人",
+          "py": "dān rén",
+          "meaning": "single person"
+        },
+        {
+          "zh": "游戏",
+          "py": "yóu xì",
+          "meaning": "game"
+        }
+      ]
+    },
+    {
+      "chinese": "在线游戏",
+      "pinyin": "Zài xiàn yóu xì",
+      "translation": "Online game",
+      "usage": "Game played over the internet.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "在线",
+          "py": "zài xiàn",
+          "meaning": "online"
+        },
+        {
+          "zh": "游戏",
+          "py": "yóu xì",
+          "meaning": "game"
+        }
+      ]
+    },
+    {
+      "chinese": "离线游戏",
+      "pinyin": "Lí xiàn yóu xì",
+      "translation": "Offline game",
+      "usage": "Game played without internet.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "离线",
+          "py": "lí xiàn",
+          "meaning": "offline"
+        },
+        {
+          "zh": "游戏",
+          "py": "yóu xì",
+          "meaning": "game"
+        }
+      ]
+    },
+    {
+      "chinese": "游戏机",
+      "pinyin": "Yóu xì jī",
+      "translation": "Game console",
+      "usage": "Device for playing video games.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "游戏",
+          "py": "yóu xì",
+          "meaning": "game"
+        },
+        {
+          "zh": "机",
+          "py": "jī",
+          "meaning": "machine"
+        }
+      ]
+    }
+  ]
+}

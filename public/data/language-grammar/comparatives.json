@@ -1,0 +1,263 @@
+{
+  "sentences": [
+    {
+      "chinese": "他比我高。",
+      "pinyin": "Tā bǐ wǒ gāo.",
+      "translation": "He is taller than I am.",
+      "usage": "Comparing physical height",
+      "words": [
+        {
+          "zh": "他",
+          "py": "tā",
+          "meaning": "he"
+        },
+        {
+          "zh": "比",
+          "py": "bǐ",
+          "meaning": "than"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "高",
+          "py": "gāo",
+          "meaning": "tall"
+        }
+      ]
+    },
+    {
+      "chinese": "这本书比那本有趣。",
+      "pinyin": "Zhè běn shū bǐ nà běn yǒuqù.",
+      "translation": "This book is more interesting than that one.",
+      "usage": "Comparing interest level",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "本",
+          "py": "běn",
+          "meaning": "volume"
+        },
+        {
+          "zh": "书",
+          "py": "shū",
+          "meaning": "book"
+        },
+        {
+          "zh": "比",
+          "py": "bǐ",
+          "meaning": "than"
+        },
+        {
+          "zh": "那",
+          "py": "nà",
+          "meaning": "that"
+        },
+        {
+          "zh": "本",
+          "py": "běn",
+          "meaning": "volume"
+        },
+        {
+          "zh": "有趣",
+          "py": "yǒuqù",
+          "meaning": "interesting"
+        }
+      ]
+    },
+    {
+      "chinese": "价格比之前便宜。",
+      "pinyin": "Jiàgé bǐ zhīqián piányí.",
+      "translation": "The price is cheaper than before.",
+      "usage": "Comparing cost over time",
+      "words": [
+        {
+          "zh": "价格",
+          "py": "jiàgé",
+          "meaning": "price"
+        },
+        {
+          "zh": "比",
+          "py": "bǐ",
+          "meaning": "than"
+        },
+        {
+          "zh": "之前",
+          "py": "zhīqián",
+          "meaning": "before"
+        },
+        {
+          "zh": "便宜",
+          "py": "piányí",
+          "meaning": "cheap"
+        }
+      ]
+    },
+    {
+      "chinese": "她的英语比我好。",
+      "pinyin": "Tā de Yīngyǔ bǐ wǒ hǎo.",
+      "translation": "Her English is better than mine.",
+      "usage": "Comparing language proficiency",
+      "words": [
+        {
+          "zh": "她",
+          "py": "tā",
+          "meaning": "she"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive"
+        },
+        {
+          "zh": "英语",
+          "py": "Yīngyǔ",
+          "meaning": "English"
+        },
+        {
+          "zh": "比",
+          "py": "bǐ",
+          "meaning": "than"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good"
+        }
+      ]
+    },
+    {
+      "chinese": "北京冬天比上海冷。",
+      "pinyin": "Běijīng dōngtiān bǐ Shànghǎi lěng.",
+      "translation": "Winter in Beijing is colder than in Shanghai.",
+      "usage": "Comparing temperature",
+      "words": [
+        {
+          "zh": "北京",
+          "py": "Běijīng",
+          "meaning": "Beijing"
+        },
+        {
+          "zh": "冬天",
+          "py": "dōngtiān",
+          "meaning": "winter"
+        },
+        {
+          "zh": "比",
+          "py": "bǐ",
+          "meaning": "than"
+        },
+        {
+          "zh": "上海",
+          "py": "Shànghǎi",
+          "meaning": "Shanghai"
+        },
+        {
+          "zh": "冷",
+          "py": "lěng",
+          "meaning": "cold"
+        }
+      ]
+    },
+    {
+      "chinese": "这个方案比那个更好。",
+      "pinyin": "Zhè ge fāng'àn bǐ nà ge gèng hǎo.",
+      "translation": "This plan is better than that one.",
+      "usage": "Using 更 for enhanced comparison",
+      "words": [
+        {
+          "zh": "这个",
+          "py": "zhè ge",
+          "meaning": "this"
+        },
+        {
+          "zh": "方案",
+          "py": "fāng'àn",
+          "meaning": "plan"
+        },
+        {
+          "zh": "比",
+          "py": "bǐ",
+          "meaning": "than"
+        },
+        {
+          "zh": "那个",
+          "py": "nà ge",
+          "meaning": "that"
+        },
+        {
+          "zh": "更好",
+          "py": "gèng hǎo",
+          "meaning": "better"
+        }
+      ]
+    },
+    {
+      "chinese": "他的车比我的快。",
+      "pinyin": "Tā de chē bǐ wǒ de kuài.",
+      "translation": "His car is faster than mine.",
+      "usage": "Comparing vehicle speed",
+      "words": [
+        {
+          "zh": "他",
+          "py": "tā",
+          "meaning": "his"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive"
+        },
+        {
+          "zh": "车",
+          "py": "chē",
+          "meaning": "car"
+        },
+        {
+          "zh": "比",
+          "py": "bǐ",
+          "meaning": "than"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "my"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive"
+        },
+        {
+          "zh": "快",
+          "py": "kuài",
+          "meaning": "fast"
+        }
+      ]
+    },
+    {
+      "chinese": "这部电影比那部更长。",
+      "pinyin": "Zhè bù diànyǐng bǐ nà bù gèng cháng.",
+      "translation": "This movie is longer than that one.",
+      "usage": "Comparing duration",
+      "words": [
+        {
+          "zh": "这部",
+          "py": "zhè bù",
+          "meaning": "this"
+        }
+      ]
+    }
+  ]
+}

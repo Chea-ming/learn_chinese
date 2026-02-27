@@ -1,0 +1,133 @@
+{
+  "sentences": [
+    {
+      "chinese": "注意发音。",
+      "pinyin": "Zhùyì fāyīn.",
+      "translation": "Pay attention to pronunciation.",
+      "usage": "Used to remind someone to focus on correct pronunciation.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "注意",
+          "py": "zhùyì",
+          "meaning": "pay attention"
+        },
+        {
+          "zh": "发音",
+          "py": "fāyīn",
+          "meaning": "pronunciation"
+        }
+      ]
+    },
+    {
+      "chinese": "你好吗？",
+      "pinyin": "Nǐ hǎo ma?",
+      "translation": "How are you?",
+      "usage": "Casual greeting with a light tone on 'ma'.",
+      "formality": "Casual",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "谢谢你。",
+      "pinyin": "Xièxie nǐ.",
+      "translation": "Thank you.",
+      "usage": "Expressing gratitude with 4th and 3rd tones.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "谢谢",
+          "py": "xièxie",
+          "meaning": "thank you"
+        },
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        }
+      ]
+    },
+    {
+      "chinese": "马上。",
+      "pinyin": "Mǎshàng.",
+      "translation": "Immediately.",
+      "usage": "3rd tone in 'mǎ' to convey urgency.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "马",
+          "py": "mǎ",
+          "meaning": "horse"
+        },
+        {
+          "zh": "上",
+          "py": "shàng",
+          "meaning": "up"
+        }
+      ]
+    },
+    {
+      "chinese": "骂人。",
+      "pinyin": "Màrén.",
+      "translation": "To scold someone.",
+      "usage": "4th tone in 'mà' to emphasize severity.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "骂",
+          "py": "mà",
+          "meaning": "scold"
+        },
+        {
+          "zh": "人",
+          "py": "rén",
+          "meaning": "person"
+        }
+      ]
+    },
+    {
+      "chinese": "你是学生吗？",
+      "pinyin": "Nǐ shì xuéshēng ma?",
+      "translation": "Are you a student?",
+      "usage": "Light tone on 'ma' as a question particle.",
+      "formality": "Casual",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "is"
+        },
+        {
+          "zh": "学生",
+          "py": "xuéshēng",
+          "meaning": "student"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,265 @@
+{
+  "sentences": [
+    {
+      "chinese": "我需要配眼镜。",
+      "pinyin": "Wǒ xūyào pèi yǎnjīng.",
+      "translation": "I need to get glasses.",
+      "usage": "Used when requesting to order glasses.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "需要",
+          "py": "xūyào",
+          "meaning": "need"
+        },
+        {
+          "zh": "配",
+          "py": "pèi",
+          "meaning": "to equip/fit"
+        },
+        {
+          "zh": "眼镜",
+          "py": "yǎnjīng",
+          "meaning": "glasses"
+        }
+      ]
+    },
+    {
+      "chinese": "我的视力有问题。",
+      "pinyin": "Wǒ de shìlì yǒu wèntí.",
+      "translation": "My vision has a problem.",
+      "usage": "To mention vision issues.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive particle"
+        },
+        {
+          "zh": "视力",
+          "py": "shìlì",
+          "meaning": "vision"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "have"
+        },
+        {
+          "zh": "问题",
+          "py": "wèntí",
+          "meaning": "problem"
+        }
+      ]
+    },
+    {
+      "chinese": "请帮我验光。",
+      "pinyin": "Qǐng bāng wǒ yàn guāng.",
+      "translation": "Please help me with an eye test.",
+      "usage": "Requesting an optician to test vision.",
+      "formality": "Polite",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "帮",
+          "py": "bāng",
+          "meaning": "help"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "me"
+        },
+        {
+          "zh": "验光",
+          "py": "yàn guāng",
+          "meaning": "eye test"
+        }
+      ]
+    },
+    {
+      "chinese": "隐形眼镜太干了。",
+      "pinyin": "Yǐnxíng yǎnjīng tài gān le.",
+      "translation": "The contact lenses are too dry.",
+      "usage": "Complaining about discomfort with contacts.",
+      "formality": "Casual",
+      "words": [
+        {
+          "zh": "隐形眼镜",
+          "py": "yǐnxíng yǎnjīng",
+          "meaning": "contact lenses"
+        },
+        {
+          "zh": "太",
+          "py": "tài",
+          "meaning": "too"
+        },
+        {
+          "zh": "干",
+          "py": "gān",
+          "meaning": "dry"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completion particle"
+        }
+      ]
+    },
+    {
+      "chinese": "戴眼镜时要小心。",
+      "pinyin": "Dài yǎnjīng shí yào xiǎoxīn.",
+      "translation": "Be careful when wearing glasses.",
+      "usage": "Advice for handling glasses.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "戴",
+          "py": "dài",
+          "meaning": "to wear"
+        },
+        {
+          "zh": "眼镜",
+          "py": "yǎnjīng",
+          "meaning": "glasses"
+        },
+        {
+          "zh": "时",
+          "py": "shí",
+          "meaning": "when"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "need to"
+        },
+        {
+          "zh": "小心",
+          "py": "xiǎoxīn",
+          "meaning": "be careful"
+        }
+      ]
+    },
+    {
+      "chinese": "眼睛疲劳了。",
+      "pinyin": "Yǎnjīng píláo le.",
+      "translation": "My eyes are tired.",
+      "usage": "Describing eye strain.",
+      "formality": "Casual",
+      "words": [
+        {
+          "zh": "眼睛",
+          "py": "yǎnjīng",
+          "meaning": "eyes"
+        },
+        {
+          "zh": "疲劳",
+          "py": "píláo",
+          "meaning": "tired"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completion particle"
+        }
+      ]
+    },
+    {
+      "chinese": "这种眼镜适合我吗？",
+      "pinyin": "Zhè zhǒng yǎnjīng shìhé wǒ ma?",
+      "translation": "Are these glasses suitable for me?",
+      "usage": "Asking for a professional opinion.",
+      "formality": "Polite",
+      "words": [
+        {
+          "zh": "这种",
+          "py": "zhè zhǒng",
+          "meaning": "this kind of"
+        },
+        {
+          "zh": "眼镜",
+          "py": "yǎnjīng",
+          "meaning": "glasses"
+        },
+        {
+          "zh": "适合",
+          "py": "shìhé",
+          "meaning": "suitable"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "me"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "建议使用人工泪液。",
+      "pinyin": "Jiànyì shǐyòng réngōng lèiyè.",
+      "translation": "It is recommended to use artificial tears.",
+      "usage": "Medical advice for dry eyes.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "建议",
+          "py": "jiànyì",
+          "meaning": "recommendation"
+        },
+        {
+          "zh": "使用",
+          "py": "shǐyòng",
+          "meaning": "use"
+        },
+        {
+          "zh": "人工泪液",
+          "py": "rén gōng lèiyè",
+          "meaning": "artificial tears"
+        }
+      ]
+    },
+    {
+      "chinese": "眯眼看东西。",
+      "pinyin": "Mī yǎn kàn dōngxī.",
+      "translation": "Squinting to see things.",
+      "usage": "Describing an action due to poor vision.",
+      "formality": "Casual",
+      "words": [
+        {
+          "zh": "眯眼",
+          "py": "mī yǎn",
+          "meaning": "squint"
+        },
+        {
+          "zh": "看",
+          "py": "kàn",
+          "meaning": "look at"
+        },
+        {
+          "zh": "东西",
+          "py": "dōngxī",
+          "meaning": "things"
+        }
+      ]
+    }
+  ]
+}

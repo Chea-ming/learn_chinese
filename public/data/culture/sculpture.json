@@ -1,0 +1,99 @@
+{
+  "sentences": [
+    {
+      "chinese": "兵马俑",
+      "pinyin": "Bīng mǎ yǒng",
+      "translation": "Terracotta Army",
+      "usage": "Refers to the ancient Qin Dynasty terracotta sculptures in Xi'an.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "兵",
+          "py": "Bīng",
+          "meaning": "soldier"
+        },
+        {
+          "zh": "马",
+          "py": "Mǎ",
+          "meaning": "horse"
+        },
+        {
+          "zh": "俑",
+          "py": "Yǒng",
+          "meaning": "clay figure"
+        }
+      ]
+    },
+    {
+      "chinese": "泥塑",
+      "pinyin": "Ní sù",
+      "translation": "Clay sculpture",
+      "usage": "Describes traditional Chinese sculptures made from clay.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "泥",
+          "py": "Ní",
+          "meaning": "clay"
+        },
+        {
+          "zh": "塑",
+          "py": "Sù",
+          "meaning": "to mold"
+        }
+      ]
+    },
+    {
+      "chinese": "圆雕",
+      "pinyin": "Yuán diāo",
+      "translation": "Round carving",
+      "usage": "A three-dimensional sculpture technique.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "圆",
+          "py": "Yuán",
+          "meaning": "round"
+        },
+        {
+          "zh": "雕",
+          "py": "Diāo",
+          "meaning": "carving"
+        }
+      ]
+    },
+    {
+      "chinese": "浮雕",
+      "pinyin": "Fú diāo",
+      "translation": "Relief sculpture",
+      "usage": "A technique where the sculpture projects from a flat background.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "浮",
+          "py": "Fú",
+          "meaning": "floating"
+        },
+        {
+          "zh": "雕",
+          "py": "Diāo",
+          "meaning": "carving"
+        }
+      ]
+    },
+    {
+      "chinese": "玉石雕刻",
+      "pinyin": "Yù shí diāo kè",
+      "translation": "Jade carving",
+      "usage": "Refers to sculptures made from jade or similar stones.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "玉",
+          "py": "Yù",
+          "meaning": "jade"
+        }
+      ]
+    }
+  ]
+}

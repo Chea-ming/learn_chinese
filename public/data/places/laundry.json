@@ -1,0 +1,120 @@
+{
+  "sentences": [
+    {
+      "chinese": "干洗店",
+      "pinyin": "Gàn xǐ diàn",
+      "translation": "Dry cleaner",
+      "usage": "A business that provides dry cleaning services.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "干",
+          "py": "gān",
+          "meaning": "dry"
+        },
+        {
+          "zh": "洗",
+          "py": "xǐ",
+          "meaning": "wash"
+        },
+        {
+          "zh": "店",
+          "py": "diàn",
+          "meaning": "shop"
+        }
+      ]
+    },
+    {
+      "chinese": "洗衣房",
+      "pinyin": "Xǐ yī fáng",
+      "translation": "Laundry room",
+      "usage": "A facility for washing clothes, often in residential buildings.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "洗",
+          "py": "xǐ",
+          "meaning": "wash"
+        },
+        {
+          "zh": "衣",
+          "py": "yī",
+          "meaning": "clothes"
+        },
+        {
+          "zh": "房",
+          "py": "fáng",
+          "meaning": "room"
+        }
+      ]
+    },
+    {
+      "chinese": "衣物清洗",
+      "pinyin": "Yī wù qīng xǐ",
+      "translation": "Clothes cleaning",
+      "usage": "General term for washing or dry cleaning clothes.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "衣",
+          "py": "yī",
+          "meaning": "clothes"
+        },
+        {
+          "zh": "物",
+          "py": "wù",
+          "meaning": "items"
+        },
+        {
+          "zh": "清",
+          "py": "qīng",
+          "meaning": "clean"
+        },
+        {
+          "zh": "洗",
+          "py": "xǐ",
+          "meaning": "wash"
+        }
+      ]
+    },
+    {
+      "chinese": "专业去渍服务",
+      "pinyin": "Zhuān yè qù zì fú wù",
+      "translation": "Professional stain removal service",
+      "usage": "Service offered by cleaners for tough stains.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "专",
+          "py": "zhuān",
+          "meaning": "special"
+        },
+        {
+          "zh": "业",
+          "py": "yè",
+          "meaning": "industry"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "remove"
+        },
+        {
+          "zh": "渍",
+          "py": "zì",
+          "meaning": "stain"
+        },
+        {
+          "zh": "服",
+          "py": "fú",
+          "meaning": "service"
+        },
+        {
+          "zh": "务",
+          "py": "wù",
+          "meaning": "service"
+        }
+      ]
+    }
+  ]
+}

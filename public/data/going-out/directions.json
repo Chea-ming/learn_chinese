@@ -1,0 +1,846 @@
+{
+  "sentences": [
+    {
+      "chinese": "请问，去火车站怎么走？",
+      "pinyin": "Qǐng wèn, qù huǒchē zhàn zěnme zǒu?",
+      "translation": "Excuse me, how do I get to the train station?",
+      "usage": "Used when asking for directions to a major transportation hub.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "问",
+          "py": "wèn",
+          "meaning": "ask"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "go to"
+        },
+        {
+          "zh": "火",
+          "py": "huǒ",
+          "meaning": "fire"
+        },
+        {
+          "zh": "车",
+          "py": "chē",
+          "meaning": "vehicle"
+        },
+        {
+          "zh": "站",
+          "py": "zhàn",
+          "meaning": "station"
+        },
+        {
+          "zh": "怎",
+          "py": "zěn",
+          "meaning": "how"
+        },
+        {
+          "zh": "么",
+          "py": "me",
+          "meaning": "way"
+        },
+        {
+          "zh": "走",
+          "py": "zǒu",
+          "meaning": "walk"
+        }
+      ]
+    },
+    {
+      "chinese": "我在地图上找不到这个地方。",
+      "pinyin": "Wǒ zài dìtú shàng zhǎo bù dào zhège dìfāng.",
+      "translation": "I can't find this place on the map.",
+      "usage": "Used when you're lost and need help locating something.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "在",
+          "py": "zài",
+          "meaning": "on/in"
+        },
+        {
+          "zh": "地",
+          "py": "dì",
+          "meaning": "map"
+        },
+        {
+          "zh": "图",
+          "py": "tú",
+          "meaning": "map"
+        },
+        {
+          "zh": "上",
+          "py": "shàng",
+          "meaning": "on"
+        },
+        {
+          "zh": "找",
+          "py": "zhǎo",
+          "meaning": "find"
+        },
+        {
+          "zh": "不",
+          "py": "bù",
+          "meaning": "not"
+        },
+        {
+          "zh": "到",
+          "py": "dào",
+          "meaning": "to"
+        },
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "个",
+          "py": "gè",
+          "meaning": "a"
+        },
+        {
+          "zh": "地",
+          "py": "dì",
+          "meaning": "place"
+        },
+        {
+          "zh": "方",
+          "py": "fāng",
+          "meaning": "place"
+        }
+      ]
+    },
+    {
+      "chinese": "请告诉我怎么去机场。",
+      "pinyin": "Qǐng gàosù wǒ zěnme qù jīchǎng.",
+      "translation": "Please tell me how to get to the airport.",
+      "usage": "Used when asking someone to explain directions to an airport.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "告",
+          "py": "gào",
+          "meaning": "tell"
+        },
+        {
+          "zh": "诉",
+          "py": "sù",
+          "meaning": "tell"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "me"
+        },
+        {
+          "zh": "怎",
+          "py": "zěn",
+          "meaning": "how"
+        },
+        {
+          "zh": "么",
+          "py": "me",
+          "meaning": "way"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "go to"
+        },
+        {
+          "zh": "机",
+          "py": "jī",
+          "meaning": "airplane"
+        },
+        {
+          "zh": "场",
+          "py": "chǎng",
+          "meaning": "place"
+        }
+      ]
+    },
+    {
+      "chinese": "我迷路了。",
+      "pinyin": "Wǒ mí lù le.",
+      "translation": "I'm lost.",
+      "usage": "Used when you don't know where you are or how to get somewhere.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "迷",
+          "py": "mí",
+          "meaning": "lost"
+        },
+        {
+          "zh": "路",
+          "py": "lù",
+          "meaning": "road/path"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed"
+        }
+      ]
+    },
+    {
+      "chinese": "请往左转。",
+      "pinyin": "Qǐng wǎng zuǒ zhuǎn.",
+      "translation": "Please turn left.",
+      "usage": "Used when giving simple directional instructions.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "往",
+          "py": "wǎng",
+          "meaning": "toward"
+        },
+        {
+          "zh": "左",
+          "py": "zuǒ",
+          "meaning": "left"
+        },
+        {
+          "zh": "转",
+          "py": "zhuǎn",
+          "meaning": "turn"
+        }
+      ]
+    },
+    {
+      "chinese": "直走，不要转弯。",
+      "pinyin": "Zhí zǒu, bù yào zhuǎn wān.",
+      "translation": "Go straight, don't turn.",
+      "usage": "Used when giving clear straight-line directions.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "直",
+          "py": "zhí",
+          "meaning": "straight"
+        },
+        {
+          "zh": "走",
+          "py": "zǒu",
+          "meaning": "walk"
+        },
+        {
+          "zh": "不",
+          "py": "bù",
+          "meaning": "not"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "want"
+        },
+        {
+          "zh": "转",
+          "py": "zhuǎn",
+          "meaning": "turn"
+        },
+        {
+          "zh": "弯",
+          "py": "wān",
+          "meaning": "bend"
+        }
+      ]
+    },
+    {
+      "chinese": "请问附近有超市吗？",
+      "pinyin": "Qǐng wèn fùjìn yǒu chāoshì ma?",
+      "translation": "Excuse me, is there a supermarket nearby?",
+      "usage": "Used when asking about nearby shopping options.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "问",
+          "py": "wèn",
+          "meaning": "ask"
+        },
+        {
+          "zh": "附近",
+          "py": "fùjìn",
+          "meaning": "nearby"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "have"
+        },
+        {
+          "zh": "超",
+          "py": "chāo",
+          "meaning": "super"
+        },
+        {
+          "zh": "市",
+          "py": "shì",
+          "meaning": "city"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "请往右走。",
+      "pinyin": "Qǐng wǎng yòu zǒu.",
+      "translation": "Please go right.",
+      "usage": "Used when directing someone to turn right.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "往",
+          "py": "wǎng",
+          "meaning": "toward"
+        },
+        {
+          "zh": "右",
+          "py": "yòu",
+          "meaning": "right"
+        },
+        {
+          "zh": "走",
+          "py": "zǒu",
+          "meaning": "walk"
+        }
+      ]
+    },
+    {
+      "chinese": "离这里不远了。",
+      "pinyin": "Lí zhèlǐ bù yuǎn le.",
+      "translation": "We're not far from here.",
+      "usage": "Used when you're close to your destination.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "离",
+          "py": "lí",
+          "meaning": "away from"
+        },
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "里",
+          "py": "lǐ",
+          "meaning": "place"
+        },
+        {
+          "zh": "不",
+          "py": "bù",
+          "meaning": "not"
+        },
+        {
+          "zh": "远",
+          "py": "yuǎn",
+          "meaning": "far"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed"
+        }
+      ]
+    },
+    {
+      "chinese": "请问我可以问你一个问题吗？",
+      "pinyin": "Qǐng wèn wǒ kěyǐ wèn nǐ yīgè wèntí ma?",
+      "translation": "Excuse me, can I ask you a question?",
+      "usage": "Used when you want to ask someone a question politely.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "问",
+          "py": "wèn",
+          "meaning": "ask"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "可",
+          "py": "kě",
+          "meaning": "can"
+        },
+        {
+          "zh": "以",
+          "py": "yǐ",
+          "meaning": "to"
+        },
+        {
+          "zh": "问",
+          "py": "wèn",
+          "meaning": "ask"
+        },
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "个",
+          "py": "gè",
+          "meaning": "a"
+        },
+        {
+          "zh": "问",
+          "py": "wèn",
+          "meaning": "question"
+        },
+        {
+          "zh": "题",
+          "py": "tí",
+          "meaning": "topic"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "我需要一个指南针。",
+      "pinyin": "Wǒ xūyào yīgè zhīnánzhēn.",
+      "translation": "I need a compass.",
+      "usage": "Used when you need navigation help.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "需",
+          "py": "xū",
+          "meaning": "need"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "want"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "个",
+          "py": "gè",
+          "meaning": "a"
+        },
+        {
+          "zh": "指",
+          "py": "zhǐ",
+          "meaning": "point"
+        },
+        {
+          "zh": "南",
+          "py": "nán",
+          "meaning": "south"
+        },
+        {
+          "zh": "针",
+          "py": "zhēn",
+          "meaning": "needle"
+        }
+      ]
+    },
+    {
+      "chinese": "沿着这条路走。",
+      "pinyin": "Yánzhe zhè tiáo lù zǒu.",
+      "translation": "Walk along this road.",
+      "usage": "Used when giving directions along a specific path.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "沿",
+          "py": "yán",
+          "meaning": "along"
+        },
+        {
+          "zh": "着",
+          "py": "zhe",
+          "meaning": "along"
+        },
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "条",
+          "py": "tiáo",
+          "meaning": "a"
+        },
+        {
+          "zh": "路",
+          "py": "lù",
+          "meaning": "road"
+        },
+        {
+          "zh": "走",
+          "py": "zǒu",
+          "meaning": "walk"
+        }
+      ]
+    },
+    {
+      "chinese": "请给我一张地图。",
+      "pinyin": "Qǐng gěi wǒ yī zhāng dìtú.",
+      "translation": "Please give me a map.",
+      "usage": "Used when requesting a map from someone.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "给",
+          "py": "gěi",
+          "meaning": "give"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "me"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "张",
+          "py": "zhāng",
+          "meaning": "a"
+        },
+        {
+          "zh": "地",
+          "py": "dì",
+          "meaning": "map"
+        },
+        {
+          "zh": "图",
+          "py": "tú",
+          "meaning": "map"
+        }
+      ]
+    },
+    {
+      "chinese": "请告诉我怎么去博物馆。",
+      "pinyin": "Qǐng gàosù wǒ zěnme qù bówùguǎn.",
+      "translation": "Please tell me how to get to the museum.",
+      "usage": "Used when asking for directions to a museum.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "告",
+          "py": "gào",
+          "meaning": "tell"
+        },
+        {
+          "zh": "诉",
+          "py": "sù",
+          "meaning": "tell"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "me"
+        },
+        {
+          "zh": "怎",
+          "py": "zěn",
+          "meaning": "how"
+        },
+        {
+          "zh": "么",
+          "py": "me",
+          "meaning": "question particle"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "go"
+        },
+        {
+          "zh": "博",
+          "py": "bó",
+          "meaning": "museum"
+        },
+        {
+          "zh": "物",
+          "py": "wù",
+          "meaning": "object"
+        },
+        {
+          "zh": "馆",
+          "py": "guǎn",
+          "meaning": "hall"
+        }
+      ]
+    },
+    {
+      "chinese": "请等一下。",
+      "pinyin": "Qǐng děng yīxià.",
+      "translation": "Please wait a moment.",
+      "usage": "Used when asking someone to wait.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "等",
+          "py": "děng",
+          "meaning": "wait"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "下",
+          "py": "xià",
+          "meaning": "a moment"
+        }
+      ]
+    },
+    {
+      "chinese": "请告诉我附近有什么好玩的地方。",
+      "pinyin": "Qǐng gàosù wǒ fùjìn yǒu shénme hǎowán de dìfang.",
+      "translation": "Please tell me what interesting places are nearby.",
+      "usage": "Used when asking for recommendations for nearby attractions.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "告",
+          "py": "gào",
+          "meaning": "tell"
+        },
+        {
+          "zh": "诉",
+          "py": "sù",
+          "meaning": "tell"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "me"
+        },
+        {
+          "zh": "附近",
+          "py": "fùjìn",
+          "meaning": "nearby"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "have"
+        },
+        {
+          "zh": "什",
+          "py": "shén",
+          "meaning": "what"
+        },
+        {
+          "zh": "么",
+          "py": "me",
+          "meaning": "question particle"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good"
+        },
+        {
+          "zh": "玩",
+          "py": "wán",
+          "meaning": "play"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "of"
+        },
+        {
+          "zh": "地",
+          "py": "dì",
+          "meaning": "place"
+        },
+        {
+          "zh": "方",
+          "py": "fang",
+          "meaning": "place"
+        }
+      ]
+    },
+    {
+      "chinese": "我们快到了。",
+      "pinyin": "Wǒmen kuài dào le.",
+      "translation": "We're almost there.",
+      "usage": "Used when you're close to your destination.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "we"
+        },
+        {
+          "zh": "们",
+          "py": "men",
+          "meaning": "plural"
+        },
+        {
+          "zh": "快",
+          "py": "kuài",
+          "meaning": "quickly"
+        },
+        {
+          "zh": "到",
+          "py": "dào",
+          "meaning": "arrive"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed"
+        }
+      ]
+    },
+    {
+      "chinese": "请告诉我附近有什么餐厅。",
+      "pinyin": "Qǐng gàosù wǒ fùjìn yǒu shénme cāntīng.",
+      "translation": "Please tell me what restaurants are nearby.",
+      "usage": "Used when asking for nearby restaurant recommendations.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "告",
+          "py": "gào",
+          "meaning": "tell"
+        },
+        {
+          "zh": "诉",
+          "py": "sù",
+          "meaning": "tell"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "me"
+        },
+        {
+          "zh": "附近",
+          "py": "fùjìn",
+          "meaning": "nearby"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "have"
+        },
+        {
+          "zh": "什",
+          "py": "shén",
+          "meaning": "what"
+        },
+        {
+          "zh": "么",
+          "py": "me",
+          "meaning": "question particle"
+        },
+        {
+          "zh": "餐",
+          "py": "cān",
+          "meaning": "meal"
+        },
+        {
+          "zh": "厅",
+          "py": "tīng",
+          "meaning": "room"
+        }
+      ]
+    }
+  ]
+}

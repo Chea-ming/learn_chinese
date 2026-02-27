@@ -1,0 +1,99 @@
+{
+  "sentences": [
+    {
+      "chinese": "订阅播客",
+      "pinyin": "Dìyàn bōkè",
+      "translation": "Subscribe to a podcast",
+      "usage": "Used when following a podcast regularly",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "订阅",
+          "py": "Dìyàn",
+          "meaning": "subscribe"
+        },
+        {
+          "zh": "播客",
+          "py": "Bōkè",
+          "meaning": "podcast"
+        }
+      ]
+    },
+    {
+      "chinese": "听播客",
+      "pinyin": "Tīng bōkè",
+      "translation": "Listen to a podcast",
+      "usage": "General action of consuming podcast content",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "听",
+          "py": "Tīng",
+          "meaning": "listen"
+        },
+        {
+          "zh": "播客",
+          "py": "Bōkè",
+          "meaning": "podcast"
+        }
+      ]
+    },
+    {
+      "chinese": "创建播客",
+      "pinyin": "Chàngjiàn bōkè",
+      "translation": "Create a podcast",
+      "usage": "For producing new podcast content",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "创建",
+          "py": "Chàngjiàn",
+          "meaning": "create"
+        },
+        {
+          "zh": "播客",
+          "py": "Bōkè",
+          "meaning": "podcast"
+        }
+      ]
+    },
+    {
+      "chinese": "分享播客",
+      "pinyin": "Fēnxiǎng bōkè",
+      "translation": "Share a podcast",
+      "usage": "For recommending or distributing podcasts",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "分享",
+          "py": "Fēnxiǎng",
+          "meaning": "share"
+        },
+        {
+          "zh": "播客",
+          "py": "Bōkè",
+          "meaning": "podcast"
+        }
+      ]
+    },
+    {
+      "chinese": "评论播客",
+      "pinyin": "Pínglùn bōkè",
+      "translation": "Comment on a podcast",
+      "usage": "For leaving feedback or opinions",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "评论",
+          "py": "Pínglùn",
+          "meaning": "comment"
+        },
+        {
+          "zh": "播客",
+          "py": "Bōkè",
+          "meaning": "podcast"
+        }
+      ]
+    }
+  ]
+}

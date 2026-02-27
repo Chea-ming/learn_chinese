@@ -1,0 +1,261 @@
+{
+  "sentences": [
+    {
+      "chinese": "我们来玩扑克牌吧！",
+      "pinyin": "Wǒmen lái wán pūkè pái ba!",
+      "translation": "Let's play poker!",
+      "usage": "Inviting others to play a card game.",
+      "formality": "Casual",
+      "words": [
+        {
+          "zh": "我们",
+          "py": "wǒmen",
+          "meaning": "we"
+        },
+        {
+          "zh": "来",
+          "py": "lái",
+          "meaning": "come, let's"
+        },
+        {
+          "zh": "玩",
+          "py": "wán",
+          "meaning": "play"
+        },
+        {
+          "zh": "扑克牌",
+          "py": "pūkè pái",
+          "meaning": "poker cards"
+        },
+        {
+          "zh": "吧",
+          "py": "ba",
+          "meaning": "let's (informal suggestion)"
+        }
+      ]
+    },
+    {
+      "chinese": "麻将需要四个人玩。",
+      "pinyin": "Májiàng xūyào sì gè rén wán.",
+      "translation": "Mahjong requires four players.",
+      "usage": "Explaining the rules of a game.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "麻将",
+          "py": "májiàng",
+          "meaning": "Mahjong"
+        },
+        {
+          "zh": "需要",
+          "py": "xūyào",
+          "meaning": "needs"
+        },
+        {
+          "zh": "四个",
+          "py": "sì gè",
+          "meaning": "four"
+        },
+        {
+          "zh": "人",
+          "py": "rén",
+          "meaning": "people"
+        },
+        {
+          "zh": "玩",
+          "py": "wán",
+          "meaning": "play"
+        }
+      ]
+    },
+    {
+      "chinese": "跳棋的规则是什么？",
+      "pinyin": "Tiàozǐ qí de guīzé shì shénme?",
+      "translation": "What are the rules of checkers?",
+      "usage": "Asking about game rules.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "跳棋",
+          "py": "tiàozǐ qí",
+          "meaning": "checkers"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "of"
+        },
+        {
+          "zh": "规则",
+          "py": "guīzé",
+          "meaning": "rules"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "is"
+        },
+        {
+          "zh": "什么",
+          "py": "shénme",
+          "meaning": "what"
+        }
+      ]
+    },
+    {
+      "chinese": "谁赢了这盘围棋？",
+      "pinyin": "Shuí yíng le zhè pán wéiqí?",
+      "translation": "Who won this game of Go?",
+      "usage": "Asking about the outcome of a game.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "谁",
+          "py": "shuí",
+          "meaning": "who"
+        },
+        {
+          "zh": "赢",
+          "py": "yíng",
+          "meaning": "win"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed (past tense)"
+        },
+        {
+          "zh": "这盘",
+          "py": "zhè pán",
+          "meaning": "this game"
+        },
+        {
+          "zh": "围棋",
+          "py": "wéiqí",
+          "meaning": "Go (board game)"
+        }
+      ]
+    },
+    {
+      "chinese": "你擅长玩什么游戏？",
+      "pinyin": "Nǐ shàncháng wán shénme yóuxì?",
+      "translation": "What games are you good at?",
+      "usage": "Asking about someone's gaming skills.",
+      "formality": "Casual",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "擅长",
+          "py": "shàncháng",
+          "meaning": "skilled at"
+        },
+        {
+          "zh": "玩",
+          "py": "wán",
+          "meaning": "play"
+        },
+        {
+          "zh": "什么",
+          "py": "shénme",
+          "meaning": "what"
+        },
+        {
+          "zh": "游戏",
+          "py": "yóuxì",
+          "meaning": "game"
+        }
+      ]
+    },
+    {
+      "chinese": "桌游需要策略。",
+      "pinyin": "Zhuōyóu xūyào cèlüè.",
+      "translation": "Board games require strategy.",
+      "usage": "Commenting on game difficulty.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "桌游",
+          "py": "zhuōyóu",
+          "meaning": "board game"
+        },
+        {
+          "zh": "需要",
+          "py": "xūyào",
+          "meaning": "requires"
+        },
+        {
+          "zh": "策略",
+          "py": "cèlüè",
+          "meaning": "strategy"
+        }
+      ]
+    },
+    {
+      "chinese": "我们分组打扑克。",
+      "pinyin": "Wǒmen fēn zǔ dǎ pūkè.",
+      "translation": "Let's play poker in teams.",
+      "usage": "Suggesting team play.",
+      "formality": "Casual",
+      "words": [
+        {
+          "zh": "我们",
+          "py": "wǒmen",
+          "meaning": "we"
+        },
+        {
+          "zh": "分组",
+          "py": "fēn zǔ",
+          "meaning": "divide into groups"
+        },
+        {
+          "zh": "打",
+          "py": "dǎ",
+          "meaning": "play (for card games)"
+        },
+        {
+          "zh": "扑克",
+          "py": "pūkè",
+          "meaning": "poker"
+        }
+      ]
+    },
+    {
+      "chinese": "这个游戏太复杂了。",
+      "pinyin": "Zhè gè yóuxì tài fùzá le.",
+      "translation": "This game is too complicated.",
+      "usage": "Expressing frustration with game rules.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这个",
+          "py": "zhè ge",
+          "meaning": "this"
+        },
+        {
+          "zh": "游戏",
+          "py": "yóuxì",
+          "meaning": "game"
+        },
+        {
+          "zh": "太",
+          "py": "tài",
+          "meaning": "too"
+        },
+        {
+          "zh": "复杂",
+          "py": "fùzá",
+          "meaning": "complicated"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "(emphatic particle)"
+        }
+      ]
+    }
+  ]
+}

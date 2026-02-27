@@ -1,0 +1,644 @@
+{
+  "sentences": [
+    {
+      "chinese": "您好！欢迎光临！",
+      "pinyin": "Nín hǎo! Huānyíng guānglín!",
+      "translation": "Hello! Welcome!",
+      "usage": "Used by shop assistants to greet customers when they enter a store.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "您",
+          "py": "nín",
+          "meaning": "you (polite)"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good / well"
+        },
+        {
+          "zh": "欢迎",
+          "py": "huānyíng",
+          "meaning": "welcome"
+        },
+        {
+          "zh": "光临",
+          "py": "guānglín",
+          "meaning": "to grace (someone) with one's presence"
+        }
+      ]
+    },
+    {
+      "chinese": "请问您需要什么帮助？",
+      "pinyin": "Qǐngwèn nín xūyào shénme bāngzhù?",
+      "translation": "How can I help you?",
+      "usage": "Used by customer service representatives to ask what a customer needs.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请问",
+          "py": "qǐngwèn",
+          "meaning": "please ask"
+        },
+        {
+          "zh": "您",
+          "py": "nín",
+          "meaning": "you (polite)"
+        },
+        {
+          "zh": "需要",
+          "py": "xūyào",
+          "meaning": "need"
+        },
+        {
+          "zh": "什么",
+          "py": "shénme",
+          "meaning": "what"
+        },
+        {
+          "zh": "帮助",
+          "py": "bāngzhù",
+          "meaning": "help"
+        }
+      ]
+    },
+    {
+      "chinese": "不好意思，我马上来。",
+      "pinyin": "Bù yìsi, wǒ mǎshàng lái.",
+      "translation": "Sorry, I'll come right away.",
+      "usage": "Used when a customer service representative needs to attend to a customer.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "不",
+          "py": "bù",
+          "meaning": "not"
+        },
+        {
+          "zh": "意思",
+          "py": "yìsi",
+          "meaning": "meaning / intention"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "马上",
+          "py": "mǎshàng",
+          "meaning": "right away"
+        },
+        {
+          "zh": "来",
+          "py": "lái",
+          "meaning": "come"
+        }
+      ]
+    },
+    {
+      "chinese": "请稍等一下。",
+      "pinyin": "Qǐng shāo děng yīxià.",
+      "translation": "Please wait a moment.",
+      "usage": "Used when a customer needs to wait for assistance or product information.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "稍",
+          "py": "shāo",
+          "meaning": "a little"
+        },
+        {
+          "zh": "等",
+          "py": "děng",
+          "meaning": "wait"
+        },
+        {
+          "zh": "一下",
+          "py": "yīxià",
+          "meaning": "a moment"
+        }
+      ]
+    },
+    {
+      "chinese": "请问您有会员卡吗？",
+      "pinyin": "Qǐngwèn nín yǒu huìyuán kǎ ma?",
+      "translation": "Do you have a membership card?",
+      "usage": "Used by store staff to ask about customer membership status.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请问",
+          "py": "qǐngwèn",
+          "meaning": "please ask"
+        },
+        {
+          "zh": "您",
+          "py": "nín",
+          "meaning": "you (polite)"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "have"
+        },
+        {
+          "zh": "会员",
+          "py": "huìyuán",
+          "meaning": "member"
+        },
+        {
+          "zh": "卡",
+          "py": "kǎ",
+          "meaning": "card"
+        }
+      ]
+    },
+    {
+      "chinese": "这个商品有优惠活动。",
+      "pinyin": "Zhège shāngpǐn yǒu yōuhuì huódòng.",
+      "translation": "This product has a promotional offer.",
+      "usage": "Used to inform customers about special deals or discounts.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这个",
+          "py": "zhège",
+          "meaning": "this"
+        },
+        {
+          "zh": "商品",
+          "py": "shāngpǐn",
+          "meaning": "product"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "have"
+        },
+        {
+          "zh": "优惠",
+          "py": "yōuhuì",
+          "meaning": "discount"
+        },
+        {
+          "zh": "活动",
+          "py": "huódòng",
+          "meaning": "activity"
+        }
+      ]
+    },
+    {
+      "chinese": "我帮您看看。",
+      "pinyin": "Wǒ bāng nín kàn kan.",
+      "translation": "Let me help you look at it.",
+      "usage": "Used when a staff member offers to assist a customer with a product.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "帮",
+          "py": "bāng",
+          "meaning": "help"
+        },
+        {
+          "zh": "您",
+          "py": "nín",
+          "meaning": "you (polite)"
+        },
+        {
+          "zh": "看",
+          "py": "kàn",
+          "meaning": "look at"
+        }
+      ]
+    },
+    {
+      "chinese": "这款产品很热销。",
+      "pinyin": "Zhè kuǎn chǎnpǐn hěn xiāoshòu.",
+      "translation": "This product is very popular/sells well.",
+      "usage": "Used to inform customers about best-selling items.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "款",
+          "py": "kuǎn",
+          "meaning": "style / model"
+        },
+        {
+          "zh": "产品",
+          "py": "chǎnpǐn",
+          "meaning": "product"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "热销",
+          "py": "xiāoshòu",
+          "meaning": "sell fast"
+        }
+      ]
+    },
+    {
+      "chinese": "请问您需要发票吗？",
+      "pinyin": "Qǐngwèn nín xūyào fāpiào ma?",
+      "translation": "Do you need a receipt?",
+      "usage": "Used by cashiers to ask if a customer wants a receipt for their purchase.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请问",
+          "py": "qǐngwèn",
+          "meaning": "please ask"
+        },
+        {
+          "zh": "您",
+          "py": "nín",
+          "meaning": "you (polite)"
+        },
+        {
+          "zh": "需要",
+          "py": "xūyào",
+          "meaning": "need"
+        },
+        {
+          "zh": "发票",
+          "py": "fāpiào",
+          "meaning": "invoice / receipt"
+        }
+      ]
+    },
+    {
+      "chinese": "谢谢您的光临！",
+      "pinyin": "Xièxiè nín de guānglín!",
+      "translation": "Thank you for visiting!",
+      "usage": "Used when a customer leaves the store or completes a purchase.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "谢谢",
+          "py": "xièxiè",
+          "meaning": "thank you"
+        },
+        {
+          "zh": "您",
+          "py": "nín",
+          "meaning": "you (polite)"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive particle"
+        },
+        {
+          "zh": "光临",
+          "py": "guānglín",
+          "meaning": "to grace (someone) with one's presence"
+        }
+      ]
+    },
+    {
+      "chinese": "这个价格有点贵。",
+      "pinyin": "Zhège jiàgé yǒudiǎn guì.",
+      "translation": "This price is a bit expensive.",
+      "usage": "Used by staff to inform customers about product pricing.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这个",
+          "py": "zhège",
+          "meaning": "this"
+        },
+        {
+          "zh": "价格",
+          "py": "jiàgé",
+          "meaning": "price"
+        },
+        {
+          "zh": "有点",
+          "py": "yǒudiǎn",
+          "meaning": "a little bit"
+        },
+        {
+          "zh": "贵",
+          "py": "guì",
+          "meaning": "expensive"
+        }
+      ]
+    },
+    {
+      "chinese": "我可以为您服务。",
+      "pinyin": "Wǒ kěyǐ wèi nín fúwù.",
+      "translation": "I can serve you.",
+      "usage": "Used by customer service representatives to offer assistance.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "可以",
+          "py": "kěyǐ",
+          "meaning": "can"
+        },
+        {
+          "zh": "为",
+          "py": "wèi",
+          "meaning": "for"
+        },
+        {
+          "zh": "您",
+          "py": "nín",
+          "meaning": "you (polite)"
+        },
+        {
+          "zh": "服务",
+          "py": "fúwù",
+          "meaning": "serve"
+        }
+      ]
+    },
+    {
+      "chinese": "请告诉我您的联系方式。",
+      "pinyin": "Qǐng gàosù wǒ nín de liánxì fāngshì.",
+      "translation": "Please tell me your contact information.",
+      "usage": "Used when collecting customer information for follow-up or returns.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "告诉",
+          "py": "gàosù",
+          "meaning": "tell"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "您",
+          "py": "nín",
+          "meaning": "you (polite)"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive particle"
+        },
+        {
+          "zh": "联系",
+          "py": "liánxì",
+          "meaning": "contact"
+        },
+        {
+          "zh": "方式",
+          "py": "fāngshì",
+          "meaning": "way"
+        }
+      ]
+    },
+    {
+      "chinese": "非常抱歉，我们暂时缺货。",
+      "pinyin": "Fēicháng bàoqiàn, wǒmen zhànshí quēhuò.",
+      "translation": "We're very sorry, but we're temporarily out of stock.",
+      "usage": "Used when a product is unavailable to inform customers.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "非常",
+          "py": "fēicháng",
+          "meaning": "very"
+        },
+        {
+          "zh": "抱歉",
+          "py": "bàoqiàn",
+          "meaning": "sorry"
+        },
+        {
+          "zh": "我们",
+          "py": "wǒmen",
+          "meaning": "we"
+        },
+        {
+          "zh": "暂时",
+          "py": "zhànshí",
+          "meaning": "temporarily"
+        },
+        {
+          "zh": "缺货",
+          "py": "quēhuò",
+          "meaning": "out of stock"
+        }
+      ]
+    },
+    {
+      "chinese": "您可以换一件试试。",
+      "pinyin": "Nín kěyǐ huàn yījiàn shìshì.",
+      "translation": "You can try another one.",
+      "usage": "Used when offering a customer a different item or size.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "您",
+          "py": "nín",
+          "meaning": "you (polite)"
+        },
+        {
+          "zh": "可以",
+          "py": "kěyǐ",
+          "meaning": "can"
+        },
+        {
+          "zh": "换",
+          "py": "huàn",
+          "meaning": "change"
+        },
+        {
+          "zh": "一件",
+          "py": "yījiàn",
+          "meaning": "one piece"
+        },
+        {
+          "zh": "试试",
+          "py": "shìshì",
+          "meaning": "try"
+        }
+      ]
+    },
+    {
+      "chinese": "请问您对这个产品满意吗？",
+      "pinyin": "Qǐngwèn nín duì zhège chǎnpǐn mǎnyì ma?",
+      "translation": "Are you satisfied with this product?",
+      "usage": "Used by customer service to ask for feedback about a purchase.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请问",
+          "py": "qǐngwèn",
+          "meaning": "please ask"
+        },
+        {
+          "zh": "您",
+          "py": "nín",
+          "meaning": "you (polite)"
+        },
+        {
+          "zh": "对",
+          "py": "duì",
+          "meaning": "about"
+        },
+        {
+          "zh": "这个",
+          "py": "zhège",
+          "meaning": "this"
+        },
+        {
+          "zh": "产品",
+          "py": "chǎnpǐn",
+          "meaning": "product"
+        },
+        {
+          "zh": "满意",
+          "py": "mǎnyì",
+          "meaning": "satisfied"
+        }
+      ]
+    },
+    {
+      "chinese": "您需要退货吗？",
+      "pinyin": "Nín xūyào tuìhuò ma?",
+      "translation": "Do you need to return it?",
+      "usage": "Used when a customer wants to return or exchange a product.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "您",
+          "py": "nín",
+          "meaning": "you (polite)"
+        },
+        {
+          "zh": "需要",
+          "py": "xūyào",
+          "meaning": "need"
+        },
+        {
+          "zh": "退货",
+          "py": "tuìhuò",
+          "meaning": "return goods"
+        }
+      ]
+    },
+    {
+      "chinese": "我们的客服电话是123456789。",
+      "pinyin": "Wǒmen de kèfú diànhuà shì 123456789.",
+      "translation": "Our customer service phone number is 123456789.",
+      "usage": "Used to provide customer service contact information.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "我们",
+          "py": "wǒmen",
+          "meaning": "we"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive particle"
+        },
+        {
+          "zh": "客服",
+          "py": "kèfú",
+          "meaning": "customer service"
+        },
+        {
+          "zh": "电话",
+          "py": "diànhuà",
+          "meaning": "phone"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "is"
+        }
+      ]
+    },
+    {
+      "chinese": "我们保证产品质量。",
+      "pinyin": "Wǒmen bǎozhèng chǎnpǐn zhìliàng.",
+      "translation": "We guarantee product quality.",
+      "usage": "Used to assure customers about product standards.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "我们",
+          "py": "wǒmen",
+          "meaning": "we"
+        },
+        {
+          "zh": "保证",
+          "py": "bǎozhèng",
+          "meaning": "guarantee"
+        },
+        {
+          "zh": "产品",
+          "py": "chǎnpǐn",
+          "meaning": "product"
+        },
+        {
+          "zh": "质量",
+          "py": "zhìliàng",
+          "meaning": "quality"
+        }
+      ]
+    },
+    {
+      "chinese": "请稍等一下。",
+      "pinyin": "Qǐng shāoděng yīxià.",
+      "translation": "Please wait a moment.",
+      "usage": "Used when asking customers to wait for assistance or service.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "稍等",
+          "py": "shāoděng",
+          "meaning": "wait a moment"
+        },
+        {
+          "zh": "一下",
+          "py": "yīxià",
+          "meaning": "a moment"
+        }
+      ]
+    }
+  ]
+}

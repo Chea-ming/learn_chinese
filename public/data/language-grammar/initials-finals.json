@@ -1,0 +1,173 @@
+{
+  "sentences": [
+    {
+      "chinese": "声母是音节的开头辅音。",
+      "pinyin": "Shēng mǔ shì yīn jié de kāi tóu fǔ yīn.",
+      "translation": "Initials are the starting consonants of syllables.",
+      "usage": "Explaining the role of initials in Mandarin syllables.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "声母",
+          "py": "shēng mǔ",
+          "meaning": "initial"
+        },
+        {
+          "zh": "辅音",
+          "py": "fǔ yīn",
+          "meaning": "consonant"
+        }
+      ]
+    },
+    {
+      "chinese": "韵母是音节的元音或元音组合。",
+      "pinyin": "Yùn mǔ shì yīn jié de yuán yīn huò yuán yīn zǔ hé.",
+      "translation": "Finals are the vowels or vowel combinations in syllables.",
+      "usage": "Describing the structure of Mandarin finals.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "韵母",
+          "py": "yùn mǔ",
+          "meaning": "final"
+        },
+        {
+          "zh": "元音",
+          "py": "yuán yīn",
+          "meaning": "vowel"
+        }
+      ]
+    },
+    {
+      "chinese": "零声母表示音节没有辅音开头。",
+      "pinyin": "Líng shēng mǔ biǎo shì yīn jié méi yǒu fǔ yīn kāi tóu.",
+      "translation": "Zero initial indicates a syllable with no starting consonant.",
+      "usage": "Explaining syllables starting with vowels only.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "零声母",
+          "py": "líng shēng mǔ",
+          "meaning": "zero initial"
+        }
+      ]
+    },
+    {
+      "chinese": "b + a = bā。",
+      "pinyin": "B + a = bā.",
+      "translation": "Initial b + final a = bā.",
+      "usage": "Demonstrating initial-final combination.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "bā",
+          "py": "bā",
+          "meaning": "first tone syllable"
+        }
+      ]
+    },
+    {
+      "chinese": "m + i = mī。",
+      "pinyin": "M + i = mī.",
+      "translation": "Initial m + final i = mī.",
+      "usage": "Example of initial-final pairing.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "mī",
+          "py": "mī",
+          "meaning": "second tone syllable"
+        }
+      ]
+    },
+    {
+      "chinese": "韵母可以是单韵母或复韵母。",
+      "pinyin": "Yùn mǔ kě yǐ shì dān yùn mǔ huò fù yùn mǔ.",
+      "translation": "Finals can be simple or compound vowels.",
+      "usage": "Classifying types of finals.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "单韵母",
+          "py": "dān yùn mǔ",
+          "meaning": "simple final"
+        },
+        {
+          "zh": "复韵母",
+          "py": "fù yùn mǔ",
+          "meaning": "compound final"
+        }
+      ]
+    },
+    {
+      "chinese": "鼻韵母包含鼻辅音结尾，如an、en。",
+      "pinyin": "Bí yùn mǔ bāo hán bí fǔ yīn jié wěi, rú an, en.",
+      "translation": "Nasal finals end with nasal consonants, e.g., an, en.",
+      "usage": "Describing nasal finals in Mandarin.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "鼻韵母",
+          "py": "bí yùn mǔ",
+          "meaning": "nasal final"
+        }
+      ]
+    },
+    {
+      "chinese": "i、u、ü是复韵母的常见成分。",
+      "pinyin": "I, u, ü shì fù yùn mǔ de cháng jiàn chéng fèn.",
+      "translation": "i, u, ü are common components of compound finals.",
+      "usage": "Highlighting common elements in compound finals.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "复韵母",
+          "py": "fù yùn mǔ",
+          "meaning": "compound final"
+        }
+      ]
+    },
+    {
+      "chinese": "ü只能与j、q、x、y等声母连用。",
+      "pinyin": "Ü zhǐ néng yǔ j, q, x, y děng shēng mǔ lián yòng.",
+      "translation": "ü can only combine with certain initials like j, q, x, y.",
+      "usage": "Special rule for the vowel ü.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "ü",
+          "py": "ü",
+          "meaning": "vowel ü"
+        }
+      ]
+    },
+    {
+      "chinese": "声韵配合规则决定拼音的结构。",
+      "pinyin": "Shēng yùn pèi hé guī zé jué dìng pīn yīn de jié gòu.",
+      "translation": "Initial-final compatibility rules determine pinyin structure.",
+      "usage": "Explaining phonological constraints.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "声韵配合",
+          "py": "shēng yùn pèi hé",
+          "meaning": "initial-final compatibility"
+        }
+      ]
+    },
+    {
+      "chinese": "轻声字没有声调，如“的”、“了”。",
+      "pinyin": "Qīng shēng zì méi yǒu shēng diào, rú “de”, “le”.",
+      "translation": "Light tones have no pitch, e.g., “de”, “le”.",
+      "usage": "Describing the light tone phenomenon.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "轻声",
+          "py": "qīng shēng",
+          "meaning": "light tone"
+        }
+      ]
+    }
+  ]
+}

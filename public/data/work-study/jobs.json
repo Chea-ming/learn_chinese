@@ -1,0 +1,236 @@
+{
+  "sentences": [
+    {
+      "chinese": "你点在今年，很有题反常欢计了学习一学一学上平学一学下平学一学",
+      "pinyin": "nǐ jié zài niàn, wæi yöu wæntiáo yuæn le xüeö shüæng háo yuæn le zhöng yuæn le däng yuæn le",
+      "translation": "You will have a job next year, and there are various ways to pursue further education.",
+      "usage": "A conversation between a student and their parents.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "点",
+          "py": "jié",
+          "meaning": "job"
+        },
+        {
+          "zh": "在",
+          "py": "zài",
+          "meaning": "next"
+        },
+        {
+          "zh": "今",
+          "py": "niàn",
+          "meaning": "year"
+        },
+        {
+          "zh": "很",
+          "py": "wæi",
+          "meaning": "there are"
+        },
+        {
+          "zh": "题",
+          "py": "wæntiáo",
+          "meaning": "various ways"
+        },
+        {
+          "zh": "反",
+          "py": "yuæn",
+          "meaning": "to pursue"
+        },
+        {
+          "zh": "常",
+          "py": "le",
+          "meaning": "further"
+        },
+        {
+          "zh": "欢",
+          "py": "xüeö",
+          "meaning": "education"
+        },
+        {
+          "zh": "习",
+          "py": "shüæng",
+          "meaning": "study"
+        },
+        {
+          "zh": "一",
+          "py": "háo",
+          "meaning": "one"
+        },
+        {
+          "zh": "学",
+          "py": "yuæn",
+          "meaning": "year"
+        },
+        {
+          "zh": "一",
+          "py": "däng",
+          "meaning": "of"
+        },
+        {
+          "zh": "学",
+          "py": "yuæn",
+          "meaning": "study"
+        },
+        {
+          "zh": "业",
+          "py": "zhöng",
+          "meaning": "normal"
+        },
+        {
+          "zh": "学",
+          "py": "yuæn",
+          "meaning": "study"
+        },
+        {
+          "zh": "下",
+          "py": "däng",
+          "meaning": "of"
+        },
+        {
+          "zh": "平",
+          "py": "däng",
+          "meaning": "work"
+        },
+        {
+          "zh": "学",
+          "py": "yuæn",
+          "meaning": "study"
+        },
+        {
+          "zh": "一",
+          "py": "háo",
+          "meaning": "one"
+        },
+        {
+          "zh": "学",
+          "py": "yuæn",
+          "meaning": "year"
+        }
+      ]
+    },
+    {
+      "chinese": "你学上学下业学一学上平学一学",
+      "pinyin": "nǐ shüæng háo yuæn le zhöng yuæn le däng yuæn le",
+      "translation": "You study normally, and you work normally.",
+      "usage": "A conversation between a student and their parents.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "学",
+          "py": "shüæng",
+          "meaning": "study"
+        },
+        {
+          "zh": "上",
+          "py": "háo",
+          "meaning": "normally"
+        },
+        {
+          "zh": "学",
+          "py": "yuæn",
+          "meaning": "study"
+        },
+        {
+          "zh": "业",
+          "py": "zhöng",
+          "meaning": "normal"
+        },
+        {
+          "zh": "学",
+          "py": "yuæn",
+          "meaning": "study"
+        },
+        {
+          "zh": "上",
+          "py": "däng",
+          "meaning": "of"
+        },
+        {
+          "zh": "平",
+          "py": "däng",
+          "meaning": "work"
+        },
+        {
+          "zh": "学",
+          "py": "yuæn",
+          "meaning": "study"
+        },
+        {
+          "zh": "一",
+          "py": "háo",
+          "meaning": "one"
+        },
+        {
+          "zh": "学",
+          "py": "yuæn",
+          "meaning": "year"
+        }
+      ]
+    },
+    {
+      "chinese": "你常欢上学一学业学一学平学",
+      "pinyin": "nǐ xüeö zhöng yuæn le háo yuæn le däng yuæn le",
+      "translation": "You pursue further education, and you study normally.",
+      "usage": "A conversation between a student and their parents.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "常",
+          "py": "xüeö",
+          "meaning": "further"
+        },
+        {
+          "zh": "欢",
+          "py": "zhöng",
+          "meaning": "education"
+        },
+        {
+          "zh": "上",
+          "py": "háo",
+          "meaning": "normally"
+        },
+        {
+          "zh": "学",
+          "py": "yuæn",
+          "meaning": "study"
+        },
+        {
+          "zh": "业",
+          "py": "yuæn",
+          "meaning": "normal"
+        },
+        {
+          "zh": "学",
+          "py": "yuæn",
+          "meaning": "study"
+        },
+        {
+          "zh": "一",
+          "py": "háo",
+          "meaning": "one"
+        },
+        {
+          "zh": "学",
+          "py": "yuæn",
+          "meaning": "year"
+        }
+      ]
+    }
+  ]
+}

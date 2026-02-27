@@ -1,0 +1,699 @@
+{
+  "sentences": [
+    {
+      "chinese": "我想学做菜。",
+      "pinyin": "Wǒ xiǎng xué zuò cài.",
+      "translation": "I want to learn how to cook.",
+      "usage": "Used when expressing interest in learning cooking skills.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "想",
+          "py": "xiǎng",
+          "meaning": "want to"
+        },
+        {
+          "zh": "学",
+          "py": "xué",
+          "meaning": "learn"
+        },
+        {
+          "zh": "做",
+          "py": "zuò",
+          "meaning": "do / make"
+        },
+        {
+          "zh": "菜",
+          "py": "cài",
+          "meaning": "dish / food"
+        }
+      ]
+    },
+    {
+      "chinese": "这道菜需要盐。",
+      "pinyin": "Zhè dào cài xūyào yán.",
+      "translation": "This dish needs salt.",
+      "usage": "Used when stating what ingredients are needed for a recipe.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "道",
+          "py": "dào",
+          "meaning": "dish / course"
+        },
+        {
+          "zh": "菜",
+          "py": "cài",
+          "meaning": "dish / food"
+        },
+        {
+          "zh": "需要",
+          "py": "xūyào",
+          "meaning": "need"
+        },
+        {
+          "zh": "盐",
+          "py": "yán",
+          "meaning": "salt"
+        }
+      ]
+    },
+    {
+      "chinese": "请帮我切菜。",
+      "pinyin": "Qǐng bāng wǒ qiē cài.",
+      "translation": "Please help me cut vegetables.",
+      "usage": "Used when asking someone for assistance with food preparation.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "帮",
+          "py": "bāng",
+          "meaning": "help"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "me"
+        },
+        {
+          "zh": "切",
+          "py": "qiē",
+          "meaning": "cut"
+        },
+        {
+          "zh": "菜",
+          "py": "cài",
+          "meaning": "vegetables"
+        }
+      ]
+    },
+    {
+      "chinese": "水开了吗？",
+      "pinyin": "Shuǐ kāi le ma?",
+      "translation": "Is the water boiling?",
+      "usage": "Used when checking if water has reached boiling point for cooking.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "水",
+          "py": "shuǐ",
+          "meaning": "water"
+        },
+        {
+          "zh": "开",
+          "py": "kāi",
+          "meaning": "open / boil"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed / finished"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "这汤太咸了。",
+      "pinyin": "Zhè tāng tài xián le.",
+      "translation": "This soup is too salty.",
+      "usage": "Used when commenting on the taste of a dish, specifically saltiness.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "汤",
+          "py": "tāng",
+          "meaning": "soup"
+        },
+        {
+          "zh": "太",
+          "py": "tài",
+          "meaning": "too"
+        },
+        {
+          "zh": "咸",
+          "py": "xián",
+          "meaning": "salty"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed / finished"
+        }
+      ]
+    },
+    {
+      "chinese": "我不会做这个菜。",
+      "pinyin": "Wǒ bù huì zuò zhège cài.",
+      "translation": "I don't know how to make this dish.",
+      "usage": "Used when admitting lack of cooking knowledge or skill.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "不",
+          "py": "bù",
+          "meaning": "not"
+        },
+        {
+          "zh": "会",
+          "py": "huì",
+          "meaning": "know how to"
+        },
+        {
+          "zh": "做",
+          "py": "zuò",
+          "meaning": "do / make"
+        },
+        {
+          "zh": "这个",
+          "py": "zhège",
+          "meaning": "this"
+        },
+        {
+          "zh": "菜",
+          "py": "cài",
+          "meaning": "dish / food"
+        }
+      ]
+    },
+    {
+      "chinese": "请把盐递给我。",
+      "pinyin": "Qǐng bǎ yán dì gěi wǒ.",
+      "translation": "Please pass me the salt.",
+      "usage": "Used when asking someone to hand over an ingredient or utensil.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "把",
+          "py": "bǎ",
+          "meaning": "give / hand over"
+        },
+        {
+          "zh": "盐",
+          "py": "yán",
+          "meaning": "salt"
+        },
+        {
+          "zh": "递",
+          "py": "dì",
+          "meaning": "pass"
+        },
+        {
+          "zh": "给",
+          "py": "gěi",
+          "meaning": "to"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "me"
+        }
+      ]
+    },
+    {
+      "chinese": "这道菜要炒一下。",
+      "pinyin": "Zhè dào cài yào chǎo yíxià.",
+      "translation": "This dish needs to be stir-fried.",
+      "usage": "Used when describing the cooking method required for a recipe.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "道",
+          "py": "dào",
+          "meaning": "dish / course"
+        },
+        {
+          "zh": "菜",
+          "py": "cài",
+          "meaning": "dish / food"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "need to"
+        },
+        {
+          "zh": "炒",
+          "py": "chǎo",
+          "meaning": "stir-fry"
+        },
+        {
+          "zh": "一下",
+          "py": "yíxià",
+          "meaning": "a little bit"
+        }
+      ]
+    },
+    {
+      "chinese": "你可以试试这个做法。",
+      "pinyin": "Nǐ kěyǐ shìshì zhège zuòfǎ.",
+      "translation": "You can try this cooking method.",
+      "usage": "Used when suggesting a particular way of preparing food.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "可以",
+          "py": "kěyǐ",
+          "meaning": "can"
+        },
+        {
+          "zh": "试试",
+          "py": "shìshì",
+          "meaning": "try"
+        },
+        {
+          "zh": "这个",
+          "py": "zhège",
+          "meaning": "this"
+        },
+        {
+          "zh": "做法",
+          "py": "zuòfǎ",
+          "meaning": "method / way of doing"
+        }
+      ]
+    },
+    {
+      "chinese": "这道菜太辣了。",
+      "pinyin": "Zhè dào cài tài là le.",
+      "translation": "This dish is too spicy.",
+      "usage": "Used when commenting on the spiciness level of a dish.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "道",
+          "py": "dào",
+          "meaning": "dish / course"
+        },
+        {
+          "zh": "菜",
+          "py": "cài",
+          "meaning": "dish / food"
+        },
+        {
+          "zh": "太",
+          "py": "tài",
+          "meaning": "too"
+        },
+        {
+          "zh": "辣",
+          "py": "là",
+          "meaning": "spicy"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed / finished"
+        }
+      ]
+    },
+    {
+      "chinese": "我需要买一些食材。",
+      "pinyin": "Wǒ xūyào mǎi yīxiē shícái.",
+      "translation": "I need to buy some ingredients.",
+      "usage": "Used when planning to shop for cooking supplies.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "需要",
+          "py": "xūyào",
+          "meaning": "need"
+        },
+        {
+          "zh": "买",
+          "py": "mǎi",
+          "meaning": "buy"
+        },
+        {
+          "zh": "一些",
+          "py": "yīxiē",
+          "meaning": "some"
+        },
+        {
+          "zh": "食材",
+          "py": "shícái",
+          "meaning": "ingredients"
+        }
+      ]
+    },
+    {
+      "chinese": "请把锅盖盖上。",
+      "pinyin": "Qǐng bǎ guōgài gài shàng.",
+      "translation": "Please put the lid on the pot.",
+      "usage": "Used when instructing someone to cover a cooking vessel.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "把",
+          "py": "bǎ",
+          "meaning": "put / place"
+        },
+        {
+          "zh": "锅盖",
+          "py": "guōgài",
+          "meaning": "lid"
+        },
+        {
+          "zh": "盖",
+          "py": "gài",
+          "meaning": "cover"
+        },
+        {
+          "zh": "上",
+          "py": "shàng",
+          "meaning": "on"
+        }
+      ]
+    },
+    {
+      "chinese": "这道菜味道不错。",
+      "pinyin": "Zhè dào cài wèidào bùcuò.",
+      "translation": "This dish tastes good.",
+      "usage": "Used when complimenting the flavor of a dish.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "道",
+          "py": "dào",
+          "meaning": "dish / course"
+        },
+        {
+          "zh": "菜",
+          "py": "cài",
+          "meaning": "dish / food"
+        },
+        {
+          "zh": "味道",
+          "py": "wèidào",
+          "meaning": "taste"
+        },
+        {
+          "zh": "不错",
+          "py": "bùcuò",
+          "meaning": "not bad / good"
+        }
+      ]
+    },
+    {
+      "chinese": "你吃过了吗？",
+      "pinyin": "Nǐ chī guò le ma?",
+      "translation": "Have you eaten?",
+      "usage": "Used when asking if someone has had a meal.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "吃",
+          "py": "chī",
+          "meaning": "eat"
+        },
+        {
+          "zh": "过",
+          "py": "guò",
+          "meaning": "have done"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed / finished"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "我正在煮面条。",
+      "pinyin": "Wǒ zhèngzài zhǔ miàntiáo.",
+      "translation": "I am cooking noodles.",
+      "usage": "Used when describing what you are currently doing in the kitchen.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "正在",
+          "py": "zhèngzài",
+          "meaning": "currently"
+        },
+        {
+          "zh": "煮",
+          "py": "zhǔ",
+          "meaning": "cook"
+        },
+        {
+          "zh": "面条",
+          "py": "miàntiáo",
+          "meaning": "noodles"
+        }
+      ]
+    },
+    {
+      "chinese": "这道菜需要慢炖。",
+      "pinyin": "Zhè dào cài xūyào màn dùn.",
+      "translation": "This dish needs to be slow-cooked.",
+      "usage": "Used when describing the cooking method that requires low heat and time.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "道",
+          "py": "dào",
+          "meaning": "dish / course"
+        },
+        {
+          "zh": "菜",
+          "py": "cài",
+          "meaning": "dish / food"
+        },
+        {
+          "zh": "需要",
+          "py": "xūyào",
+          "meaning": "need"
+        },
+        {
+          "zh": "慢",
+          "py": "màn",
+          "meaning": "slow"
+        },
+        {
+          "zh": "炖",
+          "py": "dùn",
+          "meaning": "braise / stew"
+        }
+      ]
+    },
+    {
+      "chinese": "请帮我搅拌一下。",
+      "pinyin": "Qǐng bāng wǒ bǎnjì yíxià.",
+      "translation": "Please help me stir a little.",
+      "usage": "Used when asking for assistance with mixing ingredients.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "帮",
+          "py": "bāng",
+          "meaning": "help"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "me"
+        },
+        {
+          "zh": "搅拌",
+          "py": "bǎnjì",
+          "meaning": "stir"
+        },
+        {
+          "zh": "一下",
+          "py": "yíxià",
+          "meaning": "a little bit"
+        }
+      ]
+    },
+    {
+      "chinese": "这个菜太软了。",
+      "pinyin": "Zhège cài tài ruǎn le.",
+      "translation": "This dish is too soft.",
+      "usage": "Used when commenting on the texture of a cooked dish.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这个",
+          "py": "zhège",
+          "meaning": "this"
+        },
+        {
+          "zh": "菜",
+          "py": "cài",
+          "meaning": "dish / food"
+        },
+        {
+          "zh": "太",
+          "py": "tài",
+          "meaning": "too"
+        },
+        {
+          "zh": "软",
+          "py": "ruǎn",
+          "meaning": "soft"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed / finished"
+        }
+      ]
+    },
+    {
+      "chinese": "这道菜要炒一下。",
+      "pinyin": "Zhè dào cài yào chǎo yíxià.",
+      "translation": "This dish needs to be stir-fried.",
+      "usage": "Used when describing the cooking technique required for a dish.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "道",
+          "py": "dào",
+          "meaning": "dish / course"
+        },
+        {
+          "zh": "菜",
+          "py": "cài",
+          "meaning": "dish / food"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "need"
+        },
+        {
+          "zh": "炒",
+          "py": "chǎo",
+          "meaning": "stir-fry"
+        },
+        {
+          "zh": "一下",
+          "py": "yíxià",
+          "meaning": "a little bit"
+        }
+      ]
+    },
+    {
+      "chinese": "我准备做晚餐。",
+      "pinyin": "Wǒ zhǔnbèi zuò wǎncān.",
+      "translation": "I am preparing to cook dinner.",
+      "usage": "Used when stating your intention to cook a meal.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "准备",
+          "py": "zhǔnbèi",
+          "meaning": "prepare"
+        },
+        {
+          "zh": "做",
+          "py": "zuò",
+          "meaning": "do / make"
+        },
+        {
+          "zh": "晚餐",
+          "py": "wǎncān",
+          "meaning": "dinner"
+        }
+      ]
+    }
+  ]
+}

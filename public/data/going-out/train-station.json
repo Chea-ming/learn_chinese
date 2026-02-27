@@ -1,0 +1,854 @@
+{
+  "sentences": [
+    {
+      "chinese": "你好！",
+      "pinyin": "Nǐ hǎo!",
+      "translation": "Hello!",
+      "usage": "The standard, all-purpose greeting. Suitable for almost any situation.",
+      "formality": "Neutral / Informal",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good / well"
+        }
+      ]
+    },
+    {
+      "chinese": "请问，火车票在哪里买？",
+      "pinyin": "Qǐng wèn, huǒchē piào zài nǎlǐ mǎi?",
+      "translation": "Excuse me, where can I buy train tickets?",
+      "usage": "Used when asking for directions to ticket offices or vendors.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "问",
+          "py": "wèn",
+          "meaning": "ask"
+        },
+        {
+          "zh": "火",
+          "py": "huǒ",
+          "meaning": "fire / train"
+        },
+        {
+          "zh": "车",
+          "py": "chē",
+          "meaning": "vehicle / train"
+        },
+        {
+          "zh": "票",
+          "py": "piào",
+          "meaning": "ticket"
+        },
+        {
+          "zh": "在",
+          "py": "zài",
+          "meaning": "at / in"
+        },
+        {
+          "zh": "哪",
+          "py": "nǎ",
+          "meaning": "where"
+        },
+        {
+          "zh": "里",
+          "py": "lǐ",
+          "meaning": "inside / within"
+        },
+        {
+          "zh": "买",
+          "py": "mǎi",
+          "meaning": "buy"
+        }
+      ]
+    },
+    {
+      "chinese": "我需要一张去北京的火车票。",
+      "pinyin": "Wǒ xūyào yī zhāng qù Běijīng de huǒchē piào.",
+      "translation": "I need one ticket to Beijing.",
+      "usage": "Used when purchasing a ticket at the counter or machine.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / me"
+        },
+        {
+          "zh": "需要",
+          "py": "xūyào",
+          "meaning": "need"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "张",
+          "py": "zhāng",
+          "meaning": "sheet / piece"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "go to"
+        },
+        {
+          "zh": "北京",
+          "py": "Běijīng",
+          "meaning": "Beijing"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "of / to"
+        },
+        {
+          "zh": "火",
+          "py": "huǒ",
+          "meaning": "fire / train"
+        },
+        {
+          "zh": "车",
+          "py": "chē",
+          "meaning": "vehicle / train"
+        },
+        {
+          "zh": "票",
+          "py": "piào",
+          "meaning": "ticket"
+        }
+      ]
+    },
+    {
+      "chinese": "这趟车几点发车？",
+      "pinyin": "Zhè tàng chē jǐ diǎn fā chē?",
+      "translation": "What time does this train depart?",
+      "usage": "Used to inquire about departure times.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "趟",
+          "py": "tàng",
+          "meaning": "trip / round"
+        },
+        {
+          "zh": "车",
+          "py": "chē",
+          "meaning": "vehicle / train"
+        },
+        {
+          "zh": "几",
+          "py": "jǐ",
+          "meaning": "how many / what"
+        },
+        {
+          "zh": "点",
+          "py": "diǎn",
+          "meaning": "o'clock / point"
+        },
+        {
+          "zh": "发",
+          "py": "fā",
+          "meaning": "depart / issue"
+        },
+        {
+          "zh": "车",
+          "py": "chē",
+          "meaning": "vehicle / train"
+        }
+      ]
+    },
+    {
+      "chinese": "请等一下。",
+      "pinyin": "Qǐng děng yīxià.",
+      "translation": "Please wait a moment.",
+      "usage": "Used when asking someone to pause or wait briefly.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "等",
+          "py": "děng",
+          "meaning": "wait"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "下",
+          "py": "xià",
+          "meaning": "down / moment"
+        }
+      ]
+    },
+    {
+      "chinese": "我要去上海。",
+      "pinyin": "Wǒ yào qù Shànghǎi.",
+      "translation": "I'm going to Shanghai.",
+      "usage": "Used when stating your destination to a ticket agent or in a conversation.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / me"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "want / going to"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "go to"
+        },
+        {
+          "zh": "上海",
+          "py": "Shànghǎi",
+          "meaning": "Shanghai"
+        }
+      ]
+    },
+    {
+      "chinese": "请问，检票口在哪里？",
+      "pinyin": "Qǐng wèn, jiǎnpiào kǒu zài nǎlǐ?",
+      "translation": "Excuse me, where is the ticket gate?",
+      "usage": "Used when looking for the gate to pass through after buying a ticket.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "问",
+          "py": "wèn",
+          "meaning": "ask"
+        },
+        {
+          "zh": "检",
+          "py": "jiǎn",
+          "meaning": "check"
+        },
+        {
+          "zh": "票",
+          "py": "piào",
+          "meaning": "ticket"
+        },
+        {
+          "zh": "口",
+          "py": "kǒu",
+          "meaning": "mouth / gate"
+        },
+        {
+          "zh": "在",
+          "py": "zài",
+          "meaning": "at / in"
+        },
+        {
+          "zh": "哪",
+          "py": "nǎ",
+          "meaning": "where"
+        },
+        {
+          "zh": "里",
+          "py": "lǐ",
+          "meaning": "inside / within"
+        }
+      ]
+    },
+    {
+      "chinese": "我的火车票丢了。",
+      "pinyin": "Wǒ de huǒchē piào diū le.",
+      "translation": "I lost my train ticket.",
+      "usage": "Used when reporting a lost ticket to station staff.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / me"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "of / to"
+        },
+        {
+          "zh": "火",
+          "py": "huǒ",
+          "meaning": "fire / train"
+        },
+        {
+          "zh": "车",
+          "py": "chē",
+          "meaning": "vehicle / train"
+        },
+        {
+          "zh": "票",
+          "py": "piào",
+          "meaning": "ticket"
+        },
+        {
+          "zh": "丢",
+          "py": "diū",
+          "meaning": "lose / drop"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed action marker"
+        }
+      ]
+    },
+    {
+      "chinese": "请问，哪一班车去广州？",
+      "pinyin": "Qǐng wèn, nǎ yī chē bàn qù Guǎngzhōu?",
+      "translation": "Excuse me, which train goes to Guangzhou?",
+      "usage": "Used when asking for specific train information.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "问",
+          "py": "wèn",
+          "meaning": "ask"
+        },
+        {
+          "zh": "哪",
+          "py": "nǎ",
+          "meaning": "which"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "车",
+          "py": "chē",
+          "meaning": "vehicle / train"
+        },
+        {
+          "zh": "班",
+          "py": "bàn",
+          "meaning": "shift / class"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "go to"
+        },
+        {
+          "zh": "广州",
+          "py": "Guǎngzhōu",
+          "meaning": "Guangzhou"
+        }
+      ]
+    },
+    {
+      "chinese": "请帮我查一下。",
+      "pinyin": "Qǐng bāng wǒ chá yīxià.",
+      "translation": "Please help me check.",
+      "usage": "Used when requesting assistance with information.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "帮",
+          "py": "bāng",
+          "meaning": "help"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / me"
+        },
+        {
+          "zh": "查",
+          "py": "chá",
+          "meaning": "check / look up"
+        },
+        {
+          "zh": "一下",
+          "py": "yīxià",
+          "meaning": "a little / just a moment"
+        }
+      ]
+    },
+    {
+      "chinese": "我坐的是三号车厢。",
+      "pinyin": "Wǒ zuò de shì sān hào chēxiāng.",
+      "translation": "I'm sitting in car number three.",
+      "usage": "Used when telling others where you're sitting on the train.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / me"
+        },
+        {
+          "zh": "坐",
+          "py": "zuò",
+          "meaning": "sit / ride"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "of / to"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "is / are"
+        },
+        {
+          "zh": "三",
+          "py": "sān",
+          "meaning": "three"
+        },
+        {
+          "zh": "号",
+          "py": "hào",
+          "meaning": "number"
+        },
+        {
+          "zh": "车",
+          "py": "chē",
+          "meaning": "vehicle / train"
+        },
+        {
+          "zh": "厢",
+          "py": "xiāng",
+          "meaning": "carriage / compartment"
+        }
+      ]
+    },
+    {
+      "chinese": "请不要吸烟。",
+      "pinyin": "Qǐng bù yào xīyān.",
+      "translation": "Please do not smoke.",
+      "usage": "Used when asking someone not to smoke in a restricted area.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "不",
+          "py": "bù",
+          "meaning": "not"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "want / going to"
+        },
+        {
+          "zh": "吸",
+          "py": "xī",
+          "meaning": "inhale"
+        },
+        {
+          "zh": "烟",
+          "py": "yān",
+          "meaning": "smoke"
+        }
+      ]
+    },
+    {
+      "chinese": "我要买一张往返票。",
+      "pinyin": "Wǒ yào mǎi yī zhāng wǎngfǎn piào.",
+      "translation": "I want to buy a round-trip ticket.",
+      "usage": "Used when purchasing a ticket for a return journey.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / me"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "want / going to"
+        },
+        {
+          "zh": "买",
+          "py": "mǎi",
+          "meaning": "buy"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "张",
+          "py": "zhāng",
+          "meaning": "sheet / piece"
+        },
+        {
+          "zh": "往",
+          "py": "wǎng",
+          "meaning": "back and forth"
+        },
+        {
+          "zh": "返",
+          "py": "fǎn",
+          "meaning": "return"
+        },
+        {
+          "zh": "票",
+          "py": "piào",
+          "meaning": "ticket"
+        }
+      ]
+    },
+    {
+      "chinese": "请问，洗手间在哪里？",
+      "pinyin": "Qǐng wèn, xǐshǒujiān zài nǎlǐ?",
+      "translation": "Excuse me, where is the restroom?",
+      "usage": "Used when looking for the bathroom facilities.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "问",
+          "py": "wèn",
+          "meaning": "ask"
+        },
+        {
+          "zh": "洗",
+          "py": "xǐ",
+          "meaning": "wash"
+        },
+        {
+          "zh": "手",
+          "py": "shǒu",
+          "meaning": "hand"
+        },
+        {
+          "zh": "间",
+          "py": "jiān",
+          "meaning": "room / space"
+        },
+        {
+          "zh": "在",
+          "py": "zài",
+          "meaning": "at / in"
+        },
+        {
+          "zh": "哪",
+          "py": "nǎ",
+          "meaning": "where"
+        },
+        {
+          "zh": "里",
+          "py": "lǐ",
+          "meaning": "inside / within"
+        }
+      ]
+    },
+    {
+      "chinese": "我的行李箱放在这里。",
+      "pinyin": "Wǒ de xínglǐxiāng fàng zài zhèlǐ.",
+      "translation": "My suitcase is placed here.",
+      "usage": "Used when indicating where luggage is stored.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / me"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "of / to"
+        },
+        {
+          "zh": "行",
+          "py": "xíng",
+          "meaning": "travel"
+        },
+        {
+          "zh": "李",
+          "py": "lǐ",
+          "meaning": "baggage"
+        },
+        {
+          "zh": "箱",
+          "py": "xiāng",
+          "meaning": "box / case"
+        },
+        {
+          "zh": "放",
+          "py": "fàng",
+          "meaning": "put / place"
+        },
+        {
+          "zh": "在",
+          "py": "zài",
+          "meaning": "at / in"
+        },
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "里",
+          "py": "lǐ",
+          "meaning": "inside / within"
+        }
+      ]
+    },
+    {
+      "chinese": "请等一下。",
+      "pinyin": "Qǐng děng yīxià.",
+      "translation": "Please wait a moment.",
+      "usage": "Used when asking someone to wait briefly.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "等",
+          "py": "děng",
+          "meaning": "wait"
+        },
+        {
+          "zh": "一下",
+          "py": "yīxià",
+          "meaning": "a little / just a moment"
+        }
+      ]
+    },
+    {
+      "chinese": "我需要一张卧铺票。",
+      "pinyin": "Wǒ xūyào yī zhāng wòpū piào.",
+      "translation": "I need a sleeper ticket.",
+      "usage": "Used when requesting a specific type of ticket.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / me"
+        },
+        {
+          "zh": "需要",
+          "py": "xūyào",
+          "meaning": "need"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "张",
+          "py": "zhāng",
+          "meaning": "sheet / piece"
+        },
+        {
+          "zh": "卧",
+          "py": "wò",
+          "meaning": "lying down"
+        },
+        {
+          "zh": "铺",
+          "py": "pū",
+          "meaning": "bed"
+        },
+        {
+          "zh": "票",
+          "py": "piào",
+          "meaning": "ticket"
+        }
+      ]
+    },
+    {
+      "chinese": "请问，这班车几点到？",
+      "pinyin": "Qǐng wèn, zhè chē bàn jǐ diǎn dào?",
+      "translation": "Excuse me, what time does this train arrive?",
+      "usage": "Used when asking about train arrival times.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "问",
+          "py": "wèn",
+          "meaning": "ask"
+        },
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "车",
+          "py": "chē",
+          "meaning": "vehicle / train"
+        },
+        {
+          "zh": "班",
+          "py": "bàn",
+          "meaning": "shift / class"
+        },
+        {
+          "zh": "几",
+          "py": "jǐ",
+          "meaning": "how many / what"
+        },
+        {
+          "zh": "点",
+          "py": "diǎn",
+          "meaning": "o'clock"
+        },
+        {
+          "zh": "到",
+          "py": "dào",
+          "meaning": "arrive"
+        }
+      ]
+    },
+    {
+      "chinese": "请不要大声说话。",
+      "pinyin": "Qǐng bù yào dàshēng shuōhuà.",
+      "translation": "Please do not speak loudly.",
+      "usage": "Used when asking someone to keep quiet.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "不",
+          "py": "bù",
+          "meaning": "not"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "want / going to"
+        },
+        {
+          "zh": "大",
+          "py": "dà",
+          "meaning": "big / loud"
+        },
+        {
+          "zh": "声",
+          "py": "shēng",
+          "meaning": "voice / sound"
+        },
+        {
+          "zh": "说",
+          "py": "shuō",
+          "meaning": "speak"
+        },
+        {
+          "zh": "话",
+          "py": "huà",
+          "meaning": "words"
+        }
+      ]
+    },
+    {
+      "chinese": "我坐的是二等座。",
+      "pinyin": "Wǒ zuò de shì èr děng zuò.",
+      "translation": "I'm sitting in second class.",
+      "usage": "Used when indicating the class of seat you have.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / me"
+        },
+        {
+          "zh": "坐",
+          "py": "zuò",
+          "meaning": "sit / ride"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "of / to"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "is / are"
+        },
+        {
+          "zh": "二",
+          "py": "èr",
+          "meaning": "two"
+        },
+        {
+          "zh": "等",
+          "py": "děng",
+          "meaning": "grade / level"
+        },
+        {
+          "zh": "座",
+          "py": "zuò",
+          "meaning": "seat"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "sentences": [
+    {
+      "chinese": "一起",
+      "pinyin": "Yí qǐ",
+      "translation": "Together",
+      "usage": "The word '一' changes from first tone to second tone before a fourth tone.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "一",
+          "py": "yí",
+          "meaning": "one"
+        },
+        {
+          "zh": "起",
+          "py": "qǐ",
+          "meaning": "rise, together"
+        }
+      ]
+    },
+    {
+      "chinese": "不是",
+      "pinyin": "Bù shì",
+      "translation": "Not",
+      "usage": "'不' becomes second tone before a fourth tone ('是').",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "不",
+          "py": "bù",
+          "meaning": "no"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "to be"
+        }
+      ]
+    },
+    {
+      "chinese": "东西",
+      "pinyin": "Dōngxi",
+      "translation": "Thing",
+      "usage": "The second character '西' is neutral tone in this compound noun.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "东",
+          "py": "dōng",
+          "meaning": "east"
+        },
+        {
+          "zh": "西",
+          "py": "xi",
+          "meaning": "west"
+        }
+      ]
+    },
+    {
+      "chinese": "说话吧",
+      "pinyin": "Shuōhuà ba",
+      "translation": "Speak, please",
+      "usage": "'吧' is a neutral tone particle indicating suggestion.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "说",
+          "py": "shuō",
+          "meaning": "speak"
+        },
+        {
+          "zh": "话",
+          "py": "huà",
+          "meaning": "words"
+        },
+        {
+          "zh": "吧",
+          "py": "ba",
+          "meaning": "please"
+        }
+      ]
+    },
+    {
+      "chinese": "好吧",
+      "pinyin": "Bà yā",
+      "translation": "Okay",
+      "usage": "'吧' becomes neutral tone in this phrase.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good"
+        },
+        {
+          "zh": "吧",
+          "py": "ba",
+          "meaning": "please"
+        }
+      ]
+    },
+    {
+      "chinese": "什么",
+      "pinyin": "Shénme",
+      "translation": "What",
+      "usage": "'么' is neutral tone in this question word.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "什",
+          "py": "shén",
+          "meaning": "what"
+        },
+        {
+          "zh": "么",
+          "py": "me",
+          "meaning": "particle"
+        }
+      ]
+    },
+    {
+      "chinese": "一会儿",
+      "pinyin": "Yíhuìr",
+      "translation": "In a moment",
+      "usage": "The particle '儿' is neutral tone.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "一",
+          "py": "yí",
+          "meaning": "one"
+        },
+        {
+          "zh": "会",
+          "py": "huì",
+          "meaning": "meeting"
+        },
+        {
+          "zh": "儿",
+          "py": "r",
+          "meaning": "particle"
+        }
+      ]
+    },
+    {
+      "chinese": "来啦",
+      "pinyin": "Lái la",
+      "translation": "Here comes",
+      "usage": "'啦' is a neutral tone particle indicating completion.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "来",
+          "py": "lái",
+          "meaning": "come"
+        },
+        {
+          "zh": "啦",
+          "py": "la",
+          "meaning": "particle"
+        }
+      ]
+    },
+    {
+      "chinese": "哪儿",
+      "pinyin": "Nǎr",
+      "translation": "Where",
+      "usage": "'儿' is neutral tone in this question word.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "哪",
+          "py": "nǎ",
+          "meaning": "where"
+        },
+        {
+          "zh": "儿",
+          "py": "r",
+          "meaning": "particle"
+        }
+      ]
+    },
+    {
+      "chinese": "看看吧",
+      "pinyin": "Kànkan ba",
+      "translation": "Take a look",
+      "usage": "'吧' is a neutral tone particle softening the request.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "看",
+          "py": "kàn",
+          "meaning": "look"
+        },
+        {
+          "zh": "看",
+          "py": "kan",
+          "meaning": "look (repetition)"
+        },
+        {
+          "zh": "吧",
+          "py": "ba",
+          "meaning": "particle"
+        }
+      ]
+    },
+    {
+      "chinese": "不是吗",
+      "pinyin": "Bù shì ma",
+      "translation": "Isn't it?",
+      "usage": "'吗' is a neutral tone question particle.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "不",
+          "py": "bù",
+          "meaning": "no"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "to be"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question"
+        }
+      ]
+    }
+  ]
+}

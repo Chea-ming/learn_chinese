@@ -1,0 +1,250 @@
+{
+  "sentences": [
+    {
+      "chinese": "奖学金",
+      "pinyin": "Jiǎng xué jīn",
+      "translation": "Scholarship",
+      "usage": "Used when discussing financial assistance for students based on merit.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "奖",
+          "py": "jiǎng",
+          "meaning": "prize"
+        },
+        {
+          "zh": "学",
+          "py": "xué",
+          "meaning": "study"
+        },
+        {
+          "zh": "金",
+          "py": "jīn",
+          "meaning": "money"
+        }
+      ]
+    },
+    {
+      "chinese": "助学金",
+      "pinyin": "Zhù xué jīn",
+      "translation": "Financial aid",
+      "usage": "Refers to financial support provided to students in need.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "助",
+          "py": "zhù",
+          "meaning": "assist"
+        },
+        {
+          "zh": "学",
+          "py": "xué",
+          "meaning": "study"
+        },
+        {
+          "zh": "金",
+          "py": "jīn",
+          "meaning": "money"
+        }
+      ]
+    },
+    {
+      "chinese": "学费减免",
+      "pinyin": "Xué fèi jiǎn miǎn",
+      "translation": "Tuition waiver",
+      "usage": "Describes the reduction or elimination of tuition costs.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "学",
+          "py": "xué",
+          "meaning": "study"
+        },
+        {
+          "zh": "费",
+          "py": "fèi",
+          "meaning": "fee"
+        },
+        {
+          "zh": "减",
+          "py": "jiǎn",
+          "meaning": "reduce"
+        },
+        {
+          "zh": "免",
+          "py": "miǎn",
+          "meaning": "exempt"
+        }
+      ]
+    },
+    {
+      "chinese": "申请",
+      "pinyin": "Shēn qǐng",
+      "translation": "Application",
+      "usage": "Used when referring to the process of submitting documents for aid.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "申",
+          "py": "shēn",
+          "meaning": "apply"
+        },
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "request"
+        }
+      ]
+    },
+    {
+      "chinese": "提交申请材料",
+      "pinyin": "Tí jiāo shēn qǐng cái liào",
+      "translation": "Submit application materials",
+      "usage": "Instructions for gathering and submitting necessary documents.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "提",
+          "py": "tí",
+          "meaning": "submit"
+        },
+        {
+          "zh": "交",
+          "py": "jiāo",
+          "meaning": "hand in"
+        },
+        {
+          "zh": "材",
+          "py": "cái",
+          "meaning": "materials"
+        },
+        {
+          "zh": "料",
+          "py": "liào",
+          "meaning": "documents"
+        }
+      ]
+    },
+    {
+      "chinese": "符合条件",
+      "pinyin": "Fú hé gòng tiáo jiàn",
+      "translation": "Eligible",
+      "usage": "Describes meeting the requirements for aid.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "符",
+          "py": "fú",
+          "meaning": "match"
+        },
+        {
+          "zh": "合",
+          "py": "hé",
+          "meaning": "meet"
+        },
+        {
+          "zh": "条",
+          "py": "tiáo",
+          "meaning": "condition"
+        },
+        {
+          "zh": "件",
+          "py": "jiàn",
+          "meaning": "requirement"
+        }
+      ]
+    },
+    {
+      "chinese": "需求",
+      "pinyin": "Xū qiú",
+      "translation": "Needs",
+      "usage": "Refers to financial or academic requirements for aid.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "需",
+          "py": "xū",
+          "meaning": "need"
+        },
+        {
+          "zh": "求",
+          "py": "qiú",
+          "meaning": "requirement"
+        }
+      ]
+    },
+    {
+      "chinese": "国家助学贷款",
+      "pinyin": "Guó jiā zhù xué dài kuǎn",
+      "translation": "National student loan",
+      "usage": "Government-backed loans for students.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "国",
+          "py": "guó",
+          "meaning": "national"
+        },
+        {
+          "zh": "家",
+          "py": "jiā",
+          "meaning": "family"
+        },
+        {
+          "zh": "助",
+          "py": "zhù",
+          "meaning": "assist"
+        },
+        {
+          "zh": "学",
+          "py": "xué",
+          "meaning": "study"
+        },
+        {
+          "zh": "贷",
+          "py": "dài",
+          "meaning": "loan"
+        },
+        {
+          "zh": "款",
+          "py": "kuǎn",
+          "meaning": "money"
+        }
+      ]
+    },
+    {
+      "chinese": "校友奖学金",
+      "pinyin": "Xiào yǒu jiǎng xué jīn",
+      "translation": "Alumni scholarship",
+      "usage": "Scholarship funded by alumni contributions.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "校",
+          "py": "xiào",
+          "meaning": "school"
+        },
+        {
+          "zh": "友",
+          "py": "yǒu",
+          "meaning": "alumni"
+        },
+        {
+          "zh": "奖",
+          "py": "jiǎng",
+          "meaning": "prize"
+        },
+        {
+          "zh": "学",
+          "py": "xué",
+          "meaning": "study"
+        },
+        {
+          "zh": "金",
+          "py": "jīn",
+          "meaning": "money"
+        }
+      ]
+    }
+  ]
+}

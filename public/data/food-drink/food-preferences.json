@@ -1,0 +1,679 @@
+{
+  "sentences": [
+    {
+      "chinese": "我喜欢吃米饭。",
+      "pinyin": "Wǒ xǐhuān chī mǐfàn.",
+      "translation": "I like to eat rice.",
+      "usage": "Used to express preference for a particular food item.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "喜欢",
+          "py": "xǐhuān",
+          "meaning": "like"
+        },
+        {
+          "zh": "吃",
+          "py": "chī",
+          "meaning": "eat"
+        },
+        {
+          "zh": "米饭",
+          "py": "mǐfàn",
+          "meaning": "rice"
+        }
+      ]
+    },
+    {
+      "chinese": "你最喜欢的食物是什么？",
+      "pinyin": "Nǐ zuì xǐhuān de shíwù shì shénme?",
+      "translation": "What is your favorite food?",
+      "usage": "Asking about someone's personal food preference.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "最",
+          "py": "zuì",
+          "meaning": "most"
+        },
+        {
+          "zh": "喜欢",
+          "py": "xǐhuān",
+          "meaning": "like"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive particle"
+        },
+        {
+          "zh": "食物",
+          "py": "shíwù",
+          "meaning": "food"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "is"
+        },
+        {
+          "zh": "什么",
+          "py": "shénme",
+          "meaning": "what"
+        }
+      ]
+    },
+    {
+      "chinese": "我不喜欢吃蔬菜。",
+      "pinyin": "Wǒ bù xǐhuān chī shūcài.",
+      "translation": "I don't like to eat vegetables.",
+      "usage": "Expressing dislike for a particular type of food.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "不",
+          "py": "bù",
+          "meaning": "not"
+        },
+        {
+          "zh": "喜欢",
+          "py": "xǐhuān",
+          "meaning": "like"
+        },
+        {
+          "zh": "吃",
+          "py": "chī",
+          "meaning": "eat"
+        },
+        {
+          "zh": "蔬菜",
+          "py": "shūcài",
+          "meaning": "vegetables"
+        }
+      ]
+    },
+    {
+      "chinese": "我每天早上都吃面包。",
+      "pinyin": "Wǒ měitiān zǎoshang dōu chī miànbāo.",
+      "translation": "I eat bread every morning.",
+      "usage": "Describing regular eating habits or routines.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "每天",
+          "py": "měitiān",
+          "meaning": "every day"
+        },
+        {
+          "zh": "早上",
+          "py": "zǎoshang",
+          "meaning": "morning"
+        },
+        {
+          "zh": "都",
+          "py": "dōu",
+          "meaning": "all"
+        },
+        {
+          "zh": "吃",
+          "py": "chī",
+          "meaning": "eat"
+        },
+        {
+          "zh": "面包",
+          "py": "miànbāo",
+          "meaning": "bread"
+        }
+      ]
+    },
+    {
+      "chinese": "这家餐厅的菜很辣。",
+      "pinyin": "Zhè jiā cāntīng de cài hěn là.",
+      "translation": "The food at this restaurant is very spicy.",
+      "usage": "Commenting on the taste or characteristics of food at a place.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "家",
+          "py": "jiā",
+          "meaning": "house / place"
+        },
+        {
+          "zh": "餐厅",
+          "py": "cāntīng",
+          "meaning": "restaurant"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive particle"
+        },
+        {
+          "zh": "菜",
+          "py": "cài",
+          "meaning": "dish"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "辣",
+          "py": "là",
+          "meaning": "spicy"
+        }
+      ]
+    },
+    {
+      "chinese": "我特别爱吃火锅。",
+      "pinyin": "Wǒ tèbié ài chī huǒguō.",
+      "translation": "I especially love to eat hot pot.",
+      "usage": "Expressing strong preference for a specific dish or cuisine.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "特别",
+          "py": "tèbié",
+          "meaning": "especially"
+        },
+        {
+          "zh": "爱",
+          "py": "ài",
+          "meaning": "love"
+        },
+        {
+          "zh": "吃",
+          "py": "chī",
+          "meaning": "eat"
+        },
+        {
+          "zh": "火锅",
+          "py": "huǒguō",
+          "meaning": "hot pot"
+        }
+      ]
+    },
+    {
+      "chinese": "请给我一杯水。",
+      "pinyin": "Qǐng gěi wǒ yī bēi shuǐ.",
+      "translation": "Please give me a glass of water.",
+      "usage": "Formal request for a beverage, often used in restaurants.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "给",
+          "py": "gěi",
+          "meaning": "give"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "me"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "杯",
+          "py": "bēi",
+          "meaning": "cup"
+        },
+        {
+          "zh": "水",
+          "py": "shuǐ",
+          "meaning": "water"
+        }
+      ]
+    },
+    {
+      "chinese": "我不吃肉。",
+      "pinyin": "Wǒ bù chī ròu.",
+      "translation": "I don't eat meat.",
+      "usage": "Stating a dietary restriction or personal choice.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "不",
+          "py": "bù",
+          "meaning": "not"
+        },
+        {
+          "zh": "吃",
+          "py": "chī",
+          "meaning": "eat"
+        },
+        {
+          "zh": "肉",
+          "py": "ròu",
+          "meaning": "meat"
+        }
+      ]
+    },
+    {
+      "chinese": "我喜欢喝咖啡。",
+      "pinyin": "Wǒ xǐhuān hē kāfēi.",
+      "translation": "I like to drink coffee.",
+      "usage": "Expressing preference for a specific beverage.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "喜欢",
+          "py": "xǐhuān",
+          "meaning": "like"
+        },
+        {
+          "zh": "喝",
+          "py": "hē",
+          "meaning": "drink"
+        },
+        {
+          "zh": "咖啡",
+          "py": "kāfēi",
+          "meaning": "coffee"
+        }
+      ]
+    },
+    {
+      "chinese": "我们经常一起吃饭。",
+      "pinyin": "Wǒmen jīngcháng yīqǐ chīfàn.",
+      "translation": "We often eat together.",
+      "usage": "Describing regular social dining habits.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我们",
+          "py": "wǒmen",
+          "meaning": "we"
+        },
+        {
+          "zh": "经常",
+          "py": "jīngcháng",
+          "meaning": "often"
+        },
+        {
+          "zh": "一起",
+          "py": "yīqǐ",
+          "meaning": "together"
+        },
+        {
+          "zh": "吃饭",
+          "py": "chīfàn",
+          "meaning": "eat meal"
+        }
+      ]
+    },
+    {
+      "chinese": "这道菜太咸了。",
+      "pinyin": "Zhè dào cài tài xián le.",
+      "translation": "This dish is too salty.",
+      "usage": "Commenting on the taste of a specific dish.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "道",
+          "py": "dào",
+          "meaning": "dish"
+        },
+        {
+          "zh": "菜",
+          "py": "cài",
+          "meaning": "dish"
+        },
+        {
+          "zh": "太",
+          "py": "tài",
+          "meaning": "too"
+        },
+        {
+          "zh": "咸",
+          "py": "xián",
+          "meaning": "salty"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completive particle"
+        }
+      ]
+    },
+    {
+      "chinese": "你想要什么饮料？",
+      "pinyin": "Nǐ xiǎng yào shénme yǐnliào?",
+      "translation": "What drink would you like?",
+      "usage": "Asking about someone's beverage preference in a restaurant.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "想",
+          "py": "xiǎng",
+          "meaning": "want"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "to want"
+        },
+        {
+          "zh": "什么",
+          "py": "shénme",
+          "meaning": "what"
+        },
+        {
+          "zh": "饮料",
+          "py": "yǐnliào",
+          "meaning": "drink"
+        }
+      ]
+    },
+    {
+      "chinese": "我正在吃面条。",
+      "pinyin": "Wǒ zhèngzài chī miàntiáo.",
+      "translation": "I am eating noodles.",
+      "usage": "Describing what you are currently eating.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "正在",
+          "py": "zhèngzài",
+          "meaning": "currently"
+        },
+        {
+          "zh": "吃",
+          "py": "chī",
+          "meaning": "eat"
+        },
+        {
+          "zh": "面条",
+          "py": "miàntiáo",
+          "meaning": "noodles"
+        }
+      ]
+    },
+    {
+      "chinese": "我每天都吃水果。",
+      "pinyin": "Wǒ měitiān dōu chī shuǐguǒ.",
+      "translation": "I eat fruit every day.",
+      "usage": "Describing a regular healthy eating habit.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "每天",
+          "py": "měitiān",
+          "meaning": "every day"
+        },
+        {
+          "zh": "都",
+          "py": "dōu",
+          "meaning": "all"
+        },
+        {
+          "zh": "吃",
+          "py": "chī",
+          "meaning": "eat"
+        },
+        {
+          "zh": "水果",
+          "py": "shuǐguǒ",
+          "meaning": "fruit"
+        }
+      ]
+    },
+    {
+      "chinese": "我不喜欢喝牛奶。",
+      "pinyin": "Wǒ bù xǐhuān hē niúnǎi.",
+      "translation": "I don't like to drink milk.",
+      "usage": "Expressing dislike for a particular beverage.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "不",
+          "py": "bù",
+          "meaning": "not"
+        },
+        {
+          "zh": "喜欢",
+          "py": "xǐhuān",
+          "meaning": "like"
+        },
+        {
+          "zh": "喝",
+          "py": "hē",
+          "meaning": "drink"
+        },
+        {
+          "zh": "牛奶",
+          "py": "niúnǎi",
+          "meaning": "milk"
+        }
+      ]
+    },
+    {
+      "chinese": "我爱吃甜食。",
+      "pinyin": "Wǒ ài chī tiánshí.",
+      "translation": "I love to eat sweets.",
+      "usage": "Expressing preference for sweet foods.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "爱",
+          "py": "ài",
+          "meaning": "love"
+        },
+        {
+          "zh": "吃",
+          "py": "chī",
+          "meaning": "eat"
+        },
+        {
+          "zh": "甜食",
+          "py": "tiánshí",
+          "meaning": "sweets"
+        }
+      ]
+    },
+    {
+      "chinese": "你吃米饭吗？",
+      "pinyin": "Nǐ chī mǐfàn ma?",
+      "translation": "Do you eat rice?",
+      "usage": "Asking whether someone eats a specific food item.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "吃",
+          "py": "chī",
+          "meaning": "eat"
+        },
+        {
+          "zh": "米饭",
+          "py": "mǐfàn",
+          "meaning": "rice"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "我很少吃快餐。",
+      "pinyin": "Wǒ hěn shǎo chī kuàicān.",
+      "translation": "I rarely eat fast food.",
+      "usage": "Describing infrequent consumption of certain types of food.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "少",
+          "py": "shǎo",
+          "meaning": "few"
+        },
+        {
+          "zh": "吃",
+          "py": "chī",
+          "meaning": "eat"
+        },
+        {
+          "zh": "快餐",
+          "py": "kuàicān",
+          "meaning": "fast food"
+        }
+      ]
+    },
+    {
+      "chinese": "这道菜很辣。",
+      "pinyin": "Zhè dào cài hěn là.",
+      "translation": "This dish is very spicy.",
+      "usage": "Commenting on the spiciness of a dish.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "道",
+          "py": "dào",
+          "meaning": "dish"
+        },
+        {
+          "zh": "菜",
+          "py": "cài",
+          "meaning": "dish"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "辣",
+          "py": "là",
+          "meaning": "spicy"
+        }
+      ]
+    },
+    {
+      "chinese": "我喜欢吃中餐。",
+      "pinyin": "Wǒ xǐhuān chī zhōngcān.",
+      "translation": "I like to eat Chinese food.",
+      "usage": "Expressing preference for a specific cuisine.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "喜欢",
+          "py": "xǐhuān",
+          "meaning": "like"
+        },
+        {
+          "zh": "吃",
+          "py": "chī",
+          "meaning": "eat"
+        },
+        {
+          "zh": "中餐",
+          "py": "zhōngcān",
+          "meaning": "Chinese food"
+        }
+      ]
+    }
+  ]
+}

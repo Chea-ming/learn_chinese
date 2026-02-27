@@ -1,0 +1,118 @@
+{
+  "sentences": [
+    {
+      "chinese": "进行研究",
+      "pinyin": "Jìnxíng yánjiū",
+      "translation": "Conduct research",
+      "usage": "Used when initiating an academic investigation.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "进行",
+          "py": "Jìnxíng",
+          "meaning": "to carry out"
+        },
+        {
+          "zh": "研究",
+          "py": "Yánjiū",
+          "meaning": "research"
+        }
+      ]
+    },
+    {
+      "chinese": "研究项目",
+      "pinyin": "Yánjiū xiàngmù",
+      "translation": "Research project",
+      "usage": "Refers to an organized academic endeavor.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "研究",
+          "py": "Yánjiū",
+          "meaning": "research"
+        },
+        {
+          "zh": "项目",
+          "py": "Xiàngmù",
+          "meaning": "project"
+        }
+      ]
+    },
+    {
+      "chinese": "数据收集",
+      "pinyin": "Shùjù shōují",
+      "translation": "Data collection",
+      "usage": "Process of gathering information for analysis.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "数据",
+          "py": "Shùjù",
+          "meaning": "data"
+        },
+        {
+          "zh": "收集",
+          "py": "Shōují",
+          "meaning": "to collect"
+        }
+      ]
+    },
+    {
+      "chinese": "文献综述",
+      "pinyin": "Wénxiàn zōngshù",
+      "translation": "Literature review",
+      "usage": "Summarizes existing scholarly works.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "文献",
+          "py": "Wénxiàn",
+          "meaning": "literature"
+        },
+        {
+          "zh": "综述",
+          "py": "Zōngshù",
+          "meaning": "summary"
+        }
+      ]
+    },
+    {
+      "chinese": "研究假设",
+      "pinyin": "Yánjiū jiǎshè",
+      "translation": "Research hypothesis",
+      "usage": "Proposes an explanatory statement.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "研究",
+          "py": "Yánjiū",
+          "meaning": "research"
+        },
+        {
+          "zh": "假设",
+          "py": "Jiǎshè",
+          "meaning": "hypothesis"
+        }
+      ]
+    },
+    {
+      "chinese": "同行评审",
+      "pinyin": "Tóngxíng píngshěn",
+      "translation": "Peer review",
+      "usage": "Process for evaluating scholarly work.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "同行",
+          "py": "Tóngxíng",
+          "meaning": "peers"
+        },
+        {
+          "zh": "评审",
+          "py": "Píngshěn",
+          "meaning": "review"
+        }
+      ]
+    }
+  ]
+}

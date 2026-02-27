@@ -1,0 +1,169 @@
+{
+  "sentences": [
+    {
+      "chinese": "学费是多少？",
+      "pinyin": "Xuéfèi shì duōshǎo?",
+      "translation": "What is the tuition fee?",
+      "usage": "Asking about tuition costs.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "学",
+          "py": "xué",
+          "meaning": "study"
+        },
+        {
+          "zh": "费",
+          "py": "fèi",
+          "meaning": "fee"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "is"
+        },
+        {
+          "zh": "多少",
+          "py": "duōshǎo",
+          "meaning": "how much"
+        }
+      ]
+    },
+    {
+      "chinese": "报名费需要支付吗？",
+      "pinyin": "Bàomíng fèi xūyào zhīfù ma?",
+      "translation": "Do I need to pay an application fee?",
+      "usage": "Inquiring about application fees.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "报名",
+          "py": "bàomíng",
+          "meaning": "application"
+        },
+        {
+          "zh": "费",
+          "py": "fèi",
+          "meaning": "fee"
+        },
+        {
+          "zh": "需要",
+          "py": "xūyào",
+          "meaning": "need"
+        },
+        {
+          "zh": "支付",
+          "py": "zhīfù",
+          "meaning": "pay"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "可以申请学费减免吗？",
+      "pinyin": "Kěyǐ shēnqǐng xuéfèi jiǎnmiǎn ma?",
+      "translation": "Can I apply for tuition reduction?",
+      "usage": "Requesting tuition exemption.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "可以",
+          "py": "kěyǐ",
+          "meaning": "can"
+        },
+        {
+          "zh": "申请",
+          "py": "shēnqǐng",
+          "meaning": "apply"
+        },
+        {
+          "zh": "学费",
+          "py": "xuéfèi",
+          "meaning": "tuition"
+        },
+        {
+          "zh": "减免",
+          "py": "jiǎnmiǎn",
+          "meaning": "reduction"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "国际学生学费更高吗？",
+      "pinyin": "Guójì xuéshēng xuéfèi gèng gāo ma?",
+      "translation": "Are tuition fees higher for international students?",
+      "usage": "Comparing tuition for different student types.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "国际",
+          "py": "guójì",
+          "meaning": "international"
+        },
+        {
+          "zh": "学生",
+          "py": "xuéshēng",
+          "meaning": "student"
+        },
+        {
+          "zh": "学费",
+          "py": "xuéfèi",
+          "meaning": "tuition"
+        },
+        {
+          "zh": "更高",
+          "py": "gèng gāo",
+          "meaning": "higher"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "学费分期付款政策是什么？",
+      "pinyin": "Xuéfèi fēnqī kuòfù zhèngcè shì shénme?",
+      "translation": "What is the tuition installment payment policy?",
+      "usage": "Inquiring about payment plans.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "学费",
+          "py": "xuéfèi",
+          "meaning": "tuition"
+        },
+        {
+          "zh": "分期付款",
+          "py": "fēnqī kuòfù",
+          "meaning": "installment payment"
+        },
+        {
+          "zh": "政策",
+          "py": "zhèngcè",
+          "meaning": "policy"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "is"
+        },
+        {
+          "zh": "什么",
+          "py": "shénme",
+          "meaning": "what"
+        }
+      ]
+    }
+  ]
+}

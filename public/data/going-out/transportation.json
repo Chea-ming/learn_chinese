@@ -1,0 +1,689 @@
+{
+  "sentences": [
+    {
+      "chinese": "我坐地铁去上班。",
+      "pinyin": "Wǒ zuò dìtiě qù shàngbān.",
+      "translation": "I take the subway to work.",
+      "usage": "Used to describe taking public transportation to get to work.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "坐",
+          "py": "zuò",
+          "meaning": "to take (transportation)"
+        },
+        {
+          "zh": "地铁",
+          "py": "dìtiě",
+          "meaning": "subway"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "to go"
+        },
+        {
+          "zh": "上班",
+          "py": "shàngbān",
+          "meaning": "to go to work"
+        }
+      ]
+    },
+    {
+      "chinese": "请问，到火车站怎么走？",
+      "pinyin": "Qǐngwèn, dào huǒchē zhàn zěnme zǒu?",
+      "translation": "Excuse me, how do I get to the train station?",
+      "usage": "Used when asking for directions to a train station.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请问",
+          "py": "qǐngwèn",
+          "meaning": "excuse me"
+        },
+        {
+          "zh": "到",
+          "py": "dào",
+          "meaning": "to"
+        },
+        {
+          "zh": "火车",
+          "py": "huǒchē",
+          "meaning": "train"
+        },
+        {
+          "zh": "站",
+          "py": "zhàn",
+          "meaning": "station"
+        },
+        {
+          "zh": "怎么",
+          "py": "zěnme",
+          "meaning": "how"
+        },
+        {
+          "zh": "走",
+          "py": "zǒu",
+          "meaning": "to go"
+        }
+      ]
+    },
+    {
+      "chinese": "公交车很拥挤。",
+      "pinyin": "Gōngjiāo chē hěn yāngǒng.",
+      "translation": "The bus is very crowded.",
+      "usage": "Describing the crowded condition of a bus.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "公交",
+          "py": "gōngjiāo",
+          "meaning": "public"
+        },
+        {
+          "zh": "车",
+          "py": "chē",
+          "meaning": "vehicle"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "拥挤",
+          "py": "yāngǒng",
+          "meaning": "crowded"
+        }
+      ]
+    },
+    {
+      "chinese": "我骑自行车上班。",
+      "pinyin": "Wǒ qí zìxíngchē shàngbān.",
+      "translation": "I ride my bicycle to work.",
+      "usage": "Used to describe using a bicycle for commuting.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "骑",
+          "py": "qí",
+          "meaning": "to ride"
+        },
+        {
+          "zh": "自行车",
+          "py": "zìxíngchē",
+          "meaning": "bicycle"
+        },
+        {
+          "zh": "上班",
+          "py": "shàngbān",
+          "meaning": "to go to work"
+        }
+      ]
+    },
+    {
+      "chinese": "出租车很贵。",
+      "pinyin": "Chūzūchē hěn guì.",
+      "translation": "Taxis are very expensive.",
+      "usage": "Used to express that taxi rides are costly.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "出租",
+          "py": "chūzū",
+          "meaning": "rental"
+        },
+        {
+          "zh": "车",
+          "py": "chē",
+          "meaning": "vehicle"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "贵",
+          "py": "guì",
+          "meaning": "expensive"
+        }
+      ]
+    },
+    {
+      "chinese": "地铁站离这里不远。",
+      "pinyin": "Dìtiě zhàn lí zhèlǐ bù yuǎn.",
+      "translation": "The subway station is not far from here.",
+      "usage": "Used to tell someone that the subway station is nearby.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "地铁",
+          "py": "dìtiě",
+          "meaning": "subway"
+        },
+        {
+          "zh": "站",
+          "py": "zhàn",
+          "meaning": "station"
+        },
+        {
+          "zh": "离",
+          "py": "lí",
+          "meaning": "to be away from"
+        },
+        {
+          "zh": "这里",
+          "py": "zhèlǐ",
+          "meaning": "here"
+        },
+        {
+          "zh": "不",
+          "py": "bù",
+          "meaning": "not"
+        },
+        {
+          "zh": "远",
+          "py": "yuǎn",
+          "meaning": "far"
+        }
+      ]
+    },
+    {
+      "chinese": "我要坐飞机去北京。",
+      "pinyin": "Wǒ yào zuò fēijī qù Běijīng.",
+      "translation": "I'm going to Beijing by plane.",
+      "usage": "Used to express traveling to Beijing by airplane.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "want to"
+        },
+        {
+          "zh": "坐",
+          "py": "zuò",
+          "meaning": "to take"
+        },
+        {
+          "zh": "飞机",
+          "py": "fēijī",
+          "meaning": "airplane"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "to go"
+        },
+        {
+          "zh": "北京",
+          "py": "Běijīng",
+          "meaning": "Beijing"
+        }
+      ]
+    },
+    {
+      "chinese": "地铁运行准时。",
+      "pinyin": "Dìtiě yùnxíng zhǔnshí.",
+      "translation": "The subway runs on time.",
+      "usage": "Used to describe that the subway is punctual.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "地铁",
+          "py": "dìtiě",
+          "meaning": "subway"
+        },
+        {
+          "zh": "运行",
+          "py": "yùnxíng",
+          "meaning": "to run"
+        },
+        {
+          "zh": "准时",
+          "py": "zhǔnshí",
+          "meaning": "on time"
+        }
+      ]
+    },
+    {
+      "chinese": "我们打车去机场。",
+      "pinyin": "Wǒmen dǎ chē qù jīchǎng.",
+      "translation": "We're taking a taxi to the airport.",
+      "usage": "Used to describe taking a taxi to go to the airport.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我们",
+          "py": "wǒmen",
+          "meaning": "we"
+        },
+        {
+          "zh": "打",
+          "py": "dǎ",
+          "meaning": "to take"
+        },
+        {
+          "zh": "车",
+          "py": "chē",
+          "meaning": "vehicle"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "to go"
+        },
+        {
+          "zh": "机场",
+          "py": "jīchǎng",
+          "meaning": "airport"
+        }
+      ]
+    },
+    {
+      "chinese": "地铁票多少钱？",
+      "pinyin": "Dìtiě piào duōshǎo qián?",
+      "translation": "How much does a subway ticket cost?",
+      "usage": "Used to ask about the price of a subway ticket.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "地铁",
+          "py": "dìtiě",
+          "meaning": "subway"
+        },
+        {
+          "zh": "票",
+          "py": "piào",
+          "meaning": "ticket"
+        },
+        {
+          "zh": "多少",
+          "py": "duōshǎo",
+          "meaning": "how much"
+        },
+        {
+          "zh": "钱",
+          "py": "qián",
+          "meaning": "money"
+        }
+      ]
+    },
+    {
+      "chinese": "我坐公交车去学校。",
+      "pinyin": "Wǒ zuò gōngjiāo chē qù xuéxiào.",
+      "translation": "I take the bus to school.",
+      "usage": "Used to describe taking the bus to get to school.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "坐",
+          "py": "zuò",
+          "meaning": "to take"
+        },
+        {
+          "zh": "公交",
+          "py": "gōngjiāo",
+          "meaning": "public"
+        },
+        {
+          "zh": "车",
+          "py": "chē",
+          "meaning": "vehicle"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "to go"
+        },
+        {
+          "zh": "学校",
+          "py": "xuéxiào",
+          "meaning": "school"
+        }
+      ]
+    },
+    {
+      "chinese": "骑共享单车很环保。",
+      "pinyin": "Qí gòngxiāng jīchē hěn huánbǎo.",
+      "translation": "Riding shared bikes is very environmentally friendly.",
+      "usage": "Used to express that using shared bikes is eco-friendly.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "骑",
+          "py": "qí",
+          "meaning": "to ride"
+        },
+        {
+          "zh": "共享",
+          "py": "gòngxiāng",
+          "meaning": "shared"
+        },
+        {
+          "zh": "单车",
+          "py": "jīchē",
+          "meaning": "bike"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "环保",
+          "py": "huánbǎo",
+          "meaning": "environmentally friendly"
+        }
+      ]
+    },
+    {
+      "chinese": "地铁线路图在哪里？",
+      "pinyin": "Dìtiě xiànlù tú zài nǎlǐ?",
+      "translation": "Where is the subway map?",
+      "usage": "Used to ask for the location of a subway map.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "地铁",
+          "py": "dìtiě",
+          "meaning": "subway"
+        },
+        {
+          "zh": "线路",
+          "py": "xiànlù",
+          "meaning": "line"
+        },
+        {
+          "zh": "图",
+          "py": "tú",
+          "meaning": "map"
+        },
+        {
+          "zh": "在",
+          "py": "zài",
+          "meaning": "at"
+        },
+        {
+          "zh": "哪里",
+          "py": "nǎlǐ",
+          "meaning": "where"
+        }
+      ]
+    },
+    {
+      "chinese": "我坐地铁上班，很方便。",
+      "pinyin": "Wǒ zuò dìtiě shàngbān, hěn fāngbiàn.",
+      "translation": "I take the subway to work, it's very convenient.",
+      "usage": "Used to express that taking the subway is convenient for commuting.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "坐",
+          "py": "zuò",
+          "meaning": "to take"
+        },
+        {
+          "zh": "地铁",
+          "py": "dìtiě",
+          "meaning": "subway"
+        },
+        {
+          "zh": "上班",
+          "py": "shàngbān",
+          "meaning": "to go to work"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "方便",
+          "py": "fāngbiàn",
+          "meaning": "convenient"
+        }
+      ]
+    },
+    {
+      "chinese": "打车软件很方便。",
+      "pinyin": "Dǎ chē ruǎnjiàn hěn fāngbiàn.",
+      "translation": "Taxi booking apps are very convenient.",
+      "usage": "Used to describe how convenient taxi apps are.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "打车",
+          "py": "dǎ chē",
+          "meaning": "to take a taxi"
+        },
+        {
+          "zh": "软件",
+          "py": "ruǎnjiàn",
+          "meaning": "software"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "方便",
+          "py": "fāngbiàn",
+          "meaning": "convenient"
+        }
+      ]
+    },
+    {
+      "chinese": "坐地铁要提前买票。",
+      "pinyin": "Zuò dìtiě yào tíqián mǎi piào.",
+      "translation": "You need to buy tickets in advance for the subway.",
+      "usage": "Used to explain the necessity of buying subway tickets ahead of time.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "坐",
+          "py": "zuò",
+          "meaning": "to take"
+        },
+        {
+          "zh": "地铁",
+          "py": "dìtiě",
+          "meaning": "subway"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "need to"
+        },
+        {
+          "zh": "提前",
+          "py": "tíqián",
+          "meaning": "in advance"
+        },
+        {
+          "zh": "买",
+          "py": "mǎi",
+          "meaning": "to buy"
+        },
+        {
+          "zh": "票",
+          "py": "piào",
+          "meaning": "ticket"
+        }
+      ]
+    },
+    {
+      "chinese": "我们步行去公园。",
+      "pinyin": "Wǒmen bùxíng qù gōngyuán.",
+      "translation": "We're walking to the park.",
+      "usage": "Used to describe walking to a park.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我们",
+          "py": "wǒmen",
+          "meaning": "we"
+        },
+        {
+          "zh": "步行",
+          "py": "bùxíng",
+          "meaning": "to walk"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "to go"
+        },
+        {
+          "zh": "公园",
+          "py": "gōngyuán",
+          "meaning": "park"
+        }
+      ]
+    },
+    {
+      "chinese": "地铁站里有很多人。",
+      "pinyin": "Dìtiě zhàn lǐ yǒu hěn duō rén.",
+      "translation": "There are many people in the subway station.",
+      "usage": "Used to describe the crowded subway station.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "地铁",
+          "py": "dìtiě",
+          "meaning": "subway"
+        },
+        {
+          "zh": "站",
+          "py": "zhàn",
+          "meaning": "station"
+        },
+        {
+          "zh": "里",
+          "py": "lǐ",
+          "meaning": "inside"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "there are"
+        },
+        {
+          "zh": "很多",
+          "py": "hěn duō",
+          "meaning": "many"
+        },
+        {
+          "zh": "人",
+          "py": "rén",
+          "meaning": "people"
+        }
+      ]
+    },
+    {
+      "chinese": "坐地铁比坐公交快。",
+      "pinyin": "Zuò dìtiě bǐ zuò gōngjiāo kuài.",
+      "translation": "Taking the subway is faster than taking the bus.",
+      "usage": "Used to compare the speed of subway versus bus.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "坐",
+          "py": "zuò",
+          "meaning": "to take"
+        },
+        {
+          "zh": "地铁",
+          "py": "dìtiě",
+          "meaning": "subway"
+        },
+        {
+          "zh": "比",
+          "py": "bǐ",
+          "meaning": "than"
+        },
+        {
+          "zh": "坐",
+          "py": "zuò",
+          "meaning": "to take"
+        },
+        {
+          "zh": "公交",
+          "py": "gōngjiāo",
+          "meaning": "bus"
+        },
+        {
+          "zh": "快",
+          "py": "kuài",
+          "meaning": "fast"
+        }
+      ]
+    },
+    {
+      "chinese": "地铁站有自动售票机。",
+      "pinyin": "Dìtiě zhàn yǒu zìdòng màipiào jī.",
+      "translation": "The subway station has automatic ticket machines.",
+      "usage": "Used to describe the presence of automatic ticket machines in subway stations.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "地铁",
+          "py": "dìtiě",
+          "meaning": "subway"
+        },
+        {
+          "zh": "站",
+          "py": "zhàn",
+          "meaning": "station"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "there are"
+        },
+        {
+          "zh": "自动",
+          "py": "zìdòng",
+          "meaning": "automatic"
+        },
+        {
+          "zh": "售票",
+          "py": "màipiào",
+          "meaning": "ticket selling"
+        },
+        {
+          "zh": "机",
+          "py": "jī",
+          "meaning": "machine"
+        }
+      ]
+    }
+  ]
+}

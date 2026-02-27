@@ -1,0 +1,242 @@
+{
+  "sentences": [
+    {
+      "chinese": "高山",
+      "pinyin": "Gāo shān",
+      "translation": "High mountain",
+      "usage": "Describes elevated mountainous terrain",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "高",
+          "py": "gāo",
+          "meaning": "high"
+        },
+        {
+          "zh": "山",
+          "py": "shān",
+          "meaning": "mountain"
+        }
+      ]
+    },
+    {
+      "chinese": "河流",
+      "pinyin": "Hé liú",
+      "translation": "River current",
+      "usage": "General term for flowing water bodies",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "河",
+          "py": "hé",
+          "meaning": "river"
+        },
+        {
+          "zh": "流",
+          "py": "liú",
+          "meaning": "flow"
+        }
+      ]
+    },
+    {
+      "chinese": "平原",
+      "pinyin": "Píng yuán",
+      "translation": "Flat plain",
+      "usage": "Refers to low-lying flatlands",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "平",
+          "py": "píng",
+          "meaning": "flat"
+        },
+        {
+          "zh": "原",
+          "py": "yuán",
+          "meaning": "field"
+        }
+      ]
+    },
+    {
+      "chinese": "沙漠",
+      "pinyin": "Shā mò",
+      "translation": "Desert",
+      "usage": "Arid sandy terrain",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "沙",
+          "py": "shā",
+          "meaning": "sand"
+        },
+        {
+          "zh": "漠",
+          "py": "mò",
+          "meaning": "desolate"
+        }
+      ]
+    },
+    {
+      "chinese": "湖泊",
+      "pinyin": "Hú pō",
+      "translation": "Lake",
+      "usage": "Still body of water",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "湖",
+          "py": "hú",
+          "meaning": "lake"
+        },
+        {
+          "zh": "泊",
+          "py": "pō",
+          "meaning": "water accumulation"
+        }
+      ]
+    },
+    {
+      "chinese": "瀑布",
+      "pinyin": "Pù bù",
+      "translation": "Waterfall",
+      "usage": "Vertical cascading water",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "瀑",
+          "py": "pù",
+          "meaning": "cascading"
+        },
+        {
+          "zh": "布",
+          "py": "bù",
+          "meaning": "fabric (metaphor for water curtain)"
+        }
+      ]
+    },
+    {
+      "chinese": "森林",
+      "pinyin": "Sēng lín",
+      "translation": "Forest",
+      "usage": "Dense woodlands",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "森",
+          "py": "sēn",
+          "meaning": "dense"
+        },
+        {
+          "zh": "林",
+          "py": "lín",
+          "meaning": "wood"
+        }
+      ]
+    },
+    {
+      "chinese": "沼泽",
+      "pinyin": "Zhǎo zé",
+      "translation": "Swamp",
+      "usage": "Wetland with shallow water",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "沼",
+          "py": "zhǎo",
+          "meaning": "water hole"
+        },
+        {
+          "zh": "泽",
+          "py": "zé",
+          "meaning": "marsh"
+        }
+      ]
+    },
+    {
+      "chinese": "三角洲",
+      "pinyin": "Sān jiǎo zhōu",
+      "translation": "Delta",
+      "usage": "River mouth landform",
+      "formality": "Technical",
+      "words": [
+        {
+          "zh": "三",
+          "py": "sān",
+          "meaning": "three"
+        },
+        {
+          "zh": "角",
+          "py": "jiǎo",
+          "meaning": "corner"
+        },
+        {
+          "zh": "洲",
+          "py": "zhōu",
+          "meaning": "island"
+        }
+      ]
+    },
+    {
+      "chinese": "海岸线",
+      "pinyin": "Hǎi àn xiàn",
+      "translation": "Coastline",
+      "usage": "Ocean-land boundary",
+      "formality": "Technical",
+      "words": [
+        {
+          "zh": "海",
+          "py": "hǎi",
+          "meaning": "sea"
+        },
+        {
+          "zh": "岸",
+          "py": "àn",
+          "meaning": "shore"
+        },
+        {
+          "zh": "线",
+          "py": "xiàn",
+          "meaning": "line"
+        }
+      ]
+    },
+    {
+      "chinese": "冰川",
+      "pinyin": "Bīng chuān",
+      "translation": "Glacier",
+      "usage": "Permanently frozen water",
+      "formality": "Scientific",
+      "words": [
+        {
+          "zh": "冰",
+          "py": "bīng",
+          "meaning": "ice"
+        },
+        {
+          "zh": "川",
+          "py": "chuān",
+          "meaning": "stream"
+        }
+      ]
+    },
+    {
+      "chinese": "丘陵",
+      "pinyin": "Qiū lín",
+      "translation": "Hills",
+      "usage": "Rolling low mountains",
+      "formality": "Technical",
+      "words": [
+        {
+          "zh": "丘",
+          "py": "qiū",
+          "meaning": "hillock"
+        },
+        {
+          "zh": "陵",
+          "py": "líng",
+          "meaning": "elevation"
+        }
+      ]
+    }
+  ]
+}

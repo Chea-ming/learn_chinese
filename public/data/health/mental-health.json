@@ -1,0 +1,263 @@
+{
+  "sentences": [
+    {
+      "chinese": "保持积极心态",
+      "pinyin": "Bǎo chí jī jí xīn tài",
+      "translation": "Stay positive",
+      "usage": "Suggest maintaining optimism during difficult times",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "保持",
+          "py": "bǎo chí",
+          "meaning": "maintain"
+        },
+        {
+          "zh": "积极",
+          "py": "jī jí",
+          "meaning": "positive"
+        },
+        {
+          "zh": "心态",
+          "py": "xīn tài",
+          "meaning": "mental state"
+        }
+      ]
+    },
+    {
+      "chinese": "深呼吸放松",
+      "pinyin": "Shēn hū xī fàng sōng",
+      "translation": "Take a deep breath and relax",
+      "usage": "Technique to reduce immediate stress",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "深呼吸",
+          "py": "shēn hū xī",
+          "meaning": "deep breath"
+        },
+        {
+          "zh": "放松",
+          "py": "fàng sōng",
+          "meaning": "relax"
+        }
+      ]
+    },
+    {
+      "chinese": "心理健康同样重要",
+      "pinyin": "Měnɡ lǐ shēnɡ yù tóng yàng zhòng yào",
+      "translation": "Mental health is just as important",
+      "usage": "Emphasize equal importance of mental and physical health",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "心理健康",
+          "py": "měnɡ lǐ shēnɡ yù",
+          "meaning": "mental health"
+        },
+        {
+          "zh": "重要",
+          "py": "zhòng yào",
+          "meaning": "important"
+        }
+      ]
+    },
+    {
+      "chinese": "寻求专业帮助",
+      "pinyin": "Xún qiú zhuān yè bāng zhù",
+      "translation": "Seek professional help",
+      "usage": "Encourage consulting mental health experts",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "寻求",
+          "py": "xún qiú",
+          "meaning": "seek"
+        },
+        {
+          "zh": "专业",
+          "py": "zhuān yè",
+          "meaning": "professional"
+        },
+        {
+          "zh": "帮助",
+          "py": "bāng zhù",
+          "meaning": "help"
+        }
+      ]
+    },
+    {
+      "chinese": "每天给自己充电",
+      "pinyin": "Měi tiān gěi zì jǐ chōng diàn",
+      "translation": "Recharge yourself every day",
+      "usage": "Metaphor for daily self-care",
+      "formality": "Casual",
+      "words": [
+        {
+          "zh": "每天",
+          "py": "měi tiān",
+          "meaning": "every day"
+        },
+        {
+          "zh": "给自己",
+          "py": "gěi zì jǐ",
+          "meaning": "for oneself"
+        },
+        {
+          "zh": "充电",
+          "py": "chōng diàn",
+          "meaning": "recharge"
+        }
+      ]
+    },
+    {
+      "chinese": "压力需要被释放",
+      "pinyin": "Yā lì xū yào bèi shì fàng",
+      "translation": "Stress needs to be released",
+      "usage": "Explain the necessity of stress management",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "压力",
+          "py": "yā lì",
+          "meaning": "stress"
+        },
+        {
+          "zh": "需要",
+          "py": "xū yào",
+          "meaning": "needs"
+        },
+        {
+          "zh": "释放",
+          "py": "shì fàng",
+          "meaning": "release"
+        }
+      ]
+    },
+    {
+      "chinese": "倾听他人感受",
+      "pinyin": "Qīng tīng tā rén gǎn shòu",
+      "translation": "Listen to others' feelings",
+      "usage": "Emphasize active listening in support",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "倾听",
+          "py": "qīng tīng",
+          "meaning": "listen attentively"
+        },
+        {
+          "zh": "他人",
+          "py": "tā rén",
+          "meaning": "others"
+        },
+        {
+          "zh": "感受",
+          "py": "gǎn shòu",
+          "meaning": "feelings"
+        }
+      ]
+    },
+    {
+      "chinese": "适度运动改善心情",
+      "pinyin": "Shì dù yùn dòng gǎi shàn xīn qíng",
+      "translation": "Moderate exercise improves mood",
+      "usage": "Link physical activity to mental health",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "适度",
+          "py": "shì dù",
+          "meaning": "moderate"
+        },
+        {
+          "zh": "运动",
+          "py": "yùn dòng",
+          "meaning": "exercise"
+        },
+        {
+          "zh": "改善",
+          "py": "gǎi shàn",
+          "meaning": "improve"
+        },
+        {
+          "zh": "心情",
+          "py": "xīn qíng",
+          "meaning": "mood"
+        }
+      ]
+    },
+    {
+      "chinese": "你值得被关爱",
+      "pinyin": "Nǐ zhí dé bèi guān ài",
+      "translation": "You deserve to be loved",
+      "usage": "Affirmation for self-worth",
+      "formality": "Casual",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "值得",
+          "py": "zhí dé",
+          "meaning": "deserve"
+        },
+        {
+          "zh": "被关爱",
+          "py": "bèi guān ài",
+          "meaning": "to be loved"
+        }
+      ]
+    },
+    {
+      "chinese": "记录感恩日记",
+      "pinyin": "Jì lù gǎn ēn rì jì",
+      "translation": "Keep a gratitude journal",
+      "usage": "Practice for cultivating positive thinking",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "记录",
+          "py": "jì lù",
+          "meaning": "record"
+        },
+        {
+          "zh": "感恩",
+          "py": "gǎn ēn",
+          "meaning": "gratitude"
+        },
+        {
+          "zh": "日记",
+          "py": "rì jì",
+          "meaning": "journal"
+        }
+      ]
+    },
+    {
+      "chinese": "冥想有助于平静",
+      "pinyin": "Míng xiǎng yǒu zhù yú píng jìng",
+      "translation": "Meditation helps calmness",
+      "usage": "Explain mental health benefits",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "冥想",
+          "py": "míng xiǎng",
+          "meaning": "meditation"
+        },
+        {
+          "zh": "有助于",
+          "py": "yǒu zhù yú",
+          "meaning": "helps"
+        },
+        {
+          "zh": "平静",
+          "py": "píng jìng",
+          "meaning": "calmness"
+        }
+      ]
+    }
+  ]
+}

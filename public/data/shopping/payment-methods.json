@@ -1,0 +1,834 @@
+{
+  "sentences": [
+    {
+      "chinese": "请问，可以用微信支付吗？",
+      "pinyin": "Qǐng wèn, kě yǐ yòng Wēi Xìn zhī fù ma?",
+      "translation": "Excuse me, can I pay with WeChat Pay?",
+      "usage": "When shopping and wanting to use WeChat Pay instead of cash or card",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "问",
+          "py": "wèn",
+          "meaning": "ask"
+        },
+        {
+          "zh": "可",
+          "py": "kě",
+          "meaning": "can"
+        },
+        {
+          "zh": "以",
+          "py": "yǐ",
+          "meaning": "to be able to"
+        },
+        {
+          "zh": "用",
+          "py": "yòng",
+          "meaning": "use"
+        },
+        {
+          "zh": "微",
+          "py": "wēi",
+          "meaning": "small / WeChat"
+        },
+        {
+          "zh": "信",
+          "py": "xìn",
+          "meaning": "trust / WeChat"
+        },
+        {
+          "zh": "支",
+          "py": "zhī",
+          "meaning": "pay"
+        },
+        {
+          "zh": "付",
+          "py": "fù",
+          "meaning": "to pay"
+        }
+      ]
+    },
+    {
+      "chinese": "我用支付宝付款",
+      "pinyin": "Wǒ yòng Zhī Fù Bào fù kuǎn",
+      "translation": "I pay with Alipay",
+      "usage": "When explaining how you will pay for something",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "用",
+          "py": "yòng",
+          "meaning": "use"
+        },
+        {
+          "zh": "支",
+          "py": "zhī",
+          "meaning": "pay"
+        },
+        {
+          "zh": "付",
+          "py": "fù",
+          "meaning": "to pay"
+        },
+        {
+          "zh": "宝",
+          "py": "bào",
+          "meaning": "treasure / Alipay"
+        },
+        {
+          "zh": "付",
+          "py": "fù",
+          "meaning": "to pay"
+        },
+        {
+          "zh": "款",
+          "py": "kuǎn",
+          "meaning": "payment"
+        }
+      ]
+    },
+    {
+      "chinese": "现金可以吗？",
+      "pinyin": "Xiàn jīn kě yǐ ma?",
+      "translation": "Can I pay in cash?",
+      "usage": "When asking if cash is acceptable as a payment method",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "现",
+          "py": "xiàn",
+          "meaning": "cash"
+        },
+        {
+          "zh": "金",
+          "py": "jīn",
+          "meaning": "money"
+        },
+        {
+          "zh": "可",
+          "py": "kě",
+          "meaning": "can"
+        },
+        {
+          "zh": "以",
+          "py": "yǐ",
+          "meaning": "to be able to"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "刷卡支付",
+      "pinyin": "Shuā kǎ zhī fù",
+      "translation": "Card payment",
+      "usage": "When describing the payment method using a credit or debit card",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "刷",
+          "py": "shuā",
+          "meaning": "to swipe"
+        },
+        {
+          "zh": "卡",
+          "py": "kǎ",
+          "meaning": "card"
+        },
+        {
+          "zh": "支",
+          "py": "zhī",
+          "meaning": "pay"
+        },
+        {
+          "zh": "付",
+          "py": "fù",
+          "meaning": "to pay"
+        }
+      ]
+    },
+    {
+      "chinese": "我用手机支付",
+      "pinyin": "Wǒ yòng shǒu jī zhī fù",
+      "translation": "I pay with my phone",
+      "usage": "When explaining that you will use your mobile phone for payment",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "用",
+          "py": "yòng",
+          "meaning": "use"
+        },
+        {
+          "zh": "手",
+          "py": "shǒu",
+          "meaning": "hand"
+        },
+        {
+          "zh": "机",
+          "py": "jī",
+          "meaning": "machine / phone"
+        },
+        {
+          "zh": "支",
+          "py": "zhī",
+          "meaning": "pay"
+        },
+        {
+          "zh": "付",
+          "py": "fù",
+          "meaning": "to pay"
+        }
+      ]
+    },
+    {
+      "chinese": "请用现金支付",
+      "pinyin": "Qǐng yòng xiàn jīn zhī fù",
+      "translation": "Please pay in cash",
+      "usage": "When politely asking someone to pay with cash",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "用",
+          "py": "yòng",
+          "meaning": "use"
+        },
+        {
+          "zh": "现",
+          "py": "xiàn",
+          "meaning": "cash"
+        },
+        {
+          "zh": "金",
+          "py": "jīn",
+          "meaning": "money"
+        },
+        {
+          "zh": "支",
+          "py": "zhī",
+          "meaning": "pay"
+        },
+        {
+          "zh": "付",
+          "py": "fù",
+          "meaning": "to pay"
+        }
+      ]
+    },
+    {
+      "chinese": "我们接受信用卡",
+      "pinyin": "Wǒ men jiē shòu xìn yòng kǎ",
+      "translation": "We accept credit cards",
+      "usage": "When informing customers that credit cards are accepted",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "们",
+          "py": "men",
+          "meaning": "we"
+        },
+        {
+          "zh": "接",
+          "py": "jiē",
+          "meaning": "accept"
+        },
+        {
+          "zh": "受",
+          "py": "shòu",
+          "meaning": "receive"
+        },
+        {
+          "zh": "信",
+          "py": "xìn",
+          "meaning": "credit"
+        },
+        {
+          "zh": "用",
+          "py": "yòng",
+          "meaning": "use"
+        },
+        {
+          "zh": "卡",
+          "py": "kǎ",
+          "meaning": "card"
+        }
+      ]
+    },
+    {
+      "chinese": "可以刷卡吗？",
+      "pinyin": "Kě yǐ shuā kǎ ma?",
+      "translation": "Can I swipe a card?",
+      "usage": "When asking if card payment is possible",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "可",
+          "py": "kě",
+          "meaning": "can"
+        },
+        {
+          "zh": "以",
+          "py": "yǐ",
+          "meaning": "to be able to"
+        },
+        {
+          "zh": "刷",
+          "py": "shuā",
+          "meaning": "to swipe"
+        },
+        {
+          "zh": "卡",
+          "py": "kǎ",
+          "meaning": "card"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "我需要找零",
+      "pinyin": "Wǒ xū yào zhǎo líng",
+      "translation": "I need change",
+      "usage": "When paying with cash and needing to receive change",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "需",
+          "py": "xū",
+          "meaning": "need"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "want"
+        },
+        {
+          "zh": "找",
+          "py": "zhǎo",
+          "meaning": "to give back"
+        },
+        {
+          "zh": "零",
+          "py": "líng",
+          "meaning": "change"
+        }
+      ]
+    },
+    {
+      "chinese": "这东西多少钱？",
+      "pinyin": "Zhè dōng xī duō shǎo qián?",
+      "translation": "How much does this cost?",
+      "usage": "When asking about the price of an item",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "东",
+          "py": "dōng",
+          "meaning": "thing"
+        },
+        {
+          "zh": "西",
+          "py": "xī",
+          "meaning": "thing"
+        },
+        {
+          "zh": "多",
+          "py": "duō",
+          "meaning": "how much"
+        },
+        {
+          "zh": "少",
+          "py": "shǎo",
+          "meaning": "few"
+        },
+        {
+          "zh": "钱",
+          "py": "qián",
+          "meaning": "money"
+        }
+      ]
+    },
+    {
+      "chinese": "请把零钱给我",
+      "pinyin": "Qǐng bǎ líng qián gěi wǒ",
+      "translation": "Please give me the change",
+      "usage": "When asking for change after paying with cash",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "把",
+          "py": "bǎ",
+          "meaning": "give"
+        },
+        {
+          "zh": "零",
+          "py": "líng",
+          "meaning": "change"
+        },
+        {
+          "zh": "钱",
+          "py": "qián",
+          "meaning": "money"
+        },
+        {
+          "zh": "给",
+          "py": "gěi",
+          "meaning": "to give"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        }
+      ]
+    },
+    {
+      "chinese": "我有银行卡",
+      "pinyin": "Wǒ yǒu yín háng kǎ",
+      "translation": "I have a bank card",
+      "usage": "When informing someone that you have a bank card for payment",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "have"
+        },
+        {
+          "zh": "银",
+          "py": "yín",
+          "meaning": "silver / bank"
+        },
+        {
+          "zh": "行",
+          "py": "háng",
+          "meaning": "bank"
+        },
+        {
+          "zh": "卡",
+          "py": "kǎ",
+          "meaning": "card"
+        }
+      ]
+    },
+    {
+      "chinese": "我忘记带现金了",
+      "pinyin": "Wǒ wàng jì dài xiàn jīn le",
+      "translation": "I forgot to bring cash",
+      "usage": "When realizing you don't have cash with you",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "忘",
+          "py": "wàng",
+          "meaning": "forget"
+        },
+        {
+          "zh": "记",
+          "py": "jì",
+          "meaning": "remember"
+        },
+        {
+          "zh": "带",
+          "py": "dài",
+          "meaning": "bring"
+        },
+        {
+          "zh": "现",
+          "py": "xiàn",
+          "meaning": "cash"
+        },
+        {
+          "zh": "金",
+          "py": "jīn",
+          "meaning": "money"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed action"
+        }
+      ]
+    },
+    {
+      "chinese": "请等一下，我用手机支付",
+      "pinyin": "Qǐng děng yī xià, wǒ yòng shǒu jī zhī fù",
+      "translation": "Please wait a moment, I'll pay with my phone",
+      "usage": "When needing a moment to pay with mobile payment",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "等",
+          "py": "děng",
+          "meaning": "wait"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "下",
+          "py": "xià",
+          "meaning": "a moment"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "用",
+          "py": "yòng",
+          "meaning": "use"
+        },
+        {
+          "zh": "手",
+          "py": "shǒu",
+          "meaning": "hand"
+        },
+        {
+          "zh": "机",
+          "py": "jī",
+          "meaning": "machine / phone"
+        },
+        {
+          "zh": "支",
+          "py": "zhī",
+          "meaning": "pay"
+        },
+        {
+          "zh": "付",
+          "py": "fù",
+          "meaning": "to pay"
+        }
+      ]
+    },
+    {
+      "chinese": "这个价格太贵了",
+      "pinyin": "Zhège jià gé tài guì le",
+      "translation": "This price is too expensive",
+      "usage": "When finding an item's price too high",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "个",
+          "py": "ge",
+          "meaning": "a"
+        },
+        {
+          "zh": "价",
+          "py": "jià",
+          "meaning": "price"
+        },
+        {
+          "zh": "格",
+          "py": "gé",
+          "meaning": "grade"
+        },
+        {
+          "zh": "太",
+          "py": "tài",
+          "meaning": "too"
+        },
+        {
+          "zh": "贵",
+          "py": "guì",
+          "meaning": "expensive"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed action"
+        }
+      ]
+    },
+    {
+      "chinese": "可以分期付款吗？",
+      "pinyin": "Kě yǐ fēn qī fù kuǎn ma?",
+      "translation": "Can I pay in installments?",
+      "usage": "When asking about installment payment options",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "可",
+          "py": "kě",
+          "meaning": "can"
+        },
+        {
+          "zh": "以",
+          "py": "yǐ",
+          "meaning": "to be able to"
+        },
+        {
+          "zh": "分",
+          "py": "fēn",
+          "meaning": "divide"
+        },
+        {
+          "zh": "期",
+          "py": "qī",
+          "meaning": "period"
+        },
+        {
+          "zh": "付",
+          "py": "fù",
+          "meaning": "pay"
+        },
+        {
+          "zh": "款",
+          "py": "kuǎn",
+          "meaning": "money"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "我可以用信用卡吗？",
+      "pinyin": "Wǒ kě yǐ yòng xìn yòng kǎ ma?",
+      "translation": "Can I use a credit card?",
+      "usage": "When asking about credit card payment",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "可",
+          "py": "kě",
+          "meaning": "can"
+        },
+        {
+          "zh": "以",
+          "py": "yǐ",
+          "meaning": "to be able to"
+        },
+        {
+          "zh": "用",
+          "py": "yòng",
+          "meaning": "use"
+        },
+        {
+          "zh": "信",
+          "py": "xìn",
+          "meaning": "credit"
+        },
+        {
+          "zh": "用",
+          "py": "yòng",
+          "meaning": "use"
+        },
+        {
+          "zh": "卡",
+          "py": "kǎ",
+          "meaning": "card"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "我需要一个收据",
+      "pinyin": "Wǒ xū yào yī gè shōu jù",
+      "translation": "I need a receipt",
+      "usage": "When requesting a receipt for purchase",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "需",
+          "py": "xū",
+          "meaning": "need"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "want"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "个",
+          "py": "ge",
+          "meaning": "a"
+        },
+        {
+          "zh": "收",
+          "py": "shōu",
+          "meaning": "receive"
+        },
+        {
+          "zh": "据",
+          "py": "jù",
+          "meaning": "receipt"
+        }
+      ]
+    },
+    {
+      "chinese": "这东西打折吗？",
+      "pinyin": "Zhè dōng xī dǎ zhé ma?",
+      "translation": "Is this item on sale?",
+      "usage": "When asking if an item is discounted",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "东",
+          "py": "dōng",
+          "meaning": "thing"
+        },
+        {
+          "zh": "西",
+          "py": "xī",
+          "meaning": "thing"
+        },
+        {
+          "zh": "打",
+          "py": "dǎ",
+          "meaning": "hit"
+        },
+        {
+          "zh": "折",
+          "py": "zhé",
+          "meaning": "discount"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "请给我一张发票",
+      "pinyin": "Qǐng gěi wǒ yī zhāng fā piào",
+      "translation": "Please give me an invoice",
+      "usage": "When requesting an invoice for purchase",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "给",
+          "py": "gěi",
+          "meaning": "to give"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "张",
+          "py": "zhāng",
+          "meaning": "sheet"
+        },
+        {
+          "zh": "发",
+          "py": "fā",
+          "meaning": "issue"
+        },
+        {
+          "zh": "票",
+          "py": "piào",
+          "meaning": "ticket"
+        }
+      ]
+    }
+  ]
+}

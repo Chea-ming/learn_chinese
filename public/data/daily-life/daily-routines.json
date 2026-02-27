@@ -1,0 +1,674 @@
+{
+  "sentences": [
+    {
+      "chinese": "我每天早上七点起床。",
+      "pinyin": "Wǒ měi tiān zǎo shàng qī diǎn qǐ chuáng.",
+      "translation": "I get up at seven o'clock every morning.",
+      "usage": "Used to describe a regular morning routine.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "每天",
+          "py": "měi tiān",
+          "meaning": "every day"
+        },
+        {
+          "zh": "早上",
+          "py": "zǎo shàng",
+          "meaning": "morning"
+        },
+        {
+          "zh": "七点",
+          "py": "qī diǎn",
+          "meaning": "seven o'clock"
+        },
+        {
+          "zh": "起床",
+          "py": "qǐ chuáng",
+          "meaning": "to get up"
+        }
+      ]
+    },
+    {
+      "chinese": "你通常几点上班？",
+      "pinyin": "Nǐ tōng cháng jǐ diǎn shàng bān?",
+      "translation": "What time do you usually go to work?",
+      "usage": "Asks about someone's typical work schedule.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "通常",
+          "py": "tōng cháng",
+          "meaning": "usually"
+        },
+        {
+          "zh": "几点",
+          "py": "jǐ diǎn",
+          "meaning": "what time"
+        },
+        {
+          "zh": "上班",
+          "py": "shàng bān",
+          "meaning": "go to work"
+        }
+      ]
+    },
+    {
+      "chinese": "我习惯在饭后散步。",
+      "pinyin": "Wǒ xí guàn zài fàn hòu sàn bù.",
+      "translation": "I am used to taking a walk after dinner.",
+      "usage": "Describes a common post-meal activity.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "习惯",
+          "py": "xí guàn",
+          "meaning": "habit"
+        },
+        {
+          "zh": "在",
+          "py": "zài",
+          "meaning": "at"
+        },
+        {
+          "zh": "饭后",
+          "py": "fàn hòu",
+          "meaning": "after meal"
+        },
+        {
+          "zh": "散步",
+          "py": "sàn bù",
+          "meaning": "walk"
+        }
+      ]
+    },
+    {
+      "chinese": "她每天晚上读英语书。",
+      "pinyin": "Tā měi tiān wǎn shàng dú yīng yǔ shū.",
+      "translation": "She reads English books every evening.",
+      "usage": "Describes a nightly reading habit.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "她",
+          "py": "tā",
+          "meaning": "she"
+        },
+        {
+          "zh": "每天",
+          "py": "měi tiān",
+          "meaning": "every day"
+        },
+        {
+          "zh": "晚上",
+          "py": "wǎn shàng",
+          "meaning": "evening"
+        },
+        {
+          "zh": "读",
+          "py": "dú",
+          "meaning": "read"
+        },
+        {
+          "zh": "英语书",
+          "py": "yīng yǔ shū",
+          "meaning": "English book"
+        }
+      ]
+    },
+    {
+      "chinese": "我们一般在十一点睡觉。",
+      "pinyin": "Wǒ men yī bān zài shí yī diǎn shuì jiào.",
+      "translation": "We usually go to bed at eleven o'clock.",
+      "usage": "Describes a typical bedtime routine.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我们",
+          "py": "wǒ men",
+          "meaning": "we"
+        },
+        {
+          "zh": "一般",
+          "py": "yī bān",
+          "meaning": "usually"
+        },
+        {
+          "zh": "在",
+          "py": "zài",
+          "meaning": "at"
+        },
+        {
+          "zh": "十一点",
+          "py": "shí yī diǎn",
+          "meaning": "eleven o'clock"
+        },
+        {
+          "zh": "睡觉",
+          "py": "shuì jiào",
+          "meaning": "sleep"
+        }
+      ]
+    },
+    {
+      "chinese": "他每天早上刷牙洗脸。",
+      "pinyin": "Tā měi tiān zǎo shàng shuā yá xǐ liǎn.",
+      "translation": "He brushes his teeth and washes his face every morning.",
+      "usage": "Describes morning hygiene routine.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "他",
+          "py": "tā",
+          "meaning": "he"
+        },
+        {
+          "zh": "每天",
+          "py": "měi tiān",
+          "meaning": "every day"
+        },
+        {
+          "zh": "早上",
+          "py": "zǎo shàng",
+          "meaning": "morning"
+        },
+        {
+          "zh": "刷牙",
+          "py": "shuā yá",
+          "meaning": "brush teeth"
+        },
+        {
+          "zh": "洗脸",
+          "py": "xǐ liǎn",
+          "meaning": "wash face"
+        }
+      ]
+    },
+    {
+      "chinese": "我喜欢在周末看书。",
+      "pinyin": "Wǒ xǐ huān zài zhōu mò kàn shū.",
+      "translation": "I like to read books on weekends.",
+      "usage": "Describes a leisure activity during free time.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "喜欢",
+          "py": "xǐ huān",
+          "meaning": "like"
+        },
+        {
+          "zh": "在",
+          "py": "zài",
+          "meaning": "at"
+        },
+        {
+          "zh": "周末",
+          "py": "zhōu mò",
+          "meaning": "weekend"
+        },
+        {
+          "zh": "看书",
+          "py": "kàn shū",
+          "meaning": "read books"
+        }
+      ]
+    },
+    {
+      "chinese": "请按时完成作业。",
+      "pinyin": "Qǐng àn shí wán chéng zuò yè.",
+      "translation": "Please complete your homework on time.",
+      "usage": "Formal instruction about doing homework by a specific time.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "按时",
+          "py": "àn shí",
+          "meaning": "on time"
+        },
+        {
+          "zh": "完成",
+          "py": "wán chéng",
+          "meaning": "complete"
+        },
+        {
+          "zh": "作业",
+          "py": "zuò yè",
+          "meaning": "homework"
+        }
+      ]
+    },
+    {
+      "chinese": "我们每天早晨做运动。",
+      "pinyin": "Wǒ men měi tiān zǎo chén zuò yùn dòng.",
+      "translation": "We do exercise every morning.",
+      "usage": "Describes a regular morning exercise routine.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我们",
+          "py": "wǒ men",
+          "meaning": "we"
+        },
+        {
+          "zh": "每天",
+          "py": "měi tiān",
+          "meaning": "every day"
+        },
+        {
+          "zh": "早晨",
+          "py": "zǎo chén",
+          "meaning": "morning"
+        },
+        {
+          "zh": "做",
+          "py": "zuò",
+          "meaning": "do"
+        },
+        {
+          "zh": "运动",
+          "py": "yùn dòng",
+          "meaning": "exercise"
+        }
+      ]
+    },
+    {
+      "chinese": "你什么时候起床？",
+      "pinyin": "Nǐ shén me shí hou qǐ chuáng?",
+      "translation": "When do you get up?",
+      "usage": "Asks about someone's起床 time.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "什么时候",
+          "py": "shén me shí hou",
+          "meaning": "when"
+        },
+        {
+          "zh": "起床",
+          "py": "qǐ chuáng",
+          "meaning": "get up"
+        }
+      ]
+    },
+    {
+      "chinese": "她通常在中午吃午饭。",
+      "pinyin": "Tā tōng cháng zài zhōng wǔ chī wǔ fàn.",
+      "translation": "She usually eats lunch at noon.",
+      "usage": "Describes a typical lunch schedule.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "她",
+          "py": "tā",
+          "meaning": "she"
+        },
+        {
+          "zh": "通常",
+          "py": "tōng cháng",
+          "meaning": "usually"
+        },
+        {
+          "zh": "在",
+          "py": "zài",
+          "meaning": "at"
+        },
+        {
+          "zh": "中午",
+          "py": "zhōng wǔ",
+          "meaning": "noon"
+        },
+        {
+          "zh": "吃",
+          "py": "chī",
+          "meaning": "eat"
+        },
+        {
+          "zh": "午饭",
+          "py": "wǔ fàn",
+          "meaning": "lunch"
+        }
+      ]
+    },
+    {
+      "chinese": "我每天晚上八点看电视。",
+      "pinyin": "Wǒ měi tiān wǎn shàng bā diǎn kàn diàn shì.",
+      "translation": "I watch TV at eight o'clock every evening.",
+      "usage": "Describes evening entertainment routine.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "每天",
+          "py": "měi tiān",
+          "meaning": "every day"
+        },
+        {
+          "zh": "晚上",
+          "py": "wǎn shàng",
+          "meaning": "evening"
+        },
+        {
+          "zh": "八点",
+          "py": "bā diǎn",
+          "meaning": "eight o'clock"
+        },
+        {
+          "zh": "看",
+          "py": "kàn",
+          "meaning": "watch"
+        },
+        {
+          "zh": "电视",
+          "py": "diàn shì",
+          "meaning": "TV"
+        }
+      ]
+    },
+    {
+      "chinese": "他每天早上六点起床。",
+      "pinyin": "Tā měi tiān zǎo shàng liù diǎn qǐ chuáng.",
+      "translation": "He gets up at six o'clock every morning.",
+      "usage": "Describes someone's early morning routine.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "他",
+          "py": "tā",
+          "meaning": "he"
+        },
+        {
+          "zh": "每天",
+          "py": "měi tiān",
+          "meaning": "every day"
+        },
+        {
+          "zh": "早上",
+          "py": "zǎo shàng",
+          "meaning": "morning"
+        },
+        {
+          "zh": "六点",
+          "py": "liù diǎn",
+          "meaning": "six o'clock"
+        },
+        {
+          "zh": "起床",
+          "py": "qǐ chuáng",
+          "meaning": "get up"
+        }
+      ]
+    },
+    {
+      "chinese": "我们一般在下午三点开会。",
+      "pinyin": "Wǒ men yī bān zài xià wǔ sān diǎn kāi huì.",
+      "translation": "We usually have a meeting at three o'clock in the afternoon.",
+      "usage": "Describes a typical work meeting schedule.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我们",
+          "py": "wǒ men",
+          "meaning": "we"
+        },
+        {
+          "zh": "一般",
+          "py": "yī bān",
+          "meaning": "usually"
+        },
+        {
+          "zh": "在",
+          "py": "zài",
+          "meaning": "at"
+        },
+        {
+          "zh": "下午",
+          "py": "xià wǔ",
+          "meaning": "afternoon"
+        },
+        {
+          "zh": "三点",
+          "py": "sān diǎn",
+          "meaning": "three o'clock"
+        },
+        {
+          "zh": "开会",
+          "py": "kāi huì",
+          "meaning": "hold a meeting"
+        }
+      ]
+    },
+    {
+      "chinese": "我喜欢在咖啡厅里看书。",
+      "pinyin": "Wǒ xǐ huān zài kā fēi tīng lǐ kàn shū.",
+      "translation": "I like to read books in the coffee shop.",
+      "usage": "Describes a preferred reading location.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "喜欢",
+          "py": "xǐ huān",
+          "meaning": "like"
+        },
+        {
+          "zh": "在",
+          "py": "zài",
+          "meaning": "in"
+        },
+        {
+          "zh": "咖啡厅",
+          "py": "kā fēi tīng",
+          "meaning": "coffee shop"
+        },
+        {
+          "zh": "里",
+          "py": "lǐ",
+          "meaning": "inside"
+        },
+        {
+          "zh": "看书",
+          "py": "kàn shū",
+          "meaning": "read books"
+        }
+      ]
+    },
+    {
+      "chinese": "她每天下午去健身房。",
+      "pinyin": "Tā měi tiān xià wǔ qù jiàn shēn fáng.",
+      "translation": "She goes to the gym every afternoon.",
+      "usage": "Describes regular fitness routine.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "她",
+          "py": "tā",
+          "meaning": "she"
+        },
+        {
+          "zh": "每天",
+          "py": "měi tiān",
+          "meaning": "every day"
+        },
+        {
+          "zh": "下午",
+          "py": "xià wǔ",
+          "meaning": "afternoon"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "go to"
+        },
+        {
+          "zh": "健身房",
+          "py": "jiàn shēn fáng",
+          "meaning": "gym"
+        }
+      ]
+    },
+    {
+      "chinese": "请按时交作业。",
+      "pinyin": "Qǐng àn shí jiāo zuò yè.",
+      "translation": "Please submit your homework on time.",
+      "usage": "Formal instruction about homework submission deadline.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "按时",
+          "py": "àn shí",
+          "meaning": "on time"
+        },
+        {
+          "zh": "交",
+          "py": "jiāo",
+          "meaning": "submit"
+        },
+        {
+          "zh": "作业",
+          "py": "zuò yè",
+          "meaning": "homework"
+        }
+      ]
+    },
+    {
+      "chinese": "我们每天早上跑步。",
+      "pinyin": "Wǒ men měi tiān zǎo shàng pǎo bù.",
+      "translation": "We run every morning.",
+      "usage": "Describes morning running routine.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我们",
+          "py": "wǒ men",
+          "meaning": "we"
+        },
+        {
+          "zh": "每天",
+          "py": "měi tiān",
+          "meaning": "every day"
+        },
+        {
+          "zh": "早上",
+          "py": "zǎo shàng",
+          "meaning": "morning"
+        },
+        {
+          "zh": "跑步",
+          "py": "pǎo bù",
+          "meaning": "run"
+        }
+      ]
+    },
+    {
+      "chinese": "你什么时候吃晚饭？",
+      "pinyin": "Nǐ shén me shí hou chī wǎn fàn?",
+      "translation": "When do you eat dinner?",
+      "usage": "Asks about dinner timing.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "什么时候",
+          "py": "shén me shí hou",
+          "meaning": "when"
+        },
+        {
+          "zh": "吃",
+          "py": "chī",
+          "meaning": "eat"
+        },
+        {
+          "zh": "晚饭",
+          "py": "wǎn fàn",
+          "meaning": "dinner"
+        }
+      ]
+    },
+    {
+      "chinese": "她通常在晚上十点睡觉。",
+      "pinyin": "Tā tōng cháng zài wǎn shàng shí diǎn shuì jiào.",
+      "translation": "She usually goes to bed at ten o'clock in the evening.",
+      "usage": "Describes typical bedtime routine.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "她",
+          "py": "tā",
+          "meaning": "she"
+        },
+        {
+          "zh": "通常",
+          "py": "tōng cháng",
+          "meaning": "usually"
+        },
+        {
+          "zh": "在",
+          "py": "zài",
+          "meaning": "at"
+        },
+        {
+          "zh": "晚上",
+          "py": "wǎn shàng",
+          "meaning": "evening"
+        },
+        {
+          "zh": "十点",
+          "py": "shí diǎn",
+          "meaning": "ten o'clock"
+        },
+        {
+          "zh": "睡觉",
+          "py": "shuì jiào",
+          "meaning": "sleep"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,674 @@
+{
+  "sentences": [
+    {
+      "chinese": "每天早上我要刷牙。",
+      "pinyin": "Měitiān zǎoshang wǒ yào shuāyá.",
+      "translation": "I brush my teeth every morning.",
+      "usage": "Used to describe a daily hygiene routine.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "每天",
+          "py": "měitiān",
+          "meaning": "every day"
+        },
+        {
+          "zh": "早上",
+          "py": "zǎoshang",
+          "meaning": "morning"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "want to"
+        },
+        {
+          "zh": "刷牙",
+          "py": "shuāyá",
+          "meaning": "brush teeth"
+        }
+      ]
+    },
+    {
+      "chinese": "请用肥皂洗手。",
+      "pinyin": "Qǐng yòng féizào xǐshǒu.",
+      "translation": "Please wash your hands with soap.",
+      "usage": "A formal instruction for hygiene practice.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "用",
+          "py": "yòng",
+          "meaning": "use"
+        },
+        {
+          "zh": "肥皂",
+          "py": "féizào",
+          "meaning": "soap"
+        },
+        {
+          "zh": "洗手",
+          "py": "xǐshǒu",
+          "meaning": "wash hands"
+        }
+      ]
+    },
+    {
+      "chinese": "我需要洗头。",
+      "pinyin": "Wǒ xūyào xǐtóu.",
+      "translation": "I need to wash my hair.",
+      "usage": "Expressing a personal hygiene need.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "需要",
+          "py": "xūyào",
+          "meaning": "need"
+        },
+        {
+          "zh": "洗头",
+          "py": "xǐtóu",
+          "meaning": "wash hair"
+        }
+      ]
+    },
+    {
+      "chinese": "洗澡前要先洗手。",
+      "pinyin": "Xǐzǎo qián yào xiān xǐshǒu.",
+      "translation": "Wash your hands before taking a bath.",
+      "usage": "A hygiene rule for cleanliness.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "洗澡",
+          "py": "xǐzǎo",
+          "meaning": "take a bath"
+        },
+        {
+          "zh": "前",
+          "py": "qián",
+          "meaning": "before"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "need to"
+        },
+        {
+          "zh": "先",
+          "py": "xiān",
+          "meaning": "first"
+        },
+        {
+          "zh": "洗手",
+          "py": "xǐshǒu",
+          "meaning": "wash hands"
+        }
+      ]
+    },
+    {
+      "chinese": "保持身体清洁很重要。",
+      "pinyin": "Bǎochí shēntǐ qīngjié hěn zhòngyào.",
+      "translation": "Keeping the body clean is very important.",
+      "usage": "Used to emphasize the importance of hygiene.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "保持",
+          "py": "bǎochí",
+          "meaning": "maintain"
+        },
+        {
+          "zh": "身体",
+          "py": "shēntǐ",
+          "meaning": "body"
+        },
+        {
+          "zh": "清洁",
+          "py": "qīngjié",
+          "meaning": "clean"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "重要",
+          "py": "zhòngyào",
+          "meaning": "important"
+        }
+      ]
+    },
+    {
+      "chinese": "你今天洗过澡了吗？",
+      "pinyin": "Nǐ jīntiān xǐ guò zǎo le ma?",
+      "translation": "Have you taken a bath today?",
+      "usage": "Asking about someone's hygiene routine.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "今天",
+          "py": "jīntiān",
+          "meaning": "today"
+        },
+        {
+          "zh": "洗",
+          "py": "xǐ",
+          "meaning": "wash"
+        },
+        {
+          "zh": "过",
+          "py": "guò",
+          "meaning": "have"
+        },
+        {
+          "zh": "澡",
+          "py": "zǎo",
+          "meaning": "bath"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "我每天都用牙线清洁牙齿。",
+      "pinyin": "Wǒ měitiān dōu yòng yáchǎn qīngjié yáchǐ.",
+      "translation": "I use dental floss to clean my teeth every day.",
+      "usage": "Describing a specific dental hygiene practice.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "每天",
+          "py": "měitiān",
+          "meaning": "every day"
+        },
+        {
+          "zh": "都",
+          "py": "dōu",
+          "meaning": "all"
+        },
+        {
+          "zh": "用",
+          "py": "yòng",
+          "meaning": "use"
+        },
+        {
+          "zh": "牙线",
+          "py": "yáchǎn",
+          "meaning": "dental floss"
+        },
+        {
+          "zh": "清洁",
+          "py": "qīngjié",
+          "meaning": "clean"
+        },
+        {
+          "zh": "牙齿",
+          "py": "yáchǐ",
+          "meaning": "teeth"
+        }
+      ]
+    },
+    {
+      "chinese": "请不要在公共场所随地吐痰。",
+      "pinyin": "Qǐng bùyào zài gōnggòng chǎngsuǒ suídì tǔtán.",
+      "translation": "Please don't spit on the ground in public places.",
+      "usage": "A formal rule about public hygiene.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "不要",
+          "py": "bùyào",
+          "meaning": "don't"
+        },
+        {
+          "zh": "在",
+          "py": "zài",
+          "meaning": "in"
+        },
+        {
+          "zh": "公共场所",
+          "py": "gōnggòng chǎngsuǒ",
+          "meaning": "public place"
+        },
+        {
+          "zh": "随地",
+          "py": "suídì",
+          "meaning": "on the ground"
+        },
+        {
+          "zh": "吐痰",
+          "py": "tǔtán",
+          "meaning": "spit"
+        }
+      ]
+    },
+    {
+      "chinese": "我的手很脏，需要洗手。",
+      "pinyin": "Wǒ de shǒu hěn zāng, xūyào xǐshǒu.",
+      "translation": "My hands are very dirty, I need to wash them.",
+      "usage": "Expressing that hands need cleaning.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive"
+        },
+        {
+          "zh": "手",
+          "py": "shǒu",
+          "meaning": "hand"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "脏",
+          "py": "zāng",
+          "meaning": "dirty"
+        },
+        {
+          "zh": "需要",
+          "py": "xūyào",
+          "meaning": "need"
+        },
+        {
+          "zh": "洗手",
+          "py": "xǐshǒu",
+          "meaning": "wash hands"
+        }
+      ]
+    },
+    {
+      "chinese": "洗完澡后要擦干身体。",
+      "pinyin": "Xǐwán zǎo hòu yào cā gān shēntǐ.",
+      "translation": "After taking a bath, you should dry your body.",
+      "usage": "A hygiene instruction after bathing.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "洗完",
+          "py": "xǐwán",
+          "meaning": "after washing"
+        },
+        {
+          "zh": "澡",
+          "py": "zǎo",
+          "meaning": "bath"
+        },
+        {
+          "zh": "后",
+          "py": "hòu",
+          "meaning": "after"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "should"
+        },
+        {
+          "zh": "擦干",
+          "py": "cā gān",
+          "meaning": "dry"
+        },
+        {
+          "zh": "身体",
+          "py": "shēntǐ",
+          "meaning": "body"
+        }
+      ]
+    },
+    {
+      "chinese": "保持良好的个人卫生习惯。",
+      "pinyin": "Bǎochí liánghǎo de gèrén wèishēng xíguàn.",
+      "translation": "Maintain good personal hygiene habits.",
+      "usage": "A formal suggestion about health practices.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "保持",
+          "py": "bǎochí",
+          "meaning": "maintain"
+        },
+        {
+          "zh": "良好",
+          "py": "liánghǎo",
+          "meaning": "good"
+        },
+        {
+          "zh": "个人",
+          "py": "gèrén",
+          "meaning": "personal"
+        },
+        {
+          "zh": "卫生",
+          "py": "wèishēng",
+          "meaning": "hygiene"
+        },
+        {
+          "zh": "习惯",
+          "py": "xíguàn",
+          "meaning": "habit"
+        }
+      ]
+    },
+    {
+      "chinese": "你应该每天洗澡。",
+      "pinyin": "Nǐ yīnggāi měitiān xǐzǎo.",
+      "translation": "You should take a bath every day.",
+      "usage": "A suggestion about hygiene routine.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "应该",
+          "py": "yīnggāi",
+          "meaning": "should"
+        },
+        {
+          "zh": "每天",
+          "py": "měitiān",
+          "meaning": "every day"
+        },
+        {
+          "zh": "洗澡",
+          "py": "xǐzǎo",
+          "meaning": "take a bath"
+        }
+      ]
+    },
+    {
+      "chinese": "我用温水刷牙。",
+      "pinyin": "Wǒ yòng wēnshuǐ shuāyá.",
+      "translation": "I brush my teeth with warm water.",
+      "usage": "Describing a specific brushing method.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "用",
+          "py": "yòng",
+          "meaning": "use"
+        },
+        {
+          "zh": "温水",
+          "py": "wēnshuǐ",
+          "meaning": "warm water"
+        },
+        {
+          "zh": "刷牙",
+          "py": "shuāyá",
+          "meaning": "brush teeth"
+        }
+      ]
+    },
+    {
+      "chinese": "饭前洗手是必要的。",
+      "pinyin": "Fàn qián xǐshǒu shì bìyào de.",
+      "translation": "Washing hands before meals is necessary.",
+      "usage": "Explaining the importance of hand hygiene.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "饭前",
+          "py": "fàn qián",
+          "meaning": "before meal"
+        },
+        {
+          "zh": "洗手",
+          "py": "xǐshǒu",
+          "meaning": "wash hands"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "is"
+        },
+        {
+          "zh": "必要的",
+          "py": "bìyào de",
+          "meaning": "necessary"
+        }
+      ]
+    },
+    {
+      "chinese": "请用毛巾擦手。",
+      "pinyin": "Qǐng yòng máojīn cā shǒu.",
+      "translation": "Please use a towel to dry your hands.",
+      "usage": "A suggestion for proper hand drying.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "用",
+          "py": "yòng",
+          "meaning": "use"
+        },
+        {
+          "zh": "毛巾",
+          "py": "máojīn",
+          "meaning": "towel"
+        },
+        {
+          "zh": "擦手",
+          "py": "cā shǒu",
+          "meaning": "dry hands"
+        }
+      ]
+    },
+    {
+      "chinese": "我每天早上刷牙洗脸。",
+      "pinyin": "Wǒ měitiān zǎoshang shuāyá xǐliǎn.",
+      "translation": "I brush teeth and wash my face every morning.",
+      "usage": "Describing morning hygiene routine.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "每天",
+          "py": "měitiān",
+          "meaning": "every day"
+        },
+        {
+          "zh": "早上",
+          "py": "zǎoshang",
+          "meaning": "morning"
+        },
+        {
+          "zh": "刷牙",
+          "py": "shuāyá",
+          "meaning": "brush teeth"
+        },
+        {
+          "zh": "洗脸",
+          "py": "xǐliǎn",
+          "meaning": "wash face"
+        }
+      ]
+    },
+    {
+      "chinese": "保持头发清洁很重要。",
+      "pinyin": "Bǎochí tóufǎ qīngjié hěn zhòngyào.",
+      "translation": "Keeping hair clean is very important.",
+      "usage": "Emphasizing hair hygiene importance.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "保持",
+          "py": "bǎochí",
+          "meaning": "maintain"
+        },
+        {
+          "zh": "头发",
+          "py": "tóufǎ",
+          "meaning": "hair"
+        },
+        {
+          "zh": "清洁",
+          "py": "qīngjié",
+          "meaning": "clean"
+        },
+        {
+          "zh": "很重要",
+          "py": "hěn zhòngyào",
+          "meaning": "very important"
+        }
+      ]
+    },
+    {
+      "chinese": "洗手间需要保持清洁。",
+      "pinyin": "Xǐshǒujiān xūyào bǎochí qīngjié.",
+      "translation": "The restroom needs to be kept clean.",
+      "usage": "Suggesting cleanliness of bathroom.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "洗手间",
+          "py": "xǐshǒujiān",
+          "meaning": "restroom"
+        },
+        {
+          "zh": "需要",
+          "py": "xūyào",
+          "meaning": "needs"
+        },
+        {
+          "zh": "保持",
+          "py": "bǎochí",
+          "meaning": "keep"
+        },
+        {
+          "zh": "清洁",
+          "py": "qīngjié",
+          "meaning": "clean"
+        }
+      ]
+    },
+    {
+      "chinese": "你应该经常洗手。",
+      "pinyin": "Nǐ yīnggāi jīngcháng xǐshǒu.",
+      "translation": "You should wash your hands frequently.",
+      "usage": "A suggestion about hand washing frequency.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "应该",
+          "py": "yīnggāi",
+          "meaning": "should"
+        },
+        {
+          "zh": "经常",
+          "py": "jīngcháng",
+          "meaning": "frequently"
+        },
+        {
+          "zh": "洗手",
+          "py": "xǐshǒu",
+          "meaning": "wash hands"
+        }
+      ]
+    },
+    {
+      "chinese": "用肥皂洗手是卫生的。",
+      "pinyin": "Yòng féizào xǐshǒu shì wèishēng de.",
+      "translation": "Washing hands with soap is hygienic.",
+      "usage": "Explaining proper hand washing method.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "用",
+          "py": "yòng",
+          "meaning": "use"
+        },
+        {
+          "zh": "肥皂",
+          "py": "féizào",
+          "meaning": "soap"
+        },
+        {
+          "zh": "洗手",
+          "py": "xǐshǒu",
+          "meaning": "wash hands"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "is"
+        },
+        {
+          "zh": "卫生的",
+          "py": "wèishēng de",
+          "meaning": "hygienic"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,281 @@
+{
+  "sentences": [
+    {
+      "chinese": "参观水族馆",
+      "pinyin": "Cānguān shuǐ zú guǎn",
+      "translation": "Visit the aquarium",
+      "usage": "Used when planning to visit or discussing aquarium activities",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "参",
+          "py": "cān",
+          "meaning": "participate"
+        },
+        {
+          "zh": "观",
+          "py": "guān",
+          "meaning": "look/view"
+        },
+        {
+          "zh": "水族馆",
+          "py": "shuǐ zú guǎn",
+          "meaning": "aquarium"
+        }
+      ]
+    },
+    {
+      "chinese": "海底隧道",
+      "pinyin": "Hǎi dǐ suì dào",
+      "translation": "Underwater tunnel",
+      "usage": "Describes aquarium features with submerged walkways",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "海底",
+          "py": "hǎi dǐ",
+          "meaning": "underwater"
+        },
+        {
+          "zh": "隧道",
+          "py": "suì dào",
+          "meaning": "tunnel"
+        }
+      ]
+    },
+    {
+      "chinese": "门票价格",
+      "pinyin": "Ménpiào jiàgé",
+      "translation": "Ticket price",
+      "usage": "Asks about aquarium entrance fees",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "门票",
+          "py": "ménpiào",
+          "meaning": "admission ticket"
+        },
+        {
+          "zh": "价格",
+          "py": "jiàgé",
+          "meaning": "price"
+        }
+      ]
+    },
+    {
+      "chinese": "海洋生物展览",
+      "pinyin": "Háiyáng shēngwù zhǎnlǎn",
+      "translation": "Marine life exhibition",
+      "usage": "Describes aquarium exhibits",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "海洋",
+          "py": "háiyáng",
+          "meaning": "ocean"
+        },
+        {
+          "zh": "生物",
+          "py": "shēngwù",
+          "meaning": "life"
+        },
+        {
+          "zh": "展览",
+          "py": "zhǎnlǎn",
+          "meaning": "exhibition"
+        }
+      ]
+    },
+    {
+      "chinese": "触摸池体验",
+      "pinyin": "Chùmō chí tǐyàn",
+      "translation": "Touch pool experience",
+      "usage": "Refers to interactive exhibits",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "触摸",
+          "py": "chùmō",
+          "meaning": "touch"
+        },
+        {
+          "zh": "池",
+          "py": "chí",
+          "meaning": "pool"
+        },
+        {
+          "zh": "体验",
+          "py": "tǐyàn",
+          "meaning": "experience"
+        }
+      ]
+    },
+    {
+      "chinese": "潜水表演",
+      "pinyin": "Qiánshuǐ biǎoyǎn",
+      "translation": "Diving show",
+      "usage": "Describes aquarium entertainment programs",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "潜水",
+          "py": "qiánshuǐ",
+          "meaning": "dive underwater"
+        },
+        {
+          "zh": "表演",
+          "py": "biǎoyǎn",
+          "meaning": "performance"
+        }
+      ]
+    },
+    {
+      "chinese": "夜间开放",
+      "pinyin": "Yèjiān kāifàng",
+      "translation": "Open at night",
+      "usage": "Asks about operating hours",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "夜间",
+          "py": "yèjiān",
+          "meaning": "nighttime"
+        },
+        {
+          "zh": "开放",
+          "py": "kāifàng",
+          "meaning": "open"
+        }
+      ]
+    },
+    {
+      "chinese": "纪念品商店",
+      "pinyin": "Jìniàn pǐn shāngdàng",
+      "translation": "Souvenir shop",
+      "usage": "Locates retail areas in aquariums",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "纪念品",
+          "py": "jìniàn pǐn",
+          "meaning": "souvenirs"
+        },
+        {
+          "zh": "商店",
+          "py": "shāngdàng",
+          "meaning": "shop"
+        }
+      ]
+    },
+    {
+      "chinese": "人工喂食时间",
+      "pinyin": "Rénshū gōngshí shíjiān",
+      "translation": "Feeding time",
+      "usage": "Asks about animal feeding schedules",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "人工",
+          "py": "rénshū",
+          "meaning": "manual"
+        },
+        {
+          "zh": "喂食",
+          "py": "gōngshí",
+          "meaning": "feed"
+        },
+        {
+          "zh": "时间",
+          "py": "shíjiān",
+          "meaning": "time"
+        }
+      ]
+    },
+    {
+      "chinese": "儿童安全区域",
+      "pinyin": "Ér tóng ānquán qūyù",
+      "translation": "Child safety zone",
+      "usage": "Identifies family-friendly areas",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "儿童",
+          "py": "értóng",
+          "meaning": "children"
+        },
+        {
+          "zh": "安全",
+          "py": "ānquán",
+          "meaning": "safe"
+        },
+        {
+          "zh": "区域",
+          "py": "qūyù",
+          "meaning": "area"
+        }
+      ]
+    },
+    {
+      "chinese": "水族馆导览",
+      "pinyin": "Shuǐ zú guǎn dǎoguàn",
+      "translation": "Aquarium tour",
+      "usage": "Requests guided visits",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "水族馆",
+          "py": "shuǐ zú guǎn",
+          "meaning": "aquarium"
+        },
+        {
+          "zh": "导览",
+          "py": "dǎoguàn",
+          "meaning": "tour guide"
+        }
+      ]
+    },
+    {
+      "chinese": "海洋生态教育",
+      "pinyin": "Háiyáng shēngtài jiàoyù",
+      "translation": "Marine ecology education",
+      "usage": "Describes educational programs",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "海洋",
+          "py": "háiyáng",
+          "meaning": "ocean"
+        },
+        {
+          "zh": "生态",
+          "py": "shēngtài",
+          "meaning": "ecology"
+        },
+        {
+          "zh": "教育",
+          "py": "jiàoyù",
+          "meaning": "education"
+        }
+      ]
+    },
+    {
+      "chinese": "鲨鱼展区",
+      "pinyin": "Shā yú zhǎn qū",
+      "translation": "Shark exhibit area",
+      "usage": "Locates specific animal habitats",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "鲨鱼",
+          "py": "shā yú",
+          "meaning": "shark"
+        },
+        {
+          "zh": "展区",
+          "py": "zhǎn qū",
+          "meaning": "exhibit area"
+        }
+      ]
+    }
+  ]
+}

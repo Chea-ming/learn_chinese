@@ -1,0 +1,213 @@
+{
+  "sentences": [
+    {
+      "chinese": "然而，他还是来了。",
+      "pinyin": "Ránér, tā háishì lái le.",
+      "translation": "However, he still came.",
+      "usage": "Used to indicate contrast or unexpected continuation.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "然而",
+          "py": "ránér",
+          "meaning": "however"
+        },
+        {
+          "zh": "他",
+          "py": "tā",
+          "meaning": "he"
+        },
+        {
+          "zh": "还是",
+          "py": "háishì",
+          "meaning": "still"
+        },
+        {
+          "zh": "来了",
+          "py": "lái le",
+          "meaning": "came"
+        }
+      ]
+    },
+    {
+      "chinese": "所以，我们决定推迟会议。",
+      "pinyin": "Suǒyǐ, wǒmen juéde tuīchí huìyì.",
+      "translation": "Therefore, we decided to postpone the meeting.",
+      "usage": "Indicates cause-effect relationship.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "所以",
+          "py": "suǒyǐ",
+          "meaning": "therefore"
+        },
+        {
+          "zh": "我们",
+          "py": "wǒmen",
+          "meaning": "we"
+        },
+        {
+          "zh": "决定",
+          "py": "juédìng",
+          "meaning": "decide"
+        },
+        {
+          "zh": "推迟",
+          "py": "tuīchí",
+          "meaning": "postpone"
+        },
+        {
+          "zh": "会议",
+          "py": "huìyì",
+          "meaning": "meeting"
+        }
+      ]
+    },
+    {
+      "chinese": "但是，这并不是问题的关键。",
+      "pinyin": "Dànshì, zhè bìng bù shì wèntí de guānjiàn.",
+      "translation": "But this is not the key issue.",
+      "usage": "Used to introduce a contrasting point.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "但是",
+          "py": "dànshì",
+          "meaning": "but"
+        },
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "并",
+          "py": "bìng",
+          "meaning": "not"
+        },
+        {
+          "zh": "不是",
+          "py": "bùshì",
+          "meaning": "is not"
+        },
+        {
+          "zh": "问题",
+          "py": "wèntí",
+          "meaning": "issue"
+        },
+        {
+          "zh": "关键",
+          "py": "guānjiàn",
+          "meaning": "key"
+        }
+      ]
+    },
+    {
+      "chinese": "并且，我们需要更多时间准备。",
+      "pinyin": "Bìngqiě, wǒmen xūyào gèng duō shíjiān zhǔnbèi.",
+      "translation": "Moreover, we need more time to prepare.",
+      "usage": "Adds an additional point.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "并且",
+          "py": "bìngqiě",
+          "meaning": "moreover"
+        },
+        {
+          "zh": "我们",
+          "py": "wǒmen",
+          "meaning": "we"
+        },
+        {
+          "zh": "需要",
+          "py": "xūyào",
+          "meaning": "need"
+        },
+        {
+          "zh": "更多",
+          "py": "gèng duō",
+          "meaning": "more"
+        },
+        {
+          "zh": "时间",
+          "py": "shíjiān",
+          "meaning": "time"
+        },
+        {
+          "zh": "准备",
+          "py": "zhǔnbèi",
+          "meaning": "prepare"
+        }
+      ]
+    },
+    {
+      "chinese": "因为下雨，所以我们取消了活动。",
+      "pinyin": "Yīnwèi xià yǔ, suǒyǐ wǒmen qǔxiāo le huódòng.",
+      "translation": "Because it rained, we canceled the event.",
+      "usage": "Connects cause and effect.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "因为",
+          "py": "yīnwèi",
+          "meaning": "because"
+        },
+        {
+          "zh": "下雨",
+          "py": "xià yǔ",
+          "meaning": "rained"
+        },
+        {
+          "zh": "所以",
+          "py": "suǒyǐ",
+          "meaning": "therefore"
+        },
+        {
+          "zh": "我们",
+          "py": "wǒmen",
+          "meaning": "we"
+        },
+        {
+          "zh": "取消",
+          "py": "qǔxiāo",
+          "meaning": "cancel"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "particle indicating completion"
+        },
+        {
+          "zh": "活动",
+          "py": "huódòng",
+          "meaning": "event"
+        }
+      ]
+    },
+    {
+      "chinese": "虽然很累，但他坚持完成了任务。",
+      "pinyin": "Suīrán hěn lèi, dàn tā jiānchí wánchéng le rènwù.",
+      "translation": "Although very tired, he persisted in completing the task.",
+      "usage": "Contrasts two clauses.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "虽然",
+          "py": "suīrán",
+          "meaning": "although"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "累",
+          "py": "lèi",
+          "meaning": "tired"
+        }
+      ]
+    }
+  ]
+}

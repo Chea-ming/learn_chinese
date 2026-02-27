@@ -1,0 +1,689 @@
+{
+  "sentences": [
+    {
+      "chinese": "这个多少钱？",
+      "pinyin": "Zhège duōshǎo qián?",
+      "translation": "How much is this?",
+      "usage": "Used when asking for the price of an item in a store or market",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "个",
+          "py": "ge",
+          "meaning": "classifier for objects"
+        },
+        {
+          "zh": "多",
+          "py": "duō",
+          "meaning": "how much"
+        },
+        {
+          "zh": "少",
+          "py": "shǎo",
+          "meaning": "few/many"
+        },
+        {
+          "zh": "钱",
+          "py": "qián",
+          "meaning": "money"
+        }
+      ]
+    },
+    {
+      "chinese": "贵吗？",
+      "pinyin": "Guì ma?",
+      "translation": "Is it expensive?",
+      "usage": "Quick way to ask if an item is costly, often used in markets",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "贵",
+          "py": "guì",
+          "meaning": "expensive"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "可以便宜一点吗？",
+      "pinyin": "Kěyǐ piányi yīdiǎn ma?",
+      "translation": "Can you make it a bit cheaper?",
+      "usage": "Used when trying to negotiate a lower price, polite request",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "可以",
+          "py": "kěyǐ",
+          "meaning": "can/possible"
+        },
+        {
+          "zh": "便宜",
+          "py": "piányi",
+          "meaning": "cheap"
+        },
+        {
+          "zh": "一点",
+          "py": "yīdiǎn",
+          "meaning": "a little bit"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "能不能便宜点？",
+      "pinyin": "Néngbùnéng piányi diǎn?",
+      "translation": "Can you make it cheaper?",
+      "usage": "Slightly more direct way to ask for a discount, common in shopping",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "能",
+          "py": "néng",
+          "meaning": "can/able to"
+        },
+        {
+          "zh": "不",
+          "py": "bù",
+          "meaning": "not"
+        },
+        {
+          "zh": "能",
+          "py": "néng",
+          "meaning": "can/able to"
+        },
+        {
+          "zh": "便宜",
+          "py": "piányi",
+          "meaning": "cheap"
+        },
+        {
+          "zh": "点",
+          "py": "diǎn",
+          "meaning": "bit"
+        }
+      ]
+    },
+    {
+      "chinese": "这个太贵了。",
+      "pinyin": "Zhège tài guì le.",
+      "translation": "This is too expensive.",
+      "usage": "Expressing that an item is beyond your budget, straightforward statement",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "个",
+          "py": "ge",
+          "meaning": "classifier for objects"
+        },
+        {
+          "zh": "太",
+          "py": "tài",
+          "meaning": "too"
+        },
+        {
+          "zh": "贵",
+          "py": "guì",
+          "meaning": "expensive"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed aspect marker"
+        }
+      ]
+    },
+    {
+      "chinese": "便宜点吧。",
+      "pinyin": "Piányi diǎn ba.",
+      "translation": "Let's make it cheaper.",
+      "usage": "Suggesting a compromise on price, informal and direct",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "便宜",
+          "py": "piányi",
+          "meaning": "cheap"
+        },
+        {
+          "zh": "点",
+          "py": "diǎn",
+          "meaning": "bit"
+        },
+        {
+          "zh": "吧",
+          "py": "ba",
+          "meaning": "suggestive particle"
+        }
+      ]
+    },
+    {
+      "chinese": "这个价格可以接受。",
+      "pinyin": "Zhège jiàgé kěyǐ jiēshòu.",
+      "translation": "This price is acceptable.",
+      "usage": "Expressing that the price is reasonable or within your budget, formal context",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "个",
+          "py": "ge",
+          "meaning": "classifier for objects"
+        },
+        {
+          "zh": "价",
+          "py": "jià",
+          "meaning": "price"
+        },
+        {
+          "zh": "格",
+          "py": "gé",
+          "meaning": "price"
+        },
+        {
+          "zh": "可以",
+          "py": "kěyǐ",
+          "meaning": "can/possible"
+        },
+        {
+          "zh": "接受",
+          "py": "jiēshòu",
+          "meaning": "accept"
+        }
+      ]
+    },
+    {
+      "chinese": "给我便宜点。",
+      "pinyin": "Gěi wǒ piányi diǎn.",
+      "translation": "Give me a better price.",
+      "usage": "Direct request for a discount, used in bargaining situations",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "给",
+          "py": "gěi",
+          "meaning": "to give"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "me"
+        },
+        {
+          "zh": "便宜",
+          "py": "piányi",
+          "meaning": "cheap"
+        },
+        {
+          "zh": "点",
+          "py": "diǎn",
+          "meaning": "bit"
+        }
+      ]
+    },
+    {
+      "chinese": "能再便宜点吗？",
+      "pinyin": "Néng zài piányi diǎn ma?",
+      "translation": "Can you make it even cheaper?",
+      "usage": "When you want to push for a better deal, more aggressive bargaining",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "能",
+          "py": "néng",
+          "meaning": "can/able to"
+        },
+        {
+          "zh": "再",
+          "py": "zài",
+          "meaning": "again"
+        },
+        {
+          "zh": "便宜",
+          "py": "piányi",
+          "meaning": "cheap"
+        },
+        {
+          "zh": "点",
+          "py": "diǎn",
+          "meaning": "bit"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "我想要便宜点。",
+      "pinyin": "Wǒ xiǎng yào piányi diǎn.",
+      "translation": "I want it to be cheaper.",
+      "usage": "Expressing desire for a lower price, polite request",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "想",
+          "py": "xiǎng",
+          "meaning": "want"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "want"
+        },
+        {
+          "zh": "便宜",
+          "py": "piányi",
+          "meaning": "cheap"
+        },
+        {
+          "zh": "点",
+          "py": "diǎn",
+          "meaning": "bit"
+        }
+      ]
+    },
+    {
+      "chinese": "这个价格太贵了。",
+      "pinyin": "Zhège jiàgé tài guì le.",
+      "translation": "This price is too expensive.",
+      "usage": "When the price exceeds your expectations or budget",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "个",
+          "py": "ge",
+          "meaning": "classifier for objects"
+        },
+        {
+          "zh": "价",
+          "py": "jià",
+          "meaning": "price"
+        },
+        {
+          "zh": "格",
+          "py": "gé",
+          "meaning": "price"
+        },
+        {
+          "zh": "太",
+          "py": "tài",
+          "meaning": "too"
+        },
+        {
+          "zh": "贵",
+          "py": "guì",
+          "meaning": "expensive"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed aspect marker"
+        }
+      ]
+    },
+    {
+      "chinese": "可以讲价吗？",
+      "pinyin": "Kěyǐ jiǎngjià ma?",
+      "translation": "Can we bargain?",
+      "usage": "Asking permission to negotiate the price, common in markets",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "可以",
+          "py": "kěyǐ",
+          "meaning": "can/possible"
+        },
+        {
+          "zh": "讲",
+          "py": "jiǎng",
+          "meaning": "to speak"
+        },
+        {
+          "zh": "价",
+          "py": "jià",
+          "meaning": "price"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "这个多少钱？",
+      "pinyin": "Zhège duōshǎo qián?",
+      "translation": "How much is this?",
+      "usage": "Basic question to ask for price of an item",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "个",
+          "py": "ge",
+          "meaning": "classifier for objects"
+        },
+        {
+          "zh": "多",
+          "py": "duō",
+          "meaning": "how much"
+        },
+        {
+          "zh": "少",
+          "py": "shǎo",
+          "meaning": "few/many"
+        },
+        {
+          "zh": "钱",
+          "py": "qián",
+          "meaning": "money"
+        }
+      ]
+    },
+    {
+      "chinese": "价格是多少？",
+      "pinyin": "Jiàgé shì duōshǎo?",
+      "translation": "What is the price?",
+      "usage": "More formal way to ask for price, often used in business settings",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "价",
+          "py": "jià",
+          "meaning": "price"
+        },
+        {
+          "zh": "格",
+          "py": "gé",
+          "meaning": "price"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "is"
+        },
+        {
+          "zh": "多",
+          "py": "duō",
+          "meaning": "how much"
+        },
+        {
+          "zh": "少",
+          "py": "shǎo",
+          "meaning": "few/many"
+        }
+      ]
+    },
+    {
+      "chinese": "便宜点吧，我买不起。",
+      "pinyin": "Piányi diǎn ba, wǒ mǎi bu qǐ.",
+      "translation": "Make it cheaper, I can't afford it.",
+      "usage": "When you're genuinely unable to pay the current price",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "便宜",
+          "py": "piányi",
+          "meaning": "cheap"
+        },
+        {
+          "zh": "点",
+          "py": "diǎn",
+          "meaning": "bit"
+        },
+        {
+          "zh": "吧",
+          "py": "ba",
+          "meaning": "suggestive particle"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "买",
+          "py": "mǎi",
+          "meaning": "buy"
+        },
+        {
+          "zh": "不",
+          "py": "bù",
+          "meaning": "not"
+        },
+        {
+          "zh": "起",
+          "py": "qǐ",
+          "meaning": "able to"
+        }
+      ]
+    },
+    {
+      "chinese": "能不能再便宜点？",
+      "pinyin": "Néngbùnéng zài piányi diǎn?",
+      "translation": "Can you make it even cheaper?",
+      "usage": "When trying to push for a better deal, more assertive bargaining",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "能",
+          "py": "néng",
+          "meaning": "can/able to"
+        },
+        {
+          "zh": "不",
+          "py": "bù",
+          "meaning": "not"
+        },
+        {
+          "zh": "能",
+          "py": "néng",
+          "meaning": "can/able to"
+        },
+        {
+          "zh": "再",
+          "py": "zài",
+          "meaning": "again"
+        },
+        {
+          "zh": "便宜",
+          "py": "piányi",
+          "meaning": "cheap"
+        },
+        {
+          "zh": "点",
+          "py": "diǎn",
+          "meaning": "bit"
+        }
+      ]
+    },
+    {
+      "chinese": "这个价格合理。",
+      "pinyin": "Zhège jiàgé hélǐ.",
+      "translation": "This price is reasonable.",
+      "usage": "When you think the price is fair and acceptable",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "个",
+          "py": "ge",
+          "meaning": "classifier for objects"
+        },
+        {
+          "zh": "价",
+          "py": "jià",
+          "meaning": "price"
+        },
+        {
+          "zh": "格",
+          "py": "gé",
+          "meaning": "price"
+        },
+        {
+          "zh": "合理",
+          "py": "hélǐ",
+          "meaning": "reasonable"
+        }
+      ]
+    },
+    {
+      "chinese": "我看看还有别的吗？",
+      "pinyin": "Wǒ kànkan hái yǒu bié de ma?",
+      "translation": "Let me see if there's anything else.",
+      "usage": "When you want to compare prices or look for alternatives",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "看",
+          "py": "kàn",
+          "meaning": "to look"
+        },
+        {
+          "zh": "看",
+          "py": "kan",
+          "meaning": "to look"
+        },
+        {
+          "zh": "还",
+          "py": "hái",
+          "meaning": "still"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "to have"
+        },
+        {
+          "zh": "别",
+          "py": "bié",
+          "meaning": "other"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive particle"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "价格太高了。",
+      "pinyin": "Jiàgé tài gāo le.",
+      "translation": "The price is too high.",
+      "usage": "When you find the price unaffordable",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "价",
+          "py": "jià",
+          "meaning": "price"
+        },
+        {
+          "zh": "格",
+          "py": "gé",
+          "meaning": "price"
+        },
+        {
+          "zh": "太",
+          "py": "tài",
+          "meaning": "too"
+        },
+        {
+          "zh": "高",
+          "py": "gāo",
+          "meaning": "high"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed aspect marker"
+        }
+      ]
+    },
+    {
+      "chinese": "这个多少钱？",
+      "pinyin": "Zhège duōshǎo qián?",
+      "translation": "How much is this?",
+      "usage": "Basic price inquiry",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "个",
+          "py": "ge",
+          "meaning": "classifier for objects"
+        },
+        {
+          "zh": "多",
+          "py": "duō",
+          "meaning": "how much"
+        },
+        {
+          "zh": "少",
+          "py": "shǎo",
+          "meaning": "few/many"
+        },
+        {
+          "zh": "钱",
+          "py": "qián",
+          "meaning": "money"
+        }
+      ]
+    }
+  ]
+}

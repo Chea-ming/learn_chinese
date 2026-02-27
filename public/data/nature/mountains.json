@@ -1,0 +1,282 @@
+{
+  "sentences": [
+    {
+      "chinese": "山",
+      "pinyin": "Shān",
+      "translation": "Mountain",
+      "usage": "Basic term for a mountain.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "山",
+          "py": "Shān",
+          "meaning": "mountain"
+        }
+      ]
+    },
+    {
+      "chinese": "山脉",
+      "pinyin": "Shān mài",
+      "translation": "Mountain range",
+      "usage": "Describes a series of connected mountains.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "山",
+          "py": "Shān",
+          "meaning": "mountain"
+        },
+        {
+          "zh": "脉",
+          "py": "Mài",
+          "meaning": "range/chain"
+        }
+      ]
+    },
+    {
+      "chinese": "攀登",
+      "pinyin": "Pān dēng",
+      "translation": "To climb",
+      "usage": "Used for climbing mountains or other surfaces.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "攀",
+          "py": "Pān",
+          "meaning": "to grasp"
+        },
+        {
+          "zh": "登",
+          "py": "Dēng",
+          "meaning": "to step onto"
+        }
+      ]
+    },
+    {
+      "chinese": "徒步旅行",
+      "pinyin": "Tú bù lǚ xíng",
+      "translation": "Hiking",
+      "usage": "Describes hiking in mountainous areas.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "徒",
+          "py": "Tú",
+          "meaning": "barefoot"
+        },
+        {
+          "zh": "步",
+          "py": "Bù",
+          "meaning": "step"
+        },
+        {
+          "zh": "旅",
+          "py": "Lǚ",
+          "meaning": "journey"
+        },
+        {
+          "zh": "行",
+          "py": "Xíng",
+          "meaning": "to travel"
+        }
+      ]
+    },
+    {
+      "chinese": "山川",
+      "pinyin": "Shān chuān",
+      "translation": "Mountains and rivers",
+      "usage": "Common phrase for natural landscapes.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "山",
+          "py": "Shān",
+          "meaning": "mountain"
+        },
+        {
+          "zh": "川",
+          "py": "Chuān",
+          "meaning": "river"
+        }
+      ]
+    },
+    {
+      "chinese": "高耸",
+      "pinyin": "Gāo sǒng",
+      "translation": "Towering",
+      "usage": "Describes very high mountains.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "高",
+          "py": "Gāo",
+          "meaning": "high"
+        },
+        {
+          "zh": "耸",
+          "py": "Sǒng",
+          "meaning": "to rise steeply"
+        }
+      ]
+    },
+    {
+      "chinese": "悬崖峭壁",
+      "pinyin": "Xuán yá qiào bì",
+      "translation": "Precipice cliffs",
+      "usage": "Refers to steep, rocky cliffs.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "悬",
+          "py": "Xuán",
+          "meaning": "hanging"
+        },
+        {
+          "zh": "崖",
+          "py": "Yá",
+          "meaning": "cliff"
+        },
+        {
+          "zh": "峭",
+          "py": "Qiào",
+          "meaning": "steep"
+        },
+        {
+          "zh": "壁",
+          "py": "Bì",
+          "meaning": "wall"
+        }
+      ]
+    },
+    {
+      "chinese": "登山者",
+      "pinyin": "Dēng shān zhě",
+      "translation": "Hiker",
+      "usage": "A person who climbs mountains.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "登",
+          "py": "Dēng",
+          "meaning": "to ascend"
+        },
+        {
+          "zh": "山",
+          "py": "Shān",
+          "meaning": "mountain"
+        },
+        {
+          "zh": "者",
+          "py": "Zhě",
+          "meaning": "person who does something"
+        }
+      ]
+    },
+    {
+      "chinese": "云雾缭绕",
+      "pinyin": "Yún wù liáo rào",
+      "translation": "Shrouded in mist",
+      "usage": "Describes misty mountain scenery.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "云",
+          "py": "Yún",
+          "meaning": "cloud"
+        },
+        {
+          "zh": "雾",
+          "py": "Wù",
+          "meaning": "fog"
+        },
+        {
+          "zh": "缭",
+          "py": "Liáo",
+          "meaning": "to wrap around"
+        },
+        {
+          "zh": "绕",
+          "py": "Rào",
+          "meaning": "to encircle"
+        }
+      ]
+    },
+    {
+      "chinese": "山间小路",
+      "pinyin": "Shān jiān xiǎo lù",
+      "translation": "Mountain path",
+      "usage": "A trail through the mountains.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "山",
+          "py": "Shān",
+          "meaning": "mountain"
+        },
+        {
+          "zh": "间",
+          "py": " Jiān",
+          "meaning": "among"
+        },
+        {
+          "zh": "小",
+          "py": "Xiǎo",
+          "meaning": "small"
+        },
+        {
+          "zh": "路",
+          "py": "Lù",
+          "meaning": "path"
+        }
+      ]
+    },
+    {
+      "chinese": "山崩地裂",
+      "pinyin": "Shān bēng dì liè",
+      "translation": "Mountain collapse",
+      "usage": "Describes a catastrophic mountain collapse.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "山",
+          "py": "Shān",
+          "meaning": "mountain"
+        },
+        {
+          "zh": "崩",
+          "py": "Bēng",
+          "meaning": "to collapse"
+        },
+        {
+          "zh": "地",
+          "py": "Dì",
+          "meaning": "earth"
+        },
+        {
+          "zh": "裂",
+          "py": "Liè",
+          "meaning": "to crack"
+        }
+      ]
+    },
+    {
+      "chinese": "雪峰",
+      "pinyin": "Xuě fēng",
+      "translation": "Snow-capped peak",
+      "usage": "Refers to a mountain peak covered in snow.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "雪",
+          "py": "Xuě",
+          "meaning": "snow"
+        },
+        {
+          "zh": "峰",
+          "py": "Fēng",
+          "meaning": "peak"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "sentences": [
+    {
+      "chinese": "笔顺",
+      "pinyin": "Bǐ shùn",
+      "translation": "Stroke order",
+      "usage": "The sequence in which strokes are written in Chinese characters.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "笔",
+          "py": "bǐ",
+          "meaning": "brush"
+        },
+        {
+          "zh": "顺",
+          "py": "shùn",
+          "meaning": "order"
+        }
+      ]
+    },
+    {
+      "chinese": "起笔",
+      "pinyin": "Qǐ bǐ",
+      "translation": "Starting stroke",
+      "usage": "The initial stroke in writing a character.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "起",
+          "py": "qǐ",
+          "meaning": "start"
+        },
+        {
+          "zh": "笔",
+          "py": "bǐ",
+          "meaning": "brush"
+        }
+      ]
+    },
+    {
+      "chinese": "收笔",
+      "pinyin": "Shōu bǐ",
+      "translation": "Ending stroke",
+      "usage": "The final stroke in writing a character.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "收",
+          "py": "shōu",
+          "meaning": "end"
+        },
+        {
+          "zh": "笔",
+          "py": "bǐ",
+          "meaning": "brush"
+        }
+      ]
+    },
+    {
+      "chinese": "横",
+      "pinyin": "Héng",
+      "translation": "Horizontal stroke",
+      "usage": "A straight horizontal line in a character.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "横",
+          "py": "héng",
+          "meaning": "horizontal"
+        }
+      ]
+    },
+    {
+      "chinese": "竖",
+      "pinyin": "Shù",
+      "translation": "Vertical stroke",
+      "usage": "A straight vertical line in a character.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "竖",
+          "py": "shù",
+          "meaning": "vertical"
+        }
+      ]
+    },
+    {
+      "chinese": "撇",
+      "pinyin": "Piě",
+      "translation": "Left-falling stroke",
+      "usage": "A diagonal stroke slanting to the left.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "撇",
+          "py": "piě",
+          "meaning": "left-falling"
+        }
+      ]
+    },
+    {
+      "chinese": "捺",
+      "pinyin": "Nà",
+      "translation": "Right-falling stroke",
+      "usage": "A diagonal stroke slanting to the right.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "捺",
+          "py": "nà",
+          "meaning": "right-falling"
+        }
+      ]
+    }
+  ]
+}

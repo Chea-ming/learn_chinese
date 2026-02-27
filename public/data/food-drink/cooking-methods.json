@@ -1,0 +1,799 @@
+{
+  "sentences": [
+    {
+      "chinese": "煮面条要用大火。",
+      "pinyin": "Zhǔ miàntiáo yào yòng dàhuǒ.",
+      "translation": "You should use high heat when cooking noodles.",
+      "usage": "Used to give cooking advice about heat control for noodles.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "煮",
+          "py": "zhǔ",
+          "meaning": "to cook by boiling"
+        },
+        {
+          "zh": "面",
+          "py": "miàn",
+          "meaning": "noodles"
+        },
+        {
+          "zh": "条",
+          "py": "tiáo",
+          "meaning": "strand, thread"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "should"
+        },
+        {
+          "zh": "用",
+          "py": "yòng",
+          "meaning": "to use"
+        },
+        {
+          "zh": "大",
+          "py": "dà",
+          "meaning": "big, large, high"
+        },
+        {
+          "zh": "火",
+          "py": "huǒ",
+          "meaning": "fire, heat"
+        }
+      ]
+    },
+    {
+      "chinese": "蒸蛋要控制好时间。",
+      "pinyin": "Zhēng dàn yào kòngzhì hǎo shíjiān.",
+      "translation": "You need to control the time well when steaming eggs.",
+      "usage": "Used to explain the importance of timing when steaming eggs.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "蒸",
+          "py": "zhēng",
+          "meaning": "to steam"
+        },
+        {
+          "zh": "蛋",
+          "py": "dàn",
+          "meaning": "egg"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "should"
+        },
+        {
+          "zh": "控制",
+          "py": "kòngzhì",
+          "meaning": "to control"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good, well"
+        },
+        {
+          "zh": "时间",
+          "py": "shíjiān",
+          "meaning": "time"
+        }
+      ]
+    },
+    {
+      "chinese": "炒菜的时候要放盐。",
+      "pinyin": "Chǎo cài de shíhou yào fàng yán.",
+      "translation": "You should add salt when stir-frying vegetables.",
+      "usage": "Used to give basic cooking advice about seasoning during stir-frying.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "炒",
+          "py": "chǎo",
+          "meaning": "to stir-fry"
+        },
+        {
+          "zh": "菜",
+          "py": "cài",
+          "meaning": "vegetables"
+        },
+        {
+          "zh": "时候",
+          "py": "shíhou",
+          "meaning": "time, when"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "should"
+        },
+        {
+          "zh": "放",
+          "py": "fàng",
+          "meaning": "to put, to add"
+        },
+        {
+          "zh": "盐",
+          "py": "yán",
+          "meaning": "salt"
+        }
+      ]
+    },
+    {
+      "chinese": "炖肉要用小火慢慢炖。",
+      "pinyin": "Dùn ròu yào yòng xiǎohuǒ mànmàn dùn.",
+      "translation": "You should use low heat to slowly braise meat.",
+      "usage": "Used to explain the correct technique for braising meat.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "炖",
+          "py": "dùn",
+          "meaning": "to braise"
+        },
+        {
+          "zh": "肉",
+          "py": "ròu",
+          "meaning": "meat"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "should"
+        },
+        {
+          "zh": "用",
+          "py": "yòng",
+          "meaning": "to use"
+        },
+        {
+          "zh": "小",
+          "py": "xiǎo",
+          "meaning": "small, low"
+        },
+        {
+          "zh": "火",
+          "py": "huǒ",
+          "meaning": "fire, heat"
+        },
+        {
+          "zh": "慢慢",
+          "py": "mànmàn",
+          "meaning": "slowly"
+        },
+        {
+          "zh": "炖",
+          "py": "dùn",
+          "meaning": "to braise"
+        }
+      ]
+    },
+    {
+      "chinese": "切菜要顺着纹理切。",
+      "pinyin": "Qiē cài yào shùnzhe wénlǐ qiē.",
+      "translation": "You should cut vegetables along the grain.",
+      "usage": "Used to teach proper knife technique for cutting vegetables.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "切",
+          "py": "qiē",
+          "meaning": "to cut"
+        },
+        {
+          "zh": "菜",
+          "py": "cài",
+          "meaning": "vegetables"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "should"
+        },
+        {
+          "zh": "顺着",
+          "py": "shùnzhe",
+          "meaning": "along, following"
+        },
+        {
+          "zh": "纹理",
+          "py": "wénlǐ",
+          "meaning": "grain, texture"
+        },
+        {
+          "zh": "切",
+          "py": "qiē",
+          "meaning": "to cut"
+        }
+      ]
+    },
+    {
+      "chinese": "煎鱼的时候要翻面。",
+      "pinyin": "Jiān yú de shíhou yào fān miàn.",
+      "translation": "You should flip the fish when frying it.",
+      "usage": "Used to explain the technique of turning fish while frying.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "煎",
+          "py": "jiān",
+          "meaning": "to fry"
+        },
+        {
+          "zh": "鱼",
+          "py": "yú",
+          "meaning": "fish"
+        },
+        {
+          "zh": "时候",
+          "py": "shíhou",
+          "meaning": "time, when"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "should"
+        },
+        {
+          "zh": "翻",
+          "py": "fān",
+          "meaning": "to turn over"
+        },
+        {
+          "zh": "面",
+          "py": "miàn",
+          "meaning": "surface, side"
+        }
+      ]
+    },
+    {
+      "chinese": "腌制食物要放适量的调料。",
+      "pinyin": "Yānzhì shíwù yào fàng shìliàng de tiáoliào.",
+      "translation": "You should put an appropriate amount of seasoning when marinating food.",
+      "usage": "Used to explain proper marinating technique with seasoning.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "腌",
+          "py": "yān",
+          "meaning": "to marinate"
+        },
+        {
+          "zh": "制",
+          "py": "zhì",
+          "meaning": "to make, to process"
+        },
+        {
+          "zh": "食物",
+          "py": "shíwù",
+          "meaning": "food"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "should"
+        },
+        {
+          "zh": "放",
+          "py": "fàng",
+          "meaning": "to put, to add"
+        },
+        {
+          "zh": "适量",
+          "py": "shìliàng",
+          "meaning": "appropriate amount"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive particle"
+        },
+        {
+          "zh": "调料",
+          "py": "tiáoliào",
+          "meaning": "seasoning"
+        }
+      ]
+    },
+    {
+      "chinese": "煮汤要先放骨头。",
+      "pinyin": "Zhǔ tāng yào xiān fàng gǔtou.",
+      "translation": "You should put bones in first when making soup.",
+      "usage": "Used to explain the correct order of ingredients when making soup.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "煮",
+          "py": "zhǔ",
+          "meaning": "to cook by boiling"
+        },
+        {
+          "zh": "汤",
+          "py": "tāng",
+          "meaning": "soup"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "should"
+        },
+        {
+          "zh": "先",
+          "py": "xiān",
+          "meaning": "first"
+        },
+        {
+          "zh": "放",
+          "py": "fàng",
+          "meaning": "to put, to add"
+        },
+        {
+          "zh": "骨头",
+          "py": "gǔtou",
+          "meaning": "bone"
+        }
+      ]
+    },
+    {
+      "chinese": "做菜要掌握好火候。",
+      "pinyin": "Zuò cài yào zhǎngwò hǎo huǒhòu.",
+      "translation": "You need to master the proper heat level when cooking.",
+      "usage": "Used to emphasize the importance of heat control in cooking.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "做",
+          "py": "zuò",
+          "meaning": "to make, to cook"
+        },
+        {
+          "zh": "菜",
+          "py": "cài",
+          "meaning": "dish, food"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "should"
+        },
+        {
+          "zh": "掌握",
+          "py": "zhǎngwò",
+          "meaning": "to master, to grasp"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good, well"
+        },
+        {
+          "zh": "火候",
+          "py": "huǒhòu",
+          "meaning": "heat level, cooking time"
+        }
+      ]
+    },
+    {
+      "chinese": "炖鸡要用文火。",
+      "pinyin": "Dùn jī yào yòng wénhuǒ.",
+      "translation": "You should use low heat when braising chicken.",
+      "usage": "Used to explain the correct heat level for braising chicken.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "炖",
+          "py": "dùn",
+          "meaning": "to braise"
+        },
+        {
+          "zh": "鸡",
+          "py": "jī",
+          "meaning": "chicken"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "should"
+        },
+        {
+          "zh": "用",
+          "py": "yòng",
+          "meaning": "to use"
+        },
+        {
+          "zh": "文火",
+          "py": "wénhuǒ",
+          "meaning": "low heat"
+        }
+      ]
+    },
+    {
+      "chinese": "炒菜前要先把油烧热。",
+      "pinyin": "Chǎo cài qián yào xiān bǎ yóu shāo rè.",
+      "translation": "You should heat the oil first before stir-frying.",
+      "usage": "Used to give basic cooking instruction about heating oil before stir-frying.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "炒",
+          "py": "chǎo",
+          "meaning": "to stir-fry"
+        },
+        {
+          "zh": "菜",
+          "py": "cài",
+          "meaning": "vegetables"
+        },
+        {
+          "zh": "前",
+          "py": "qián",
+          "meaning": "before"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "should"
+        },
+        {
+          "zh": "先",
+          "py": "xiān",
+          "meaning": "first"
+        },
+        {
+          "zh": "把",
+          "py": "bǎ",
+          "meaning": "to hold, to take"
+        },
+        {
+          "zh": "油",
+          "py": "yóu",
+          "meaning": "oil"
+        },
+        {
+          "zh": "烧",
+          "py": "shāo",
+          "meaning": "to heat, to cook"
+        },
+        {
+          "zh": "热",
+          "py": "rè",
+          "meaning": "hot"
+        }
+      ]
+    },
+    {
+      "chinese": "水煮蛋要煮10分钟。",
+      "pinyin": "Shuǐ zhǔ dàn yào zhǔ 10 fēnzhōng.",
+      "translation": "Boiled eggs should be boiled for 10 minutes.",
+      "usage": "Used to give specific cooking time for boiled eggs.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "水煮",
+          "py": "shuǐzhǔ",
+          "meaning": "boiled in water"
+        },
+        {
+          "zh": "蛋",
+          "py": "dàn",
+          "meaning": "egg"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "should"
+        },
+        {
+          "zh": "煮",
+          "py": "zhǔ",
+          "meaning": "to cook by boiling"
+        },
+        {
+          "zh": "10",
+          "py": "10",
+          "meaning": "ten"
+        },
+        {
+          "zh": "分钟",
+          "py": "fēnzhōng",
+          "meaning": "minute"
+        }
+      ]
+    },
+    {
+      "chinese": "炒肉丝要快速翻炒。",
+      "pinyin": "Chǎo ròusī yào kuàisù fān chǎo.",
+      "translation": "You should quickly stir-fry meat strips.",
+      "usage": "Used to explain the technique of quick stir-frying meat strips.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "炒",
+          "py": "chǎo",
+          "meaning": "to stir-fry"
+        },
+        {
+          "zh": "肉丝",
+          "py": "ròusī",
+          "meaning": "meat strips"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "should"
+        },
+        {
+          "zh": "快速",
+          "py": "kuàisù",
+          "meaning": "quickly"
+        },
+        {
+          "zh": "翻炒",
+          "py": "fān chǎo",
+          "meaning": "to stir-fry"
+        }
+      ]
+    },
+    {
+      "chinese": "凉拌菜要放蒜泥。",
+      "pinyin": "Liáng bàn cài yào fàng suàn ní.",
+      "translation": "You should add minced garlic when making cold salad.",
+      "usage": "Used to suggest a common ingredient for cold salads.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "凉拌",
+          "py": "liáng bàn",
+          "meaning": "cold dish"
+        },
+        {
+          "zh": "菜",
+          "py": "cài",
+          "meaning": "vegetables"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "should"
+        },
+        {
+          "zh": "放",
+          "py": "fàng",
+          "meaning": "to put, to add"
+        },
+        {
+          "zh": "蒜",
+          "py": "suàn",
+          "meaning": "garlic"
+        },
+        {
+          "zh": "泥",
+          "py": "ní",
+          "meaning": "paste"
+        }
+      ]
+    },
+    {
+      "chinese": "蒸蛋要盖上盖子。",
+      "pinyin": "Zhēng dàn yào gài shàng gài zi.",
+      "translation": "You should cover the egg when steaming.",
+      "usage": "Used to give cooking instruction about covering eggs when steaming.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "蒸",
+          "py": "zhēng",
+          "meaning": "to steam"
+        },
+        {
+          "zh": "蛋",
+          "py": "dàn",
+          "meaning": "egg"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "should"
+        },
+        {
+          "zh": "盖上",
+          "py": "gài shàng",
+          "meaning": "to cover"
+        },
+        {
+          "zh": "盖子",
+          "py": "gài zi",
+          "meaning": "lid"
+        }
+      ]
+    },
+    {
+      "chinese": "炖肉要放点盐。",
+      "pinyin": "Dùn ròu yào fàng diǎn yán.",
+      "translation": "You should add a little salt when braising meat.",
+      "usage": "Used to suggest adding salt when braising meat.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "炖",
+          "py": "dùn",
+          "meaning": "to braise"
+        },
+        {
+          "zh": "肉",
+          "py": "ròu",
+          "meaning": "meat"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "should"
+        },
+        {
+          "zh": "放",
+          "py": "fàng",
+          "meaning": "to put, to add"
+        },
+        {
+          "zh": "点",
+          "py": "diǎn",
+          "meaning": "a little"
+        },
+        {
+          "zh": "盐",
+          "py": "yán",
+          "meaning": "salt"
+        }
+      ]
+    },
+    {
+      "chinese": "炒饭要先炒蛋。",
+      "pinyin": "Chǎo fàn yào xiān chǎo dàn.",
+      "translation": "You should fry eggs first when making fried rice.",
+      "usage": "Used to give cooking instruction about making fried rice.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "炒饭",
+          "py": "chǎo fàn",
+          "meaning": "fried rice"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "should"
+        },
+        {
+          "zh": "先",
+          "py": "xiān",
+          "meaning": "first"
+        },
+        {
+          "zh": "炒",
+          "py": "chǎo",
+          "meaning": "to stir-fry"
+        },
+        {
+          "zh": "蛋",
+          "py": "dàn",
+          "meaning": "egg"
+        }
+      ]
+    },
+    {
+      "chinese": "煮面条要先放水。",
+      "pinyin": "Zhǔ miàntiáo yào xiān fàng shuǐ.",
+      "translation": "You should put water in first when cooking noodles.",
+      "usage": "Used to give cooking instruction about cooking noodles.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "煮",
+          "py": "zhǔ",
+          "meaning": "to cook by boiling"
+        },
+        {
+          "zh": "面条",
+          "py": "miàntiáo",
+          "meaning": "noodles"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "should"
+        },
+        {
+          "zh": "先",
+          "py": "xiān",
+          "meaning": "first"
+        },
+        {
+          "zh": "放",
+          "py": "fàng",
+          "meaning": "to put, to add"
+        },
+        {
+          "zh": "水",
+          "py": "shuǐ",
+          "meaning": "water"
+        }
+      ]
+    },
+    {
+      "chinese": "做汤要先焯水。",
+      "pinyin": "Zuò tāng yào xiān chāo shuǐ.",
+      "translation": "You should blanch the ingredients first when making soup.",
+      "usage": "Used to give cooking instruction about blanching ingredients before making soup.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "做",
+          "py": "zuò",
+          "meaning": "to make, to cook"
+        },
+        {
+          "zh": "汤",
+          "py": "tāng",
+          "meaning": "soup"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "should"
+        },
+        {
+          "zh": "先",
+          "py": "xiān",
+          "meaning": "first"
+        },
+        {
+          "zh": "焯水",
+          "py": "chāo shuǐ",
+          "meaning": "to blanch"
+        }
+      ]
+    },
+    {
+      "chinese": "炒青菜要大火快炒。",
+      "pinyin": "Chǎo qīngcài yào dà huǒ kuài chǎo.",
+      "translation": "You should stir-fry leafy vegetables with high heat quickly.",
+      "usage": "Used to explain cooking technique for stir-frying leafy vegetables.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "炒",
+          "py": "chǎo",
+          "meaning": "to stir-fry"
+        },
+        {
+          "zh": "青菜",
+          "py": "qīngcài",
+          "meaning": "leafy vegetables"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "should"
+        },
+        {
+          "zh": "大",
+          "py": "dà",
+          "meaning": "large, high"
+        },
+        {
+          "zh": "火",
+          "py": "huǒ",
+          "meaning": "fire, heat"
+        },
+        {
+          "zh": "快炒",
+          "py": "kuài chǎo",
+          "meaning": "quick stir-fry"
+        }
+      ]
+    }
+  ]
+}

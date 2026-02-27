@@ -1,0 +1,109 @@
+{
+  "sentences": [
+    {
+      "chinese": "美容院",
+      "pinyin": "Měi róng yuàn",
+      "translation": "Beauty Salon",
+      "usage": "General term for a place offering beauty services like haircuts, facials, and nail care.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "美",
+          "py": "Měi",
+          "meaning": "beautiful"
+        },
+        {
+          "zh": "容",
+          "py": "róng",
+          "meaning": "face"
+        },
+        {
+          "zh": "院",
+          "py": "yuàn",
+          "meaning": "institute"
+        }
+      ]
+    },
+    {
+      "chinese": "剪发",
+      "pinyin": "Jiǎn fà",
+      "translation": "Haircut",
+      "usage": "Refers to cutting hair, commonly ordered by male clients.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "剪",
+          "py": "jiǎn",
+          "meaning": "cut"
+        },
+        {
+          "zh": "发",
+          "py": "fà",
+          "meaning": "hair"
+        }
+      ]
+    },
+    {
+      "chinese": "洗头",
+      "pinyin": "Xǐ tóu",
+      "translation": "Washing hair",
+      "usage": "Service where hair is cleansed with shampoo.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "洗",
+          "py": "xǐ",
+          "meaning": "wash"
+        },
+        {
+          "zh": "头",
+          "py": "tóu",
+          "meaning": "head"
+        }
+      ]
+    },
+    {
+      "chinese": "吹头发",
+      "pinyin": "Chuī tóu fà",
+      "translation": "Blow drying hair",
+      "usage": "Post-wash service to dry hair using a hair dryer.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "吹",
+          "py": "chuī",
+          "meaning": "blow"
+        },
+        {
+          "zh": "头",
+          "py": "tóu",
+          "meaning": "head"
+        },
+        {
+          "zh": "发",
+          "py": "fà",
+          "meaning": "hair"
+        }
+      ]
+    },
+    {
+      "chinese": "做面部护理",
+      "pinyin": "Zuò miàn bù hù lǐ",
+      "translation": "Facial treatment",
+      "usage": "Standard term for skincare treatments like cleansing and masking.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "做",
+          "py": "zuò",
+          "meaning": "do"
+        },
+        {
+          "zh": "面部",
+          "py": "miàn bù",
+          "meaning": "face"
+        }
+      ]
+    }
+  ]
+}

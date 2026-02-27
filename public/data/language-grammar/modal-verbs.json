@@ -1,0 +1,302 @@
+{
+  "sentences": [
+    {
+      "chinese": "我能去吗？",
+      "pinyin": "Wǒ néng qù ma?",
+      "translation": "Can I go?",
+      "usage": "Asking for permission or expressing ability",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "能",
+          "py": "néng",
+          "meaning": "can (ability)"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "go"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "他会说英语。",
+      "pinyin": "Hēi huì shuō Yīngyǔ.",
+      "translation": "He can speak English.",
+      "usage": "Describing a skill",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "他",
+          "py": "tā",
+          "meaning": "he"
+        },
+        {
+          "zh": "会",
+          "py": "huì",
+          "meaning": "can (skill)"
+        },
+        {
+          "zh": "说",
+          "py": "shuō",
+          "meaning": "speak"
+        },
+        {
+          "zh": "英语",
+          "py": "Yīngyǔ",
+          "meaning": "English"
+        }
+      ]
+    },
+    {
+      "chinese": "你可以试试。",
+      "pinyin": "Nǐ kěyǐ shìshì.",
+      "translation": "You can try it.",
+      "usage": "Giving permission or suggestion",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "可以",
+          "py": "kěyǐ",
+          "meaning": "can (permission)"
+        },
+        {
+          "zh": "试试",
+          "py": "shìshì",
+          "meaning": "try"
+        }
+      ]
+    },
+    {
+      "chinese": "我不能迟到。",
+      "pinyin": "Wǒ bù néng chídào.",
+      "translation": "I can't be late.",
+      "usage": "Expressing impossibility",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "不能",
+          "py": "bù néng",
+          "meaning": "can't"
+        },
+        {
+          "zh": "迟到",
+          "py": "chídào",
+          "meaning": "be late"
+        }
+      ]
+    },
+    {
+      "chinese": "她会不会来？",
+      "pinyin": "Tā huì bù huì lái?",
+      "translation": "Will she come?",
+      "usage": "Asking about possibility",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "她",
+          "py": "tā",
+          "meaning": "she"
+        },
+        {
+          "zh": "会",
+          "py": "huì",
+          "meaning": "will"
+        },
+        {
+          "zh": "不来",
+          "py": "bù lái",
+          "meaning": "not come"
+        }
+      ]
+    },
+    {
+      "chinese": "能帮我吗？",
+      "pinyin": "Néng bāng wǒ ma?",
+      "translation": "Can you help me?",
+      "usage": "Requesting assistance",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "能",
+          "py": "néng",
+          "meaning": "can"
+        },
+        {
+          "zh": "帮忙",
+          "py": "bāngmáng",
+          "meaning": "help"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "可以坐这里吗？",
+      "pinyin": "Kěyǐ zuò zhèlǐ ma?",
+      "translation": "Can I sit here?",
+      "usage": "Asking for permission",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "可以",
+          "py": "kěyǐ",
+          "meaning": "can"
+        },
+        {
+          "zh": "坐",
+          "py": "zuò",
+          "meaning": "sit"
+        },
+        {
+          "zh": "这里",
+          "py": "zhèlǐ",
+          "meaning": "here"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "他不会忘记的。",
+      "pinyin": "Tā bù huì qìwàng de.",
+      "translation": "He won't forget.",
+      "usage": "Expressing certainty",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "他",
+          "py": "tā",
+          "meaning": "he"
+        },
+        {
+          "zh": "不会",
+          "py": "bù huì",
+          "meaning": "won't"
+        },
+        {
+          "zh": "忘记",
+          "py": "qìwàng",
+          "meaning": "forget"
+        }
+      ]
+    },
+    {
+      "chinese": "能借我一下吗？",
+      "pinyin": "Néng jiè wǒ yīxià ma?",
+      "translation": "Can I borrow it?",
+      "usage": "Requesting to borrow",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "能",
+          "py": "néng",
+          "meaning": "can"
+        },
+        {
+          "zh": "借",
+          "py": "jiè",
+          "meaning": "borrow"
+        },
+        {
+          "zh": "一下",
+          "py": "yīxià",
+          "meaning": "for a moment"
+        }
+      ]
+    },
+    {
+      "chinese": "可以走了吗？",
+      "pinyin": "Kěyǐ zǒu le ma?",
+      "translation": "Can I go now?",
+      "usage": "Asking for permission to leave",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "可以",
+          "py": "kěyǐ",
+          "meaning": "can"
+        },
+        {
+          "zh": "走",
+          "py": "zǒu",
+          "meaning": "go"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completion particle"
+        }
+      ]
+    },
+    {
+      "chinese": "你能听懂吗？",
+      "pinyin": "Nǐ néng tīngdǒng ma?",
+      "translation": "Can you understand?",
+      "usage": "Asking about comprehension",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "能",
+          "py": "néng",
+          "meaning": "can"
+        },
+        {
+          "zh": "听懂",
+          "py": "tīngdǒng",
+          "meaning": "understand"
+        }
+      ]
+    },
+    {
+      "chinese": "会下雨吗？",
+      "pinyin": "Huì xià yǔ ma?",
+      "translation": "Will it rain?",
+      "usage": "Asking about weather prediction",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "会",
+          "py": "huì",
+          "meaning": "will"
+        },
+        {
+          "zh": "下雨",
+          "py": "xià yǔ",
+          "meaning": "rain"
+        }
+      ]
+    }
+  ]
+}

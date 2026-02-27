@@ -1,0 +1,123 @@
+{
+  "sentences": [
+    {
+      "chinese": "红包",
+      "pinyin": "Hóngbāo",
+      "translation": "Red envelope",
+      "usage": "A traditional gift symbolizing good luck and fortune, often given during Chinese New Year.",
+      "formality": "Cultural",
+      "words": [
+        {
+          "zh": "红",
+          "py": "Hóng",
+          "meaning": "red"
+        },
+        {
+          "zh": "包",
+          "py": "Bāo",
+          "meaning": "package/envelope"
+        }
+      ]
+    },
+    {
+      "chinese": "发红包",
+      "pinyin": "Fā hóngbāo",
+      "translation": "To give out red envelopes",
+      "usage": "Common during festivals like Chinese New Year to distribute money in red envelopes.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "发",
+          "py": "Fā",
+          "meaning": "to give/distribute"
+        },
+        {
+          "zh": "红包",
+          "py": "Hóngbāo",
+          "meaning": "red envelope"
+        }
+      ]
+    },
+    {
+      "chinese": "压岁钱",
+      "pinyin": "Yāsuì qián",
+      "translation": "Lucky money",
+      "usage": "Money given in red envelopes to children for good luck during New Year.",
+      "formality": "Cultural",
+      "words": [
+        {
+          "zh": "压",
+          "py": "Yā",
+          "meaning": "suppress"
+        },
+        {
+          "zh": "岁",
+          "py": "Suì",
+          "meaning": "year"
+        },
+        {
+          "zh": "钱",
+          "py": "Qián",
+          "meaning": "money"
+        }
+      ]
+    },
+    {
+      "chinese": "电子红包",
+      "pinyin": "Diànzǐ hóngbāo",
+      "translation": "Digital red envelope",
+      "usage": "Virtual red envelopes sent via apps like WeChat for celebrations.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "电子",
+          "py": "Diànzǐ",
+          "meaning": "digital"
+        },
+        {
+          "zh": "红包",
+          "py": "Hóngbāo",
+          "meaning": "red envelope"
+        }
+      ]
+    },
+    {
+      "chinese": "抢红包",
+      "pinyin": "Qiǎng hóngbāo",
+      "translation": "To grab red envelopes",
+      "usage": "Refers to friends or family competing to collect digital red envelopes.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "抢",
+          "py": "Qiǎng",
+          "meaning": "to grab"
+        },
+        {
+          "zh": "红包",
+          "py": "Hóngbāo",
+          "meaning": "red envelope"
+        }
+      ]
+    },
+    {
+      "chinese": "传统红包",
+      "pinyin": "Chuántǒng hóngbāo",
+      "translation": "Traditional red envelope",
+      "usage": "Physical red envelopes used historically, often with specific cultural rituals.",
+      "formality": "Cultural",
+      "words": [
+        {
+          "zh": "传统",
+          "py": "Chuántǒng",
+          "meaning": "traditional"
+        },
+        {
+          "zh": "红包",
+          "py": "Hóngbāo",
+          "meaning": "red envelope"
+        }
+      ]
+    }
+  ]
+}

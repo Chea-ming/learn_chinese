@@ -1,0 +1,161 @@
+{
+  "sentences": [
+    {
+      "chinese": "博物馆",
+      "pinyin": "Bó wù guǎn",
+      "translation": "Museum",
+      "usage": "Neutral term for a museum in general.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "博",
+          "py": "bó",
+          "meaning": "broad"
+        },
+        {
+          "zh": "物",
+          "py": "wù",
+          "meaning": "things"
+        },
+        {
+          "zh": "馆",
+          "py": "guǎn",
+          "meaning": "hall"
+        }
+      ]
+    },
+    {
+      "chinese": "艺术博物馆",
+      "pinyin": "Yì shù bó wù guǎn",
+      "translation": "Art museum",
+      "usage": "Refers to a museum specializing in art.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "艺术",
+          "py": "yì shù",
+          "meaning": "art"
+        },
+        {
+          "zh": "博物馆",
+          "py": "bówùguǎn",
+          "meaning": "museum"
+        }
+      ]
+    },
+    {
+      "chinese": "历史博物馆",
+      "pinyin": "Lì shǐ bó wù guǎn",
+      "translation": "History museum",
+      "usage": "A museum dedicated to historical exhibits.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "历史",
+          "py": "lì shǐ",
+          "meaning": "history"
+        },
+        {
+          "zh": "博物馆",
+          "py": "bówùguǎn",
+          "meaning": "museum"
+        }
+      ]
+    },
+    {
+      "chinese": "科学博物馆",
+      "pinyin": "Kē xué bó wù guǎn",
+      "translation": "Science museum",
+      "usage": "Museum focused on scientific exhibits.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "科学",
+          "py": "kē xué",
+          "meaning": "science"
+        },
+        {
+          "zh": "博物馆",
+          "py": "bówùguǎn",
+          "meaning": "museum"
+        }
+      ]
+    },
+    {
+      "chinese": "参观博物馆",
+      "pinyin": "Cān guān bó wù guǎn",
+      "translation": "Visit a museum",
+      "usage": "Used to describe the act of visiting.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "参观",
+          "py": "cān guān",
+          "meaning": "visit"
+        },
+        {
+          "zh": "博物馆",
+          "py": "bówùguǎn",
+          "meaning": "museum"
+        }
+      ]
+    },
+    {
+      "chinese": "展览会",
+      "pinyin": "Zhǎn lǎn huì",
+      "translation": "Exhibition",
+      "usage": "Temporary display of items in a museum.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "展览",
+          "py": "zhǎn lǎn",
+          "meaning": "exhibit"
+        },
+        {
+          "zh": "会",
+          "py": "huì",
+          "meaning": "event"
+        }
+      ]
+    },
+    {
+      "chinese": "门票",
+      "pinyin": "Mén piào",
+      "translation": "Ticket",
+      "usage": "Refers to admission ticket.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "门",
+          "py": "mén",
+          "meaning": "door"
+        },
+        {
+          "zh": "票",
+          "py": "piào",
+          "meaning": "ticket"
+        }
+      ]
+    },
+    {
+      "chinese": "免费开放",
+      "pinyin": "Miǎn fèi kāi fàng",
+      "translation": "Free admission",
+      "usage": "Used when a museum is open without charge.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "免费",
+          "py": "miǎn fèi",
+          "meaning": "free"
+        },
+        {
+          "zh": "开放",
+          "py": "kāi fàng",
+          "meaning": "open"
+        }
+      ]
+    }
+  ]
+}

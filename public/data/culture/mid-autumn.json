@@ -1,0 +1,298 @@
+{
+  "sentences": [
+    {
+      "chinese": "中秋节快乐！",
+      "pinyin": "Zhōng qiū jié kuàilè!",
+      "translation": "Happy Mid-Autumn Festival!",
+      "usage": "Standard greeting during the festival",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "中",
+          "py": "zhōng",
+          "meaning": "middle"
+        },
+        {
+          "zh": "秋",
+          "py": "qiū",
+          "meaning": "autumn"
+        },
+        {
+          "zh": "节",
+          "py": "jié",
+          "meaning": "festival"
+        },
+        {
+          "zh": "快",
+          "py": "kuài",
+          "meaning": "happy"
+        },
+        {
+          "zh": "乐",
+          "py": "lè",
+          "meaning": "joy"
+        }
+      ]
+    },
+    {
+      "chinese": "吃月饼",
+      "pinyin": "Chī yuè bǐng",
+      "translation": "Eat mooncakes",
+      "usage": "Refers to the traditional festival food",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "吃",
+          "py": "chī",
+          "meaning": "to eat"
+        },
+        {
+          "zh": "月",
+          "py": "yuè",
+          "meaning": "moon"
+        },
+        {
+          "zh": "饼",
+          "py": "bǐng",
+          "meaning": "cake"
+        }
+      ]
+    },
+    {
+      "chinese": "赏月",
+      "pinyin": "Shǎng yuè",
+      "translation": "Moon gazing",
+      "usage": "Traditional activity during the festival",
+      "formality": "Cultural",
+      "words": [
+        {
+          "zh": "赏",
+          "py": "shǎng",
+          "meaning": "to appreciate"
+        },
+        {
+          "zh": "月",
+          "py": "yuè",
+          "meaning": "moon"
+        }
+      ]
+    },
+    {
+      "chinese": "月圆人团圆",
+      "pinyin": "Yuè yuán rén tuán yuán",
+      "translation": "When the moon is full, the family reunites",
+      "usage": "Symbolizes family reunion",
+      "formality": "Poetic",
+      "words": [
+        {
+          "zh": "月",
+          "py": "yuè",
+          "meaning": "moon"
+        },
+        {
+          "zh": "圆",
+          "py": "yuán",
+          "meaning": "full"
+        },
+        {
+          "zh": "人",
+          "py": "rén",
+          "meaning": "people"
+        },
+        {
+          "zh": "团",
+          "py": "tuán",
+          "meaning": "reunite"
+        },
+        {
+          "zh": "圆",
+          "py": "yuán",
+          "meaning": "complete"
+        }
+      ]
+    },
+    {
+      "chinese": "嫦娥奔月",
+      "pinyin": "Cháng é bēn yuè",
+      "translation": "Chang'e flies to the moon",
+      "usage": "Mythological story associated with the festival",
+      "formality": "Cultural",
+      "words": [
+        {
+          "zh": "嫦",
+          "py": "cháng",
+          "meaning": "Chang'e (moon goddess)"
+        },
+        {
+          "zh": "娥",
+          "py": "é",
+          "meaning": "goddess"
+        },
+        {
+          "zh": "奔",
+          "py": "bēn",
+          "meaning": "to fly"
+        },
+        {
+          "zh": "月",
+          "py": "yuè",
+          "meaning": "moon"
+        }
+      ]
+    },
+    {
+      "chinese": "灯笼",
+      "pinyin": "Dēng lóng",
+      "translation": "Lanterns",
+      "usage": "Traditional festival decorations",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "灯",
+          "py": "dēng",
+          "meaning": "lamp"
+        },
+        {
+          "zh": "笼",
+          "py": "lóng",
+          "meaning": "lantern"
+        }
+      ]
+    },
+    {
+      "chinese": "猜灯谜",
+      "pinyin": "Cāi dēng mí",
+      "translation": "Lantern riddles",
+      "usage": "Traditional festival activity",
+      "formality": "Cultural",
+      "words": [
+        {
+          "zh": "猜",
+          "py": "cāi",
+          "meaning": "to guess"
+        },
+        {
+          "zh": "灯",
+          "py": "dēng",
+          "meaning": "lamp"
+        },
+        {
+          "zh": "谜",
+          "py": "mí",
+          "meaning": "riddle"
+        }
+      ]
+    },
+    {
+      "chinese": "花好月圆",
+      "pinyin": "Huā hǎo yuè yuán",
+      "translation": "Flowers in bloom, moon full",
+      "usage": "Poetic expression for prosperity",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "花",
+          "py": "huā",
+          "meaning": "flower"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good"
+        },
+        {
+          "zh": "月",
+          "py": "yuè",
+          "meaning": "moon"
+        },
+        {
+          "zh": "圆",
+          "py": "yuán",
+          "meaning": "full"
+        }
+      ]
+    },
+    {
+      "chinese": "月到中秋分外明",
+      "pinyin": "Yuè dào zhōng qiū fēn wài míng",
+      "translation": "The moon shines brightest at Mid-Autumn",
+      "usage": "Poetic saying about the festival",
+      "formality": "Poetic",
+      "words": [
+        {
+          "zh": "月",
+          "py": "yuè",
+          "meaning": "moon"
+        },
+        {
+          "zh": "到",
+          "py": "dào",
+          "meaning": "arrive"
+        },
+        {
+          "zh": "中秋",
+          "py": "zhōng qiū",
+          "meaning": "Mid-Autumn"
+        },
+        {
+          "zh": "分",
+          "py": "fēn",
+          "meaning": "especially"
+        },
+        {
+          "zh": "外",
+          "py": "wài",
+          "meaning": "extra"
+        },
+        {
+          "zh": "明",
+          "py": "míng",
+          "meaning": "bright"
+        }
+      ]
+    },
+    {
+      "chinese": "团圆饭",
+      "pinyin": "Tuán yuán fàn",
+      "translation": "Family reunion dinner",
+      "usage": "Traditional festival meal",
+      "formality": "Cultural",
+      "words": [
+        {
+          "zh": "团",
+          "py": "tuán",
+          "meaning": "reunite"
+        },
+        {
+          "zh": "圆",
+          "py": "yuán",
+          "meaning": "complete"
+        },
+        {
+          "zh": "饭",
+          "py": "fàn",
+          "meaning": "meal"
+        }
+      ]
+    },
+    {
+      "chinese": "月饼",
+      "pinyin": "Yuè bǐng",
+      "translation": "Mooncake",
+      "usage": "Festival specialty pastry",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "月",
+          "py": "yuè",
+          "meaning": "moon"
+        },
+        {
+          "zh": "饼",
+          "py": "bǐng",
+          "meaning": "cake"
+        }
+      ]
+    }
+  ]
+}

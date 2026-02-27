@@ -1,0 +1,319 @@
+{
+  "sentences": [
+    {
+      "chinese": "节哀顺变。",
+      "pinyin": "Jié āi shùn biàn。",
+      "translation": "Please conserve your grief and follow the natural course of events.",
+      "usage": "Common condolence phrase when someone dies. Used to comfort the bereaved.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "节",
+          "py": "jié",
+          "meaning": "to conserve"
+        },
+        {
+          "zh": "哀",
+          "py": "āi",
+          "meaning": "sorrow"
+        },
+        {
+          "zh": "顺",
+          "py": "shùn",
+          "meaning": "to follow"
+        },
+        {
+          "zh": "变",
+          "py": "biàn",
+          "meaning": "change"
+        }
+      ]
+    },
+    {
+      "chinese": "请节哀。",
+      "pinyin": "Qǐng jié āi。",
+      "translation": "Please take care of your grief.",
+      "usage": "Informal way to express condolences. Often used with close family or friends.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "节",
+          "py": "jié",
+          "meaning": "to conserve"
+        },
+        {
+          "zh": "哀",
+          "py": "āi",
+          "meaning": "sorrow"
+        }
+      ]
+    },
+    {
+      "chinese": "吊唁。",
+      "pinyin": "Diào yàn。",
+      "translation": "To visit a funeral or offer condolences.",
+      "usage": "Verb used when attending a funeral or visiting the bereaved family.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "吊",
+          "py": "diào",
+          "meaning": "to mourn"
+        },
+        {
+          "zh": "唁",
+          "py": "yàn",
+          "meaning": "condolence"
+        }
+      ]
+    },
+    {
+      "chinese": "随礼。",
+      "pinyin": "Suí lǐ。",
+      "translation": "To give condolences (in cash).",
+      "usage": "When giving money as a condolence gift. Often placed in an envelope.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "随",
+          "py": "suí",
+          "meaning": "to accompany"
+        },
+        {
+          "zh": "礼",
+          "py": "lǐ",
+          "meaning": "etiquette / gift"
+        }
+      ]
+    },
+    {
+      "chinese": "送花圈。",
+      "pinyin": "Sòng huā quān。",
+      "translation": "To send floral wreaths as condolences.",
+      "usage": "Common practice in Chinese funerals. Wreaths are placed at the funeral site.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "送",
+          "py": "sòng",
+          "meaning": "to send"
+        },
+        {
+          "zh": "花",
+          "py": "huā",
+          "meaning": "flower"
+        },
+        {
+          "zh": "圈",
+          "py": "quān",
+          "meaning": "wreath"
+        }
+      ]
+    },
+    {
+      "chinese": "守丧。",
+      "pinyin": "Shǒu sāng。",
+      "translation": "To observe mourning rites.",
+      "usage": "Refers to the period of mourning after a death. Can be formal or informal.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "守",
+          "py": "shǒu",
+          "meaning": "to observe"
+        },
+        {
+          "zh": "丧",
+          "py": "sāng",
+          "meaning": "mourning"
+        }
+      ]
+    },
+    {
+      "chinese": "安息。",
+      "pinyin": "Ān xī。",
+      "translation": "Rest in peace.",
+      "usage": "Used when speaking about the deceased. Often in prayers or eulogies.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "安",
+          "py": "ān",
+          "meaning": "peaceful"
+        },
+        {
+          "zh": "息",
+          "py": "xī",
+          "meaning": "rest"
+        }
+      ]
+    },
+    {
+      "chinese": "哭灵。",
+      "pinyin": "Kū líng。",
+      "translation": "To mourn at the funeral.",
+      "usage": "Describes the act of crying during a funeral ceremony.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "哭",
+          "py": "kū",
+          "meaning": "to cry"
+        },
+        {
+          "zh": "灵",
+          "py": "líng",
+          "meaning": "spirit / soul"
+        }
+      ]
+    },
+    {
+      "chinese": "烧纸钱。",
+      "pinyin": "Shāo zhǐ qián。",
+      "translation": "To burn paper money as an offering.",
+      "usage": "Common practice in Chinese funerals to provide for the deceased in the afterlife.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "烧",
+          "py": "shāo",
+          "meaning": "to burn"
+        },
+        {
+          "zh": "纸",
+          "py": "zhǐ",
+          "meaning": "paper"
+        },
+        {
+          "zh": "钱",
+          "py": "qián",
+          "meaning": "money"
+        }
+      ]
+    },
+    {
+      "chinese": "奠仪。",
+      "pinyin": "Diàn yí。",
+      "translation": "Condolence offering (monetary).",
+      "usage": "Formal term for a monetary gift given during a funeral.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "奠",
+          "py": "diàn",
+          "meaning": "to offer condolences"
+        },
+        {
+          "zh": "仪",
+          "py": "yí",
+          "meaning": "ceremony / offering"
+        }
+      ]
+    },
+    {
+      "chinese": "祭奠。",
+      "pinyin": "Jì diàn。",
+      "translation": "To hold a memorial ceremony.",
+      "usage": "Refers to formal rituals to honor the deceased.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "祭",
+          "py": "jì",
+          "meaning": "to sacrifice"
+        },
+        {
+          "zh": "奠",
+          "py": "diàn",
+          "meaning": "to offer condolences"
+        }
+      ]
+    },
+    {
+      "chinese": "追思会。",
+      "pinyin": "Zhuī sī huì。",
+      "translation": "Memorial service / tribute gathering.",
+      "usage": "Used for post-funeral gatherings to honor the deceased.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "追",
+          "py": "zhuī",
+          "meaning": "to follow"
+        },
+        {
+          "zh": "思",
+          "py": "sī",
+          "meaning": "to think"
+        },
+        {
+          "zh": "会",
+          "py": "huì",
+          "meaning": "meeting"
+        }
+      ]
+    },
+    {
+      "chinese": "悼念。",
+      "pinyin": "Dào niàn。",
+      "translation": "To mourn and honor the deceased.",
+      "usage": "General term for showing respect and mourning.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "悼",
+          "py": "dào",
+          "meaning": "to mourn"
+        },
+        {
+          "zh": "念",
+          "py": "niàn",
+          "meaning": "to remember"
+        }
+      ]
+    },
+    {
+      "chinese": "送葬。",
+      "pinyin": "Sòng zàng。",
+      "translation": "To attend the funeral procession.",
+      "usage": "Describes participating in the funeral ceremony.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "送",
+          "py": "sòng",
+          "meaning": "to send"
+        },
+        {
+          "zh": "葬",
+          "py": "zàng",
+          "meaning": "burial"
+        }
+      ]
+    },
+    {
+      "chinese": "灵堂。",
+      "pinyin": "Líng táng。",
+      "translation": "Funeral hall / mourning hall.",
+      "usage": "Refers to the place where the deceased's body is kept for viewing.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "灵",
+          "py": "líng",
+          "meaning": "spirit / soul"
+        },
+        {
+          "zh": "堂",
+          "py": "táng",
+          "meaning": "hall"
+        }
+      ]
+    }
+  ]
+}

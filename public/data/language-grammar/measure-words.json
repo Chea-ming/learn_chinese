@@ -1,0 +1,287 @@
+{
+  "sentences": [
+    {
+      "chinese": "一本书",
+      "pinyin": "Yī běn shū",
+      "translation": "A book",
+      "usage": "Used for books, documents, or volumes.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "本",
+          "py": "běn",
+          "meaning": "volume"
+        },
+        {
+          "zh": "书",
+          "py": "shū",
+          "meaning": "book"
+        }
+      ]
+    },
+    {
+      "chinese": "一张纸",
+      "pinyin": "Yī zhāng zhǐ",
+      "translation": "A sheet of paper",
+      "usage": "Used for flat objects like paper, tables, or pictures.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "张",
+          "py": "zhāng",
+          "meaning": "sheet"
+        },
+        {
+          "zh": "纸",
+          "py": "zhǐ",
+          "meaning": "paper"
+        }
+      ]
+    },
+    {
+      "chinese": "一条鱼",
+      "pinyin": "Yī tiáo yú",
+      "translation": "A fish",
+      "usage": "Used for long, thin objects like rivers, ropes, or fish.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "条",
+          "py": "tiáo",
+          "meaning": "strip"
+        },
+        {
+          "zh": "鱼",
+          "py": "yú",
+          "meaning": "fish"
+        }
+      ]
+    },
+    {
+      "chinese": "一个苹果",
+      "pinyin": "Yī gè píngguǒ",
+      "translation": "An apple",
+      "usage": "General measure word for non-specific items.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "个",
+          "py": "gè",
+          "meaning": "piece"
+        },
+        {
+          "zh": "苹果",
+          "py": "píngguǒ",
+          "meaning": "apple"
+        }
+      ]
+    },
+    {
+      "chinese": "一杯水",
+      "pinyin": "Yī bēi shuǐ",
+      "translation": "A cup of water",
+      "usage": "Used for liquids in containers.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "杯",
+          "py": "bēi",
+          "meaning": "cup"
+        },
+        {
+          "zh": "水",
+          "py": "shuǐ",
+          "meaning": "water"
+        }
+      ]
+    },
+    {
+      "chinese": "一瓶牛奶",
+      "pinyin": "Yī píng niǔnǎi",
+      "translation": "A bottle of milk",
+      "usage": "Used for bottled liquids.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "瓶",
+          "py": "píng",
+          "meaning": "bottle"
+        },
+        {
+          "zh": "牛奶",
+          "py": "niǔnǎi",
+          "meaning": "milk"
+        }
+      ]
+    },
+    {
+      "chinese": "一台电脑",
+      "pinyin": "Yī tái diànnǎo",
+      "translation": "A computer",
+      "usage": "Used for machines or devices.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "台",
+          "py": "tái",
+          "meaning": "machine"
+        },
+        {
+          "zh": "电脑",
+          "py": "diànnǎo",
+          "meaning": "computer"
+        }
+      ]
+    },
+    {
+      "chinese": "一位老师",
+      "pinyin": "Yī wèi lǎoshī",
+      "translation": "A teacher",
+      "usage": "Formal measure word for people.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "位",
+          "py": "wèi",
+          "meaning": "person (formal)"
+        },
+        {
+          "zh": "老师",
+          "py": "lǎoshī",
+          "meaning": "teacher"
+        }
+      ]
+    },
+    {
+      "chinese": "一支笔",
+      "pinyin": "Yī zhī bǐ",
+      "translation": "A pen",
+      "usage": "Used for pens, cigarettes, or long thin objects.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "支",
+          "py": "zhī",
+          "meaning": "stick"
+        },
+        {
+          "zh": "笔",
+          "py": "bǐ",
+          "meaning": "pen"
+        }
+      ]
+    },
+    {
+      "chinese": "一块石头",
+      "pinyin": "Yī kuài shítou",
+      "translation": "A piece of stone",
+      "usage": "Used for blocks, pieces, or solid objects.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "块",
+          "py": "kuài",
+          "meaning": "block"
+        },
+        {
+          "zh": "石头",
+          "py": "shítou",
+          "meaning": "stone"
+        }
+      ]
+    },
+    {
+      "chinese": "一件衣服",
+      "pinyin": "Yī jiàn yīfu",
+      "translation": "A piece of clothing",
+      "usage": "Used for items of clothing.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "件",
+          "py": "jiàn",
+          "meaning": "item"
+        },
+        {
+          "zh": "衣服",
+          "py": "yīfu",
+          "meaning": "clothing"
+        }
+      ]
+    },
+    {
+      "chinese": "一辆汽车",
+      "pinyin": "Yī liàng qìchē",
+      "translation": "A car",
+      "usage": "Used for vehicles.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "辆",
+          "py": "liàng",
+          "meaning": "vehicle"
+        }
+      ]
+    }
+  ]
+}

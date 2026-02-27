@@ -1,0 +1,56 @@
+{
+  "sentences": [
+    {
+      "chinese": "研究方法",
+      "pinyin": "Yánjiǐ fànfá",
+      "translation": "Research methodology",
+      "usage": "Describes the approach used to conduct research.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "研究",
+          "py": "Yánjiǐ",
+          "meaning": "research"
+        },
+        {
+          "zh": "方法",
+          "py": "Fànfá",
+          "meaning": "method/technique"
+        }
+      ]
+    },
+    {
+      "chinese": "实证证据",
+      "pinyin": "实证证据",
+      "translation": "Empirical evidence",
+      "usage": "Refers to data derived from observation or experimentation.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "实证",
+          "py": "实证",
+          "meaning": "empirical"
+        },
+        {
+          "zh": "证据",
+          "py": "证据",
+          "meaning": "evidence/data"
+        }
+      ]
+    },
+    {
+      "chinese": "理论档架",
+      "pinyin": "Lílǐná kuǐngjá",
+      "translation": "Theoretical framework",
+      "usage": "Provides a structure for interpreting research findings.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "理论",
+          "py": "Lílǐná",
+          "meaning": "theory"
+        }
+      ]
+    }
+  ]
+}

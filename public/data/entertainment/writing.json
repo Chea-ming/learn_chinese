@@ -1,0 +1,142 @@
+{
+  "sentences": [
+    {
+      "chinese": "写日记",
+      "pinyin": "Xiě rìjì",
+      "translation": "Keep a diary",
+      "usage": "To record daily thoughts or events.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "写",
+          "py": "xiě",
+          "meaning": "to write"
+        },
+        {
+          "zh": "日记",
+          "py": "rìjì",
+          "meaning": "diary"
+        }
+      ]
+    },
+    {
+      "chinese": "开始写故事",
+      "pinyin": "Kāishǐ xiě gùshi",
+      "translation": "Start writing a story",
+      "usage": "To begin creating a narrative.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "开始",
+          "py": "kāishǐ",
+          "meaning": "to start"
+        },
+        {
+          "zh": "写",
+          "py": "xiě",
+          "meaning": "to write"
+        },
+        {
+          "zh": "故事",
+          "py": "gùshi",
+          "meaning": "story"
+        }
+      ]
+    },
+    {
+      "chinese": "记录灵感",
+      "pinyin": "Jìlù línggǎn",
+      "translation": "Record inspiration",
+      "usage": "To capture creative ideas for later use.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "记录",
+          "py": "jìlù",
+          "meaning": "to record"
+        },
+        {
+          "zh": "灵感",
+          "py": "línggǎn",
+          "meaning": "inspiration"
+        }
+      ]
+    },
+    {
+      "chinese": "整理思绪",
+      "pinyin": "Zhěnglǐ sīxù",
+      "translation": "Organize thoughts",
+      "usage": "To clarify ideas before writing.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "整理",
+          "py": "zhěnglǐ",
+          "meaning": "to organize"
+        },
+        {
+          "zh": "思绪",
+          "py": "sīxù",
+          "meaning": "thoughts"
+        }
+      ]
+    },
+    {
+      "chinese": "描述情绪",
+      "pinyin": "Miáoshù qíngxù",
+      "translation": "Describe emotions",
+      "usage": "To express feelings through writing.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "描述",
+          "py": "miáoshù",
+          "meaning": "to describe"
+        },
+        {
+          "zh": "情绪",
+          "py": "qíngxù",
+          "meaning": "emotions"
+        }
+      ]
+    },
+    {
+      "chinese": "随手笔记",
+      "pinyin": "Suíshǒu bǐjì",
+      "translation": "Jot down notes",
+      "usage": "To quickly record ideas or observations.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "随手",
+          "py": "suíshǒu",
+          "meaning": "at hand"
+        },
+        {
+          "zh": "笔记",
+          "py": "bǐjì",
+          "meaning": "notes"
+        }
+      ]
+    },
+    {
+      "chinese": "文字游戏",
+      "pinyin": "Wénzì yóuxì",
+      "translation": "Word games",
+      "usage": "Creative wordplay for fun.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "文字",
+          "py": "wénzì",
+          "meaning": "words"
+        },
+        {
+          "zh": "游戏",
+          "py": "yóuxì",
+          "meaning": "game"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,223 @@
+{
+  "sentences": [
+    {
+      "chinese": "请再说一遍。",
+      "pinyin": "Qǐng zài shuō yī biàn.",
+      "translation": "Please say that again.",
+      "usage": "Polite request for repetition.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "再说",
+          "py": "zài shuō",
+          "meaning": "say again"
+        },
+        {
+          "zh": "一遍",
+          "py": "yī biàn",
+          "meaning": "once"
+        }
+      ]
+    },
+    {
+      "chinese": "我不太明白。",
+      "pinyin": "Wǒ bù tài míng bai.",
+      "translation": "I don't quite understand.",
+      "usage": "Express partial comprehension.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "不太",
+          "py": "bù tài",
+          "meaning": "not quite"
+        },
+        {
+          "zh": "明白",
+          "py": "míng bai",
+          "meaning": "understand"
+        }
+      ]
+    },
+    {
+      "chinese": "能解释得更清楚点吗？",
+      "pinyin": "Néng jiě shì de gèng qīng chǔ diǎn ma?",
+      "translation": "Could you explain more clearly?",
+      "usage": "Request for clearer explanation.",
+      "formality": "Polite",
+      "words": [
+        {
+          "zh": "能",
+          "py": "néng",
+          "meaning": "can"
+        },
+        {
+          "zh": "解释",
+          "py": "jiě shì",
+          "meaning": "explain"
+        },
+        {
+          "zh": "清楚",
+          "py": "qīng chǔ",
+          "meaning": "clear"
+        }
+      ]
+    },
+    {
+      "chinese": "请问您的意思是……吗？",
+      "pinyin": "Qǐng wèn nín de yì si shì … ma?",
+      "translation": "May I ask if your meaning is…?",
+      "usage": "Confirm understanding formally.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请问",
+          "py": "qǐng wèn",
+          "meaning": "may I ask"
+        },
+        {
+          "zh": "意思",
+          "py": "yì si",
+          "meaning": "meaning"
+        }
+      ]
+    },
+    {
+      "chinese": "对不太清楚。",
+      "pinyin": "Duì, bù tài qīng chǔ.",
+      "translation": "Not quite clear.",
+      "usage": "Casual acknowledgment of confusion.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "对",
+          "py": "duì",
+          "meaning": "well"
+        },
+        {
+          "zh": "不清楚",
+          "py": "bù qīng chǔ",
+          "meaning": "not clear"
+        }
+      ]
+    },
+    {
+      "chinese": "您能重复一遍吗？",
+      "pinyin": "Nín néng chóng fù yī biàn ma?",
+      "translation": "Could you repeat that?",
+      "usage": "Polite request for repetition.",
+      "formality": "Polite",
+      "words": [
+        {
+          "zh": "您",
+          "py": "nín",
+          "meaning": "you (formal)"
+        },
+        {
+          "zh": "重复",
+          "py": "chóng fù",
+          "meaning": "repeat"
+        }
+      ]
+    },
+    {
+      "chinese": "哪里不明白了？",
+      "pinyin": "Nǎ lǐ bù míng bai le?",
+      "translation": "What part didn't you understand?",
+      "usage": "Ask for clarification on specific parts.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "哪里",
+          "py": "nǎ lǐ",
+          "meaning": "where"
+        },
+        {
+          "zh": "不明白",
+          "py": "bù míng bai",
+          "meaning": "don't understand"
+        }
+      ]
+    },
+    {
+      "chinese": "这到底是什么意思？",
+      "pinyin": "Zhè dào dǐ shì shén me yì si?",
+      "translation": "What exactly does this mean?",
+      "usage": "Seek explicit definition or interpretation.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "到底",
+          "py": "dào dǐ",
+          "meaning": "exactly"
+        },
+        {
+          "zh": "意思",
+          "py": "yì si",
+          "meaning": "meaning"
+        }
+      ]
+    },
+    {
+      "chinese": "能否换个说法？",
+      "pinyin": "Néng fǒu huàn gè shuō fǎ?",
+      "translation": "Could you phrase it differently?",
+      "usage": "Request alternative explanation.",
+      "formality": "Polite",
+      "words": [
+        {
+          "zh": "能否",
+          "py": "néng fǒu",
+          "meaning": "could"
+        },
+        {
+          "zh": "换个说法",
+          "py": "huàn gè shuō fǎ",
+          "meaning": "change the phrasing"
+        }
+      ]
+    },
+    {
+      "chinese": "这句话我不太懂。",
+      "pinyin": "Zhè jù huà wǒ bù tài dǒng.",
+      "translation": "I don't quite understand this sentence.",
+      "usage": "Specify which content is confusing.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "句子",
+          "py": "jù zi",
+          "meaning": "sentence"
+        },
+        {
+          "zh": "不懂",
+          "py": "bù dǒng",
+          "meaning": "don't understand"
+        }
+      ]
+    },
+    {
+      "chinese": "请举例说明。",
+      "pinyin": "Qǐng lì ji shuō míng.",
+      "translation": "Please give an example.",
+      "usage": "Request concrete examples.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "举例",
+          "py": "lì ji",
+          "meaning": "give an example"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "sentences": [
+    {
+      "chinese": "tóutòng",
+      "pinyin": "tóu tòng",
+      "translation": "Headache",
+      "usage": "Describes pain in the head.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "tóu",
+          "py": "tóu",
+          "meaning": "head"
+        },
+        {
+          "zh": "tòng",
+          "py": "tòng",
+          "meaning": "pain"
+        }
+      ]
+    },
+    {
+      "chinese": "fāshǒu",
+      "pinyin": "fā shǒu",
+      "translation": "Fever",
+      "usage": "Describes a high body temperature.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "fā",
+          "py": "fā",
+          "meaning": "to have"
+        },
+        {
+          "zh": "shǒu",
+          "py": "shǒu",
+          "meaning": "fever"
+        }
+      ]
+    },
+    {
+      "chinese": "hánqī",
+      "pinyin": "hán qī",
+      "translation": "Cold",
+      "usage": "General term for a common cold.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "hán",
+          "py": "hán",
+          "meaning": "chill"
+        },
+        {
+          "zh": "qī",
+          "py": "qī",
+          "meaning": "period"
+        }
+      ]
+    },
+    {
+      "chinese": "gǎnmào",
+      "pinyin": "gǎn mào",
+      "translation": "Cold",
+      "usage": "Specific to viral cold symptoms.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "gǎn",
+          "py": "gǎn",
+          "meaning": "to catch"
+        },
+        {
+          "zh": "mào",
+          "py": "mào",
+          "meaning": "infection"
+        }
+      ]
+    },
+    {
+      "chinese": "hōuxiē",
+      "pinyin": "hōu xiē",
+      "translation": "Cough",
+      "usage": "Describes a dry or productive cough.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "hōu",
+          "py": "hōu",
+          "meaning": "cough"
+        },
+        {
+          "zh": "xiē",
+          "py": "xiē",
+          "meaning": "stop (contextual for persistent cough)"
+        }
+      ]
+    },
+    {
+      "chinese": "xīwěn",
+      "pinyin": "xī wěn",
+      "translation": "Difficulty breathing",
+      "usage": "Used for shortness of breath.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "xī",
+          "py": "xī",
+          "meaning": "breathe"
+        },
+        {
+          "zh": "wěn",
+          "py": "wěn",
+          "meaning": "difficulty"
+        }
+      ]
+    },
+    {
+      "chinese": "yàofān",
+      "pinyin": "yào fān",
+      "translation": "Stomach ache",
+      "usage": "Describes abdominal pain.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "yào",
+          "py": "yào",
+          "meaning": "stomach"
+        },
+        {
+          "zh": "fān",
+          "py": "fān",
+          "meaning": "twisting pain"
+        }
+      ]
+    },
+    {
+      "chinese": "shǒushāng",
+      "pinyin": "shǒu shāng",
+      "translation": "Injury to the hand",
+      "usage": "Describes a hand-related injury.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "shǒu",
+          "py": "shǒu",
+          "meaning": "hand"
+        },
+        {
+          "zh": "shāng",
+          "py": "shāng",
+          "meaning": "injury"
+        }
+      ]
+    },
+    {
+      "chinese": "gǔshé",
+      "pinyin": "gǔ shé",
+      "translation": "Broken bone",
+      "usage": "Describes a fracture.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "gǔ",
+          "py": "gǔ",
+          "meaning": "bone"
+        },
+        {
+          "zh": "shé",
+          "py": "shé",
+          "meaning": "broken"
+        }
+      ]
+    },
+    {
+      "chinese": "bōu le guà",
+      "pinyin": "bōu le guà",
+      "translation": "Saw a doctor",
+      "usage": "Indicates visiting a medical professional.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "bōu",
+          "py": "bōu",
+          "meaning": "to consult"
+        },
+        {
+          "zh": "guà",
+          "py": "guà",
+          "meaning": "appointment (medical)"
+        }
+      ]
+    },
+    {
+      "chinese": "yīshēng shuō shì gǎnmaì",
+      "pinyin": "yīshēng shuō shì gǎn mài",
+      "translation": "The doctor says it's the flu.",
+      "usage": "Conveys a medical diagnosis.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "yīshēng",
+          "py": "yīshēng",
+          "meaning": "doctor"
+        },
+        {
+          "zh": "shuō",
+          "py": "shuō",
+          "meaning": "says"
+        },
+        {
+          "zh": "gǎn mài",
+          "py": "gǎn mài",
+          "meaning": "flu"
+        }
+      ]
+    }
+  ]
+}

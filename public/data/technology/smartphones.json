@@ -1,0 +1,284 @@
+{
+  "sentences": [
+    {
+      "chinese": "智能手机",
+      "pinyin": "Zhì néng shǒu jī",
+      "translation": "Smartphone",
+      "usage": "General term for a mobile device with advanced computing capabilities.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "智能",
+          "py": "Zhì néng",
+          "meaning": "intelligent"
+        },
+        {
+          "zh": "手机",
+          "py": "Shǒu jī",
+          "meaning": "mobile phone"
+        }
+      ]
+    },
+    {
+      "chinese": "安装应用程序",
+      "pinyin": "Ān zhuāng yìng yòng chéng xù",
+      "translation": "Install an app",
+      "usage": "Used when adding software to a device.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "安装",
+          "py": "Ān zhuāng",
+          "meaning": "install"
+        },
+        {
+          "zh": "应用程序",
+          "py": "Yìng yòng chéng xù",
+          "meaning": "application"
+        }
+      ]
+    },
+    {
+      "chinese": "更新系统",
+      "pinyin": "G更新 xì tǒng",
+      "translation": "Update the system",
+      "usage": "Refers to upgrading device software.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "更新",
+          "py": "G更新",
+          "meaning": "update"
+        },
+        {
+          "zh": "系统",
+          "py": "Xì tǒng",
+          "meaning": "system"
+        }
+      ]
+    },
+    {
+      "chinese": "蓝牙连接",
+      "pinyin": "Lán chǐ lián jiē",
+      "translation": "Bluetooth connection",
+      "usage": "Describes wireless device pairing.",
+      "formality": "Technical",
+      "words": [
+        {
+          "zh": "蓝牙",
+          "py": "Lán chǐ",
+          "meaning": "Bluetooth"
+        },
+        {
+          "zh": "连接",
+          "py": "Lián jiē",
+          "meaning": "connection"
+        }
+      ]
+    },
+    {
+      "chinese": "拍照功能",
+      "pinyin": "Pāi zhào gōng néng",
+      "translation": "Camera functionality",
+      "usage": "Refers to smartphone photography capabilities.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "拍照",
+          "py": "Pāi zhào",
+          "meaning": "take photos"
+        },
+        {
+          "zh": "功能",
+          "py": "Gōng néng",
+          "meaning": "function"
+        }
+      ]
+    },
+    {
+      "chinese": "5G网络",
+      "pinyin": "Wǔ G Wǎng luò",
+      "translation": "5G network",
+      "usage": "Next-generation mobile network technology.",
+      "formality": "Technical",
+      "words": [
+        {
+          "zh": "5G",
+          "py": "Wǔ G",
+          "meaning": "5G"
+        },
+        {
+          "zh": "网络",
+          "py": "Wǎng luò",
+          "meaning": "network"
+        }
+      ]
+    },
+    {
+      "chinese": "应用程序商店",
+      "pinyin": "Yìng yòng chéng xù shāng dàn",
+      "translation": "App store",
+      "usage": "Platform for downloading software.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "商店",
+          "py": "Shāng dàn",
+          "meaning": "store"
+        }
+      ]
+    },
+    {
+      "chinese": "面部识别",
+      "pinyin": "Miàn bù shí bié",
+      "translation": "Face recognition",
+      "usage": "Biometric authentication method.",
+      "formality": "Technical",
+      "words": [
+        {
+          "zh": "面部",
+          "py": "Miàn bù",
+          "meaning": "face"
+        },
+        {
+          "zh": "识别",
+          "py": "Shí bié",
+          "meaning": "recognition"
+        }
+      ]
+    },
+    {
+      "chinese": "社交媒体",
+      "pinyin": "Shè huì méi tǐ",
+      "translation": "Social media",
+      "usage": "Online platforms for social interaction.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "社会",
+          "py": "Shè huì",
+          "meaning": "social"
+        },
+        {
+          "zh": "媒体",
+          "py": "Méi tǐ",
+          "meaning": "media"
+        }
+      ]
+    },
+    {
+      "chinese": "电池续航",
+      "pinyin": "Diàn chí xù háng",
+      "translation": "Battery life",
+      "usage": "Duration of device operation.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "电池",
+          "py": "Diàn chí",
+          "meaning": "battery"
+        },
+        {
+          "zh": "续航",
+          "py": "Xù háng",
+          "meaning": "endurance"
+        }
+      ]
+    },
+    {
+      "chinese": "操作界面",
+      "pinyin": "Cāo zuò jiè miàn",
+      "translation": "User interface",
+      "usage": "Device's interactive screen.",
+      "formality": "Technical",
+      "words": [
+        {
+          "zh": "操作",
+          "py": "Cāo zuò",
+          "meaning": "operation"
+        },
+        {
+          "zh": "界面",
+          "py": "Jiè miàn",
+          "meaning": "interface"
+        }
+      ]
+    },
+    {
+      "chinese": "云存储",
+      "pinyin": "Yún cún chǔ",
+      "translation": "Cloud storage",
+      "usage": "Remote data storage service.",
+      "formality": "Technical",
+      "words": [
+        {
+          "zh": "云",
+          "py": "Yún",
+          "meaning": "cloud"
+        },
+        {
+          "zh": "存储",
+          "py": "Cún chǔ",
+          "meaning": "storage"
+        }
+      ]
+    },
+    {
+      "chinese": "数据同步",
+      "pinyin": "Shù jù tóng bù",
+      "translation": "Data synchronization",
+      "usage": "Matching information across devices.",
+      "formality": "Technical",
+      "words": [
+        {
+          "zh": "数据",
+          "py": "Shù jù",
+          "meaning": "data"
+        },
+        {
+          "zh": "同步",
+          "py": "Tóng bù",
+          "meaning": "synchronize"
+        }
+      ]
+    },
+    {
+      "chinese": "指纹解锁",
+      "pinyin": "Zhǐ wén jiě suǒ",
+      "translation": "Fingerprint unlock",
+      "usage": "Biometric security feature.",
+      "formality": "Technical",
+      "words": [
+        {
+          "zh": "指纹",
+          "py": "Zhǐ wén",
+          "meaning": "fingerprint"
+        },
+        {
+          "zh": "解锁",
+          "py": "Jiě suǒ",
+          "meaning": "unlock"
+        }
+      ]
+    },
+    {
+      "chinese": "定位服务",
+      "pinyin": "Dìng wèi fú wù",
+      "translation": "Location services",
+      "usage": "GPS-based position tracking.",
+      "formality": "Technical",
+      "words": [
+        {
+          "zh": "定位",
+          "py": "Dìng wèi",
+          "meaning": "location"
+        },
+        {
+          "zh": "服务",
+          "py": "Fú wù",
+          "meaning": "service"
+        }
+      ]
+    }
+  ]
+}

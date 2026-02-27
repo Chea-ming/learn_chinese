@@ -1,0 +1,123 @@
+{
+  "sentences": [
+    {
+      "chinese": "我的手机被小偷偷走了。",
+      "pinyin": "Wǒ de shǒujī bèi xiǎotōu tōu zǒu le.",
+      "translation": "My phone was stolen by a thief.",
+      "usage": "Used to describe an object being taken unlawfully.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "被",
+          "py": "bèi",
+          "meaning": "passive marker"
+        },
+        {
+          "zh": "小偷",
+          "py": "xiǎotōu",
+          "meaning": "thief"
+        },
+        {
+          "zh": "偷",
+          "py": "tōu",
+          "meaning": "steal"
+        }
+      ]
+    },
+    {
+      "chinese": "这份报告被老师批改了。",
+      "pinyin": "Zhè fēn bàogào bèi lǎoshī pīgǎi le.",
+      "translation": "This report was corrected by the teacher.",
+      "usage": "Indicates an action done to an object by someone.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "被",
+          "py": "bèi",
+          "meaning": "passive marker"
+        },
+        {
+          "zh": "批改",
+          "py": "pīgǎi",
+          "meaning": "correct/modify"
+        }
+      ]
+    },
+    {
+      "chinese": "我被邻居养的狗吵醒了。",
+      "pinyin": "Wǒ bèi línjū yǎng de gǒu chǎo xǐng le.",
+      "translation": "I was woken up by my neighbor's dog.",
+      "usage": "Describes an unintended effect caused by someone else.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "被",
+          "py": "bèi",
+          "meaning": "passive marker"
+        },
+        {
+          "zh": "吵醒",
+          "py": "chǎo xǐng",
+          "meaning": "wake up (from noise)"
+        }
+      ]
+    },
+    {
+      "chinese": "那本书被弄丢了。",
+      "pinyin": "Nà běn shū bèi nòng diū le.",
+      "translation": "That book was lost.",
+      "usage": "Used when the agent is irrelevant or unknown.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "被",
+          "py": "bèi",
+          "meaning": "passive marker"
+        },
+        {
+          "zh": "弄丢",
+          "py": "nòng diū",
+          "meaning": "lose"
+        }
+      ]
+    },
+    {
+      "chinese": "他被老板批评了。",
+      "pinyin": "Tā bèi lǎobǎn pīpíng le.",
+      "translation": "He was criticized by the boss.",
+      "usage": "Describes an action done by someone in authority.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "被",
+          "py": "bèi",
+          "meaning": "passive marker"
+        },
+        {
+          "zh": "批评",
+          "py": "pīpíng",
+          "meaning": "criticize"
+        }
+      ]
+    },
+    {
+      "chinese": "我的照片被同学嘲笑。",
+      "pinyin": "Wǒ de zhàopiàn bèi tóngxué cháo xiào le.",
+      "translation": "My photo was mocked by classmates.",
+      "usage": "Indicates mockery or ridicule directed at something.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "被",
+          "py": "bèi",
+          "meaning": "passive marker"
+        },
+        {
+          "zh": "嘲笑",
+          "py": "cháo xiào",
+          "meaning": "mock"
+        }
+      ]
+    }
+  ]
+}

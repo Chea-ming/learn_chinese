@@ -1,0 +1,240 @@
+{
+  "sentences": [
+    {
+      "chinese": "你好！",
+      "pinyin": "Nǐ hǎo!",
+      "translation": "Hello!",
+      "usage": "Standard greeting before a meeting.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good"
+        }
+      ]
+    },
+    {
+      "chinese": "请问会议主题是什么？",
+      "pinyin": "Qǐng wèn huìyì zhǔtí shì shénme?",
+      "translation": "What is the meeting's topic?",
+      "usage": "Asking about the meeting's focus.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请问",
+          "py": "qǐng wèn",
+          "meaning": "may I ask"
+        },
+        {
+          "zh": "会议",
+          "py": "huìyì",
+          "meaning": "meeting"
+        },
+        {
+          "zh": "主题",
+          "py": "zhǔtí",
+          "meaning": "topic"
+        },
+        {
+          "zh": "是什么",
+          "py": "shì shénme",
+          "meaning": "is what"
+        }
+      ]
+    },
+    {
+      "chinese": "会议现在开始。",
+      "pinyin": "Huìyì xiànzài kāishǐ.",
+      "translation": "The meeting will now begin.",
+      "usage": "Opening statement.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "会议",
+          "py": "huìyì",
+          "meaning": "meeting"
+        },
+        {
+          "zh": "现在",
+          "py": "xiànzài",
+          "meaning": "now"
+        },
+        {
+          "zh": "开始",
+          "py": "kāishǐ",
+          "meaning": "start"
+        }
+      ]
+    },
+    {
+      "chinese": "请确认议程。",
+      "pinyin": "Qǐng quèrèn yìchéng.",
+      "translation": "Please confirm the agenda.",
+      "usage": "Requesting agenda confirmation.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "确认",
+          "py": "quèrèn",
+          "meaning": "confirm"
+        },
+        {
+          "zh": "议程",
+          "py": "yìchéng",
+          "meaning": "agenda"
+        }
+      ]
+    },
+    {
+      "chinese": "现在我将开始我的演讲。",
+      "pinyin": "Xiànzài wǒ jiāng kāishǐ wǒ de jiǎngyìng.",
+      "translation": "Now I will begin my presentation.",
+      "usage": "Introduction for a presentation.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "现在",
+          "py": "xiànzài",
+          "meaning": "now"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "将",
+          "py": "jiāng",
+          "meaning": "will"
+        },
+        {
+          "zh": "开始",
+          "py": "kāishǐ",
+          "meaning": "begin"
+        },
+        {
+          "zh": "演讲",
+          "py": "jiǎngyìng",
+          "meaning": "presentation"
+        }
+      ]
+    },
+    {
+      "chinese": "我们先讨论第一个议题。",
+      "pinyin": "Wǒmen xiān tǎolùn dì yī gè yìtí.",
+      "translation": "Let's first discuss the first topic.",
+      "usage": "Guiding the meeting agenda.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我们",
+          "py": "wǒmen",
+          "meaning": "we"
+        },
+        {
+          "zh": "先",
+          "py": "xiān",
+          "meaning": "first"
+        },
+        {
+          "zh": "讨论",
+          "py": "tǎolùn",
+          "meaning": "discuss"
+        },
+        {
+          "zh": "第一个",
+          "py": "dì yī gè",
+          "meaning": "first (ordinal)"
+        },
+        {
+          "zh": "议题",
+          "py": "yìtí",
+          "meaning": "topic"
+        }
+      ]
+    },
+    {
+      "chinese": "您有什么建议吗？",
+      "pinyin": "Nín yǒu shénme jiànyì ma?",
+      "translation": "Do you have any suggestions?",
+      "usage": "Encouraging participation.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "您",
+          "py": "nín",
+          "meaning": "you (polite)"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "have"
+        },
+        {
+          "zh": "什么",
+          "py": "shénme",
+          "meaning": "what"
+        },
+        {
+          "zh": "建议",
+          "py": "jiànyì",
+          "meaning": "suggestion"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "请关闭手机。",
+      "pinyin": "Qǐng guānbì shǒujī.",
+      "translation": "Please turn off your phone.",
+      "usage": "Requesting silence during meetings.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "关闭",
+          "py": "guānbì",
+          "meaning": "turn off"
+        },
+        {
+          "zh": "手机",
+          "py": "shǒujī",
+          "meaning": "cell phone"
+        }
+      ]
+    },
+    {
+      "chinese": "我需要更多时间准备。",
+      "pinyin": "Wǒ xūyào gèng duō shíjiān zhǔnbèi.",
+      "translation": "I need more time to prepare.",
+      "usage": "Requesting a reschedule.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        }
+      ]
+    }
+  ]
+}

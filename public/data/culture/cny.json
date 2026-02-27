@@ -1,0 +1,276 @@
+{
+  "sentences": [
+    {
+      "chinese": "新年快乐",
+      "pinyin": "Xīn nián kuài lè",
+      "translation": "Happy New Year!",
+      "usage": "Common greeting during Chinese New Year.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "新",
+          "py": "xīn",
+          "meaning": "new"
+        },
+        {
+          "zh": "年",
+          "py": "nián",
+          "meaning": "year"
+        },
+        {
+          "zh": "快",
+          "py": "kuài",
+          "meaning": "happy"
+        },
+        {
+          "zh": "乐",
+          "py": "lè",
+          "meaning": "joy"
+        }
+      ]
+    },
+    {
+      "chinese": "春节",
+      "pinyin": "Chūn jié",
+      "translation": "Chinese New Year",
+      "usage": "Name of the traditional lunar new year festival.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "春",
+          "py": "chūn",
+          "meaning": "spring"
+        },
+        {
+          "zh": "节",
+          "py": "jié",
+          "meaning": "festival"
+        }
+      ]
+    },
+    {
+      "chinese": "红包",
+      "pinyin": "Hóng bāo",
+      "translation": "Red envelope",
+      "usage": "Gift money given in red envelopes for luck.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "红",
+          "py": "hóng",
+          "meaning": "red"
+        },
+        {
+          "zh": "包",
+          "py": "bāo",
+          "meaning": "package"
+        }
+      ]
+    },
+    {
+      "chinese": "压岁钱",
+      "pinyin": "Yā suì qián",
+      "translation": "New Year's money",
+      "usage": "Money given to children for good fortune.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "压",
+          "py": "yā",
+          "meaning": "suppress"
+        },
+        {
+          "zh": "岁",
+          "py": "suì",
+          "meaning": "year"
+        },
+        {
+          "zh": "钱",
+          "py": "qián",
+          "meaning": "money"
+        }
+      ]
+    },
+    {
+      "chinese": "年夜饭",
+      "pinyin": "Nián yè fàn",
+      "translation": "New Year's Eve dinner",
+      "usage": "Family feast on the eve of Chinese New Year.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "年",
+          "py": "nián",
+          "meaning": "year"
+        },
+        {
+          "zh": "夜",
+          "py": "yè",
+          "meaning": "night"
+        },
+        {
+          "zh": "饭",
+          "py": "fàn",
+          "meaning": "meal"
+        }
+      ]
+    },
+    {
+      "chinese": "团圆饭",
+      "pinyin": "Tuányuán fàn",
+      "translation": "Reunion dinner",
+      "usage": "Family gathering meal during New Year.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "团",
+          "py": "tuán",
+          "meaning": "gather"
+        },
+        {
+          "zh": "圆",
+          "py": "yuán",
+          "meaning": "round"
+        },
+        {
+          "zh": "饭",
+          "py": "fàn",
+          "meaning": "meal"
+        }
+      ]
+    },
+    {
+      "chinese": "春联",
+      "pinyin": "Chūn lián",
+      "translation": "Spring couplets",
+      "usage": "Decorative poetry displayed during New Year.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "春",
+          "py": "chūn",
+          "meaning": "spring"
+        },
+        {
+          "zh": "联",
+          "py": "lián",
+          "meaning": "couplet"
+        }
+      ]
+    },
+    {
+      "chinese": "福字",
+      "pinyin": "Fú zì",
+      "translation": "Character 'fu'",
+      "usage": "Symbol of good fortune displayed upside-down.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "福",
+          "py": "fú",
+          "meaning": "good fortune"
+        },
+        {
+          "zh": "字",
+          "py": "zì",
+          "meaning": "character"
+        }
+      ]
+    },
+    {
+      "chinese": "舞狮",
+      "pinyin": "Wǔ shī",
+      "translation": "Lion dance",
+      "usage": "Traditional performance to drive away evil.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "舞",
+          "py": "wǔ",
+          "meaning": "dance"
+        },
+        {
+          "zh": "狮",
+          "py": "shī",
+          "meaning": "lion"
+        }
+      ]
+    },
+    {
+      "chinese": "舞龙",
+      "pinyin": "Wǔ lóng",
+      "translation": "Dragon dance",
+      "usage": "Cultural performance with a dragon costume.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "舞",
+          "py": "wǔ",
+          "meaning": "dance"
+        },
+        {
+          "zh": "龙",
+          "py": "lóng",
+          "meaning": "dragon"
+        }
+      ]
+    },
+    {
+      "chinese": "放鞭炮",
+      "pinyin": "Fàng biān pào",
+      "translation": "Set off firecrackers",
+      "usage": "Celebratory activity to scare away evil spirits.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "放",
+          "py": "fàng",
+          "meaning": "set off"
+        },
+        {
+          "zh": "鞭",
+          "py": "biān",
+          "meaning": "whip"
+        },
+        {
+          "zh": "炮",
+          "py": "pào",
+          "meaning": "firecracker"
+        }
+      ]
+    },
+    {
+      "chinese": "年夜",
+      "pinyin": "Nián yè",
+      "translation": "New Year's Eve",
+      "usage": "The night before the lunar new year.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "年",
+          "py": "nián",
+          "meaning": "year"
+        },
+        {
+          "zh": "夜",
+          "py": "yè",
+          "meaning": "night"
+        }
+      ]
+    },
+    {
+      "chinese": "祭祖",
+      "pinyin": "Jì zǔ",
+      "translation": "Ancestor worship",
+      "usage": "Tradition of honoring deceased family members.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "祭",
+          "py": "jì",
+          "meaning": "worship"
+        }
+      ]
+    }
+  ]
+}

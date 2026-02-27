@@ -1,0 +1,206 @@
+{
+  "sentences": [
+    {
+      "chinese": "老子",
+      "pinyin": "Lǎo zǐ",
+      "translation": "Laozi",
+      "usage": "The name of the founder of Daoism, traditionally attributed as the author of the Dao De Jing.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "老",
+          "py": "lǎo",
+          "meaning": "old"
+        },
+        {
+          "zh": "子",
+          "py": "zǐ",
+          "meaning": "child/master"
+        }
+      ]
+    },
+    {
+      "chinese": "道德经",
+      "pinyin": "Dào dé jīng",
+      "translation": "Dao De Jing",
+      "usage": "The central text of Daoism, containing philosophical and spiritual teachings.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "道",
+          "py": "dào",
+          "meaning": "the Way"
+        },
+        {
+          "zh": "德",
+          "py": "dé",
+          "meaning": "virtue"
+        },
+        {
+          "zh": "经",
+          "py": "jīng",
+          "meaning": "classic"
+        }
+      ]
+    },
+    {
+      "chinese": "道法自然",
+      "pinyin": "Dào fǎ zì rán",
+      "translation": "The Dao follows nature.",
+      "usage": "A core Daoist principle emphasizing harmony with the natural order.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "道",
+          "py": "dào",
+          "meaning": "the Way"
+        },
+        {
+          "zh": "法",
+          "py": "fǎ",
+          "meaning": "follows/imitates"
+        },
+        {
+          "zh": "自然",
+          "py": "zì rán",
+          "meaning": "nature"
+        }
+      ]
+    },
+    {
+      "chinese": "无为而治",
+      "pinyin": "Wú wéi ér zhì",
+      "translation": "Governance through non-action.",
+      "usage": "Describes ideal leadership by minimal interference.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "无",
+          "py": "wú",
+          "meaning": "without"
+        },
+        {
+          "zh": "为",
+          "py": "wéi",
+          "meaning": "action"
+        },
+        {
+          "zh": "而",
+          "py": "ér",
+          "meaning": "and"
+        },
+        {
+          "zh": "治",
+          "py": "zhì",
+          "meaning": "govern"
+        }
+      ]
+    },
+    {
+      "chinese": "上善若水",
+      "pinyin": "Shàng shàn ruò shuǐ",
+      "translation": "The highest virtue is like water.",
+      "usage": "A metaphor for humility and adaptability.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "上",
+          "py": "shàng",
+          "meaning": "highest"
+        },
+        {
+          "zh": "善",
+          "py": "shàn",
+          "meaning": "virtue"
+        },
+        {
+          "zh": "若",
+          "py": "ruò",
+          "meaning": "like"
+        },
+        {
+          "zh": "水",
+          "py": "shuǐ",
+          "meaning": "water"
+        }
+      ]
+    },
+    {
+      "chinese": "无中生有",
+      "pinyin": "Wú zhōng shēng yǒu",
+      "translation": "From non-being comes being.",
+      "usage": "Describes creation from nothingness in Daoist cosmology.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "无",
+          "py": "wú",
+          "meaning": "nothing"
+        },
+        {
+          "zh": "中",
+          "py": "zhōng",
+          "meaning": "from"
+        },
+        {
+          "zh": "生",
+          "py": "shēng",
+          "meaning": "produce"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "being"
+        }
+      ]
+    },
+    {
+      "chinese": "道生一",
+      "pinyin": "Dào shēng yī",
+      "translation": "The Dao gives birth to One.",
+      "usage": "A line from the Dao De Jing describing the origin of existence.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "道",
+          "py": "dào",
+          "meaning": "the Way"
+        },
+        {
+          "zh": "生",
+          "py": "shēng",
+          "meaning": "give birth"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "One/Unity"
+        }
+      ]
+    },
+    {
+      "chinese": "人法地",
+      "pinyin": "Rén fǎ dì",
+      "translation": "Humans emulate the Earth.",
+      "usage": "Part of a trinity: people follow Earth, Earth follows Heaven, Heaven follows the Dao.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "人",
+          "py": "rén",
+          "meaning": "humans"
+        },
+        {
+          "zh": "法",
+          "py": "fǎ",
+          "meaning": "emulate"
+        },
+        {
+          "zh": "地",
+          "py": "dì",
+          "meaning": "Earth"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,754 @@
+{
+  "sentences": [
+    {
+      "chinese": "我很开心。",
+      "pinyin": "Wǒ hěn kāixīn.",
+      "translation": "I am very happy.",
+      "usage": "Expresses a strong feeling of happiness in a casual way.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "开",
+          "py": "kāi",
+          "meaning": "open / happy"
+        },
+        {
+          "zh": "心",
+          "py": "xīn",
+          "meaning": "heart"
+        }
+      ]
+    },
+    {
+      "chinese": "今天天气真好。",
+      "pinyin": "Jīntiān tiānqì zhēn hǎo.",
+      "translation": "The weather is really nice today.",
+      "usage": "Used to express positive feelings about the weather or general mood.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "今天",
+          "py": "jīntiān",
+          "meaning": "today"
+        },
+        {
+          "zh": "天气",
+          "py": "tiānqì",
+          "meaning": "weather"
+        },
+        {
+          "zh": "真",
+          "py": "zhēn",
+          "meaning": "really"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good"
+        }
+      ]
+    },
+    {
+      "chinese": "我有点难过。",
+      "pinyin": "Wǒ yǒudiǎn nánguò.",
+      "translation": "I am a bit sad.",
+      "usage": "Used to express mild sadness or disappointment.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "有点",
+          "py": "yǒudiǎn",
+          "meaning": "a bit"
+        },
+        {
+          "zh": "难",
+          "py": "nán",
+          "meaning": "difficult / sad"
+        },
+        {
+          "zh": "过",
+          "py": "guò",
+          "meaning": "past / experience"
+        }
+      ]
+    },
+    {
+      "chinese": "你看起来很累。",
+      "pinyin": "Nǐ kànqǐlái hěn lèi.",
+      "translation": "You look very tired.",
+      "usage": "Used to express concern for someone's well-being or to notice their fatigue.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "看",
+          "py": "kàn",
+          "meaning": "look"
+        },
+        {
+          "zh": "起来",
+          "py": "qǐlái",
+          "meaning": "seem"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "累",
+          "py": "lèi",
+          "meaning": "tired"
+        }
+      ]
+    },
+    {
+      "chinese": "我很生气。",
+      "pinyin": "Wǒ hěn shēngqì.",
+      "translation": "I am very angry.",
+      "usage": "Expresses strong anger or frustration in a direct way.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "生",
+          "py": "shēng",
+          "meaning": "to generate / angry"
+        },
+        {
+          "zh": "气",
+          "py": "qì",
+          "meaning": "anger"
+        }
+      ]
+    },
+    {
+      "chinese": "这个电影太感人了。",
+      "pinyin": "Zhège diànyǐng tài gǎngrǎn le.",
+      "translation": "This movie is too touching.",
+      "usage": "Used to express strong emotional response to a movie or story.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这个",
+          "py": "zhège",
+          "meaning": "this"
+        },
+        {
+          "zh": "电影",
+          "py": "diànyǐng",
+          "meaning": "movie"
+        },
+        {
+          "zh": "太",
+          "py": "tài",
+          "meaning": "too"
+        },
+        {
+          "zh": "感",
+          "py": "gǎn",
+          "meaning": "touching"
+        },
+        {
+          "zh": "人",
+          "py": "rén",
+          "meaning": "people"
+        }
+      ]
+    },
+    {
+      "chinese": "我很紧张。",
+      "pinyin": "Wǒ hěn jǐnzhāng.",
+      "translation": "I am very nervous.",
+      "usage": "Used to express anxiety or nervousness about a situation.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "紧",
+          "py": "jǐn",
+          "meaning": "tight"
+        },
+        {
+          "zh": "张",
+          "py": "zhāng",
+          "meaning": "tense"
+        }
+      ]
+    },
+    {
+      "chinese": "我很兴奋。",
+      "pinyin": "Wǒ hěn xīngfèn.",
+      "translation": "I am very excited.",
+      "usage": "Used to express high energy or enthusiasm about something.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "兴",
+          "py": "xīng",
+          "meaning": "excited"
+        },
+        {
+          "zh": "奋",
+          "py": "fèn",
+          "meaning": "enthusiastic"
+        }
+      ]
+    },
+    {
+      "chinese": "我感到很孤独。",
+      "pinyin": "Wǒ gǎndào hěn gūdú.",
+      "translation": "I feel very lonely.",
+      "usage": "Used to express feelings of isolation or being alone.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "感到",
+          "py": "gǎndào",
+          "meaning": "feel"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "孤",
+          "py": "gū",
+          "meaning": "lonely"
+        },
+        {
+          "zh": "独",
+          "py": "dú",
+          "meaning": "alone"
+        }
+      ]
+    },
+    {
+      "chinese": "我很担心。",
+      "pinyin": "Wǒ hěn dāngxīn.",
+      "translation": "I am very worried.",
+      "usage": "Used to express concern or anxiety about something.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "担",
+          "py": "dān",
+          "meaning": "worry"
+        },
+        {
+          "zh": "心",
+          "py": "xīn",
+          "meaning": "heart"
+        }
+      ]
+    },
+    {
+      "chinese": "我很高兴见到你。",
+      "pinyin": "Wǒ hěn gāoxìng jiàn dào nǐ.",
+      "translation": "I am very happy to see you.",
+      "usage": "Used to express joy when meeting someone.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "高",
+          "py": "gāo",
+          "meaning": "high / happy"
+        },
+        {
+          "zh": "兴",
+          "py": "xìng",
+          "meaning": "excited"
+        },
+        {
+          "zh": "见",
+          "py": "jiàn",
+          "meaning": "see"
+        },
+        {
+          "zh": "到",
+          "py": "dào",
+          "meaning": "to meet"
+        },
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        }
+      ]
+    },
+    {
+      "chinese": "我很失望。",
+      "pinyin": "Wǒ hěn shīwàng.",
+      "translation": "I am very disappointed.",
+      "usage": "Used to express feeling let down or unsatisfied with something.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "失",
+          "py": "shī",
+          "meaning": "lose"
+        },
+        {
+          "zh": "望",
+          "py": "wàng",
+          "meaning": "expectation"
+        }
+      ]
+    },
+    {
+      "chinese": "我很惊讶。",
+      "pinyin": "Wǒ hěn jīngyà.",
+      "translation": "I am very surprised.",
+      "usage": "Used to express shock or amazement at something unexpected.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "惊",
+          "py": "jīng",
+          "meaning": "surprise"
+        },
+        {
+          "zh": "讶",
+          "py": "yà",
+          "meaning": "amazed"
+        }
+      ]
+    },
+    {
+      "chinese": "我很满意。",
+      "pinyin": "Wǒ hěn mǎnyì.",
+      "translation": "I am very satisfied.",
+      "usage": "Used to express contentment or approval of something.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "满",
+          "py": "mǎn",
+          "meaning": "full / satisfied"
+        },
+        {
+          "zh": "意",
+          "py": "yì",
+          "meaning": "satisfaction"
+        }
+      ]
+    },
+    {
+      "chinese": "我很害怕。",
+      "pinyin": "Wǒ hěn hàipà.",
+      "translation": "I am very afraid.",
+      "usage": "Used to express fear or terror about something.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "害",
+          "py": "hài",
+          "meaning": "fear"
+        },
+        {
+          "zh": "怕",
+          "py": "pà",
+          "meaning": "afraid"
+        }
+      ]
+    },
+    {
+      "chinese": "我有点饿。",
+      "pinyin": "Wǒ yǒudiǎn è.",
+      "translation": "I am a bit hungry.",
+      "usage": "Used to express mild hunger or to indicate the need for food.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "有点",
+          "py": "yǒudiǎn",
+          "meaning": "a bit"
+        },
+        {
+          "zh": "饿",
+          "py": "è",
+          "meaning": "hungry"
+        }
+      ]
+    },
+    {
+      "chinese": "我很累。",
+      "pinyin": "Wǒ hěn lèi.",
+      "translation": "I am very tired.",
+      "usage": "Used to express physical or mental exhaustion.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "累",
+          "py": "lèi",
+          "meaning": "tired"
+        }
+      ]
+    },
+    {
+      "chinese": "我感到很幸福。",
+      "pinyin": "Wǒ gǎndào hěn xìngfú.",
+      "translation": "I feel very happy.",
+      "usage": "Used to express deep joy or contentment in life.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "感到",
+          "py": "gǎndào",
+          "meaning": "feel"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "幸",
+          "py": "xìng",
+          "meaning": "happy"
+        },
+        {
+          "zh": "福",
+          "py": "fú",
+          "meaning": "blessed"
+        }
+      ]
+    },
+    {
+      "chinese": "我很无聊。",
+      "pinyin": "Wǒ hěn wúliáo.",
+      "translation": "I am very bored.",
+      "usage": "Used to express lack of interest or stimulation.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "无",
+          "py": "wú",
+          "meaning": "without"
+        },
+        {
+          "zh": "聊",
+          "py": "liáo",
+          "meaning": "talk / interesting"
+        }
+      ]
+    },
+    {
+      "chinese": "我很感动。",
+      "pinyin": "Wǒ hěn gǎndòng.",
+      "translation": "I am very moved.",
+      "usage": "Used to express emotional impact or being touched by something.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "感",
+          "py": "gǎn",
+          "meaning": "feel"
+        },
+        {
+          "zh": "动",
+          "py": "dòng",
+          "meaning": "move"
+        }
+      ]
+    },
+    {
+      "chinese": "我有点紧张。",
+      "pinyin": "Wǒ yǒudiǎn jīngbào.",
+      "translation": "I am a bit nervous.",
+      "usage": "Used to express mild anxiety or uneasiness.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "有点",
+          "py": "yǒudiǎn",
+          "meaning": "a bit"
+        },
+        {
+          "zh": "紧张",
+          "py": "jīngbào",
+          "meaning": "nervous"
+        }
+      ]
+    },
+    {
+      "chinese": "我很开心。",
+      "pinyin": "Wǒ hěn kāixīn.",
+      "translation": "I am very happy.",
+      "usage": "Used to express joy or pleasure.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "开",
+          "py": "kāi",
+          "meaning": "open"
+        },
+        {
+          "zh": "心",
+          "py": "xīn",
+          "meaning": "heart"
+        }
+      ]
+    },
+    {
+      "chinese": "我感到很轻松。",
+      "pinyin": "Wǒ gǎndào hěn qīngsōng.",
+      "translation": "I feel very relaxed.",
+      "usage": "Used to express feeling of relief or ease.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "感到",
+          "py": "gǎndào",
+          "meaning": "feel"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "轻",
+          "py": "qīng",
+          "meaning": "light"
+        },
+        {
+          "zh": "松",
+          "py": "sōng",
+          "meaning": "relaxed"
+        }
+      ]
+    },
+    {
+      "chinese": "我很困。",
+      "pinyin": "Wǒ hěn kùn.",
+      "translation": "I am very sleepy.",
+      "usage": "Used to express tiredness or drowsiness.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "困",
+          "py": "kùn",
+          "meaning": "sleepy"
+        }
+      ]
+    },
+    {
+      "chinese": "我感到很温暖。",
+      "pinyin": "Wǒ gǎndào hěn wēnnuǎn.",
+      "translation": "I feel very warm.",
+      "usage": "Used to express feeling of comfort or affection.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "感到",
+          "py": "gǎndào",
+          "meaning": "feel"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "温",
+          "py": "wēn",
+          "meaning": "warm"
+        },
+        {
+          "zh": "暖",
+          "py": "nuǎn",
+          "meaning": "warm"
+        }
+      ]
+    }
+  ]
+}

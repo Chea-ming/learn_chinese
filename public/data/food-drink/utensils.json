@@ -1,0 +1,764 @@
+{
+  "sentences": [
+    {
+      "chinese": "请用这个刀切菜。",
+      "pinyin": "Qǐng yòng zhège dāo qiē cài.",
+      "translation": "Please use this knife to cut vegetables.",
+      "usage": "Instructing someone to use a specific kitchen knife for cutting vegetables.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "用",
+          "py": "yòng",
+          "meaning": "to use"
+        },
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "个",
+          "py": "gè",
+          "meaning": "classifier for objects"
+        },
+        {
+          "zh": "刀",
+          "py": "dāo",
+          "meaning": "knife"
+        },
+        {
+          "zh": "切",
+          "py": "qiē",
+          "meaning": "to cut"
+        },
+        {
+          "zh": "菜",
+          "py": "cài",
+          "meaning": "vegetables"
+        }
+      ]
+    },
+    {
+      "chinese": "我需要一个锅来煮面条。",
+      "pinyin": "Wǒ xūyào yīgè guō lái zhǔ miàntiáo.",
+      "translation": "I need a pot to cook noodles.",
+      "usage": "Expressing the need for a specific kitchen equipment for cooking.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "需要",
+          "py": "xūyào",
+          "meaning": "need"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "个",
+          "py": "gè",
+          "meaning": "classifier for objects"
+        },
+        {
+          "zh": "锅",
+          "py": "guō",
+          "meaning": "pot"
+        },
+        {
+          "zh": "来",
+          "py": "lái",
+          "meaning": "to come, for the purpose of"
+        },
+        {
+          "zh": "煮",
+          "py": "zhǔ",
+          "meaning": "to cook"
+        },
+        {
+          "zh": "面条",
+          "py": "miàntiáo",
+          "meaning": "noodles"
+        }
+      ]
+    },
+    {
+      "chinese": "这个勺子太小了。",
+      "pinyin": "Zhège sháozi tài xiǎo le.",
+      "translation": "This spoon is too small.",
+      "usage": "Commenting on the size of a spoon that's not suitable for the task.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "个",
+          "py": "gè",
+          "meaning": "classifier for objects"
+        },
+        {
+          "zh": "勺子",
+          "py": "sháozi",
+          "meaning": "spoon"
+        },
+        {
+          "zh": "太",
+          "py": "tài",
+          "meaning": "too"
+        },
+        {
+          "zh": "小",
+          "py": "xiǎo",
+          "meaning": "small"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "aspect particle"
+        }
+      ]
+    },
+    {
+      "chinese": "请把锅放在炉子上。",
+      "pinyin": "Qǐng bǎ guō fàng zài lúzi shàng.",
+      "translation": "Please put the pot on the stove.",
+      "usage": "Giving instructions to place a pot on a stove.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "把",
+          "py": "bǎ",
+          "meaning": "classifier for objects"
+        },
+        {
+          "zh": "锅",
+          "py": "guō",
+          "meaning": "pot"
+        },
+        {
+          "zh": "放",
+          "py": "fàng",
+          "meaning": "to put"
+        },
+        {
+          "zh": "在",
+          "py": "zài",
+          "meaning": "on"
+        },
+        {
+          "zh": "炉子",
+          "py": "lúzi",
+          "meaning": "stove"
+        },
+        {
+          "zh": "上",
+          "py": "shàng",
+          "meaning": "on"
+        }
+      ]
+    },
+    {
+      "chinese": "你有搅拌器吗？",
+      "pinyin": "Nǐ yǒu bǎnjiǎo qì ma?",
+      "translation": "Do you have a mixer?",
+      "usage": "Asking about the availability of a kitchen appliance.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "have"
+        },
+        {
+          "zh": "搅拌器",
+          "py": "bǎnjiǎo qì",
+          "meaning": "mixer"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "这个菜刀很锋利。",
+      "pinyin": "Zhège cài dāo hěn fēnglì.",
+      "translation": "This kitchen knife is very sharp.",
+      "usage": "Describing the sharpness of a kitchen knife.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "个",
+          "py": "gè",
+          "meaning": "classifier for objects"
+        },
+        {
+          "zh": "菜刀",
+          "py": "cài dāo",
+          "meaning": "kitchen knife"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "锋利",
+          "py": "fēnglì",
+          "meaning": "sharp"
+        }
+      ]
+    },
+    {
+      "chinese": "我们用微波炉加热食物。",
+      "pinyin": "Wǒmen yòng wēibōlú jiārè shíwù.",
+      "translation": "We use the microwave oven to heat food.",
+      "usage": "Describing the use of a microwave oven for heating food.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我们",
+          "py": "wǒmen",
+          "meaning": "we"
+        },
+        {
+          "zh": "用",
+          "py": "yòng",
+          "meaning": "to use"
+        },
+        {
+          "zh": "微波炉",
+          "py": "wēibōlú",
+          "meaning": "microwave oven"
+        },
+        {
+          "zh": "加热",
+          "py": "jiārè",
+          "meaning": "to heat"
+        },
+        {
+          "zh": "食物",
+          "py": "shíwù",
+          "meaning": "food"
+        }
+      ]
+    },
+    {
+      "chinese": "这个烤箱很旧了。",
+      "pinyin": "Zhège kǎoxiāng hěn jiù le.",
+      "translation": "This oven is very old.",
+      "usage": "Commenting on the age of an oven.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "个",
+          "py": "gè",
+          "meaning": "classifier for objects"
+        },
+        {
+          "zh": "烤箱",
+          "py": "kǎoxiāng",
+          "meaning": "oven"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "旧",
+          "py": "jiù",
+          "meaning": "old"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "aspect particle"
+        }
+      ]
+    },
+    {
+      "chinese": "请用这个平底锅煎鸡蛋。",
+      "pinyin": "Qǐng yòng zhège píngdǐ guō jiān jīdàn.",
+      "translation": "Please use this flat pan to fry eggs.",
+      "usage": "Instructing someone to use a specific pan for frying eggs.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "用",
+          "py": "yòng",
+          "meaning": "to use"
+        },
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "个",
+          "py": "gè",
+          "meaning": "classifier for objects"
+        },
+        {
+          "zh": "平底锅",
+          "py": "píngdǐ guō",
+          "meaning": "flat pan"
+        },
+        {
+          "zh": "煎",
+          "py": "jiān",
+          "meaning": "to fry"
+        },
+        {
+          "zh": "鸡蛋",
+          "py": "jīdàn",
+          "meaning": "egg"
+        }
+      ]
+    },
+    {
+      "chinese": "我忘记带量杯了。",
+      "pinyin": "Wǒ wàngjì dài liàngbēi le.",
+      "translation": "I forgot to bring the measuring cup.",
+      "usage": "Expressing that a measuring cup was forgotten.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "忘记",
+          "py": "wàngjì",
+          "meaning": "to forget"
+        },
+        {
+          "zh": "带",
+          "py": "dài",
+          "meaning": "to bring"
+        },
+        {
+          "zh": "量杯",
+          "py": "liàngbēi",
+          "meaning": "measuring cup"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "aspect particle"
+        }
+      ]
+    },
+    {
+      "chinese": "这个厨房很干净。",
+      "pinyin": "Zhège chúfáng hěn gānjìng.",
+      "translation": "This kitchen is very clean.",
+      "usage": "Describing the cleanliness of a kitchen.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "个",
+          "py": "gè",
+          "meaning": "classifier for objects"
+        },
+        {
+          "zh": "厨房",
+          "py": "chúfáng",
+          "meaning": "kitchen"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "干净",
+          "py": "gānjìng",
+          "meaning": "clean"
+        }
+      ]
+    },
+    {
+      "chinese": "请帮我把菜洗一下。",
+      "pinyin": "Qǐng bāng wǒ bǎ cài xǐ yīxià.",
+      "translation": "Please help me wash the vegetables.",
+      "usage": "Asking for help to wash vegetables.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "帮",
+          "py": "bāng",
+          "meaning": "to help"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "me"
+        },
+        {
+          "zh": "把",
+          "py": "bǎ",
+          "meaning": "to make"
+        },
+        {
+          "zh": "菜",
+          "py": "cài",
+          "meaning": "vegetables"
+        },
+        {
+          "zh": "洗",
+          "py": "xǐ",
+          "meaning": "to wash"
+        },
+        {
+          "zh": "一下",
+          "py": "yīxià",
+          "meaning": "a little bit"
+        }
+      ]
+    },
+    {
+      "chinese": "这个搅拌机坏了。",
+      "pinyin": "Zhège bǎnjiǎo jī huài le.",
+      "translation": "This mixer is broken.",
+      "usage": "Stating that a mixer is not working.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "个",
+          "py": "gè",
+          "meaning": "classifier for objects"
+        },
+        {
+          "zh": "搅拌机",
+          "py": "bǎnjiǎo jī",
+          "meaning": "mixer"
+        },
+        {
+          "zh": "坏",
+          "py": "huài",
+          "meaning": "broken"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "aspect particle"
+        }
+      ]
+    },
+    {
+      "chinese": "请把锅盖盖上。",
+      "pinyin": "Qǐng bǎ guōgài gài shàng.",
+      "translation": "Please cover the pot with the lid.",
+      "usage": "Instructing someone to put a lid on a pot.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "把",
+          "py": "bǎ",
+          "meaning": "to make"
+        },
+        {
+          "zh": "锅盖",
+          "py": "guōgài",
+          "meaning": "pot lid"
+        },
+        {
+          "zh": "盖",
+          "py": "gài",
+          "meaning": "to cover"
+        },
+        {
+          "zh": "上",
+          "py": "shàng",
+          "meaning": "on"
+        }
+      ]
+    },
+    {
+      "chinese": "我需要一个切菜板。",
+      "pinyin": "Wǒ xūyào yīgè qiēcài bǎn.",
+      "translation": "I need a cutting board.",
+      "usage": "Expressing the need for a cutting board.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "需要",
+          "py": "xūyào",
+          "meaning": "need"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "个",
+          "py": "gè",
+          "meaning": "classifier for objects"
+        },
+        {
+          "zh": "切菜板",
+          "py": "qiēcài bǎn",
+          "meaning": "cutting board"
+        }
+      ]
+    },
+    {
+      "chinese": "这个电磁炉很省电。",
+      "pinyin": "Zhège diàncí lú hěn shěng diàn.",
+      "translation": "This induction stove is very energy-efficient.",
+      "usage": "Commenting on the energy efficiency of an induction stove.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "个",
+          "py": "gè",
+          "meaning": "classifier for objects"
+        },
+        {
+          "zh": "电磁炉",
+          "py": "diàncí lú",
+          "meaning": "induction stove"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "省电",
+          "py": "shěng diàn",
+          "meaning": "energy-saving"
+        }
+      ]
+    },
+    {
+      "chinese": "请用这个勺子搅拌。",
+      "pinyin": "Qǐng yòng zhège sháozi bǎnjiǎo.",
+      "translation": "Please use this spoon to stir.",
+      "usage": "Instructing someone to use a spoon for stirring.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "用",
+          "py": "yòng",
+          "meaning": "to use"
+        },
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "个",
+          "py": "gè",
+          "meaning": "classifier for objects"
+        },
+        {
+          "zh": "勺子",
+          "py": "sháozi",
+          "meaning": "spoon"
+        },
+        {
+          "zh": "搅拌",
+          "py": "bǎnjiǎo",
+          "meaning": "to stir"
+        }
+      ]
+    },
+    {
+      "chinese": "这个冰箱很冷。",
+      "pinyin": "Zhège bīngxiāng hěn lěng.",
+      "translation": "This refrigerator is very cold.",
+      "usage": "Commenting on the temperature of a refrigerator.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "个",
+          "py": "gè",
+          "meaning": "classifier for objects"
+        },
+        {
+          "zh": "冰箱",
+          "py": "bīngxiāng",
+          "meaning": "refrigerator"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "冷",
+          "py": "lěng",
+          "meaning": "cold"
+        }
+      ]
+    },
+    {
+      "chinese": "请帮我把菜切一下。",
+      "pinyin": "Qǐng bāng wǒ bǎ cài qiē yīxià.",
+      "translation": "Please help me cut the vegetables.",
+      "usage": "Asking for help to cut vegetables.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "帮",
+          "py": "bāng",
+          "meaning": "to help"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "me"
+        },
+        {
+          "zh": "把",
+          "py": "bǎ",
+          "meaning": "to make"
+        },
+        {
+          "zh": "菜",
+          "py": "cài",
+          "meaning": "vegetables"
+        },
+        {
+          "zh": "切",
+          "py": "qiē",
+          "meaning": "to cut"
+        },
+        {
+          "zh": "一下",
+          "py": "yīxià",
+          "meaning": "a little bit"
+        }
+      ]
+    },
+    {
+      "chinese": "这个微波炉加热很快。",
+      "pinyin": "Zhège wēibō lú jiārè hěn kuài.",
+      "translation": "This microwave heats up very quickly.",
+      "usage": "Commenting on the quick heating of a microwave.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "个",
+          "py": "gè",
+          "meaning": "classifier for objects"
+        },
+        {
+          "zh": "微波炉",
+          "py": "wēibō lú",
+          "meaning": "microwave"
+        },
+        {
+          "zh": "加热",
+          "py": "jiārè",
+          "meaning": "to heat"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "快",
+          "py": "kuài",
+          "meaning": "fast"
+        }
+      ]
+    }
+  ]
+}

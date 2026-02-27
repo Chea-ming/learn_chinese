@@ -1,0 +1,275 @@
+{
+  "sentences": [
+    {
+      "chinese": "我吃了饭。",
+      "pinyin": "Wǒ chī le fàn.",
+      "translation": "I have eaten.",
+      "usage": "了 indicates completed action.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "吃",
+          "py": "chī",
+          "meaning": "to eat"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completion marker"
+        },
+        {
+          "zh": "饭",
+          "py": "fàn",
+          "meaning": "rice/meal"
+        }
+      ]
+    },
+    {
+      "chinese": "他去过北京。",
+      "pinyin": "Tā qù guò Běijīng.",
+      "translation": "He has been to Beijing.",
+      "usage": "过 indicates past experience.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "他",
+          "py": "tā",
+          "meaning": "he"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "to go"
+        },
+        {
+          "zh": "过",
+          "py": "guò",
+          "meaning": "experience marker"
+        },
+        {
+          "zh": "北京",
+          "py": "Běijīng",
+          "meaning": "Beijing"
+        }
+      ]
+    },
+    {
+      "chinese": "门开着。",
+      "pinyin": "Mén kāi zhe.",
+      "translation": "The door is open.",
+      "usage": "着 indicates ongoing state.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "门",
+          "py": "mén",
+          "meaning": "door"
+        },
+        {
+          "zh": "开",
+          "py": "kāi",
+          "meaning": "to open"
+        },
+        {
+          "zh": "着",
+          "py": "zhe",
+          "meaning": "state marker"
+        },
+        {
+          "zh": "。",
+          "py": ".",
+          "meaning": "sentence ending"
+        }
+      ]
+    },
+    {
+      "chinese": "我学了中文。",
+      "pinyin": "Wǒ xué le Zhōngwén.",
+      "translation": "I have learned Chinese.",
+      "usage": "了 indicates completed learning.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "学",
+          "py": "xué",
+          "meaning": "to learn"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completion marker"
+        },
+        {
+          "zh": "中文",
+          "py": "Zhōngwén",
+          "meaning": "Chinese language"
+        }
+      ]
+    },
+    {
+      "chinese": "她曾经住过这里。",
+      "pinyin": "Tā céngjīng zhù guò zhèlǐ.",
+      "translation": "She used to live here.",
+      "usage": "过 indicates past experience.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "她",
+          "py": "tā",
+          "meaning": "she"
+        },
+        {
+          "zh": "曾经",
+          "py": "céngjīng",
+          "meaning": "once"
+        },
+        {
+          "zh": "住",
+          "py": "zhù",
+          "meaning": "to live"
+        },
+        {
+          "zh": "过",
+          "py": "guò",
+          "meaning": "experience marker"
+        },
+        {
+          "zh": "这里",
+          "py": "zhèlǐ",
+          "meaning": "here"
+        }
+      ]
+    },
+    {
+      "chinese": "他一直想着你。",
+      "pinyin": "Tā yīzhí xiǎng zhe nǐ.",
+      "translation": "He has been thinking of you.",
+      "usage": "着 indicates continuous action.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "他",
+          "py": "tā",
+          "meaning": "he"
+        },
+        {
+          "zh": "一直",
+          "py": "yīzhí",
+          "meaning": "always"
+        },
+        {
+          "zh": "想",
+          "py": "xiǎng",
+          "meaning": "to think"
+        },
+        {
+          "zh": "着",
+          "py": "zhe",
+          "meaning": "continuous marker"
+        },
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        }
+      ]
+    },
+    {
+      "chinese": "我买了一本书。",
+      "pinyin": "Wǒ mǎi le yī běn shū.",
+      "translation": "I bought a book.",
+      "usage": "了 indicates completed purchase.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "买",
+          "py": "mǎi",
+          "meaning": "to buy"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completion marker"
+        },
+        {
+          "zh": "一本",
+          "py": "yī běn",
+          "meaning": "a book"
+        },
+        {
+          "zh": "书",
+          "py": "shū",
+          "meaning": "book"
+        }
+      ]
+    },
+    {
+      "chinese": "他们试过这个方法。",
+      "pinyin": "Tāmen shì guò zhège fāngfǎ.",
+      "translation": "They have tried this method.",
+      "usage": "过 indicates past attempt.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "他们",
+          "py": "tāmen",
+          "meaning": "they"
+        },
+        {
+          "zh": "试",
+          "py": "shì",
+          "meaning": "to try"
+        },
+        {
+          "zh": "过",
+          "py": "guò",
+          "meaning": "experience marker"
+        },
+        {
+          "zh": "这个",
+          "py": "zhège",
+          "meaning": "this"
+        },
+        {
+          "zh": "方法",
+          "py": "fāngfǎ",
+          "meaning": "method"
+        }
+      ]
+    },
+    {
+      "chinese": "灯亮着呢。",
+      "pinyin": "Dēng liàng zhe ne.",
+      "translation": "The light is on.",
+      "usage": "着 indicates ongoing state.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "灯",
+          "py": "dēng",
+          "meaning": "light"
+        },
+        {
+          "zh": "亮",
+          "py": "liàng",
+          "meaning": "to be bright"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "sentences": [
+    {
+      "chinese": "健身房",
+      "pinyin": "jiànshēn fáng",
+      "translation": "Gym",
+      "usage": "General term for a fitness facility.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "健",
+          "py": "jiàn",
+          "meaning": "healthy"
+        },
+        {
+          "zh": "身",
+          "py": "shēn",
+          "meaning": "body"
+        },
+        {
+          "zh": "房",
+          "py": "fáng",
+          "meaning": "room"
+        }
+      ]
+    },
+    {
+      "chinese": "健身中心",
+      "pinyin": "jiànshēn zhōngxīn",
+      "translation": "Fitness Center",
+      "usage": "Formal term for a larger gym with varied facilities.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "健",
+          "py": "jiàn",
+          "meaning": "healthy"
+        },
+        {
+          "zh": "身",
+          "py": "shēn",
+          "meaning": "body"
+        },
+        {
+          "zh": "中",
+          "py": "zhōng",
+          "meaning": "center"
+        }
+      ]
+    }
+  ]
+}

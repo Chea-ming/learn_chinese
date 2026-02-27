@@ -1,0 +1,251 @@
+{
+  "sentences": [
+    {
+      "chinese": "市政府",
+      "pinyin": "Shì zhèngfǔ",
+      "translation": "City Hall",
+      "usage": "General reference to the city government headquarters.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "市",
+          "py": "shì",
+          "meaning": "city"
+        },
+        {
+          "zh": "政府",
+          "py": "zhèngfǔ",
+          "meaning": "government"
+        }
+      ]
+    },
+    {
+      "chinese": "民政局",
+      "pinyin": "Mínzhèng jú",
+      "translation": "Civil Affairs Bureau",
+      "usage": "Department handling marriage, adoption, and civil registration.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "民政",
+          "py": "mínzhèng",
+          "meaning": "civil affairs"
+        },
+        {
+          "zh": "局",
+          "py": "jú",
+          "meaning": "bureau"
+        }
+      ]
+    },
+    {
+      "chinese": "公安局",
+      "pinyin": "Gōngān jú",
+      "translation": "Public Security Bureau",
+      "usage": "Police and law enforcement agency.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "公安",
+          "py": "gōngān",
+          "meaning": "public security"
+        },
+        {
+          "zh": "局",
+          "py": "jú",
+          "meaning": "bureau"
+        }
+      ]
+    },
+    {
+      "chinese": "税务局",
+      "pinyin": "Shuìwù jú",
+      "translation": "Tax Bureau",
+      "usage": "Office for tax collection and related services.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "税务",
+          "py": "shuìwù",
+          "meaning": "tax"
+        },
+        {
+          "zh": "局",
+          "py": "jú",
+          "meaning": "bureau"
+        }
+      ]
+    },
+    {
+      "chinese": "办理结婚证",
+      "pinyin": "Bàn lǐ jiéhūn zhèng",
+      "translation": "Apply for a marriage certificate",
+      "usage": "Process for obtaining legal marriage documents.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "办理",
+          "py": "bàn lǐ",
+          "meaning": "process application"
+        },
+        {
+          "zh": "结婚证",
+          "py": "jiéhūn zhèng",
+          "meaning": "marriage certificate"
+        }
+      ]
+    },
+    {
+      "chinese": "预约挂号",
+      "pinyin": "Yùyuē guàhù",
+      "translation": "Book an appointment",
+      "usage": "Reserve a time slot for government services.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "预约",
+          "py": "yùyuē",
+          "meaning": "appointment"
+        },
+        {
+          "zh": "挂号",
+          "py": "guàhù",
+          "meaning": "registration"
+        }
+      ]
+    },
+    {
+      "chinese": "提交材料",
+      "pinyin": "Tiáojī cuì liào",
+      "translation": "Submit documents",
+      "usage": "Provide required paperwork to an office.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "提交",
+          "py": "tíjiāo",
+          "meaning": "submit"
+        },
+        {
+          "zh": "材料",
+          "py": "cáiliào",
+          "meaning": "materials"
+        }
+      ]
+    },
+    {
+      "chinese": "咨询服务台",
+      "pinyin": "Czīxún fúwù tái",
+      "translation": "Information desk",
+      "usage": "Location for assistance with government procedures.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "咨询",
+          "py": "zīxún",
+          "meaning": "consultation"
+        },
+        {
+          "zh": "服务台",
+          "py": "fúwù tái",
+          "meaning": "service counter"
+        }
+      ]
+    },
+    {
+      "chinese": "投诉窗口",
+      "pinyin": "Tóusù chuāngkǒu",
+      "translation": "Complaint window",
+      "usage": "Submit grievances about government services.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "投诉",
+          "py": "tóusù",
+          "meaning": "complaint"
+        },
+        {
+          "zh": "窗口",
+          "py": "chuāngkǒu",
+          "meaning": "window"
+        }
+      ]
+    },
+    {
+      "chinese": "申请护照",
+      "pinyin": "Shēnqǐng hùzhào",
+      "translation": "Apply for a passport",
+      "usage": "Process for obtaining international travel documents.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "申请",
+          "py": "shēnqǐng",
+          "meaning": "application"
+        },
+        {
+          "zh": "护照",
+          "py": "hùzhào",
+          "meaning": "passport"
+        }
+      ]
+    },
+    {
+      "chinese": "行政审批",
+      "pinyin": "Xíngzhèng shěnpī",
+      "translation": "Administrative approval",
+      "usage": "Official authorization for specific activities.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "行政",
+          "py": "xíngzhèng",
+          "meaning": "administrative"
+        },
+        {
+          "zh": "审批",
+          "py": "shěnpī",
+          "meaning": "approval"
+        }
+      ]
+    },
+    {
+      "chinese": "公示公告",
+      "pinyin": "Gōngshì gōnggào",
+      "translation": "Public notice",
+      "usage": "Official announcements displayed for public access.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "公示",
+          "py": "gōngshì",
+          "meaning": "public display"
+        },
+        {
+          "zh": "公告",
+          "py": "gōnggào",
+          "meaning": "notice"
+        }
+      ]
+    },
+    {
+      "chinese": "财政局",
+      "pinyin": "Cái zhèng jú",
+      "translation": "Finance Bureau",
+      "usage": "Manages municipal budgets and financial policies.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "财政",
+          "py": "cái zhèng",
+          "meaning": "finance"
+        },
+        {
+          "zh": "局",
+          "py": "jú",
+          "meaning": "bureau"
+        }
+      ]
+    }
+  ]
+}

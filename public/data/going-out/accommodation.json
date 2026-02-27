@@ -1,0 +1,679 @@
+{
+  "sentences": [
+    {
+      "chinese": "我想订一间酒店房间。",
+      "pinyin": "Wǒ xiǎng dìng yī jiān bùkè fángjiān.",
+      "translation": "I want to book a hotel room.",
+      "usage": "Used when making a reservation at a hotel.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "想",
+          "py": "xiǎng",
+          "meaning": "want to"
+        },
+        {
+          "zh": "订",
+          "py": "dìng",
+          "meaning": "to book"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "间",
+          "py": "jiān",
+          "meaning": "room"
+        },
+        {
+          "zh": "酒店",
+          "py": "bùkè",
+          "meaning": "hotel"
+        },
+        {
+          "zh": "房间",
+          "py": "fángjiān",
+          "meaning": "room"
+        }
+      ]
+    },
+    {
+      "chinese": "请问，这里有没有空房？",
+      "pinyin": "Qǐngwèn, zhèlǐ yǒu méiyǒu kòngfáng?",
+      "translation": "Excuse me, do you have any empty rooms?",
+      "usage": "Used when checking into a hotel or looking for availability.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请问",
+          "py": "qǐngwèn",
+          "meaning": "excuse me"
+        },
+        {
+          "zh": "这里",
+          "py": "zhèlǐ",
+          "meaning": "here"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "have"
+        },
+        {
+          "zh": "没有",
+          "py": "méiyǒu",
+          "meaning": "not have"
+        },
+        {
+          "zh": "空房",
+          "py": "kòngfáng",
+          "meaning": "empty room"
+        }
+      ]
+    },
+    {
+      "chinese": "我的房间在二楼。",
+      "pinyin": "Wǒ de fángjiān zài èr lóu.",
+      "translation": "My room is on the second floor.",
+      "usage": "Used when telling someone where your room is located.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "of"
+        },
+        {
+          "zh": "房间",
+          "py": "fángjiān",
+          "meaning": "room"
+        },
+        {
+          "zh": "在",
+          "py": "zài",
+          "meaning": "at"
+        },
+        {
+          "zh": "二",
+          "py": "èr",
+          "meaning": "two"
+        },
+        {
+          "zh": "楼",
+          "py": "lóu",
+          "meaning": "floor"
+        }
+      ]
+    },
+    {
+      "chinese": "这个房间太小了。",
+      "pinyin": "Zhège fángjiān tài xiǎo le.",
+      "translation": "This room is too small.",
+      "usage": "Used when expressing dissatisfaction with the size of a room.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这个",
+          "py": "zhège",
+          "meaning": "this"
+        },
+        {
+          "zh": "房间",
+          "py": "fángjiān",
+          "meaning": "room"
+        },
+        {
+          "zh": "太",
+          "py": "tài",
+          "meaning": "too"
+        },
+        {
+          "zh": "小",
+          "py": "xiǎo",
+          "meaning": "small"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "particle indicating completion"
+        }
+      ]
+    },
+    {
+      "chinese": "可以帮我拿一下行李吗？",
+      "pinyin": "Kěyǐ bāng wǒ ná yīxià xínglǐ ma?",
+      "translation": "Can you help me carry my luggage?",
+      "usage": "Used when asking someone to assist with luggage.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "可以",
+          "py": "kěyǐ",
+          "meaning": "can"
+        },
+        {
+          "zh": "帮",
+          "py": "bāng",
+          "meaning": "help"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "拿",
+          "py": "ná",
+          "meaning": "carry"
+        },
+        {
+          "zh": "一下",
+          "py": "yīxià",
+          "meaning": "a little bit"
+        },
+        {
+          "zh": "行李",
+          "py": "xínglǐ",
+          "meaning": "luggage"
+        }
+      ]
+    },
+    {
+      "chinese": "酒店的早餐很好吃。",
+      "pinyin": "Bùkè de zǎocān hěn hǎochī.",
+      "translation": "The hotel breakfast is very delicious.",
+      "usage": "Used when describing the quality of breakfast at a hotel.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "酒店",
+          "py": "bùkè",
+          "meaning": "hotel"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "of"
+        },
+        {
+          "zh": "早餐",
+          "py": "zǎocān",
+          "meaning": "breakfast"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "好吃",
+          "py": "hǎochī",
+          "meaning": "delicious"
+        }
+      ]
+    },
+    {
+      "chinese": "我要退房。",
+      "pinyin": "Wǒ yào tuì fáng.",
+      "translation": "I want to check out.",
+      "usage": "Used when leaving a hotel room.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "want to"
+        },
+        {
+          "zh": "退房",
+          "py": "tuì fáng",
+          "meaning": "check out"
+        }
+      ]
+    },
+    {
+      "chinese": "房间的空调坏了。",
+      "pinyin": "Fángjiān de kòngtiáo huài le.",
+      "translation": "The air conditioner in the room is broken.",
+      "usage": "Used when reporting a problem with hotel room facilities.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "房间",
+          "py": "fángjiān",
+          "meaning": "room"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "of"
+        },
+        {
+          "zh": "空调",
+          "py": "kòngtiáo",
+          "meaning": "air conditioner"
+        },
+        {
+          "zh": "坏",
+          "py": "huài",
+          "meaning": "broken"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "particle indicating completion"
+        }
+      ]
+    },
+    {
+      "chinese": "这里很安静。",
+      "pinyin": "Zhèlǐ hěn ānjìng.",
+      "translation": "This place is very quiet.",
+      "usage": "Used when describing the peaceful atmosphere of a hotel or accommodation.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这里",
+          "py": "zhèlǐ",
+          "meaning": "here"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "安静",
+          "py": "ānjìng",
+          "meaning": "quiet"
+        }
+      ]
+    },
+    {
+      "chinese": "我需要一个大床房。",
+      "pinyin": "Wǒ xūyào yīgè dàchuáng fáng.",
+      "translation": "I need a large bed room.",
+      "usage": "Used when requesting a specific type of room at a hotel.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "需要",
+          "py": "xūyào",
+          "meaning": "need"
+        },
+        {
+          "zh": "一个",
+          "py": "yīgè",
+          "meaning": "one"
+        },
+        {
+          "zh": "大床",
+          "py": "dàchuáng",
+          "meaning": "large bed"
+        },
+        {
+          "zh": "房",
+          "py": "fáng",
+          "meaning": "room"
+        }
+      ]
+    },
+    {
+      "chinese": "请问，附近有哪家酒店？",
+      "pinyin": "Qǐngwèn, fùjìn yǒu nǎjiā bùkè?",
+      "translation": "Excuse me, which hotel is nearby?",
+      "usage": "Used when asking for directions to a nearby hotel.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请问",
+          "py": "qǐngwèn",
+          "meaning": "excuse me"
+        },
+        {
+          "zh": "附近",
+          "py": "fùjìn",
+          "meaning": "nearby"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "have"
+        },
+        {
+          "zh": "哪",
+          "py": "nǎ",
+          "meaning": "which"
+        },
+        {
+          "zh": "家",
+          "py": "jiā",
+          "meaning": "house"
+        },
+        {
+          "zh": "酒店",
+          "py": "bùkè",
+          "meaning": "hotel"
+        }
+      ]
+    },
+    {
+      "chinese": "房间太贵了。",
+      "pinyin": "Fángjiān tài guì le.",
+      "translation": "The room is too expensive.",
+      "usage": "Used when expressing that hotel room prices are too high.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "房间",
+          "py": "fángjiān",
+          "meaning": "room"
+        },
+        {
+          "zh": "太",
+          "py": "tài",
+          "meaning": "too"
+        },
+        {
+          "zh": "贵",
+          "py": "guì",
+          "meaning": "expensive"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "particle indicating completion"
+        }
+      ]
+    },
+    {
+      "chinese": "我想要一个安静的房间。",
+      "pinyin": "Wǒ xiǎng yào yīgè ānjìng de fángjiān.",
+      "translation": "I want a quiet room.",
+      "usage": "Used when requesting a room with a peaceful environment.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "想",
+          "py": "xiǎng",
+          "meaning": "want to"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "want to"
+        },
+        {
+          "zh": "一个",
+          "py": "yīgè",
+          "meaning": "one"
+        },
+        {
+          "zh": "安静",
+          "py": "ānjìng",
+          "meaning": "quiet"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "of"
+        },
+        {
+          "zh": "房间",
+          "py": "fángjiān",
+          "meaning": "room"
+        }
+      ]
+    },
+    {
+      "chinese": "房间有免费WiFi。",
+      "pinyin": "Fángjiān yǒu miǎnfèi WiFi.",
+      "translation": "The room has free WiFi.",
+      "usage": "Used when informing someone about hotel room amenities.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "房间",
+          "py": "fángjiān",
+          "meaning": "room"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "have"
+        },
+        {
+          "zh": "免费",
+          "py": "miǎnfèi",
+          "meaning": "free"
+        },
+        {
+          "zh": "WiFi",
+          "py": "WiFi",
+          "meaning": "WiFi"
+        }
+      ]
+    },
+    {
+      "chinese": "我想住在这里。",
+      "pinyin": "Wǒ xiǎng zhù zài zhèlǐ.",
+      "translation": "I want to stay here.",
+      "usage": "Used when expressing desire to stay at a particular accommodation.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "想",
+          "py": "xiǎng",
+          "meaning": "want to"
+        },
+        {
+          "zh": "住",
+          "py": "zhù",
+          "meaning": "live"
+        },
+        {
+          "zh": "在",
+          "py": "zài",
+          "meaning": "at"
+        },
+        {
+          "zh": "这里",
+          "py": "zhèlǐ",
+          "meaning": "here"
+        }
+      ]
+    },
+    {
+      "chinese": "酒店的工作人员很友好。",
+      "pinyin": "Bùkè de gōngzuò rényuán hěn yǒuhǎo.",
+      "translation": "The hotel staff are very friendly.",
+      "usage": "Used when praising the service quality of hotel employees.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "酒店",
+          "py": "bùkè",
+          "meaning": "hotel"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "of"
+        },
+        {
+          "zh": "工作人员",
+          "py": "gōngzuò rényuán",
+          "meaning": "staff"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "友好",
+          "py": "yǒuhǎo",
+          "meaning": "friendly"
+        }
+      ]
+    },
+    {
+      "chinese": "房间的窗户可以打开。",
+      "pinyin": "Fángjiān de chuānghù kěyǐ dǎkāi.",
+      "translation": "The window in the room can be opened.",
+      "usage": "Used when describing the functionality of a hotel room window.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "房间",
+          "py": "fángjiān",
+          "meaning": "room"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "of"
+        },
+        {
+          "zh": "窗户",
+          "py": "chuānghù",
+          "meaning": "window"
+        },
+        {
+          "zh": "可以",
+          "py": "kěyǐ",
+          "meaning": "can"
+        },
+        {
+          "zh": "打开",
+          "py": "dǎkāi",
+          "meaning": "open"
+        }
+      ]
+    },
+    {
+      "chinese": "我需要一个双人床。",
+      "pinyin": "Wǒ xūyào yīgè shuāngrén chuáng.",
+      "translation": "I need a double bed.",
+      "usage": "Used when requesting a specific type of bed in a hotel room.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "需要",
+          "py": "xūyào",
+          "meaning": "need"
+        },
+        {
+          "zh": "一个",
+          "py": "yīgè",
+          "meaning": "one"
+        },
+        {
+          "zh": "双人",
+          "py": "shuāngrén",
+          "meaning": "double"
+        },
+        {
+          "zh": "床",
+          "py": "chuáng",
+          "meaning": "bed"
+        }
+      ]
+    },
+    {
+      "chinese": "这个酒店位置很好。",
+      "pinyin": "Zhège bùkè wèizhì hěn hǎo.",
+      "translation": "This hotel has a good location.",
+      "usage": "Used when praising the location of a hotel.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这个",
+          "py": "zhège",
+          "meaning": "this"
+        },
+        {
+          "zh": "酒店",
+          "py": "bùkè",
+          "meaning": "hotel"
+        },
+        {
+          "zh": "位置",
+          "py": "wèizhì",
+          "meaning": "location"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good"
+        }
+      ]
+    },
+    {
+      "chinese": "房间有热水。",
+      "pinyin": "Fángjiān yǒu rèshuǐ.",
+      "translation": "The room has hot water.",
+      "usage": "Used when informing someone about hotel room facilities.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "房间",
+          "py": "fángjiān",
+          "meaning": "room"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "have"
+        },
+        {
+          "zh": "热水",
+          "py": "rèshuǐ",
+          "meaning": "hot water"
+        }
+      ]
+    }
+  ]
+}

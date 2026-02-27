@@ -1,0 +1,269 @@
+{
+  "sentences": [
+    {
+      "chinese": "我吃了十碗饭。",
+      "pinyin": "Wǒ chī le shí wǎn fàn.",
+      "translation": "I ate ten bowls of rice.",
+      "usage": "Indicates quantity as a degree complement.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "Wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "吃了",
+          "py": "chī le",
+          "meaning": "ate"
+        },
+        {
+          "zh": "十碗",
+          "py": "shí wǎn",
+          "meaning": "ten bowls"
+        },
+        {
+          "zh": "饭",
+          "py": "fàn",
+          "meaning": "rice"
+        }
+      ]
+    },
+    {
+      "chinese": "他练习了三个小时。",
+      "pinyin": "Tā liànxí le sān gè xiǎoshí.",
+      "translation": "He practiced for three hours.",
+      "usage": "Indicates time duration as a degree complement.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "他",
+          "py": "Tā",
+          "meaning": "he"
+        },
+        {
+          "zh": "练习了",
+          "py": "liànxí le",
+          "meaning": "practiced"
+        },
+        {
+          "zh": "三个小时",
+          "py": "sān gè xiǎoshí",
+          "meaning": "three hours"
+        }
+      ]
+    },
+    {
+      "chinese": "她读完了这本书。",
+      "pinyin": "Tā dú wán le zhè běn shū.",
+      "translation": "She finished reading this book.",
+      "usage": "Indicates completion (完) as a degree complement.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "她",
+          "py": "Tā",
+          "meaning": "she"
+        },
+        {
+          "zh": "读完了",
+          "py": "dú wán le",
+          "meaning": "finished reading"
+        },
+        {
+          "zh": "这本",
+          "py": "zhè běn",
+          "meaning": "this"
+        },
+        {
+          "zh": "书",
+          "py": "shū",
+          "meaning": "book"
+        }
+      ]
+    },
+    {
+      "chinese": "我们走了整整一天。",
+      "pinyin": "Wǒmen zǒu le zhěngzhěng yī tiān.",
+      "translation": "We walked the entire day.",
+      "usage": "Indicates duration (整整) as a degree complement.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我们",
+          "py": "Wǒmen",
+          "meaning": "we"
+        },
+        {
+          "zh": "走了",
+          "py": "zǒu le",
+          "meaning": "walked"
+        },
+        {
+          "zh": "整整",
+          "py": "zhěngzhěng",
+          "meaning": "entire"
+        },
+        {
+          "zh": "一天",
+          "py": "yī tiān",
+          "meaning": "a day"
+        }
+      ]
+    },
+    {
+      "chinese": "他学了五本教材。",
+      "pinyin": "Tā xué le wǔ běn jiàocái.",
+      "translation": "He studied five textbooks.",
+      "usage": "Indicates quantity as a degree complement.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "他",
+          "py": "Tā",
+          "meaning": "he"
+        },
+        {
+          "zh": "学了",
+          "py": "xué le",
+          "meaning": "studied"
+        },
+        {
+          "zh": "五本",
+          "py": "wǔ běn",
+          "meaning": "five copies"
+        },
+        {
+          "zh": "教材",
+          "py": "jiàocái",
+          "meaning": "textbook"
+        }
+      ]
+    },
+    {
+      "chinese": "我等了两个小时。",
+      "pinyin": "Wǒ děng le liǎng gè xiǎoshí.",
+      "translation": "I waited for two hours.",
+      "usage": "Indicates time duration as a degree complement.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "Wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "等了",
+          "py": "děng le",
+          "meaning": "waited"
+        },
+        {
+          "zh": "两个小时",
+          "py": "liǎng gè xiǎoshí",
+          "meaning": "two hours"
+        }
+      ]
+    },
+    {
+      "chinese": "她学会了十首歌。",
+      "pinyin": "Tā xuéhuì le shí shǒu gē.",
+      "translation": "She learned ten songs.",
+      "usage": "Indicates quantity as a degree complement.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "她",
+          "py": "Tā",
+          "meaning": "she"
+        },
+        {
+          "zh": "学会了",
+          "py": "xuéhuì le",
+          "meaning": "learned"
+        },
+        {
+          "zh": "十首",
+          "py": "shí shǒu",
+          "meaning": "ten songs"
+        },
+        {
+          "zh": "歌",
+          "py": "gē",
+          "meaning": "song"
+        }
+      ]
+    },
+    {
+      "chinese": "我们跑了一公里。",
+      "pinyin": "Wǒmen pǎo le yī gōnglǐ.",
+      "translation": "We ran one kilometer.",
+      "usage": "Indicates distance as a degree complement.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我们",
+          "py": "Wǒmen",
+          "meaning": "we"
+        },
+        {
+          "zh": "跑了",
+          "py": "pǎo le",
+          "meaning": "ran"
+        },
+        {
+          "zh": "一公里",
+          "py": "yī gōnglǐ",
+          "meaning": "one kilometer"
+        }
+      ]
+    },
+    {
+      "chinese": "他看了三遍电影。",
+      "pinyin": "Tā kàn le sān biàn diànyǐng.",
+      "translation": "He watched the movie three times.",
+      "usage": "Indicates frequency as a degree complement.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "他",
+          "py": "Tā",
+          "meaning": "he"
+        },
+        {
+          "zh": "看了",
+          "py": "kàn le",
+          "meaning": "watched"
+        },
+        {
+          "zh": "三遍",
+          "py": "sān biàn",
+          "meaning": "three times"
+        },
+        {
+          "zh": "电影",
+          "py": "diànyǐng",
+          "meaning": "movie"
+        }
+      ]
+    },
+    {
+      "chinese": "我写了整晚的论文。",
+      "pinyin": "Wǒ xiě le zhěngwǎn de lùnwén.",
+      "translation": "I wrote the paper all night.",
+      "usage": "Indicates duration (整晚) as a degree complement.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "Wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "写了",
+          "py": "xiě le",
+          "meaning": "wrote"
+        }
+      ]
+    }
+  ]
+}

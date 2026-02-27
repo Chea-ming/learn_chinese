@@ -1,0 +1,275 @@
+{
+  "sentences": [
+    {
+      "chinese": "植物园",
+      "pinyin": "Zhíwùyuán",
+      "translation": "Botanical Garden",
+      "usage": "General term for a botanical garden",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "植物",
+          "py": "Zhíwù",
+          "meaning": "plants"
+        },
+        {
+          "zh": "园",
+          "py": "Yuán",
+          "meaning": "garden"
+        }
+      ]
+    },
+    {
+      "chinese": "温室",
+      "pinyin": "Shīwēn shì",
+      "translation": "Greenhouse",
+      "usage": "Indoors with temperature control",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "温室",
+          "py": "Shīwēn shì",
+          "meaning": "temperature-controlled room"
+        }
+      ]
+    },
+    {
+      "chinese": "樱花树",
+      "pinyin": "Yīngguā shù",
+      "translation": "Cherry Blossom Tree",
+      "usage": "Popular ornamental tree",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "樱花",
+          "py": "Yīngguā",
+          "meaning": "cherry blossom"
+        },
+        {
+          "zh": "树",
+          "py": "Shù",
+          "meaning": "tree"
+        }
+      ]
+    },
+    {
+      "chinese": "竹林",
+      "pinyin": "Zhú lín",
+      "translation": "Bamboo Forest",
+      "usage": "Area with dense bamboo growth",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "竹",
+          "py": "Zhú",
+          "meaning": "bamboo"
+        },
+        {
+          "zh": "林",
+          "py": "Lín",
+          "meaning": "forest"
+        }
+      ]
+    },
+    {
+      "chinese": "玫瑰园",
+      "pinyin": "Méiguī yuán",
+      "translation": "Rose Garden",
+      "usage": "Area with cultivated roses",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "玫瑰",
+          "py": "Méiguī",
+          "meaning": "rose"
+        },
+        {
+          "zh": "园",
+          "py": "Yuán",
+          "meaning": "garden"
+        }
+      ]
+    },
+    {
+      "chinese": "湖畔长椅",
+      "pinyin": "Húpàn chángyǐ",
+      "translation": "Lakefront Bench",
+      "usage": "Seating area near a lake",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "湖",
+          "py": "Hú",
+          "meaning": "lake"
+        },
+        {
+          "zh": "畔",
+          "py": "Pàn",
+          "meaning": "shore"
+        },
+        {
+          "zh": "长椅",
+          "py": "Chángyǐ",
+          "meaning": "bench"
+        }
+      ]
+    },
+    {
+      "chinese": "游客中心",
+      "pinyin": "Yóulǎn zhōngxīn",
+      "translation": "Visitor Center",
+      "usage": "Information hub",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "游客",
+          "py": "Yóulǎn",
+          "meaning": "visitor"
+        },
+        {
+          "zh": "中心",
+          "py": "Zhōngxīn",
+          "meaning": "center"
+        }
+      ]
+    },
+    {
+      "chinese": "导览图",
+      "pinyin": "Dǎo guǎn tú",
+      "translation": "Map",
+      "usage": "For navigation",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "导览",
+          "py": "Dǎo guǎn",
+          "meaning": "guidance"
+        },
+        {
+          "zh": "图",
+          "py": "Tú",
+          "meaning": "map"
+        }
+      ]
+    },
+    {
+      "chinese": "植物标牌",
+      "pinyin": "Zhíwù biāopái",
+      "translation": "Plant Signage",
+      "usage": "Identification markers",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "植物",
+          "py": "Zhíwù",
+          "meaning": "plant"
+        },
+        {
+          "zh": "标牌",
+          "py": "Biāopái",
+          "meaning": "sign"
+        }
+      ]
+    },
+    {
+      "chinese": "日出景观",
+      "pinyin": "Rìchū jǐngguān",
+      "translation": "Sunrise View",
+      "usage": "Morning attraction",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "日出",
+          "py": "Rìchū",
+          "meaning": "sunrise"
+        },
+        {
+          "zh": "景观",
+          "py": "Jǐngguān",
+          "meaning": "view"
+        }
+      ]
+    },
+    {
+      "chinese": "日落长廊",
+      "pinyin": "Rìluò chángláng",
+      "translation": "Sunset Pavilion",
+      "usage": "Evening viewing area",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "日落",
+          "py": "Rìluò",
+          "meaning": "sunset"
+        },
+        {
+          "zh": "长廊",
+          "py": "Chángláng",
+          "meaning": "pavilion"
+        }
+      ]
+    },
+    {
+      "chinese": "季节花园",
+      "pinyin": "Jìjié huāyuán",
+      "translation": "Seasonal Flower Garden",
+      "usage": "Changing floral displays",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "季节",
+          "py": "Jìjié",
+          "meaning": "season"
+        },
+        {
+          "zh": "花园",
+          "py": "Huāyuán",
+          "meaning": "flower garden"
+        }
+      ]
+    },
+    {
+      "chinese": "儿童活动区",
+      "pinyin": "Ér tóng huódòng qū",
+      "translation": "Children's Play Area",
+      "usage": "Family-friendly space",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "儿童",
+          "py": "Ér tóng",
+          "meaning": "children"
+        },
+        {
+          "zh": "活动",
+          "py": "Huódòng",
+          "meaning": "activity"
+        },
+        {
+          "zh": "区",
+          "py": "Qū",
+          "meaning": "area"
+        }
+      ]
+    },
+    {
+      "chinese": "纪念品店",
+      "pinyin": "Jìniàn pǐn diàn",
+      "translation": "Souvenir Shop",
+      "usage": "Retail area",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "纪念品",
+          "py": "Jìniàn pǐn",
+          "meaning": "souvenir"
+        },
+        {
+          "zh": "店",
+          "py": "Diàn",
+          "meaning": "shop"
+        }
+      ]
+    }
+  ]
+}

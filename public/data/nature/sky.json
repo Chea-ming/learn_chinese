@@ -1,0 +1,118 @@
+{
+  "sentences": [
+    {
+      "chinese": "天空",
+      "pinyin": "Tiān kōng",
+      "translation": "Sky",
+      "usage": "General term for the expanse above the Earth.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "天",
+          "py": "tiān",
+          "meaning": "heaven/sky"
+        },
+        {
+          "zh": "空",
+          "py": "kōng",
+          "meaning": "empty"
+        }
+      ]
+    },
+    {
+      "chinese": "太阳",
+      "pinyin": "Tài yáng",
+      "translation": "Sun",
+      "usage": "Refers to the star at the center of the solar system.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "太",
+          "py": "tài",
+          "meaning": "extremely"
+        },
+        {
+          "zh": "阳",
+          "py": "yáng",
+          "meaning": "sun"
+        }
+      ]
+    },
+    {
+      "chinese": "月亮",
+      "pinyin": "Yuè liang",
+      "translation": "Moon",
+      "usage": "Natural satellite of Earth.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "月",
+          "py": "yuè",
+          "meaning": "moon"
+        },
+        {
+          "zh": "亮",
+          "py": "liàng",
+          "meaning": "bright"
+        }
+      ]
+    },
+    {
+      "chinese": "星星",
+      "pinyin": "Xīng xing",
+      "translation": "Stars",
+      "usage": "Singular: 星 (xīng), plural: 星星.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "星",
+          "py": "xīng",
+          "meaning": "star"
+        },
+        {
+          "zh": "星",
+          "py": "xīng",
+          "meaning": "star"
+        }
+      ]
+    },
+    {
+      "chinese": "银河",
+      "pinyin": "Yín hé",
+      "translation": "Milky Way",
+      "usage": "The galaxy containing our solar system.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "银",
+          "py": "yín",
+          "meaning": "silver"
+        },
+        {
+          "zh": "河",
+          "py": "hé",
+          "meaning": "river"
+        }
+      ]
+    },
+    {
+      "chinese": "流星",
+      "pinyin": "Liú xīng",
+      "translation": "Meteor",
+      "usage": "Streak of light from a burning space rock.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "流",
+          "py": "liú",
+          "meaning": "flow"
+        },
+        {
+          "zh": "星",
+          "py": "xīng",
+          "meaning": "star"
+        }
+      ]
+    }
+  ]
+}

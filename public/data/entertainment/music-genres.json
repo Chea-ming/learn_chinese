@@ -1,0 +1,170 @@
+{
+  "sentences": [
+    {
+      "chinese": "经典音乐",
+      "pinyin": "Jīngdiǎn yīnyuè",
+      "translation": "Classical music",
+      "usage": "Refers to traditional or Western classical compositions.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "经典",
+          "py": "Jīngdiǎn",
+          "meaning": "classic"
+        },
+        {
+          "zh": "音乐",
+          "py": "Yīnyuè",
+          "meaning": "music"
+        }
+      ]
+    },
+    {
+      "chinese": "爵士音乐",
+      "pinyin": "Juésì yīnyuè",
+      "translation": "Jazz music",
+      "usage": "Describes the 20th-century American genre with improvisation.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "爵士",
+          "py": "Juésì",
+          "meaning": "jazz"
+        },
+        {
+          "zh": "音乐",
+          "py": "Yīnyuè",
+          "meaning": "music"
+        }
+      ]
+    },
+    {
+      "chinese": "摇滚音乐",
+      "pinyin": "Yáogǔn yīnyuè",
+      "translation": "Rock music",
+      "usage": "Refers to genres using electric guitars and strong rhythms.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "摇滚",
+          "py": "Yáogǔn",
+          "meaning": "rock"
+        },
+        {
+          "zh": "音乐",
+          "py": "Yīnyuè",
+          "meaning": "music"
+        }
+      ]
+    },
+    {
+      "chinese": "嘻哈音乐",
+      "pinyin": "Xīhā yīnyuè",
+      "translation": "Hip-hop music",
+      "usage": "Covers rap, beats, and urban culture music.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "嘻哈",
+          "py": "Xīhā",
+          "meaning": "hip-hop"
+        },
+        {
+          "zh": "音乐",
+          "py": "Yīnyuè",
+          "meaning": "music"
+        }
+      ]
+    },
+    {
+      "chinese": "电子音乐",
+      "pinyin": "Diànzǐ yīnyuè",
+      "translation": "Electronic music",
+      "usage": "Synthesizers and digital production-based genres.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "电子",
+          "py": "Diànzǐ",
+          "meaning": "electronic"
+        },
+        {
+          "zh": "音乐",
+          "py": "Yīnyuè",
+          "meaning": "music"
+        }
+      ]
+    },
+    {
+      "chinese": "乡村音乐",
+      "pinyin": "Xiāngcūn yīnyuè",
+      "translation": "Country music",
+      "usage": "Associated with rural themes and acoustic instruments.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "乡村",
+          "py": "Xiāngcūn",
+          "meaning": "country"
+        },
+        {
+          "zh": "音乐",
+          "py": "Yīnyuè",
+          "meaning": "music"
+        }
+      ]
+    },
+    {
+      "chinese": "蓝调音乐",
+      "pinyin": "Lántiáo yīnyuè",
+      "translation": "Blues music",
+      "usage": "Expresses sorrow through call-and-response patterns.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "蓝调",
+          "py": "Lántiáo",
+          "meaning": "blues"
+        },
+        {
+          "zh": "音乐",
+          "py": "Yīnyuè",
+          "meaning": "music"
+        }
+      ]
+    },
+    {
+      "chinese": "雷鬼音乐",
+      "pinyin": "Léiguǐ yīnyuè",
+      "translation": "Reggae music",
+      "usage": "Originates from Jamaican rhythms and social themes.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "雷鬼",
+          "py": "Léiguǐ",
+          "meaning": "reggae"
+        },
+        {
+          "zh": "音乐",
+          "py": "Yīnyuè",
+          "meaning": "music"
+        }
+      ]
+    },
+    {
+      "chinese": "流行音乐",
+      "pinyin": "Liúxíng yīnyuè",
+      "translation": "Pop music",
+      "usage": "Mainstream, chart-topping commercial music.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "流行",
+          "py": "Liúxíng",
+          "meaning": "popular"
+        }
+      ]
+    }
+  ]
+}

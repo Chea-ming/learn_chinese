@@ -1,0 +1,233 @@
+{
+  "sentences": [
+    {
+      "chinese": "长江",
+      "pinyin": "Cháng Jiāng",
+      "translation": "Yangtze River",
+      "usage": "The longest river in China.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "长",
+          "py": "cháng",
+          "meaning": "long"
+        },
+        {
+          "zh": "江",
+          "py": "jiāng",
+          "meaning": "river"
+        }
+      ]
+    },
+    {
+      "chinese": "黄河",
+      "pinyin": "Huáng Hé",
+      "translation": "Yellow River",
+      "usage": "A major historical river in China.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "黄",
+          "py": "huáng",
+          "meaning": "yellow"
+        },
+        {
+          "zh": "河",
+          "py": "hé",
+          "meaning": "river"
+        }
+      ]
+    },
+    {
+      "chinese": "河流",
+      "pinyin": "Hé Liú",
+      "translation": "River",
+      "usage": "General term for a flowing water body.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "河",
+          "py": "hé",
+          "meaning": "river"
+        },
+        {
+          "zh": "流",
+          "py": "liú",
+          "meaning": "flow"
+        }
+      ]
+    },
+    {
+      "chinese": "湖泊",
+      "pinyin": "Hú Pō",
+      "translation": "Lake",
+      "usage": "Used to describe bodies of water surrounded by land.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "湖",
+          "py": "hú",
+          "meaning": "lake"
+        },
+        {
+          "zh": "泊",
+          "py": "pō",
+          "meaning": "pool"
+        }
+      ]
+    },
+    {
+      "chinese": "海洋",
+      "pinyin": "Hǎi Yáng",
+      "translation": "Ocean",
+      "usage": "Refers to large bodies of saltwater.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "海",
+          "py": "hǎi",
+          "meaning": "sea"
+        },
+        {
+          "zh": "洋",
+          "py": "yáng",
+          "meaning": "ocean"
+        }
+      ]
+    },
+    {
+      "chinese": "湖光山色",
+      "pinyin": "Hú Guāng Shān Sè",
+      "translation": "Scenery of hills and lakes",
+      "usage": "Describes picturesque natural beauty.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "湖",
+          "py": "hú",
+          "meaning": "lake"
+        },
+        {
+          "zh": "光",
+          "py": "guāng",
+          "meaning": "light"
+        },
+        {
+          "zh": "山",
+          "py": "shān",
+          "meaning": "mountain"
+        },
+        {
+          "zh": "色",
+          "py": "sè",
+          "meaning": "color"
+        }
+      ]
+    },
+    {
+      "chinese": "水天一色",
+      "pinyin": "Shuǐ Tiān Yī Sè",
+      "translation": "Water and sky of one color",
+      "usage": "Describes a vast, open ocean or lake.",
+      "formality": "Poetic",
+      "words": [
+        {
+          "zh": "水",
+          "py": "shuǐ",
+          "meaning": "water"
+        },
+        {
+          "zh": "天",
+          "py": "tiān",
+          "meaning": "sky"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "色",
+          "py": "sè",
+          "meaning": "color"
+        }
+      ]
+    },
+    {
+      "chinese": "浩瀚",
+      "pinyin": "Hào Hàn",
+      "translation": "Vast",
+      "usage": "Describes the immense size of oceans or lakes.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "浩",
+          "py": "hào",
+          "meaning": "vast"
+        },
+        {
+          "zh": "瀚",
+          "py": "hàn",
+          "meaning": "immense"
+        }
+      ]
+    },
+    {
+      "chinese": "清澈",
+      "pinyin": "Qīng Chè",
+      "translation": "Clear",
+      "usage": "Describes clean, transparent water.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "清",
+          "py": "qīng",
+          "meaning": "clear"
+        },
+        {
+          "zh": "澈",
+          "py": "chè",
+          "meaning": "pure"
+        }
+      ]
+    },
+    {
+      "chinese": "湍急",
+      "pinyin": "Tuān Jí",
+      "translation": "Rapid",
+      "usage": "Describes fast-flowing rivers.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "湍",
+          "py": "tuān",
+          "meaning": "turbulent"
+        },
+        {
+          "zh": "急",
+          "py": "jí",
+          "meaning": "urgent"
+        }
+      ]
+    },
+    {
+      "chinese": "航行",
+      "pinyin": "Háng Xíng",
+      "translation": "Sailing",
+      "usage": "Refers to traveling on water bodies.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "航",
+          "py": "háng",
+          "meaning": "navigation"
+        },
+        {
+          "zh": "行",
+          "py": "xíng",
+          "meaning": "travel"
+        }
+      ]
+    }
+  ]
+}

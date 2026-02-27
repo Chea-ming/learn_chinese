@@ -1,0 +1,33 @@
+{
+  "sentences": [
+    {
+      "chinese": "我们去KTV吧",
+      "pinyin": "Wǒmen qù KTV ba",
+      "translation": "Let's go to KTV.",
+      "usage": "A casual suggestion to go to a karaoke bar.",
+      "formality": "Casual",
+      "words": [
+        {
+          "zh": "我们",
+          "py": "wǒmen",
+          "meaning": "we"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "go"
+        },
+        {
+          "zh": "KTV",
+          "py": "KTV",
+          "meaning": "Karaoke"
+        },
+        {
+          "zh": "吧",
+          "py": "ba",
+          "meaning": "let's (informal suggestion)"
+        }
+      ]
+    }
+  ]
+}

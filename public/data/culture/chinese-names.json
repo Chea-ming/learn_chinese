@@ -1,0 +1,243 @@
+{
+  "sentences": [
+    {
+      "chinese": "张伟",
+      "pinyin": "Zhāng Wěi",
+      "translation": "Zhang Wei",
+      "usage": "A common male name combining 'greatness' (伟) with surname 'Zhang' (张)",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "张",
+          "py": "Zhāng",
+          "meaning": "surname Zhang"
+        },
+        {
+          "zh": "伟",
+          "py": "Wěi",
+          "meaning": "great, magnificent"
+        }
+      ]
+    },
+    {
+      "chinese": "王芳",
+      "pinyin": "Wáng Fāng",
+      "translation": "Wang Fang",
+      "usage": "A typical female name with 'fragrant' (芳) paired with surname 'Wang' (王)",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "王",
+          "py": "Wáng",
+          "meaning": "surname Wang"
+        },
+        {
+          "zh": "芳",
+          "py": "Fāng",
+          "meaning": "fragrance, aroma"
+        }
+      ]
+    },
+    {
+      "chinese": "李娜",
+      "pinyin": "Lǐ Nà",
+      "translation": "Li Na",
+      "usage": "Female name meaning 'plum blossom' (娜), common among surnamed Li (李)",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "李",
+          "py": "Lǐ",
+          "meaning": "surname Li"
+        },
+        {
+          "zh": "娜",
+          "py": "Nà",
+          "meaning": "graceful, elegant"
+        }
+      ]
+    },
+    {
+      "chinese": "王小明",
+      "pinyin": "Wáng Xiǎo Míng",
+      "translation": "Wang Xiaoming",
+      "usage": "Classic three-character name with 'small brightness' (小明), common in 20th century",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "王",
+          "py": "Wáng",
+          "meaning": "surname Wang"
+        },
+        {
+          "zh": "小",
+          "py": "Xiǎo",
+          "meaning": "small"
+        },
+        {
+          "zh": "明",
+          "py": "Míng",
+          "meaning": "bright, clear"
+        }
+      ]
+    },
+    {
+      "chinese": "陈德强",
+      "pinyin": "Chén Dé Qiáng",
+      "translation": "Chen Deqiang",
+      "usage": "Male name emphasizing virtue (德) and strength (强) with surname Chen (陈)",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "陈",
+          "py": "Chén",
+          "meaning": "surname Chen"
+        },
+        {
+          "zh": "德",
+          "py": "Dé",
+          "meaning": "virtue"
+        },
+        {
+          "zh": "强",
+          "py": "Qiáng",
+          "meaning": "strong"
+        }
+      ]
+    },
+    {
+      "chinese": "张丽华",
+      "pinyin": "Zhāng Lì Huá",
+      "translation": "Zhang Lihua",
+      "usage": "Female name combining 'beautiful' (丽) and 'Chinese plum' (华) with surname Zhang",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "张",
+          "py": "Zhāng",
+          "meaning": "surname Zhang"
+        },
+        {
+          "zh": "丽",
+          "py": "Lì",
+          "meaning": "beautiful"
+        },
+        {
+          "zh": "华",
+          "py": "Huá",
+          "meaning": "Chinese plum, China"
+        }
+      ]
+    },
+    {
+      "chinese": "刘建国",
+      "pinyin": "Liú Jiàn Guó",
+      "translation": "Liu Jianguo",
+      "usage": "Male name meaning 'establish a state' (建国), common during Mao era",
+      "formality": "Historical",
+      "words": [
+        {
+          "zh": "刘",
+          "py": "Liú",
+          "meaning": "surname Liu"
+        },
+        {
+          "zh": "建",
+          "py": "Jiàn",
+          "meaning": "build, establish"
+        },
+        {
+          "zh": "国",
+          "py": "Guó",
+          "meaning": "country"
+        }
+      ]
+    },
+    {
+      "chinese": "王秀英",
+      "pinyin": "Wáng Xiù Yīng",
+      "translation": "Wang Xiuying",
+      "usage": "Traditional female name with 'beautiful' (秀) and 'jade' (英)",
+      "formality": "Traditional",
+      "words": [
+        {
+          "zh": "王",
+          "py": "Wáng",
+          "meaning": "surname Wang"
+        },
+        {
+          "zh": "秀",
+          "py": "Xiù",
+          "meaning": "beautiful, elegant"
+        },
+        {
+          "zh": "英",
+          "py": "Yīng",
+          "meaning": "jade, heroism"
+        }
+      ]
+    },
+    {
+      "chinese": "李伟强",
+      "pinyin": "Lǐ Wěi Qiáng",
+      "translation": "Li Weiqiang",
+      "usage": "Modern male name combining 'great' (伟) and 'resilient' (强) with surname Li",
+      "formality": "Modern",
+      "words": [
+        {
+          "zh": "李",
+          "py": "Lǐ",
+          "meaning": "surname Li"
+        },
+        {
+          "zh": "伟",
+          "py": "Wěi",
+          "meaning": "great"
+        },
+        {
+          "zh": "强",
+          "py": "Qiáng",
+          "meaning": "strong, resilient"
+        }
+      ]
+    },
+    {
+      "chinese": "赵敏",
+      "pinyin": "Zhào Mǐn",
+      "translation": "Zhao Min",
+      "usage": "Female name with 'alert' (敏) paired with surname Zhao (赵)",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "赵",
+          "py": "Zhào",
+          "meaning": "surname Zhao"
+        },
+        {
+          "zh": "敏",
+          "py": "Mǐn",
+          "meaning": "quick, alert"
+        }
+      ]
+    },
+    {
+      "chinese": "周杰伦",
+      "pinyin": "Zhōu Jié Lún",
+      "translation": "Jay Chou",
+      "usage": "Famous singer's name combining 'excellent' (杰) and 'reason' (伦)",
+      "formality": "Famous name",
+      "words": [
+        {
+          "zh": "周",
+          "py": "Zhōu",
+          "meaning": "surname Zhou"
+        },
+        {
+          "zh": "杰",
+          "py": "Jié",
+          "meaning": "excellent"
+        }
+      ]
+    }
+  ]
+}

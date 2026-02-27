@@ -1,0 +1,276 @@
+{
+  "sentences": [
+    {
+      "chinese": "中央处理器",
+      "pinyin": "Zhōng yāng chǔ lǐ qì",
+      "translation": "CPU",
+      "usage": "The main component of a computer that performs calculations and controls operations.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "中",
+          "py": "Zhōng",
+          "meaning": "central"
+        },
+        {
+          "zh": "央",
+          "py": "yāng",
+          "meaning": "center"
+        },
+        {
+          "zh": "处理",
+          "py": "chǔ lǐ",
+          "meaning": "processor"
+        },
+        {
+          "zh": "器",
+          "py": "qì",
+          "meaning": "machine/device"
+        }
+      ]
+    },
+    {
+      "chinese": "键盘",
+      "pinyin": "Jiàn pán",
+      "translation": "Keyboard",
+      "usage": "Input device for typing characters and commands.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "键",
+          "py": "jiàn",
+          "meaning": "key"
+        },
+        {
+          "zh": "盘",
+          "py": "pán",
+          "meaning": "board"
+        }
+      ]
+    },
+    {
+      "chinese": "鼠标",
+      "pinyin": "Shǔ biāo",
+      "translation": "Mouse",
+      "usage": "Pointer device for navigating graphical interfaces.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "鼠",
+          "py": "shǔ",
+          "meaning": "mouse (animal) [metaphor]"
+        },
+        {
+          "zh": "标",
+          "py": "biāo",
+          "meaning": "pointer"
+        }
+      ]
+    },
+    {
+      "chinese": "显示器",
+      "pinyin": "Xiǎn shì qì",
+      "translation": "Monitor",
+      "usage": "Device displaying visual output from a computer.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "显",
+          "py": "xiǎn",
+          "meaning": "display"
+        },
+        {
+          "zh": "示",
+          "py": "shì",
+          "meaning": "demonstrate"
+        },
+        {
+          "zh": "器",
+          "py": "qì",
+          "meaning": "device"
+        }
+      ]
+    },
+    {
+      "chinese": "内存",
+      "pinyin": "Nèi cún",
+      "translation": "RAM",
+      "usage": "Temporary memory storage for active processes.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "内",
+          "py": "nèi",
+          "meaning": "internal"
+        },
+        {
+          "zh": "存",
+          "py": "cún",
+          "meaning": "storage"
+        }
+      ]
+    },
+    {
+      "chinese": "硬盘",
+      "pinyin": "Yìng pán",
+      "translation": "Hard Drive",
+      "usage": "Permanent storage device for data.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "硬",
+          "py": "yìng",
+          "meaning": "hard"
+        },
+        {
+          "zh": "盘",
+          "py": "pán",
+          "meaning": "disk"
+        }
+      ]
+    },
+    {
+      "chinese": "主板",
+      "pinyin": "Zhǔ bǎn",
+      "translation": "Motherboard",
+      "usage": "Main circuit board connecting components.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "主",
+          "py": "zhǔ",
+          "meaning": "main"
+        },
+        {
+          "zh": "板",
+          "py": "bǎn",
+          "meaning": "board"
+        }
+      ]
+    },
+    {
+      "chinese": "显卡",
+      "pinyin": "Xiǎn kǎ",
+      "translation": "Graphics Card",
+      "usage": "Dedicated hardware for rendering images.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "显",
+          "py": "xiǎn",
+          "meaning": "display"
+        },
+        {
+          "zh": "卡",
+          "py": "kǎ",
+          "meaning": "card"
+        }
+      ]
+    },
+    {
+      "chinese": "电源",
+      "pinyin": "Diàn yuán",
+      "translation": "Power Supply",
+      "usage": "Component providing electrical power.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "电",
+          "py": "diàn",
+          "meaning": "electric"
+        },
+        {
+          "zh": "源",
+          "py": "yuán",
+          "meaning": "source"
+        }
+      ]
+    },
+    {
+      "chinese": "散热器",
+      "pinyin": "Shěn là qì",
+      "translation": "Cooler",
+      "usage": "Device for dissipating heat from components.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "散",
+          "py": "sàn",
+          "meaning": "dissipate"
+        },
+        {
+          "zh": "热",
+          "py": "rè",
+          "meaning": "heat"
+        },
+        {
+          "zh": "器",
+          "py": "qì",
+          "meaning": "device"
+        }
+      ]
+    },
+    {
+      "chinese": "网络适配器",
+      "pinyin": "Wǎng lù shì pèi qì",
+      "translation": "Network Adapter",
+      "usage": "Hardware for connecting to networks.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "网",
+          "py": "wǎng",
+          "meaning": "network"
+        },
+        {
+          "zh": "络",
+          "py": "luò",
+          "meaning": "connection"
+        },
+        {
+          "zh": "适配",
+          "py": "shì pèi",
+          "meaning": "adapter"
+        },
+        {
+          "zh": "器",
+          "py": "qì",
+          "meaning": "device"
+        }
+      ]
+    },
+    {
+      "chinese": "USB端口",
+      "pinyin": "Yīnzǐ duān kǒu",
+      "translation": "USB Port",
+      "usage": "Interface for connecting peripherals.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "USB",
+          "py": "Yīnzǐ",
+          "meaning": "USB"
+        },
+        {
+          "zh": "端口",
+          "py": "duān kǒu",
+          "meaning": "port"
+        }
+      ]
+    },
+    {
+      "chinese": "操作系统",
+      "pinyin": "Cāo zuò xì tǒng",
+      "translation": "Operating System",
+      "usage": "Software managing computer hardware and software.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "操",
+          "py": "cāo",
+          "meaning": "operate"
+        }
+      ]
+    }
+  ]
+}

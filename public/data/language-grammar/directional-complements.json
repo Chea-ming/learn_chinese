@@ -1,0 +1,252 @@
+{
+  "sentences": [
+    {
+      "chinese": "他走进房间。",
+      "pinyin": "Tā zǒu jìn fángjiān.",
+      "translation": "He walked into the room.",
+      "usage": "Indicates movement into a space.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "走",
+          "py": "zǒu",
+          "meaning": "to walk"
+        },
+        {
+          "zh": "进",
+          "py": "jìn",
+          "meaning": "into (directional complement)"
+        }
+      ]
+    },
+    {
+      "chinese": "把书拿出来。",
+      "pinyin": "Bǎ shū ná chūlái.",
+      "translation": "Take the book out.",
+      "usage": "Indicates movement out of a container.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "拿",
+          "py": "ná",
+          "meaning": "to take"
+        },
+        {
+          "zh": "出",
+          "py": "chū",
+          "meaning": "out (directional complement)"
+        },
+        {
+          "zh": "来",
+          "py": "lái",
+          "meaning": "toward the speaker"
+        }
+      ]
+    },
+    {
+      "chinese": "她站起来。",
+      "pinyin": "Tā zhàn qǐlái.",
+      "translation": "She stood up.",
+      "usage": "Indicates upward movement.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "站",
+          "py": "zhàn",
+          "meaning": "to stand"
+        },
+        {
+          "zh": "起",
+          "py": "qǐ",
+          "meaning": "upward motion"
+        },
+        {
+          "zh": "来",
+          "py": "lái",
+          "meaning": "toward the speaker"
+        }
+      ]
+    },
+    {
+      "chinese": "鸟飞走了。",
+      "pinyin": "Niǎo fēi zǒulēi.",
+      "translation": "The bird flew away.",
+      "usage": "Indicates movement away from the speaker.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "飞",
+          "py": "fēi",
+          "meaning": "to fly"
+        },
+        {
+          "zh": "走",
+          "py": "zǒu",
+          "meaning": "away (directional complement)"
+        }
+      ]
+    },
+    {
+      "chinese": "门关上了。",
+      "pinyin": "Mén guān shàngle.",
+      "translation": "The door closed.",
+      "usage": "Indicates completion of an upward action.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "关",
+          "py": "guān",
+          "meaning": "to close"
+        },
+        {
+          "zh": "上",
+          "py": "shàng",
+          "meaning": "upward completion"
+        }
+      ]
+    },
+    {
+      "chinese": "他坐下来。",
+      "pinyin": "Tā zuò xiàlái.",
+      "translation": "He sat down.",
+      "usage": "Indicates downward movement.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "坐",
+          "py": "zuò",
+          "meaning": "to sit"
+        },
+        {
+          "zh": "下",
+          "py": "xià",
+          "meaning": "downward motion"
+        },
+        {
+          "zh": "来",
+          "py": "lái",
+          "meaning": "toward the speaker"
+        }
+      ]
+    },
+    {
+      "chinese": "问题解决了。",
+      "pinyin": "Wèntí jiějué le.",
+      "translation": "The problem was solved.",
+      "usage": "Indicates resolution (not a directional complement; example of result complement for contrast).",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "解决",
+          "py": "jiějué",
+          "meaning": "to resolve"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completion marker"
+        }
+      ]
+    },
+    {
+      "chinese": "火车进站了。",
+      "pinyin": "Huǒchē jìn zhàn le.",
+      "translation": "The train has arrived at the station.",
+      "usage": "Indicates movement into a location.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "进",
+          "py": "jìn",
+          "meaning": "into"
+        },
+        {
+          "zh": "站",
+          "py": "zhàn",
+          "meaning": "station"
+        }
+      ]
+    },
+    {
+      "chinese": "请进来。",
+      "pinyin": "Qǐng jìnrù.",
+      "translation": "Please come in.",
+      "usage": "Formal invitation using directional complement.",
+      "formality": "Polite",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "进",
+          "py": "jìn",
+          "meaning": "into"
+        },
+        {
+          "zh": "入",
+          "py": "rù",
+          "meaning": "into (reinforces direction)"
+        }
+      ]
+    },
+    {
+      "chinese": "他掉下去了。",
+      "pinyin": "Tā diào xiàqu le.",
+      "translation": "He fell down.",
+      "usage": "Indicates downward movement.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "掉",
+          "py": "diào",
+          "meaning": "to fall"
+        },
+        {
+          "zh": "下",
+          "py": "xià",
+          "meaning": "downward"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "away from speaker"
+        }
+      ]
+    },
+    {
+      "chinese": "她离开公司。",
+      "pinyin": "Tā lí kāi gōngsī.",
+      "translation": "She left the company.",
+      "usage": "Indicates departure from a location.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "离",
+          "py": "lí",
+          "meaning": "to leave"
+        },
+        {
+          "zh": "开",
+          "py": "kāi",
+          "meaning": "away (complement)"
+        }
+      ]
+    },
+    {
+      "chinese": "把垃圾倒出来。",
+      "pinyin": "Bǎ lājī dào chūlái.",
+      "translation": "Take out the trash.",
+      "usage": "Indicates movement out of a container.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "倒",
+          "py": "dào",
+          "meaning": "to pour out"
+        }
+      ]
+    }
+  ]
+}

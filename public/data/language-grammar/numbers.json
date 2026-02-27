@@ -1,0 +1,229 @@
+{
+  "sentences": [
+    {
+      "chinese": "零",
+      "pinyin": "Líng",
+      "translation": "Zero",
+      "usage": "Used in mathematics or counting.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "零",
+          "py": "líng",
+          "meaning": "zero"
+        }
+      ]
+    },
+    {
+      "chinese": "一",
+      "pinyin": "Yī",
+      "translation": "One",
+      "usage": "Used in counting or indicating singularity.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        }
+      ]
+    },
+    {
+      "chinese": "二",
+      "pinyin": "Èr",
+      "translation": "Two",
+      "usage": "Used in counting or indicating pairs.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "二",
+          "py": "èr",
+          "meaning": "two"
+        }
+      ]
+    },
+    {
+      "chinese": "十",
+      "pinyin": "Shí",
+      "translation": "Ten",
+      "usage": "Used in counting or forming numbers like 十一 (eleven).",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "十",
+          "py": "shí",
+          "meaning": "ten"
+        }
+      ]
+    },
+    {
+      "chinese": "百",
+      "pinyin": "Bǎi",
+      "translation": "Hundred",
+      "usage": "Used in counting or forming numbers like 一百一十 (110).",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "百",
+          "py": "bǎi",
+          "meaning": "hundred"
+        }
+      ]
+    },
+    {
+      "chinese": "千",
+      "pinyin": "Qiān",
+      "translation": "Thousand",
+      "usage": "Used in large numbers or expressions like 千年 (a millennium).",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "千",
+          "py": "qiān",
+          "meaning": "thousand"
+        }
+      ]
+    },
+    {
+      "chinese": "万",
+      "pinyin": "Wàn",
+      "translation": "Ten thousand",
+      "usage": "Used in Chinese numerical systems for large quantities.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "万",
+          "py": "wàn",
+          "meaning": "ten thousand"
+        }
+      ]
+    },
+    {
+      "chinese": "多少",
+      "pinyin": "Duō shǎo",
+      "translation": "How many/much",
+      "usage": "Used to ask about quantity or degree.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "多",
+          "py": "duō",
+          "meaning": "how"
+        },
+        {
+          "zh": "少",
+          "py": "shǎo",
+          "meaning": "many/much"
+        }
+      ]
+    },
+    {
+      "chinese": "个",
+      "pinyin": "Gè",
+      "translation": "Piece/item",
+      "usage": "A general classifier for objects.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "个",
+          "py": "gè",
+          "meaning": "piece/item"
+        }
+      ]
+    },
+    {
+      "chinese": "加",
+      "pinyin": "Jiā",
+      "translation": "Plus/add",
+      "usage": "Used in arithmetic operations.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "加",
+          "py": "jiā",
+          "meaning": "add"
+        }
+      ]
+    },
+    {
+      "chinese": "减",
+      "pinyin": "Jiǎn",
+      "translation": "Minus/subtract",
+      "usage": "Used in arithmetic operations.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "减",
+          "py": "jiǎn",
+          "meaning": "subtract"
+        }
+      ]
+    },
+    {
+      "chinese": "乘",
+      "pinyin": "Chéng",
+      "translation": "Multiply",
+      "usage": "Used in multiplication expressions.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "乘",
+          "py": "chéng",
+          "meaning": "multiply"
+        }
+      ]
+    },
+    {
+      "chinese": "除",
+      "pinyin": "Chú",
+      "translation": "Divide",
+      "usage": "Used in division contexts.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "除",
+          "py": "chú",
+          "meaning": "divide"
+        }
+      ]
+    },
+    {
+      "chinese": "等于",
+      "pinyin": "Děng yú",
+      "translation": "Equals",
+      "usage": "Used in equations to show equality.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "等",
+          "py": "děng",
+          "meaning": "equal"
+        },
+        {
+          "zh": "于",
+          "py": "yú",
+          "meaning": "to"
+        }
+      ]
+    },
+    {
+      "chinese": "第一位",
+      "pinyin": "Dì yī wèi",
+      "translation": "First",
+      "usage": "Used to indicate the first in a sequence.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "第",
+          "py": "dì",
+          "meaning": "number"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        }
+      ]
+    }
+  ]
+}

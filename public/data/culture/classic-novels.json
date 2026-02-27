@@ -1,0 +1,245 @@
+{
+  "sentences": [
+    {
+      "chinese": "四大名著",
+      "pinyin": "Sìdà míngzhù",
+      "translation": "The Four Great Classics",
+      "usage": "Refers to the four most celebrated Chinese novels: Journey to the West, Dream of the Red Chamber, Water Margin, and Romance of the Three Kingdoms.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "四",
+          "py": "sì",
+          "meaning": "four"
+        },
+        {
+          "zh": "大",
+          "py": "dà",
+          "meaning": "great"
+        },
+        {
+          "zh": "名著",
+          "py": "míngzhù",
+          "meaning": "famous works"
+        }
+      ]
+    },
+    {
+      "chinese": "古典小说",
+      "pinyin": "Gǔdiǎn xiǎoshuō",
+      "translation": "Classic novels",
+      "usage": "Literary term for traditional Chinese novels, often emphasizing historical and cultural value.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "古",
+          "py": "gǔ",
+          "meaning": "ancient"
+        },
+        {
+          "zh": "典",
+          "py": "diǎn",
+          "meaning": "classic"
+        },
+        {
+          "zh": "小",
+          "py": "xiǎo",
+          "meaning": "small"
+        },
+        {
+          "zh": "说",
+          "py": "shuō",
+          "meaning": "narrative"
+        }
+      ]
+    },
+    {
+      "chinese": "红楼梦",
+      "pinyin": "Hónglóu Mèng",
+      "translation": "Dream of the Red Chamber",
+      "usage": "A 18th-century novel by Cao Xueqin, considered one of China's greatest literary masterpieces.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "红",
+          "py": "hóng",
+          "meaning": "red"
+        },
+        {
+          "zh": "楼",
+          "py": "lóu",
+          "meaning": "building"
+        },
+        {
+          "zh": "梦",
+          "py": "mèng",
+          "meaning": "dream"
+        }
+      ]
+    },
+    {
+      "chinese": "西游记",
+      "pinyin": "Xīyóu Jì",
+      "translation": "Journey to the West",
+      "usage": "A 16th-century novel about a Buddhist monk and his disciples traveling to India.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "西",
+          "py": "xī",
+          "meaning": "west"
+        },
+        {
+          "zh": "游",
+          "py": "yóu",
+          "meaning": "journey"
+        },
+        {
+          "zh": "记",
+          "py": "jì",
+          "meaning": "record"
+        }
+      ]
+    },
+    {
+      "chinese": "水浒传",
+      "pinyin": "Shuǐhǔ Zhuàn",
+      "translation": "Outlaws of the Marsh",
+      "usage": "A 14th-century novel about 108 outlaws fighting corruption in Song Dynasty China.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "水",
+          "py": "shuǐ",
+          "meaning": "water"
+        },
+        {
+          "zh": "浒",
+          "py": "hǔ",
+          "meaning": "marsh"
+        },
+        {
+          "zh": "传",
+          "py": "zhuàn",
+          "meaning": "biography"
+        }
+      ]
+    },
+    {
+      "chinese": "三国演义",
+      "pinyin": "Sānguó Yǎnyì",
+      "translation": "Romance of the Three Kingdoms",
+      "usage": "A 14th-century historical novel about the Three Kingdoms period (220–280 CE).",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "三",
+          "py": "sān",
+          "meaning": "three"
+        },
+        {
+          "zh": "国",
+          "py": "guó",
+          "meaning": "kingdoms"
+        },
+        {
+          "zh": "演",
+          "py": "yǎn",
+          "meaning": "dramatize"
+        },
+        {
+          "zh": "义",
+          "py": "yì",
+          "meaning": "righteousness"
+        }
+      ]
+    },
+    {
+      "chinese": "文学巨著",
+      "pinyin": "Wénxué jùzhù",
+      "translation": "Literary masterpiece",
+      "usage": "Used to describe a work of extraordinary literary merit.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "文",
+          "py": "wén",
+          "meaning": "literature"
+        },
+        {
+          "zh": "学",
+          "py": "xué",
+          "meaning": "study"
+        },
+        {
+          "zh": "巨",
+          "py": "jù",
+          "meaning": "huge"
+        },
+        {
+          "zh": "著",
+          "py": "zhù",
+          "meaning": "work"
+        }
+      ]
+    },
+    {
+      "chinese": "古代小说",
+      "pinyin": "Gǔdài xiǎoshuō",
+      "translation": "Ancient novels",
+      "usage": "General term for novels written in ancient China.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "古",
+          "py": "gǔ",
+          "meaning": "ancient"
+        },
+        {
+          "zh": "代",
+          "py": "dài",
+          "meaning": "era"
+        },
+        {
+          "zh": "小",
+          "py": "xiǎo",
+          "meaning": "small"
+        },
+        {
+          "zh": "说",
+          "py": "shuō",
+          "meaning": "narrative"
+        }
+      ]
+    },
+    {
+      "chinese": "小说家言",
+      "pinyin": "Xiǎoshuōjiā yán",
+      "translation": "Novelists' words",
+      "usage": "Refers to fictional content or imaginative storytelling.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "小",
+          "py": "xiǎo",
+          "meaning": "small"
+        },
+        {
+          "zh": "说",
+          "py": "shuō",
+          "meaning": "narrative"
+        },
+        {
+          "zh": "家",
+          "py": "jiā",
+          "meaning": "expert"
+        },
+        {
+          "zh": "言",
+          "py": "yán",
+          "meaning": "words"
+        }
+      ]
+    }
+  ]
+}

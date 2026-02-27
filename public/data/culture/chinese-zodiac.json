@@ -1,0 +1,33 @@
+{
+  "sentences": [
+    {
+      "chinese": "鼠年快乐",
+      "pinyin": "Shǔ nián kuài lè",
+      "translation": "Happy Rat Year",
+      "usage": "A greeting used during the Chinese New Year in the Year of the Rat.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "鼠",
+          "py": "shǔ",
+          "meaning": "rat"
+        },
+        {
+          "zh": "年",
+          "py": "nián",
+          "meaning": "year"
+        },
+        {
+          "zh": "快",
+          "py": "kuài",
+          "meaning": "quick"
+        },
+        {
+          "zh": "乐",
+          "py": "lè",
+          "meaning": "happy"
+        }
+      ]
+    }
+  ]
+}

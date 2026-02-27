@@ -1,0 +1,270 @@
+{
+  "sentences": [
+    {
+      "chinese": "考试复习",
+      "pinyin": "Kǎo shì fù xí",
+      "translation": "Exam review",
+      "usage": "Used for studying before a test",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "考试",
+          "py": "kǎo shì",
+          "meaning": "exam"
+        },
+        {
+          "zh": "复习",
+          "py": "fù xí",
+          "meaning": "review"
+        }
+      ]
+    },
+    {
+      "chinese": "模拟考试",
+      "pinyin": "Mó nǐ kǎo shì",
+      "translation": "Mock exam",
+      "usage": "Practice test to prepare for real exams",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "模拟",
+          "py": "mó nǐ",
+          "meaning": "simulated"
+        },
+        {
+          "zh": "考试",
+          "py": "kǎo shì",
+          "meaning": "exam"
+        }
+      ]
+    },
+    {
+      "chinese": "期末考试",
+      "pinyin": "Qī mò kǎo shì",
+      "translation": "Final exam",
+      "usage": "End-of-term assessment",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "期末",
+          "py": "qī mò",
+          "meaning": "end of term"
+        },
+        {
+          "zh": "考试",
+          "py": "kǎo shì",
+          "meaning": "exam"
+        }
+      ]
+    },
+    {
+      "chinese": "通过考试",
+      "pinyin": "Tōng guò kǎo shì",
+      "translation": "Pass the exam",
+      "usage": "Successfully completing a test",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "通过",
+          "py": "tōng guò",
+          "meaning": "pass"
+        },
+        {
+          "zh": "考试",
+          "py": "kǎo shì",
+          "meaning": "exam"
+        }
+      ]
+    },
+    {
+      "chinese": "考试作弊",
+      "pinyin": "Kǎo shì zuò bì",
+      "translation": "Exam cheating",
+      "usage": "Unfair academic practice",
+      "formality": "Negative",
+      "words": [
+        {
+          "zh": "考试",
+          "py": "kǎo shì",
+          "meaning": "exam"
+        },
+        {
+          "zh": "作弊",
+          "py": "zuò bì",
+          "meaning": "cheating"
+        }
+      ]
+    },
+    {
+      "chinese": "考试时间",
+      "pinyin": "Kǎo shì shí jiān",
+      "translation": "Exam time",
+      "usage": "Scheduled duration for testing",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "考试",
+          "py": "kǎo shì",
+          "meaning": "exam"
+        },
+        {
+          "zh": "时间",
+          "py": "shí jiān",
+          "meaning": "time"
+        }
+      ]
+    },
+    {
+      "chinese": "考试规则",
+      "pinyin": "Kǎo shì guī zé",
+      "translation": "Exam rules",
+      "usage": "Procedures for test administration",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "考试",
+          "py": "kǎo shì",
+          "meaning": "exam"
+        },
+        {
+          "zh": "规则",
+          "py": "guī zé",
+          "meaning": "rules"
+        }
+      ]
+    },
+    {
+      "chinese": "考试焦虑",
+      "pinyin": "Kǎo shì jiāo lǜ",
+      "translation": "Test anxiety",
+      "usage": "Stress before exams",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "考试",
+          "py": "kǎo shì",
+          "meaning": "exam"
+        },
+        {
+          "zh": "焦虑",
+          "py": "jiāo lǜ",
+          "meaning": "anxiety"
+        }
+      ]
+    },
+    {
+      "chinese": "开卷考试",
+      "pinyin": "Kāi juàn kǎo shì",
+      "translation": "Open-book exam",
+      "usage": "Test allowing reference materials",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "开卷",
+          "py": "kāi juàn",
+          "meaning": "open book"
+        },
+        {
+          "zh": "考试",
+          "py": "kǎo shì",
+          "meaning": "exam"
+        }
+      ]
+    },
+    {
+      "chinese": "闭卷考试",
+      "pinyin": "Bì juàn kǎo shì",
+      "translation": "Closed-book exam",
+      "usage": "Test without reference materials",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "闭卷",
+          "py": "bì juàn",
+          "meaning": "closed book"
+        },
+        {
+          "zh": "考试",
+          "py": "kǎo shì",
+          "meaning": "exam"
+        }
+      ]
+    },
+    {
+      "chinese": "标准化考试",
+      "pinyin": "Bīng zhǔ huà kǎo shì",
+      "translation": "Standardized test",
+      "usage": "Uniformly administered assessments",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "标准化",
+          "py": "bīng zhǔ huà",
+          "meaning": "standardized"
+        },
+        {
+          "zh": "考试",
+          "py": "kǎo shì",
+          "meaning": "exam"
+        }
+      ]
+    },
+    {
+      "chinese": "口语考试",
+      "pinyin": "Kǒu yǔ kǎo shì",
+      "translation": "Oral exam",
+      "usage": "Speaking proficiency assessment",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "口语",
+          "py": "kǒu yǔ",
+          "meaning": "oral"
+        },
+        {
+          "zh": "考试",
+          "py": "kǎo shì",
+          "meaning": "exam"
+        }
+      ]
+    },
+    {
+      "chinese": "突击复习",
+      "pinyin": "Tū jī fù xí",
+      "translation": "Cram study",
+      "usage": "Last-minute exam preparation",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "突击",
+          "py": "tū jī",
+          "meaning": "crash"
+        },
+        {
+          "zh": "复习",
+          "py": "fù xí",
+          "meaning": "review"
+        }
+      ]
+    },
+    {
+      "chinese": "考试题目",
+      "pinyin": "Kǎo shì tí mù",
+      "translation": "Exam questions",
+      "usage": "Test content items",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "考试",
+          "py": "kǎo shì",
+          "meaning": "exam"
+        },
+        {
+          "zh": "题目",
+          "py": "tí mù",
+          "meaning": "questions"
+        }
+      ]
+    }
+  ]
+}

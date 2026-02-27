@@ -1,0 +1,229 @@
+{
+  "sentences": [
+    {
+      "chinese": "图书馆",
+      "pinyin": "Túshūguǎn",
+      "translation": "Library",
+      "usage": "General term for a library.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "图",
+          "py": "tú",
+          "meaning": "map/book"
+        },
+        {
+          "zh": "书",
+          "py": "shū",
+          "meaning": "book"
+        },
+        {
+          "zh": "馆",
+          "py": "guǎn",
+          "meaning": "hall/building"
+        }
+      ]
+    },
+    {
+      "chinese": "图书区",
+      "pinyin": "Túshū qū",
+      "translation": "Book area",
+      "usage": "Section where books are stored.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "图",
+          "py": "tú",
+          "meaning": "map/book"
+        },
+        {
+          "zh": "书",
+          "py": "shū",
+          "meaning": "book"
+        },
+        {
+          "zh": "区",
+          "py": "qū",
+          "meaning": "area/zone"
+        }
+      ]
+    },
+    {
+      "chinese": "借书",
+      "pinyin": "Jiè shū",
+      "translation": "Borrow a book",
+      "usage": "Action of borrowing a book.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "借",
+          "py": "jiè",
+          "meaning": "borrow"
+        },
+        {
+          "zh": "书",
+          "py": "shū",
+          "meaning": "book"
+        }
+      ]
+    },
+    {
+      "chinese": "还书",
+      "pinyin": "Huán shū",
+      "translation": "Return a book",
+      "usage": "Action of returning a book.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "还",
+          "py": "huán",
+          "meaning": "return"
+        },
+        {
+          "zh": "书",
+          "py": "shū",
+          "meaning": "book"
+        }
+      ]
+    },
+    {
+      "chinese": "自习室",
+      "pinyin": "Zìxí shì",
+      "translation": "Study room",
+      "usage": "Room for independent study.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "自",
+          "py": "zì",
+          "meaning": "self"
+        },
+        {
+          "zh": "习",
+          "py": "xí",
+          "meaning": "practice"
+        },
+        {
+          "zh": "室",
+          "py": "shì",
+          "meaning": "room"
+        }
+      ]
+    },
+    {
+      "chinese": "图书管理员",
+      "pinyin": "Túshū guǎnlǐ yuán",
+      "translation": "Librarian",
+      "usage": "Person who manages the library.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "图书",
+          "py": "túshū",
+          "meaning": "books"
+        },
+        {
+          "zh": "管理",
+          "py": "guǎnlǐ",
+          "meaning": "manage"
+        },
+        {
+          "zh": "员",
+          "py": "yuán",
+          "meaning": "staff"
+        }
+      ]
+    },
+    {
+      "chinese": "查阅资料",
+      "pinyin": "Chá yuè zīliào",
+      "translation": "Consult materials",
+      "usage": "Action of referring to reference materials.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "查",
+          "py": "chá",
+          "meaning": "check"
+        },
+        {
+          "zh": "阅",
+          "py": "yuè",
+          "meaning": "read"
+        },
+        {
+          "zh": "资料",
+          "py": "zīliào",
+          "meaning": "materials"
+        }
+      ]
+    },
+    {
+      "chinese": "电子阅览室",
+      "pinyin": "Diànzǐ yuèlǎng shì",
+      "translation": "Digital reading room",
+      "usage": "Room for using electronic resources.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "电子",
+          "py": "diànzǐ",
+          "meaning": "digital"
+        },
+        {
+          "zh": "阅览",
+          "py": "yuèlǎng",
+          "meaning": "read"
+        },
+        {
+          "zh": "室",
+          "py": "shì",
+          "meaning": "room"
+        }
+      ]
+    },
+    {
+      "chinese": "开馆时间",
+      "pinyin": "Kāiguǎn shíjiān",
+      "translation": "Opening hours",
+      "usage": "Library operating hours.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "开",
+          "py": "kāi",
+          "meaning": "open"
+        },
+        {
+          "zh": "馆",
+          "py": "guǎn",
+          "meaning": "hall/building"
+        },
+        {
+          "zh": "时间",
+          "py": "shíjiān",
+          "meaning": "time"
+        }
+      ]
+    },
+    {
+      "chinese": "预约书籍",
+      "pinyin": "Yùyuē shūjí",
+      "translation": "Reserve books",
+      "usage": "Action of reserving a book.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "预约",
+          "py": "yùyuē",
+          "meaning": "reserve"
+        },
+        {
+          "zh": "书籍",
+          "py": "shūjí",
+          "meaning": "books"
+        }
+      ]
+    }
+  ]
+}

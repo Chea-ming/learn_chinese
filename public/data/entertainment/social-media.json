@@ -1,0 +1,237 @@
+{
+  "sentences": [
+    {
+      "chinese": "刷短视频",
+      "pinyin": "Shuā duǎn shí chāo",
+      "translation": "Scroll through short videos",
+      "usage": "Refers to consuming short-form video content on platforms like TikTok/Douyin.",
+      "formality": "Casual",
+      "words": [
+        {
+          "zh": "刷",
+          "py": "shuā",
+          "meaning": "to scroll/view"
+        },
+        {
+          "zh": "短视频",
+          "py": "duǎn shí chāo",
+          "meaning": "short videos"
+        }
+      ]
+    },
+    {
+      "chinese": "发朋友圈",
+      "pinyin": "Fā píng yǒu quān",
+      "translation": "Post on WeChat Moments",
+      "usage": "Sharing updates/photos with one's social network on WeChat.",
+      "formality": "Casual",
+      "words": [
+        {
+          "zh": "发",
+          "py": "fā",
+          "meaning": "to post/share"
+        },
+        {
+          "zh": "朋友圈",
+          "py": "píng yǒu quān",
+          "meaning": "social circle (WeChat feature)"
+        }
+      ]
+    },
+    {
+      "chinese": "直播带货",
+      "pinyin": "Zhí bō dài huò",
+      "translation": "Live-stream selling",
+      "usage": "Promoting and selling products during live broadcasts.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "直播",
+          "py": "zhí bō",
+          "meaning": "live stream"
+        },
+        {
+          "zh": "带货",
+          "py": "dài huò",
+          "meaning": "to sell products"
+        }
+      ]
+    },
+    {
+      "chinese": "网红打卡地",
+      "pinyin": "Hóng wǎng dǎ kǎn dì",
+      "translation": "Influencer hotspots",
+      "usage": "Popular locations frequented by social media influencers.",
+      "formality": "Casual",
+      "words": [
+        {
+          "zh": "网红",
+          "py": "hóng wǎng",
+          "meaning": "internet celebrity"
+        },
+        {
+          "zh": "打卡",
+          "py": "dǎ kǎn",
+          "meaning": "to check in"
+        },
+        {
+          "zh": "地",
+          "py": "dì",
+          "meaning": "place"
+        }
+      ]
+    },
+    {
+      "chinese": "点赞",
+      "pinyin": "Dǎn zàn",
+      "translation": "Like",
+      "usage": "To express approval or appreciation for a post.",
+      "formality": "Casual",
+      "words": [
+        {
+          "zh": "点",
+          "py": "diǎn",
+          "meaning": "to click"
+        },
+        {
+          "zh": "赞",
+          "py": "zàn",
+          "meaning": "praise/approval"
+        }
+      ]
+    },
+    {
+      "chinese": "关注",
+      "pinyin": "Guān zhù",
+      "translation": "Follow",
+      "usage": "Used to track someone's activity on social media.",
+      "formality": "Casual",
+      "words": [
+        {
+          "zh": "关",
+          "py": "guān",
+          "meaning": "to pay attention"
+        },
+        {
+          "zh": "注",
+          "py": "zhù",
+          "meaning": "to focus"
+        }
+      ]
+    },
+    {
+      "chinese": "视频博客",
+      "pinyin": "Shì pín guà bìng",
+      "translation": "Video blog",
+      "usage": "A blog primarily using video content.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "视频",
+          "py": "shì pín",
+          "meaning": "video"
+        },
+        {
+          "zh": "博客",
+          "py": "guà bìng",
+          "meaning": "blog"
+        }
+      ]
+    },
+    {
+      "chinese": "话题挑战",
+      "pinyin": "Huí tóu tiǎo zhàn",
+      "translation": "Trending challenge",
+      "usage": "Participating in viral challenges on platforms like TikTok.",
+      "formality": "Casual",
+      "words": [
+        {
+          "zh": "话题",
+          "py": "huí tóu",
+          "meaning": "topic"
+        },
+        {
+          "zh": "挑战",
+          "py": "tiǎo zhàn",
+          "meaning": "challenge"
+        }
+      ]
+    },
+    {
+      "chinese": "滤镜人生",
+      "pinyin": "Lǜ jìng rén shēng",
+      "translation": "Filter-filled life",
+      "usage": "Refers to curating a perfect image online using photo filters.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "滤镜",
+          "py": "lǜ jìng",
+          "meaning": "filter"
+        },
+        {
+          "zh": "人生",
+          "py": "rén shēng",
+          "meaning": "life"
+        }
+      ]
+    },
+    {
+      "chinese": "社交平台",
+      "pinyin": "Shè jiāo píng tái",
+      "translation": "Social media platform",
+      "usage": "General term for websites/apps enabling social interaction.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "社交",
+          "py": "shè jiāo",
+          "meaning": "social"
+        },
+        {
+          "zh": "平台",
+          "py": "píng tái",
+          "meaning": "platform"
+        }
+      ]
+    },
+    {
+      "chinese": "病毒式传播",
+      "pinyin": "Bìng dú shì chuán bō",
+      "translation": "Viral spread",
+      "usage": "Content that rapidly gains popularity online.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "病毒",
+          "py": "bìng dú",
+          "meaning": "virus"
+        },
+        {
+          "zh": "式",
+          "py": "shì",
+          "meaning": "style/like"
+        },
+        {
+          "zh": "传播",
+          "py": "chuán bō",
+          "meaning": "spread"
+        }
+      ]
+    },
+    {
+      "chinese": "表情包",
+      "pinyin": "Biǎo qíng bāo",
+      "translation": "Emoticon pack",
+      "usage": "Collections of humorous or expressive images used online.",
+      "formality": "Casual",
+      "words": [
+        {
+          "zh": "表情",
+          "py": "biǎo qíng",
+          "meaning": "expression"
+        }
+      ]
+    }
+  ]
+}

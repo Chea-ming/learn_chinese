@@ -1,0 +1,769 @@
+{
+  "sentences": [
+    {
+      "chinese": "我不能吃肉。",
+      "pinyin": "Wǒ bù néng chī ròu.",
+      "translation": "I can't eat meat.",
+      "usage": "Used to explain a dietary restriction of not eating meat.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "不",
+          "py": "bù",
+          "meaning": "not"
+        },
+        {
+          "zh": "能",
+          "py": "néng",
+          "meaning": "can"
+        },
+        {
+          "zh": "吃",
+          "py": "chī",
+          "meaning": "eat"
+        },
+        {
+          "zh": "肉",
+          "py": "ròu",
+          "meaning": "meat"
+        }
+      ]
+    },
+    {
+      "chinese": "我对花生过敏。",
+      "pinyin": "Wǒ duì huā shēng guò mǐn.",
+      "translation": "I am allergic to peanuts.",
+      "usage": "Used to explain a food allergy, particularly to peanuts.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "对",
+          "py": "duì",
+          "meaning": "to / toward"
+        },
+        {
+          "zh": "花",
+          "py": "huā",
+          "meaning": "flower"
+        },
+        {
+          "zh": "生",
+          "py": "shēng",
+          "meaning": "raw / birth"
+        },
+        {
+          "zh": "过",
+          "py": "guò",
+          "meaning": "past tense particle"
+        },
+        {
+          "zh": "敏",
+          "py": "mǐn",
+          "meaning": "sensitive / allergic"
+        }
+      ]
+    },
+    {
+      "chinese": "请不要放盐。",
+      "pinyin": "Qǐng bù yào fàng yán.",
+      "translation": "Please don't add salt.",
+      "usage": "Used when requesting that salt not be added to food.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "不",
+          "py": "bù",
+          "meaning": "not"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "want / need"
+        },
+        {
+          "zh": "放",
+          "py": "fàng",
+          "meaning": "put / place"
+        },
+        {
+          "zh": "盐",
+          "py": "yán",
+          "meaning": "salt"
+        }
+      ]
+    },
+    {
+      "chinese": "我吃素。",
+      "pinyin": "Wǒ chī sù.",
+      "translation": "I eat vegetarian.",
+      "usage": "Used to indicate vegetarian diet preference.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "吃",
+          "py": "chī",
+          "meaning": "eat"
+        },
+        {
+          "zh": "素",
+          "py": "sù",
+          "meaning": "vegetarian / plant-based"
+        }
+      ]
+    },
+    {
+      "chinese": "这个菜有奶制品。",
+      "pinyin": "Zhège cài yǒu nǎi zhì pǐn.",
+      "translation": "This dish contains dairy products.",
+      "usage": "Used to inform someone about dairy ingredients in food.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这个",
+          "py": "zhège",
+          "meaning": "this"
+        },
+        {
+          "zh": "菜",
+          "py": "cài",
+          "meaning": "dish / vegetable"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "have / contain"
+        },
+        {
+          "zh": "奶",
+          "py": "nǎi",
+          "meaning": "milk"
+        },
+        {
+          "zh": "制",
+          "py": "zhì",
+          "meaning": "produce / make"
+        },
+        {
+          "zh": "品",
+          "py": "pǐn",
+          "meaning": "product / item"
+        }
+      ]
+    },
+    {
+      "chinese": "我需要无麸质食品。",
+      "pinyin": "Wǒ xū yào wú fū zhì shí pǐn.",
+      "translation": "I need gluten-free food.",
+      "usage": "Used when requesting gluten-free options for dietary restrictions.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "需要",
+          "py": "xū yào",
+          "meaning": "need"
+        },
+        {
+          "zh": "无",
+          "py": "wú",
+          "meaning": "without"
+        },
+        {
+          "zh": "麸",
+          "py": "fū",
+          "meaning": "gluten"
+        },
+        {
+          "zh": "质",
+          "py": "zhì",
+          "meaning": "substance"
+        },
+        {
+          "zh": "食",
+          "py": "shí",
+          "meaning": "food"
+        },
+        {
+          "zh": "品",
+          "py": "pǐn",
+          "meaning": "product"
+        }
+      ]
+    },
+    {
+      "chinese": "这道菜太辣了。",
+      "pinyin": "Zhè dào cài tài là le.",
+      "translation": "This dish is too spicy.",
+      "usage": "Used to express that food is too hot or spicy.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "道",
+          "py": "dào",
+          "meaning": "dish / way"
+        },
+        {
+          "zh": "菜",
+          "py": "cài",
+          "meaning": "dish / vegetable"
+        },
+        {
+          "zh": "太",
+          "py": "tài",
+          "meaning": "too"
+        },
+        {
+          "zh": "辣",
+          "py": "là",
+          "meaning": "spicy / hot"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completive particle"
+        }
+      ]
+    },
+    {
+      "chinese": "我不吃鸡蛋。",
+      "pinyin": "Wǒ bù chī jī dàn.",
+      "translation": "I don't eat eggs.",
+      "usage": "Used to explain a dietary restriction of not eating eggs.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "不",
+          "py": "bù",
+          "meaning": "not"
+        },
+        {
+          "zh": "吃",
+          "py": "chī",
+          "meaning": "eat"
+        },
+        {
+          "zh": "鸡",
+          "py": "jī",
+          "meaning": "chicken"
+        },
+        {
+          "zh": "蛋",
+          "py": "dàn",
+          "meaning": "egg"
+        }
+      ]
+    },
+    {
+      "chinese": "请给我一份素食。",
+      "pinyin": "Qǐng gěi wǒ yī fèn sù shí.",
+      "translation": "Please give me a vegetarian dish.",
+      "usage": "Used when ordering or requesting vegetarian food.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "给",
+          "py": "gěi",
+          "meaning": "give"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "me"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "份",
+          "py": "fèn",
+          "meaning": "portion / piece"
+        },
+        {
+          "zh": "素",
+          "py": "sù",
+          "meaning": "vegetarian"
+        },
+        {
+          "zh": "食",
+          "py": "shí",
+          "meaning": "food"
+        }
+      ]
+    },
+    {
+      "chinese": "我有糖尿病。",
+      "pinyin": "Wǒ yǒu táng niào bìng.",
+      "translation": "I have diabetes.",
+      "usage": "Used to explain a medical condition affecting diet.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "have"
+        },
+        {
+          "zh": "糖",
+          "py": "táng",
+          "meaning": "sugar"
+        },
+        {
+          "zh": "尿",
+          "py": "niào",
+          "meaning": "urine"
+        },
+        {
+          "zh": "病",
+          "py": "bìng",
+          "meaning": "disease"
+        }
+      ]
+    },
+    {
+      "chinese": "这个餐厅有适合素食者的选择。",
+      "pinyin": "Zhège cān tīng yǒu shì hé sù shí zhě de xuǎn zé.",
+      "translation": "This restaurant has options suitable for vegetarians.",
+      "usage": "Used to inform about vegetarian options at a restaurant.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "这个",
+          "py": "zhège",
+          "meaning": "this"
+        },
+        {
+          "zh": "餐厅",
+          "py": "cān tīng",
+          "meaning": "restaurant"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "have"
+        },
+        {
+          "zh": "适合",
+          "py": "shì hé",
+          "meaning": "suitable for"
+        },
+        {
+          "zh": "素食",
+          "py": "sù shí",
+          "meaning": "vegetarian"
+        },
+        {
+          "zh": "者",
+          "py": "zhě",
+          "meaning": "one who"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive particle"
+        },
+        {
+          "zh": "选择",
+          "py": "xuǎn zé",
+          "meaning": "choice / selection"
+        }
+      ]
+    },
+    {
+      "chinese": "我不吃海鲜。",
+      "pinyin": "Wǒ bù chī hǎi xiān.",
+      "translation": "I don't eat seafood.",
+      "usage": "Used to explain a dietary restriction of not eating seafood.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "不",
+          "py": "bù",
+          "meaning": "not"
+        },
+        {
+          "zh": "吃",
+          "py": "chī",
+          "meaning": "eat"
+        },
+        {
+          "zh": "海",
+          "py": "hǎi",
+          "meaning": "sea"
+        },
+        {
+          "zh": "鲜",
+          "py": "xiān",
+          "meaning": "fresh / seafood"
+        }
+      ]
+    },
+    {
+      "chinese": "这个食物含有坚果。",
+      "pinyin": "Zhège shí wù hán yǒu jiān guǒ.",
+      "translation": "This food contains nuts.",
+      "usage": "Used to inform about nut ingredients in food.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这个",
+          "py": "zhège",
+          "meaning": "this"
+        },
+        {
+          "zh": "食物",
+          "py": "shí wù",
+          "meaning": "food"
+        },
+        {
+          "zh": "含",
+          "py": "hán",
+          "meaning": "contain"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "have"
+        },
+        {
+          "zh": "坚果",
+          "py": "jiān guǒ",
+          "meaning": "nuts"
+        }
+      ]
+    },
+    {
+      "chinese": "我需要低钠食物。",
+      "pinyin": "Wǒ xū yào dī nà shí wù.",
+      "translation": "I need low-sodium food.",
+      "usage": "Used when requesting food with reduced sodium content.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "需要",
+          "py": "xū yào",
+          "meaning": "need"
+        },
+        {
+          "zh": "低",
+          "py": "dī",
+          "meaning": "low"
+        },
+        {
+          "zh": "钠",
+          "py": "nà",
+          "meaning": "sodium"
+        },
+        {
+          "zh": "食物",
+          "py": "shí wù",
+          "meaning": "food"
+        }
+      ]
+    },
+    {
+      "chinese": "请不要放辣椒。",
+      "pinyin": "Qǐng bù yào fàng là jiāo.",
+      "translation": "Please don't add chili peppers.",
+      "usage": "Used to request that chili peppers not be added to food.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "不",
+          "py": "bù",
+          "meaning": "not"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "want / need"
+        },
+        {
+          "zh": "放",
+          "py": "fàng",
+          "meaning": "put / place"
+        },
+        {
+          "zh": "辣椒",
+          "py": "là jiāo",
+          "meaning": "chili pepper"
+        }
+      ]
+    },
+    {
+      "chinese": "我吃素已经五年了。",
+      "pinyin": "Wǒ chī sù yǐ jīng wǔ nián le.",
+      "translation": "I have been vegetarian for five years.",
+      "usage": "Used to explain how long someone has followed a vegetarian diet.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "吃",
+          "py": "chī",
+          "meaning": "eat"
+        },
+        {
+          "zh": "素",
+          "py": "sù",
+          "meaning": "vegetarian"
+        },
+        {
+          "zh": "已经",
+          "py": "yǐ jīng",
+          "meaning": "already"
+        },
+        {
+          "zh": "五",
+          "py": "wǔ",
+          "meaning": "five"
+        },
+        {
+          "zh": "年",
+          "py": "nián",
+          "meaning": "year"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completive particle"
+        }
+      ]
+    },
+    {
+      "chinese": "我不能吃含麸质的食物。",
+      "pinyin": "Wǒ bù néng chī hán fū zhì de shí wù.",
+      "translation": "I can't eat foods containing gluten.",
+      "usage": "Used to explain a dietary restriction due to gluten sensitivity.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "不能",
+          "py": "bù néng",
+          "meaning": "can't"
+        },
+        {
+          "zh": "吃",
+          "py": "chī",
+          "meaning": "eat"
+        },
+        {
+          "zh": "含",
+          "py": "hán",
+          "meaning": "contain"
+        },
+        {
+          "zh": "麸质",
+          "py": "fū zhì",
+          "meaning": "gluten"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive particle"
+        },
+        {
+          "zh": "食物",
+          "py": "shí wù",
+          "meaning": "food"
+        }
+      ]
+    },
+    {
+      "chinese": "请给我一个无麸质的选项。",
+      "pinyin": "Qǐng gěi wǒ yī gè wú fū zhì de xuǎn xiàng.",
+      "translation": "Please give me an option without gluten.",
+      "usage": "Used when requesting gluten-free food options.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "给",
+          "py": "gěi",
+          "meaning": "give"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "me"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "个",
+          "py": "gè",
+          "meaning": "counter"
+        },
+        {
+          "zh": "无",
+          "py": "wú",
+          "meaning": "without"
+        },
+        {
+          "zh": "麸质",
+          "py": "fū zhì",
+          "meaning": "gluten"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive particle"
+        },
+        {
+          "zh": "选项",
+          "py": "xuǎn xiàng",
+          "meaning": "option"
+        }
+      ]
+    },
+    {
+      "chinese": "我有乳糖不耐症。",
+      "pinyin": "Wǒ yǒu rǔ táng bù nài zhèng.",
+      "translation": "I have lactose intolerance.",
+      "usage": "Used to explain a medical condition affecting dairy consumption.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "have"
+        },
+        {
+          "zh": "乳糖",
+          "py": "rǔ táng",
+          "meaning": "lactose"
+        },
+        {
+          "zh": "不",
+          "py": "bù",
+          "meaning": "not"
+        },
+        {
+          "zh": "耐",
+          "py": "nài",
+          "meaning": "tolerance"
+        },
+        {
+          "zh": "症",
+          "py": "zhèng",
+          "meaning": "condition"
+        }
+      ]
+    },
+    {
+      "chinese": "这个产品不含乳制品。",
+      "pinyin": "Zhège chǎn pǐn bù hán rǔ zhì pǐn.",
+      "translation": "This product contains no dairy products.",
+      "usage": "Used to inform about dairy-free products.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这个",
+          "py": "zhège",
+          "meaning": "this"
+        },
+        {
+          "zh": "产品",
+          "py": "chǎn pǐn",
+          "meaning": "product"
+        },
+        {
+          "zh": "不",
+          "py": "bù",
+          "meaning": "not"
+        },
+        {
+          "zh": "含",
+          "py": "hán",
+          "meaning": "contain"
+        },
+        {
+          "zh": "乳制品",
+          "py": "rǔ zhì pǐn",
+          "meaning": "dairy products"
+        }
+      ]
+    }
+  ]
+}

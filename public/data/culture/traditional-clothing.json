@@ -1,0 +1,234 @@
+{
+  "sentences": [
+    {
+      "chinese": "汉服",
+      "pinyin": "Hánfú",
+      "translation": "Hanfu",
+      "usage": "Traditional Han Chinese clothing from the Han Dynasty era.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "汉",
+          "py": "Hàn",
+          "meaning": "Han (ethnic group/dynasty)"
+        },
+        {
+          "zh": "服",
+          "py": "fú",
+          "meaning": "clothing"
+        }
+      ]
+    },
+    {
+      "chinese": "旗袍",
+      "pinyin": "Qípáo",
+      "translation": "Cheongsam/Qipao",
+      "usage": "A form-fitting dress worn by Chinese women, originating from the Qing Dynasty.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "旗",
+          "py": "qí",
+          "meaning": "banner"
+        },
+        {
+          "zh": "袍",
+          "py": "páo",
+          "meaning": "garment"
+        }
+      ]
+    },
+    {
+      "chinese": "唐装",
+      "pinyin": "Tángzhuāng",
+      "translation": "Tang costume",
+      "usage": "Traditional Chinese clothing from the Tang Dynasty, often worn in festivals.",
+      "formality": "Cultural",
+      "words": [
+        {
+          "zh": "唐",
+          "py": "Táng",
+          "meaning": "Tang Dynasty"
+        },
+        {
+          "zh": "装",
+          "py": "zhuāng",
+          "meaning": "attire"
+        }
+      ]
+    },
+    {
+      "chinese": "刺绣旗袍",
+      "pinyin": "Cìxiù Qípáo",
+      "translation": "Embroidered cheongsam",
+      "usage": "A Qipao decorated with intricate embroidery patterns.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "刺",
+          "py": "cì",
+          "meaning": "to pierce"
+        },
+        {
+          "zh": "绣",
+          "py": "xiù",
+          "meaning": "embroidery"
+        },
+        {
+          "zh": "旗袍",
+          "py": "Qípáo",
+          "meaning": "cheongsam"
+        }
+      ]
+    },
+    {
+      "chinese": "汉服婚礼",
+      "pinyin": "Hánfú hūn lǐ",
+      "translation": "Hanfu wedding",
+      "usage": "A wedding ceremony where the couple wears traditional Hanfu attire.",
+      "formality": "Ceremonial",
+      "words": [
+        {
+          "zh": "汉",
+          "py": "Hàn",
+          "meaning": "Han"
+        },
+        {
+          "zh": "服",
+          "py": "fú",
+          "meaning": "clothing"
+        },
+        {
+          "zh": "婚",
+          "py": "hūn",
+          "meaning": "wedding"
+        },
+        {
+          "zh": "礼",
+          "py": "lǐ",
+          "meaning": "ceremony"
+        }
+      ]
+    },
+    {
+      "chinese": "旗袍领",
+      "pinyin": "Qípáo lǐng",
+      "translation": "Cheongsam collar",
+      "usage": "The high collar design characteristic of the Qipao.",
+      "formality": "Technical",
+      "words": [
+        {
+          "zh": "旗袍",
+          "py": "Qípáo",
+          "meaning": "cheongsam"
+        },
+        {
+          "zh": "领",
+          "py": "lǐng",
+          "meaning": "collar"
+        }
+      ]
+    },
+    {
+      "chinese": "汉服腰带",
+      "pinyin": "Hánfú yāo dài",
+      "translation": "Hanfu sash",
+      "usage": "The decorative sash used to secure the Hanfu robe.",
+      "formality": "Cultural",
+      "words": [
+        {
+          "zh": "汉",
+          "py": "Hàn",
+          "meaning": "Han"
+        },
+        {
+          "zh": "服",
+          "py": "fú",
+          "meaning": "clothing"
+        },
+        {
+          "zh": "腰",
+          "py": "yāo",
+          "meaning": "waist"
+        },
+        {
+          "zh": "带",
+          "py": "dài",
+          "meaning": "belt"
+        }
+      ]
+    },
+    {
+      "chinese": "织锦汉服",
+      "pinyin": "Zhījǐn Hánfú",
+      "translation": "Brocade Hanfu",
+      "usage": "Hanfu made from brocade fabric with intricate patterns.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "织",
+          "py": "zhī",
+          "meaning": "to weave"
+        },
+        {
+          "zh": "锦",
+          "py": "jǐn",
+          "meaning": "brocade"
+        },
+        {
+          "zh": "汉",
+          "py": "Hàn",
+          "meaning": "Han"
+        },
+        {
+          "zh": "服",
+          "py": "fú",
+          "meaning": "clothing"
+        }
+      ]
+    },
+    {
+      "chinese": "清代服饰",
+      "pinyin": "Qīngdài fúshì",
+      "translation": "Qing Dynasty attire",
+      "usage": "Traditional clothing from the Qing Dynasty period.",
+      "formality": "Historical",
+      "words": [
+        {
+          "zh": "清",
+          "py": "Qīng",
+          "meaning": "Qing Dynasty"
+        },
+        {
+          "zh": "代",
+          "py": "dài",
+          "meaning": "era"
+        },
+        {
+          "zh": "服",
+          "py": "fú",
+          "meaning": "clothing"
+        },
+        {
+          "zh": "饰",
+          "py": "shì",
+          "meaning": "ornament"
+        }
+      ]
+    },
+    {
+      "chinese": "节日汉服",
+      "pinyin": "Jiérì Hánfú",
+      "translation": "Festival Hanfu",
+      "usage": "Hanfu worn during traditional Chinese festivals.",
+      "formality": "Cultural",
+      "words": [
+        {
+          "zh": "节",
+          "py": "jié",
+          "meaning": "festival"
+        }
+      ]
+    }
+  ]
+}

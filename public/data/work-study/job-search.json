@@ -1,0 +1,232 @@
+{
+  "sentences": [
+    {
+      "chinese": "撰写简历",
+      "pinyin": "Zhàn xiě jià lǐ",
+      "translation": "Write a resume",
+      "usage": "Used when preparing to create a resume",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "撰写",
+          "py": "zhàn xiě",
+          "meaning": "write/compose"
+        },
+        {
+          "zh": "简历",
+          "py": "jià lǐ",
+          "meaning": "resume"
+        }
+      ]
+    },
+    {
+      "chinese": "投递简历",
+      "pinyin": "Tóu dì jià lǐ",
+      "translation": "Submit a resume",
+      "usage": "When sending a resume to an employer",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "投递",
+          "py": "tóu dì",
+          "meaning": "submit/send"
+        },
+        {
+          "zh": "简历",
+          "py": "jià lǐ",
+          "meaning": "resume"
+        }
+      ]
+    },
+    {
+      "chinese": "准备面试",
+      "pinyin": "Zǔ bèi miàn shì",
+      "translation": "Prepare for an interview",
+      "usage": "When getting ready for a job interview",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "准备",
+          "py": "zǔ bèi",
+          "meaning": "prepare"
+        },
+        {
+          "zh": "面试",
+          "py": "miàn shì",
+          "meaning": "interview"
+        }
+      ]
+    },
+    {
+      "chinese": "参加面试",
+      "pinyin": "Cān jiā miàn shì",
+      "translation": "Attend an interview",
+      "usage": "When going to a scheduled interview",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "参加",
+          "py": "cān jiā",
+          "meaning": "participate in"
+        },
+        {
+          "zh": "面试",
+          "py": "miàn shì",
+          "meaning": "interview"
+        }
+      ]
+    },
+    {
+      "chinese": "自我介绍",
+      "pinyin": "Zì wǒ jiè shào",
+      "translation": "Self-introduction",
+      "usage": "When introducing oneself in interviews",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "自我",
+          "py": "zì wǒ",
+          "meaning": "self"
+        },
+        {
+          "zh": "介绍",
+          "py": "jiè shào",
+          "meaning": "introduction"
+        }
+      ]
+    },
+    {
+      "chinese": "网络申请",
+      "pinyin": "Wǎng luò shēn qǐng",
+      "translation": "Online application",
+      "usage": "When applying through digital platforms",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "网络",
+          "py": "wǎng luò",
+          "meaning": "online"
+        },
+        {
+          "zh": "申请",
+          "py": "shēn qǐng",
+          "meaning": "application"
+        }
+      ]
+    },
+    {
+      "chinese": "职位描述",
+      "pinyin": "Zhí wèi miáo shù",
+      "translation": "Job description",
+      "usage": "When reviewing job postings",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "职位",
+          "py": "zhí wèi",
+          "meaning": "position"
+        },
+        {
+          "zh": "描述",
+          "py": "miáo shù",
+          "meaning": "description"
+        }
+      ]
+    },
+    {
+      "chinese": "薪资待遇",
+      "pinyin": "Xīn zī dài yù",
+      "translation": "Salary and benefits",
+      "usage": "When discussing job compensation",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "薪资",
+          "py": "xīn zī",
+          "meaning": "salary"
+        },
+        {
+          "zh": "待遇",
+          "py": "dài yù",
+          "meaning": "benefits"
+        }
+      ]
+    },
+    {
+      "chinese": "工作时间",
+      "pinyin": "Gōng zuò shí jiān",
+      "translation": "Working hours",
+      "usage": "When inquiring about work schedule",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "工作",
+          "py": "gōng zuò",
+          "meaning": "work"
+        },
+        {
+          "zh": "时间",
+          "py": "shí jiān",
+          "meaning": "time"
+        }
+      ]
+    },
+    {
+      "chinese": "推荐信",
+      "pinyin": "Tuī jiàn xìn",
+      "translation": "Letter of recommendation",
+      "usage": "When requesting professional references",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "推荐",
+          "py": "tuī jiàn",
+          "meaning": "recommend"
+        },
+        {
+          "zh": "信",
+          "py": "xìn",
+          "meaning": "letter"
+        }
+      ]
+    },
+    {
+      "chinese": "面试通过",
+      "pinyin": "Miàn shì tōng guō",
+      "translation": "Interview passed",
+      "usage": "When receiving positive interview feedback",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "面试",
+          "py": "miàn shì",
+          "meaning": "interview"
+        },
+        {
+          "zh": "通过",
+          "py": "tōng guō",
+          "meaning": "passed"
+        }
+      ]
+    },
+    {
+      "chinese": "入职手续",
+      "pinyin": "Rù zhí shǒu xù",
+      "translation": "Onboarding procedures",
+      "usage": "When starting a new job",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "入职",
+          "py": "rù zhí",
+          "meaning": "start a job"
+        },
+        {
+          "zh": "手续",
+          "py": "shǒu xù",
+          "meaning": "procedures"
+        }
+      ]
+    }
+  ]
+}

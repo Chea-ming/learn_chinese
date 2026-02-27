@@ -1,0 +1,173 @@
+{
+  "sentences": [
+    {
+      "chinese": "算法优化",
+      "pinyin": "Suànfǎ yōu huà",
+      "translation": "Algorithm optimization",
+      "usage": "Used in discussions about improving the efficiency or performance of algorithms.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "算",
+          "py": "Suàn",
+          "meaning": "calculate"
+        },
+        {
+          "zh": "法",
+          "py": "fǎ",
+          "meaning": "method"
+        },
+        {
+          "zh": "优",
+          "py": "yōu",
+          "meaning": "optimize"
+        },
+        {
+          "zh": "化",
+          "py": "huà",
+          "meaning": "process"
+        }
+      ]
+    },
+    {
+      "chinese": "机器学习",
+      "pinyin": "Jī qì xué xí",
+      "translation": "Machine learning",
+      "usage": "A subfield of AI where systems learn from data.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "机",
+          "py": "jī",
+          "meaning": "machine"
+        },
+        {
+          "zh": "器",
+          "py": "qì",
+          "meaning": "device"
+        },
+        {
+          "zh": "学",
+          "py": "xué",
+          "meaning": "study"
+        },
+        {
+          "zh": "习",
+          "py": "xí",
+          "meaning": "practice"
+        }
+      ]
+    },
+    {
+      "chinese": "云存储",
+      "pinyin": "Yún cún chǔ",
+      "translation": "Cloud storage",
+      "usage": "Refers to data storage over the internet.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "云",
+          "py": "yún",
+          "meaning": "cloud"
+        },
+        {
+          "zh": "存",
+          "py": "cún",
+          "meaning": "store"
+        },
+        {
+          "zh": "储",
+          "py": "chǔ",
+          "meaning": "reserve"
+        }
+      ]
+    },
+    {
+      "chinese": "网络安全",
+      "pinyin": "Wǎng lù ān quán",
+      "translation": "Network security",
+      "usage": "Protecting digital assets from cyber threats.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "网",
+          "py": "wǎng",
+          "meaning": "network"
+        },
+        {
+          "zh": "络",
+          "py": "luò",
+          "meaning": "connection"
+        },
+        {
+          "zh": "安",
+          "py": "ān",
+          "meaning": "safe"
+        },
+        {
+          "zh": "全",
+          "py": "quán",
+          "meaning": "security"
+        }
+      ]
+    },
+    {
+      "chinese": "数据加密",
+      "pinyin": "Shù jù jiā mì",
+      "translation": "Data encryption",
+      "usage": "Securing data through cryptographic methods.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "数",
+          "py": "shù",
+          "meaning": "data"
+        },
+        {
+          "zh": "据",
+          "py": "jù",
+          "meaning": "information"
+        },
+        {
+          "zh": "加",
+          "py": "jiā",
+          "meaning": "add"
+        },
+        {
+          "zh": "密",
+          "py": "mì",
+          "meaning": "secrecy"
+        }
+      ]
+    },
+    {
+      "chinese": "软件工程",
+      "pinyin": "Rǔn jiǎn gōng chéng",
+      "translation": "Software engineering",
+      "usage": "Systematic development of software.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "软",
+          "py": "ruǎn",
+          "meaning": "software"
+        },
+        {
+          "zh": "件",
+          "py": "jiàn",
+          "meaning": "tool"
+        },
+        {
+          "zh": "工",
+          "py": "gōng",
+          "meaning": "engineering"
+        },
+        {
+          "zh": "程",
+          "py": "chéng",
+          "meaning": "process"
+        }
+      ]
+    }
+  ]
+}

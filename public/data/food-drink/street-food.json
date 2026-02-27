@@ -1,0 +1,964 @@
+{
+  "sentences": [
+    {
+      "chinese": "街边小吃真好吃！",
+      "pinyin": "Jiē biān xiǎo chī zhēn hǎo chī!",
+      "translation": "Street food is really delicious!",
+      "usage": "Used to express enthusiasm about street food, especially when trying new dishes.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "街",
+          "py": "jiē",
+          "meaning": "street"
+        },
+        {
+          "zh": "边",
+          "py": "biān",
+          "meaning": "side"
+        },
+        {
+          "zh": "小",
+          "py": "xiǎo",
+          "meaning": "small / little"
+        },
+        {
+          "zh": "吃",
+          "py": "chī",
+          "meaning": "to eat"
+        },
+        {
+          "zh": "真",
+          "py": "zhēn",
+          "meaning": "really / truly"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good"
+        },
+        {
+          "zh": "吃",
+          "py": "chī",
+          "meaning": "to eat"
+        }
+      ]
+    },
+    {
+      "chinese": "我想买一份煎饼果子。",
+      "pinyin": "Wǒ xiǎng mǎi yī fèn jiān bǐng guǒ zi.",
+      "translation": "I want to buy a pancake with egg and sauce.",
+      "usage": "Used when ordering or expressing desire to purchase a specific street food item.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "想",
+          "py": "xiǎng",
+          "meaning": "want to"
+        },
+        {
+          "zh": "买",
+          "py": "mǎi",
+          "meaning": "to buy"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "份",
+          "py": "fèn",
+          "meaning": "portion / serving"
+        },
+        {
+          "zh": "煎",
+          "py": "jiān",
+          "meaning": "fried"
+        },
+        {
+          "zh": "饼",
+          "py": "bǐng",
+          "meaning": "pancake / cake"
+        },
+        {
+          "zh": "果",
+          "py": "guǒ",
+          "meaning": "fruit"
+        },
+        {
+          "zh": "子",
+          "py": "zi",
+          "meaning": "particle for small things"
+        }
+      ]
+    },
+    {
+      "chinese": "这个摊位的烤串很香。",
+      "pinyin": "Zhège tān wèi de kǎo zhàng hěn xiāng.",
+      "translation": "The skewers at this stall smell very good.",
+      "usage": "Used to describe the appealing aroma of grilled meats from a street vendor.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "个",
+          "py": "gè",
+          "meaning": "classifier for objects"
+        },
+        {
+          "zh": "摊",
+          "py": "tān",
+          "meaning": "stall"
+        },
+        {
+          "zh": "位",
+          "py": "wèi",
+          "meaning": "place / position"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive particle"
+        },
+        {
+          "zh": "烤",
+          "py": "kǎo",
+          "meaning": "roasted"
+        },
+        {
+          "zh": "串",
+          "py": "zhàng",
+          "meaning": "skewer"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "香",
+          "py": "xiāng",
+          "meaning": "fragrant / aromatic"
+        }
+      ]
+    },
+    {
+      "chinese": "你吃过臭豆腐吗？",
+      "pinyin": "Nǐ chī guò chòu dòu fu ma?",
+      "translation": "Have you ever eaten stinky tofu?",
+      "usage": "Used to ask about someone's experience with a particular type of street food that has a strong smell.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "吃",
+          "py": "chī",
+          "meaning": "to eat"
+        },
+        {
+          "zh": "过",
+          "py": "guò",
+          "meaning": "have experienced"
+        },
+        {
+          "zh": "臭",
+          "py": "chòu",
+          "meaning": "stinky / smelly"
+        },
+        {
+          "zh": "豆",
+          "py": "dòu",
+          "meaning": "bean"
+        },
+        {
+          "zh": "腐",
+          "py": "fu",
+          "meaning": "tofu"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "这些小吃价格便宜。",
+      "pinyin": "Zhè xie xiǎo chī jià gé pián yí.",
+      "translation": "These street foods are cheap in price.",
+      "usage": "Used to describe the affordability of street food options, often when comparing to restaurant prices.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "these"
+        },
+        {
+          "zh": "些",
+          "py": "xiē",
+          "meaning": "some / these"
+        },
+        {
+          "zh": "小",
+          "py": "xiǎo",
+          "meaning": "small / little"
+        },
+        {
+          "zh": "吃",
+          "py": "chī",
+          "meaning": "to eat"
+        },
+        {
+          "zh": "价",
+          "py": "jià",
+          "meaning": "price"
+        },
+        {
+          "zh": "格",
+          "py": "gé",
+          "meaning": "grade / level"
+        },
+        {
+          "zh": "便宜",
+          "py": "pián yí",
+          "meaning": "cheap / inexpensive"
+        }
+      ]
+    },
+    {
+      "chinese": "我要尝尝这碗汤圆。",
+      "pinyin": "Wǒ yào cháng cháng zhè wǎn tāng yuán.",
+      "translation": "I want to taste this bowl of glutinous rice balls.",
+      "usage": "Used when expressing desire to try a specific street food item, especially when sampling new dishes.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "want to"
+        },
+        {
+          "zh": "尝",
+          "py": "cháng",
+          "meaning": "to taste"
+        },
+        {
+          "zh": "尝",
+          "py": "cháng",
+          "meaning": "to taste"
+        },
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "碗",
+          "py": "wǎn",
+          "meaning": "bowl"
+        },
+        {
+          "zh": "汤",
+          "py": "tāng",
+          "meaning": "soup"
+        },
+        {
+          "zh": "圆",
+          "py": "yuán",
+          "meaning": "round"
+        }
+      ]
+    },
+    {
+      "chinese": "这个烤羊肉串很好吃。",
+      "pinyin": "Zhège kǎo yánɡ ròu zhàng hěn hǎo chī.",
+      "translation": "This roasted lamb skewer is very delicious.",
+      "usage": "Used to praise a specific street food dish, especially grilled meat items.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "个",
+          "py": "gè",
+          "meaning": "classifier for objects"
+        },
+        {
+          "zh": "烤",
+          "py": "kǎo",
+          "meaning": "roasted"
+        },
+        {
+          "zh": "羊",
+          "py": "yánɡ",
+          "meaning": "sheep"
+        },
+        {
+          "zh": "肉",
+          "py": "ròu",
+          "meaning": "meat"
+        },
+        {
+          "zh": "串",
+          "py": "zhàng",
+          "meaning": "skewer"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good"
+        },
+        {
+          "zh": "吃",
+          "py": "chī",
+          "meaning": "to eat"
+        }
+      ]
+    },
+    {
+      "chinese": "街边的摊贩真多。",
+      "pinyin": "Jiē biān de tān fàn zhēn duō.",
+      "translation": "There are so many street vendors here.",
+      "usage": "Used to comment on the abundance of street food vendors in a particular area.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "街",
+          "py": "jiē",
+          "meaning": "street"
+        },
+        {
+          "zh": "边",
+          "py": "biān",
+          "meaning": "side"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive particle"
+        },
+        {
+          "zh": "摊",
+          "py": "tān",
+          "meaning": "stall"
+        },
+        {
+          "zh": "贩",
+          "py": "fàn",
+          "meaning": "vendor"
+        },
+        {
+          "zh": "真",
+          "py": "zhēn",
+          "meaning": "really / truly"
+        },
+        {
+          "zh": "多",
+          "py": "duō",
+          "meaning": "many"
+        }
+      ]
+    },
+    {
+      "chinese": "这些串串香很受欢迎。",
+      "pinyin": "Zhè xiē chuàn chuàn xiāng hěn shǒu huān yíng.",
+      "translation": "These skewers are very popular.",
+      "usage": "Used to describe the popularity of a particular street food dish among customers.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "these"
+        },
+        {
+          "zh": "些",
+          "py": "xiē",
+          "meaning": "some / these"
+        },
+        {
+          "zh": "串",
+          "py": "chuàn",
+          "meaning": "skewer"
+        },
+        {
+          "zh": "串",
+          "py": "chuàn",
+          "meaning": "skewer"
+        },
+        {
+          "zh": "香",
+          "py": "xiāng",
+          "meaning": "fragrant"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "受",
+          "py": "shǒu",
+          "meaning": "to receive / to be popular"
+        },
+        {
+          "zh": "欢",
+          "py": "huān",
+          "meaning": "happy / welcome"
+        },
+        {
+          "zh": "迎",
+          "py": "yíng",
+          "meaning": "to welcome"
+        }
+      ]
+    },
+    {
+      "chinese": "我最喜欢的是糖葫芦。",
+      "pinyin": "Wǒ zuì xǐ huān de shì táng hú lu.",
+      "translation": "My favorite is candied haws.",
+      "usage": "Used to express personal preference for a specific type of street food, especially sweet treats.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "最",
+          "py": "zuì",
+          "meaning": "most"
+        },
+        {
+          "zh": "喜",
+          "py": "xǐ",
+          "meaning": "to like"
+        },
+        {
+          "zh": "欢",
+          "py": "huān",
+          "meaning": "happy / love"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive particle"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "is"
+        },
+        {
+          "zh": "糖",
+          "py": "táng",
+          "meaning": "sugar"
+        },
+        {
+          "zh": "葫芦",
+          "py": "hú lu",
+          "meaning": "haw"
+        }
+      ]
+    },
+    {
+      "chinese": "这家店的凉皮特别好吃。",
+      "pinyin": "Zhè jiā diàn de liáng pí tè bié hǎo chī.",
+      "translation": "This restaurant's cold noodles are especially delicious.",
+      "usage": "Used to recommend a specific street food item or dish from a particular vendor or restaurant.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "家",
+          "py": "jiā",
+          "meaning": "house / restaurant"
+        },
+        {
+          "zh": "店",
+          "py": "diàn",
+          "meaning": "shop / store"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive particle"
+        },
+        {
+          "zh": "凉",
+          "py": "liáng",
+          "meaning": "cool"
+        },
+        {
+          "zh": "皮",
+          "py": "pí",
+          "meaning": "skin / dough"
+        },
+        {
+          "zh": "特",
+          "py": "tè",
+          "meaning": "special"
+        },
+        {
+          "zh": "别",
+          "py": "bié",
+          "meaning": "especially"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good"
+        },
+        {
+          "zh": "吃",
+          "py": "chī",
+          "meaning": "to eat"
+        }
+      ]
+    },
+    {
+      "chinese": "这些炸串很香。",
+      "pinyin": "Zhè xiē zhá chuàn hěn xiāng.",
+      "translation": "These fried skewers smell very good.",
+      "usage": "Used to describe the appealing aroma of fried street food items.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "these"
+        },
+        {
+          "zh": "些",
+          "py": "xiē",
+          "meaning": "some / these"
+        },
+        {
+          "zh": "炸",
+          "py": "zhá",
+          "meaning": "fried"
+        },
+        {
+          "zh": "串",
+          "py": "chuàn",
+          "meaning": "skewer"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "香",
+          "py": "xiāng",
+          "meaning": "fragrant / aromatic"
+        }
+      ]
+    },
+    {
+      "chinese": "我经常在夜市吃小吃。",
+      "pinyin": "Wǒ jīng cháng zài yè shì chī xiǎo chī.",
+      "translation": "I often eat street food at the night market.",
+      "usage": "Used to describe regular habits or preferences for street food consumption.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "经常",
+          "py": "jīng cháng",
+          "meaning": "often"
+        },
+        {
+          "zh": "在",
+          "py": "zài",
+          "meaning": "at"
+        },
+        {
+          "zh": "夜市",
+          "py": "yè shì",
+          "meaning": "night market"
+        },
+        {
+          "zh": "吃",
+          "py": "chī",
+          "meaning": "to eat"
+        },
+        {
+          "zh": "小吃",
+          "py": "xiǎo chī",
+          "meaning": "snack"
+        }
+      ]
+    },
+    {
+      "chinese": "这个锅贴很好吃。",
+      "pinyin": "Zhège guō tiē hěn hǎo chī.",
+      "translation": "This pan-fried dumpling is very delicious.",
+      "usage": "Used to praise a specific type of street food, especially dumplings or similar items.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "个",
+          "py": "gè",
+          "meaning": "classifier for objects"
+        },
+        {
+          "zh": "锅",
+          "py": "guō",
+          "meaning": "pot"
+        },
+        {
+          "zh": "贴",
+          "py": "tiē",
+          "meaning": "to stick"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good"
+        },
+        {
+          "zh": "吃",
+          "py": "chī",
+          "meaning": "to eat"
+        }
+      ]
+    },
+    {
+      "chinese": "街边的烤串摊很热闹。",
+      "pinyin": "Jiē biān de kǎo chuàn tān hěn rè nào.",
+      "translation": "The skewer stall on the street is very lively.",
+      "usage": "Used to describe the bustling atmosphere of street food vendors or areas.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "街",
+          "py": "jiē",
+          "meaning": "street"
+        },
+        {
+          "zh": "边",
+          "py": "biān",
+          "meaning": "side"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive particle"
+        },
+        {
+          "zh": "烤",
+          "py": "kǎo",
+          "meaning": "roasted"
+        },
+        {
+          "zh": "串",
+          "py": "chuàn",
+          "meaning": "skewer"
+        },
+        {
+          "zh": "摊",
+          "py": "tān",
+          "meaning": "stall"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "热",
+          "py": "rè",
+          "meaning": "hot"
+        },
+        {
+          "zh": "闹",
+          "py": "nào",
+          "meaning": "noisy / lively"
+        }
+      ]
+    },
+    {
+      "chinese": "我爱喝豆花。",
+      "pinyin": "Wǒ ài hē dòu huā.",
+      "translation": "I love drinking tofu flower.",
+      "usage": "Used to express a preference for a specific type of street food or drink.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "爱",
+          "py": "ài",
+          "meaning": "love"
+        },
+        {
+          "zh": "喝",
+          "py": "hē",
+          "meaning": "to drink"
+        },
+        {
+          "zh": "豆花",
+          "py": "dòu huā",
+          "meaning": "tofu flower"
+        }
+      ]
+    },
+    {
+      "chinese": "这些小吃真不错。",
+      "pinyin": "Zhè xiē xiǎo chī zhēn bù cuò.",
+      "translation": "These snacks are really good.",
+      "usage": "Used to express overall satisfaction or approval of street food items.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "these"
+        },
+        {
+          "zh": "些",
+          "py": "xiē",
+          "meaning": "some / these"
+        },
+        {
+          "zh": "小",
+          "py": "xiǎo",
+          "meaning": "small"
+        },
+        {
+          "zh": "吃",
+          "py": "chī",
+          "meaning": "to eat"
+        },
+        {
+          "zh": "真",
+          "py": "zhēn",
+          "meaning": "really"
+        },
+        {
+          "zh": "不",
+          "py": "bù",
+          "meaning": "not"
+        },
+        {
+          "zh": "错",
+          "py": "cuò",
+          "meaning": "wrong / good"
+        }
+      ]
+    },
+    {
+      "chinese": "这家摊子的煎饼果子很好吃。",
+      "pinyin": "Zhè jiā tān zi de jiān bǐng guǒ zi hěn hǎo chī.",
+      "translation": "This stall's pancake roll is very delicious.",
+      "usage": "Used to recommend a specific street food item or dish from a particular vendor.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "家",
+          "py": "jiā",
+          "meaning": "house / restaurant"
+        },
+        {
+          "zh": "摊",
+          "py": "tān",
+          "meaning": "stall"
+        },
+        {
+          "zh": "子",
+          "py": "zi",
+          "meaning": "classifier"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive particle"
+        },
+        {
+          "zh": "煎",
+          "py": "jiān",
+          "meaning": "to fry"
+        },
+        {
+          "zh": "饼",
+          "py": "bǐng",
+          "meaning": "cake"
+        },
+        {
+          "zh": "果",
+          "py": "guǒ",
+          "meaning": "fruit"
+        },
+        {
+          "zh": "子",
+          "py": "zi",
+          "meaning": "classifier"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good"
+        },
+        {
+          "zh": "吃",
+          "py": "chī",
+          "meaning": "to eat"
+        }
+      ]
+    },
+    {
+      "chinese": "这些烤串很受欢迎。",
+      "pinyin": "Zhè xiē kǎo chuàn hěn shǒu huān yíng.",
+      "translation": "These roasted skewers are very popular.",
+      "usage": "Used to describe the popularity or demand for a specific type of street food.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "these"
+        },
+        {
+          "zh": "些",
+          "py": "xiē",
+          "meaning": "some / these"
+        },
+        {
+          "zh": "烤",
+          "py": "kǎo",
+          "meaning": "roasted"
+        },
+        {
+          "zh": "串",
+          "py": "chuàn",
+          "meaning": "skewer"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "受",
+          "py": "shǒu",
+          "meaning": "to receive / to be popular"
+        },
+        {
+          "zh": "欢",
+          "py": "huān",
+          "meaning": "happy / welcome"
+        },
+        {
+          "zh": "迎",
+          "py": "yíng",
+          "meaning": "to welcome"
+        }
+      ]
+    },
+    {
+      "chinese": "这个糖葫芦真好吃。",
+      "pinyin": "Zhège táng hú lu zhēn hǎo chī.",
+      "translation": "This candied hawthorn is really delicious.",
+      "usage": "Used to express satisfaction or appreciation for a specific street food item.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "个",
+          "py": "gè",
+          "meaning": "classifier"
+        },
+        {
+          "zh": "糖",
+          "py": "táng",
+          "meaning": "sugar"
+        },
+        {
+          "zh": "葫芦",
+          "py": "hú lu",
+          "meaning": "hawthorn"
+        },
+        {
+          "zh": "真",
+          "py": "zhēn",
+          "meaning": "really"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good"
+        },
+        {
+          "zh": "吃",
+          "py": "chī",
+          "meaning": "to eat"
+        }
+      ]
+    }
+  ]
+}

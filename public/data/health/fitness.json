@@ -1,0 +1,509 @@
+{
+  "sentences": [
+    {
+      "chinese": "开始锻炼吧！",
+      "pinyin": "Kāi shǐ duàn liàn ba!",
+      "translation": "Start exercising!",
+      "usage": "Encouraging someone to start a workout session. Use in informal settings.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "开始",
+          "py": "kāi shǐ",
+          "meaning": "start"
+        },
+        {
+          "zh": "锻炼",
+          "py": "duàn liàn",
+          "meaning": "exercise"
+        },
+        {
+          "zh": "吧",
+          "py": "ba",
+          "meaning": "particle for suggestion"
+        }
+      ]
+    },
+    {
+      "chinese": "坚持锻炼对健康有益。",
+      "pinyin": "Jiān chí duàn liàn duì jiànkāng yǒu yì.",
+      "translation": "Sticking to exercise is beneficial for health.",
+      "usage": "Discussing long-term health benefits of regular exercise. Neutral tone.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "坚持",
+          "py": "jiān chí",
+          "meaning": "persist"
+        },
+        {
+          "zh": "锻炼",
+          "py": "duàn liàn",
+          "meaning": "exercise"
+        },
+        {
+          "zh": "对",
+          "py": "duì",
+          "meaning": "to / regarding"
+        },
+        {
+          "zh": "健康",
+          "py": "jiànkāng",
+          "meaning": "health"
+        },
+        {
+          "zh": "有益",
+          "py": "yǒu yì",
+          "meaning": "beneficial"
+        }
+      ]
+    },
+    {
+      "chinese": "每天早上做些运动。",
+      "pinyin": "Měi tiān zǎo shàng zuò xiē yùndòng.",
+      "translation": "Do some exercise every morning.",
+      "usage": "Suggesting a daily routine. Neutral tone.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "每天",
+          "py": "měi tiān",
+          "meaning": "every day"
+        },
+        {
+          "zh": "早上",
+          "py": "zǎo shàng",
+          "meaning": "morning"
+        },
+        {
+          "zh": "做些",
+          "py": "zuò xiē",
+          "meaning": "do some"
+        },
+        {
+          "zh": "运动",
+          "py": "yùndòng",
+          "meaning": "exercise"
+        }
+      ]
+    },
+    {
+      "chinese": "你今天锻炼了吗？",
+      "pinyin": "Nǐ jīn tiān duàn liàn le ma?",
+      "translation": "Did you exercise today?",
+      "usage": "Asking about someone's exercise routine. Informal tone.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "今天",
+          "py": "jīn tiān",
+          "meaning": "today"
+        },
+        {
+          "zh": "锻炼",
+          "py": "duàn liàn",
+          "meaning": "exercise"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "particle indicating completion"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "定期进行体育锻炼。",
+      "pinyin": "Dìng qī jìnxíng tǐyù duàn liàn.",
+      "translation": "Regularly engage in physical exercise.",
+      "usage": "Formal recommendation for maintaining fitness. Use in health guidelines.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "定期",
+          "py": "dìng qī",
+          "meaning": "regularly"
+        },
+        {
+          "zh": "进行",
+          "py": "jìnxíng",
+          "meaning": "carry out"
+        },
+        {
+          "zh": "体育",
+          "py": "tǐyù",
+          "meaning": "physical"
+        },
+        {
+          "zh": "锻炼",
+          "py": "duàn liàn",
+          "meaning": "exercise"
+        }
+      ]
+    },
+    {
+      "chinese": "健身房里有很多器械。",
+      "pinyin": "Jiànshēnɡfānɡ lǐ yǒu hěn duō qìxiè.",
+      "translation": "The gym has many equipment.",
+      "usage": "Describing gym facilities. Neutral tone.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "健身房",
+          "py": "jiànshēnɡfānɡ",
+          "meaning": "gym"
+        },
+        {
+          "zh": "里",
+          "py": "lǐ",
+          "meaning": "inside"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "have"
+        },
+        {
+          "zh": "很多",
+          "py": "hěn duō",
+          "meaning": "many"
+        },
+        {
+          "zh": "器械",
+          "py": "qìxiè",
+          "meaning": "equipment"
+        }
+      ]
+    },
+    {
+      "chinese": "我喜欢在户外跑步。",
+      "pinyin": "Wǒ xǐhuān zài hùwài pǎobù.",
+      "translation": "I like running outdoors.",
+      "usage": "Expressing preference for outdoor exercise. Informal tone.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "喜欢",
+          "py": "xǐhuān",
+          "meaning": "like"
+        },
+        {
+          "zh": "在",
+          "py": "zài",
+          "meaning": "at / in"
+        },
+        {
+          "zh": "户外",
+          "py": "hùwài",
+          "meaning": "outdoor"
+        },
+        {
+          "zh": "跑步",
+          "py": "pǎobù",
+          "meaning": "run"
+        }
+      ]
+    },
+    {
+      "chinese": "保持规律的锻炼习惯。",
+      "pinyin": "Bǎochí guīlǜ de duàn liàn xíguàn.",
+      "translation": "Maintain a regular exercise habit.",
+      "usage": "Formal advice for building fitness routines.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "保持",
+          "py": "bǎochí",
+          "meaning": "maintain"
+        },
+        {
+          "zh": "规律",
+          "py": "guīlǜ",
+          "meaning": "regularity"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive particle"
+        },
+        {
+          "zh": "锻炼",
+          "py": "duàn liàn",
+          "meaning": "exercise"
+        },
+        {
+          "zh": "习惯",
+          "py": "xíguàn",
+          "meaning": "habit"
+        }
+      ]
+    },
+    {
+      "chinese": "运动后记得拉伸。",
+      "pinyin": "Yùndòng hòu jìde lāzhēng.",
+      "translation": "Remember to stretch after exercise.",
+      "usage": "Giving post-workout advice. Neutral tone.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "运动",
+          "py": "yùndòng",
+          "meaning": "exercise"
+        },
+        {
+          "zh": "后",
+          "py": "hòu",
+          "meaning": "after"
+        },
+        {
+          "zh": "记得",
+          "py": "jìde",
+          "meaning": "remember"
+        },
+        {
+          "zh": "拉伸",
+          "py": "lāzhēng",
+          "meaning": "stretch"
+        }
+      ]
+    },
+    {
+      "chinese": "适量运动有助于减肥。",
+      "pinyin": "Shāoliàng yùndòng yǒuyì yú fájī.",
+      "translation": "Moderate exercise helps with weight loss.",
+      "usage": "Discussing exercise benefits for weight management. Neutral tone.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "适量",
+          "py": "shāoliàng",
+          "meaning": "moderate"
+        },
+        {
+          "zh": "运动",
+          "py": "yùndòng",
+          "meaning": "exercise"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "have"
+        },
+        {
+          "zh": "益",
+          "py": "yì",
+          "meaning": "benefit"
+        },
+        {
+          "zh": "于",
+          "py": "yú",
+          "meaning": "for"
+        },
+        {
+          "zh": "减肥",
+          "py": "fájī",
+          "meaning": "weight loss"
+        }
+      ]
+    },
+    {
+      "chinese": "今天天气不错，适合户外运动。",
+      "pinyin": "Jīn tiān tiānqì bùcuò, shìhé hùwài yùndòng.",
+      "translation": "Today's weather is nice, suitable for outdoor activities.",
+      "usage": "Suggesting outdoor exercise based on weather. Neutral tone.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "今天",
+          "py": "jīn tiān",
+          "meaning": "today"
+        },
+        {
+          "zh": "天气",
+          "py": "tiānqì",
+          "meaning": "weather"
+        },
+        {
+          "zh": "不错",
+          "py": "bùcuò",
+          "meaning": "not bad"
+        },
+        {
+          "zh": "适合",
+          "py": "shìhé",
+          "meaning": "suitable"
+        },
+        {
+          "zh": "户外",
+          "py": "hùwài",
+          "meaning": "outdoor"
+        },
+        {
+          "zh": "运动",
+          "py": "yùndòng",
+          "meaning": "exercise"
+        }
+      ]
+    },
+    {
+      "chinese": "健身需要耐心和毅力。",
+      "pinyin": "Jiànshēn xūyào nànsān hé yìlì.",
+      "translation": "Fitness requires patience and perseverance.",
+      "usage": "Discussing the mental aspects of exercise. Formal tone.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "健身",
+          "py": "jiànshēn",
+          "meaning": "fitness"
+        },
+        {
+          "zh": "需要",
+          "py": "xūyào",
+          "meaning": "require"
+        },
+        {
+          "zh": "耐心",
+          "py": "nànsān",
+          "meaning": "patience"
+        },
+        {
+          "zh": "和",
+          "py": "hé",
+          "meaning": "and"
+        },
+        {
+          "zh": "毅力",
+          "py": "yìlì",
+          "meaning": "perseverance"
+        }
+      ]
+    },
+    {
+      "chinese": "你最近有去健身房吗？",
+      "pinyin": "Nǐ zuìjìn yǒu qù jiànshēnɡfānɡ ma?",
+      "translation": "Have you gone to the gym recently?",
+      "usage": "Asking about gym attendance. Informal tone.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "最近",
+          "py": "zuìjìn",
+          "meaning": "recently"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "have"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "go"
+        },
+        {
+          "zh": "健身房",
+          "py": "jiànshēnɡfānɡ",
+          "meaning": "gym"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "运动前要热身。",
+      "pinyin": "Yùndòng qián yào rèshēn.",
+      "translation": "Warm up before exercising.",
+      "usage": "Basic exercise safety advice. Neutral tone.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "运动",
+          "py": "yùndòng",
+          "meaning": "exercise"
+        },
+        {
+          "zh": "前",
+          "py": "qián",
+          "meaning": "before"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "need to"
+        },
+        {
+          "zh": "热身",
+          "py": "rèshēn",
+          "meaning": "warm up"
+        }
+      ]
+    },
+    {
+      "chinese": "保持良好作息有助于健康。",
+      "pinyin": "Bǎochí liáoxiào zuòxí yǒuyì yú jiànkāng.",
+      "translation": "Maintaining a good sleep schedule contributes to health.",
+      "usage": "Linking exercise with overall health. Formal tone.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "保持",
+          "py": "bǎochí",
+          "meaning": "maintain"
+        },
+        {
+          "zh": "良好",
+          "py": "liáoxiào",
+          "meaning": "good"
+        },
+        {
+          "zh": "作息",
+          "py": "zuòxí",
+          "meaning": "sleep schedule"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "have"
+        },
+        {
+          "zh": "益",
+          "py": "yì",
+          "meaning": "benefit"
+        },
+        {
+          "zh": "于",
+          "py": "yú",
+          "meaning": "for"
+        },
+        {
+          "zh": "健康",
+          "py": "jiànkāng",
+          "meaning": "health"
+        }
+      ]
+    }
+  ]
+}

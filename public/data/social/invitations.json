@@ -1,0 +1,744 @@
+{
+  "sentences": [
+    {
+      "chinese": "你有空吗？",
+      "pinyin": "Nǐ yǒu kòng ma?",
+      "translation": "Are you free?",
+      "usage": "Used when asking if someone has time to meet or do something together.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "to have"
+        },
+        {
+          "zh": "空",
+          "py": "kòng",
+          "meaning": "free time / spare time"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "我们一起去吃饭吧。",
+      "pinyin": "Wǒmen yīqǐ qù chīfàn ba.",
+      "translation": "Let's go eat together.",
+      "usage": "Suggesting a casual meal with others, often used among friends.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "我们",
+          "py": "wǒmen",
+          "meaning": "we / us"
+        },
+        {
+          "zh": "一起",
+          "py": "yīqǐ",
+          "meaning": "together"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "to go"
+        },
+        {
+          "zh": "吃",
+          "py": "chī",
+          "meaning": "to eat"
+        },
+        {
+          "zh": "饭",
+          "py": "fàn",
+          "meaning": "rice / meal"
+        },
+        {
+          "zh": "吧",
+          "py": "ba",
+          "meaning": "let's / shall we"
+        }
+      ]
+    },
+    {
+      "chinese": "欢迎来参加我的生日聚会。",
+      "pinyin": "Huānyíng lái cānjiā wǒ de shēngrì jùhuì.",
+      "translation": "Welcome to my birthday party.",
+      "usage": "Formal invitation for a birthday celebration, often used in written invitations.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "欢迎",
+          "py": "huānyíng",
+          "meaning": "welcome"
+        },
+        {
+          "zh": "来",
+          "py": "lái",
+          "meaning": "to come"
+        },
+        {
+          "zh": "参加",
+          "py": "cānjiā",
+          "meaning": "to participate / to attend"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / me"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive particle"
+        },
+        {
+          "zh": "生日",
+          "py": "shēngrì",
+          "meaning": "birthday"
+        },
+        {
+          "zh": "聚会",
+          "py": "jùhuì",
+          "meaning": "party / gathering"
+        }
+      ]
+    },
+    {
+      "chinese": "我们下周见。",
+      "pinyin": "Wǒmen xiàzhōu jiàn.",
+      "translation": "See you next week.",
+      "usage": "Casual way to plan a meeting or appointment for the following week.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "我们",
+          "py": "wǒmen",
+          "meaning": "we / us"
+        },
+        {
+          "zh": "下",
+          "py": "xià",
+          "meaning": "next"
+        },
+        {
+          "zh": "周",
+          "py": "zhōu",
+          "meaning": "week"
+        },
+        {
+          "zh": "见",
+          "py": "jiàn",
+          "meaning": "to see"
+        }
+      ]
+    },
+    {
+      "chinese": "你能帮我一个忙吗？",
+      "pinyin": "Nǐ néng bāng wǒ yīgè máng ma?",
+      "translation": "Can you help me with a favor?",
+      "usage": "Polite request for assistance, often used when asking for help with a specific task.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "能",
+          "py": "néng",
+          "meaning": "can / be able to"
+        },
+        {
+          "zh": "帮",
+          "py": "bāng",
+          "meaning": "to help"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / me"
+        },
+        {
+          "zh": "一个",
+          "py": "yīgè",
+          "meaning": "one"
+        },
+        {
+          "zh": "忙",
+          "py": "máng",
+          "meaning": "busy / favor"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "我们计划在周末去爬山。",
+      "pinyin": "Wǒmen jìhuà zài zhōumò qù páshān.",
+      "translation": "We plan to go hiking on the weekend.",
+      "usage": "Describing a planned outdoor activity for the weekend, often used among friends or family.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我们",
+          "py": "wǒmen",
+          "meaning": "we / us"
+        },
+        {
+          "zh": "计划",
+          "py": "jìhuà",
+          "meaning": "plan"
+        },
+        {
+          "zh": "在",
+          "py": "zài",
+          "meaning": "at / on"
+        },
+        {
+          "zh": "周末",
+          "py": "zhōumò",
+          "meaning": "weekend"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "to go"
+        },
+        {
+          "zh": "爬山",
+          "py": "páshān",
+          "meaning": "to hike / to climb mountains"
+        }
+      ]
+    },
+    {
+      "chinese": "请务必准时到达。",
+      "pinyin": "Qǐng bìwù zhǔnshí dàodá.",
+      "translation": "Please arrive on time.",
+      "usage": "Formal request for punctuality, often used in official invitations or business settings.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "务必",
+          "py": "bìwù",
+          "meaning": "must / definitely"
+        },
+        {
+          "zh": "准时",
+          "py": "zhǔnshí",
+          "meaning": "on time"
+        },
+        {
+          "zh": "到达",
+          "py": "dàodá",
+          "meaning": "to arrive"
+        }
+      ]
+    },
+    {
+      "chinese": "你愿意和我一起去看电影吗？",
+      "pinyin": "Nǐ yuànyì hé wǒ yīqǐ qù kàn diànyǐng ma?",
+      "translation": "Would you like to watch a movie with me?",
+      "usage": "Inviting someone to a movie, can be formal or informal depending on the relationship.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "愿意",
+          "py": "yuànyì",
+          "meaning": "to be willing"
+        },
+        {
+          "zh": "和",
+          "py": "hé",
+          "meaning": "and"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / me"
+        },
+        {
+          "zh": "一起",
+          "py": "yīqǐ",
+          "meaning": "together"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "to go"
+        },
+        {
+          "zh": "看",
+          "py": "kàn",
+          "meaning": "to watch"
+        },
+        {
+          "zh": "电影",
+          "py": "diànyǐng",
+          "meaning": "movie"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "这周六我们有个聚会。",
+      "pinyin": "Zhè zhōuzhōu wǒmen yǒu gè jùhuì.",
+      "translation": "We have a gathering this Saturday.",
+      "usage": "Informal announcement of a social event, often used in casual conversation.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "周六",
+          "py": "zhōuzhōu",
+          "meaning": "Saturday"
+        },
+        {
+          "zh": "我们",
+          "py": "wǒmen",
+          "meaning": "we / us"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "to have"
+        },
+        {
+          "zh": "个",
+          "py": "gè",
+          "meaning": "a (measure word)"
+        },
+        {
+          "zh": "聚会",
+          "py": "jùhuì",
+          "meaning": "party / gathering"
+        }
+      ]
+    },
+    {
+      "chinese": "我需要一个朋友陪我。",
+      "pinyin": "Wǒ xūyào yīgè péngyou péi wǒ.",
+      "translation": "I need a friend to accompany me.",
+      "usage": "Expressing the need for company, often used when planning a solo activity.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / me"
+        },
+        {
+          "zh": "需要",
+          "py": "xūyào",
+          "meaning": "to need"
+        },
+        {
+          "zh": "一个",
+          "py": "yīgè",
+          "meaning": "one"
+        },
+        {
+          "zh": "朋友",
+          "py": "péngyou",
+          "meaning": "friend"
+        },
+        {
+          "zh": "陪",
+          "py": "péi",
+          "meaning": "to accompany"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / me"
+        }
+      ]
+    },
+    {
+      "chinese": "我们约好在咖啡厅见面。",
+      "pinyin": "Wǒmen yuē hǎo zài kāfēitíng jiànmiàn.",
+      "translation": "We arranged to meet at the coffee shop.",
+      "usage": "Describing a planned meeting place, often used when confirming arrangements.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我们",
+          "py": "wǒmen",
+          "meaning": "we / us"
+        },
+        {
+          "zh": "约",
+          "py": "yuē",
+          "meaning": "to arrange"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good / agreed"
+        },
+        {
+          "zh": "在",
+          "py": "zài",
+          "meaning": "at / in"
+        },
+        {
+          "zh": "咖啡厅",
+          "py": "kāfēitíng",
+          "meaning": "coffee shop"
+        },
+        {
+          "zh": "见面",
+          "py": "jiànmiàn",
+          "meaning": "to meet"
+        }
+      ]
+    },
+    {
+      "chinese": "请不要忘记我们的约会。",
+      "pinyin": "Qǐng bùyào wàngjì wǒmen de yuēhuì.",
+      "translation": "Please don't forget our appointment.",
+      "usage": "Reminder about a planned meeting or date, used in both formal and informal contexts.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "不要",
+          "py": "bùyào",
+          "meaning": "don't"
+        },
+        {
+          "zh": "忘记",
+          "py": "wàngjì",
+          "meaning": "to forget"
+        },
+        {
+          "zh": "我们",
+          "py": "wǒmen",
+          "meaning": "we / us"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive particle"
+        },
+        {
+          "zh": "约会",
+          "py": "yuēhuì",
+          "meaning": "date / appointment"
+        }
+      ]
+    },
+    {
+      "chinese": "我们准备去旅行。",
+      "pinyin": "Wǒmen zhǔnbèi qù lǚxíng.",
+      "translation": "We are preparing to travel.",
+      "usage": "Announcing travel plans, can be used for both short trips and long journeys.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我们",
+          "py": "wǒmen",
+          "meaning": "we / us"
+        },
+        {
+          "zh": "准备",
+          "py": "zhǔnbèi",
+          "meaning": "to prepare"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "to go"
+        },
+        {
+          "zh": "旅行",
+          "py": "lǚxíng",
+          "meaning": "to travel"
+        }
+      ]
+    },
+    {
+      "chinese": "我正在考虑邀请你。",
+      "pinyin": "Wǒ zhèngzài kǎolǜ yāoqǐng nǐ.",
+      "translation": "I'm considering inviting you.",
+      "usage": "Expressing interest in inviting someone, often used when planning events or gatherings.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / me"
+        },
+        {
+          "zh": "正在",
+          "py": "zhèngzài",
+          "meaning": "currently"
+        },
+        {
+          "zh": "考虑",
+          "py": "kǎolǜ",
+          "meaning": "to consider"
+        },
+        {
+          "zh": "邀请",
+          "py": "yāoqǐng",
+          "meaning": "to invite"
+        },
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        }
+      ]
+    },
+    {
+      "chinese": "我们的计划是明天见面。",
+      "pinyin": "Wǒmen de jìhuà shì míngtiān jiànmiàn.",
+      "translation": "Our plan is to meet tomorrow.",
+      "usage": "Stating a planned meeting for the next day, used in both casual and formal contexts.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我们",
+          "py": "wǒmen",
+          "meaning": "we / us"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive particle"
+        },
+        {
+          "zh": "计划",
+          "py": "jìhuà",
+          "meaning": "plan"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "is / to be"
+        },
+        {
+          "zh": "明天",
+          "py": "míngtiān",
+          "meaning": "tomorrow"
+        },
+        {
+          "zh": "见面",
+          "py": "jiànmiàn",
+          "meaning": "to meet"
+        }
+      ]
+    },
+    {
+      "chinese": "我们下周要开一个会。",
+      "pinyin": "Wǒmen xiàzhōu yào kāi yīgè huì.",
+      "translation": "We need to have a meeting next week.",
+      "usage": "Announcing a planned meeting, used in both business and personal contexts.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我们",
+          "py": "wǒmen",
+          "meaning": "we / us"
+        },
+        {
+          "zh": "下周",
+          "py": "xiàzhōu",
+          "meaning": "next week"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "to need"
+        },
+        {
+          "zh": "开",
+          "py": "kāi",
+          "meaning": "to hold"
+        },
+        {
+          "zh": "一个",
+          "py": "yīgè",
+          "meaning": "one"
+        },
+        {
+          "zh": "会",
+          "py": "huì",
+          "meaning": "meeting"
+        }
+      ]
+    },
+    {
+      "chinese": "你愿意和我一起吗？",
+      "pinyin": "Nǐ yuànyì hé wǒ yīqǐ ma?",
+      "translation": "Would you like to join me?",
+      "usage": "Inviting someone to participate in an activity, can be formal or informal.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "愿意",
+          "py": "yuànyì",
+          "meaning": "to be willing"
+        },
+        {
+          "zh": "和",
+          "py": "hé",
+          "meaning": "and"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / me"
+        },
+        {
+          "zh": "一起",
+          "py": "yīqǐ",
+          "meaning": "together"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "我们计划去爬山。",
+      "pinyin": "Wǒmen jìhuà qù páshān.",
+      "translation": "We plan to go hiking.",
+      "usage": "Stating outdoor activity plans, used for both casual and formal contexts.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我们",
+          "py": "wǒmen",
+          "meaning": "we / us"
+        },
+        {
+          "zh": "计划",
+          "py": "jìhuà",
+          "meaning": "plan"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "to go"
+        },
+        {
+          "zh": "爬山",
+          "py": "páshān",
+          "meaning": "to hike"
+        }
+      ]
+    },
+    {
+      "chinese": "我们打算明天去游泳。",
+      "pinyin": "Wǒmen dǎsuàn míngtiān qù yóuyǒng.",
+      "translation": "We plan to go swimming tomorrow.",
+      "usage": "Stating a planned activity for the next day, used in casual conversation.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "我们",
+          "py": "wǒmen",
+          "meaning": "we / us"
+        },
+        {
+          "zh": "打算",
+          "py": "dǎsuàn",
+          "meaning": "to plan"
+        },
+        {
+          "zh": "明天",
+          "py": "míngtiān",
+          "meaning": "tomorrow"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "to go"
+        },
+        {
+          "zh": "游泳",
+          "py": "yóuyǒng",
+          "meaning": "to swim"
+        }
+      ]
+    },
+    {
+      "chinese": "我们有空一起吃饭。",
+      "pinyin": "Wǒmen yǒu kòng yīqǐ chīfàn.",
+      "translation": "We have time to eat together.",
+      "usage": "Suggesting a meal together, used in casual conversation.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "我们",
+          "py": "wǒmen",
+          "meaning": "we / us"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "to have"
+        },
+        {
+          "zh": "空",
+          "py": "kòng",
+          "meaning": "time / free"
+        },
+        {
+          "zh": "一起",
+          "py": "yīqǐ",
+          "meaning": "together"
+        },
+        {
+          "zh": "吃饭",
+          "py": "chīfàn",
+          "meaning": "to eat"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,763 @@
+{
+  "sentences": [
+    {
+      "chinese": "今天是星期几？",
+      "pinyin": "Jīntiān shì xīngqī jǐ?",
+      "translation": "What day is it today?",
+      "usage": "Asking about the current day of the week",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "今",
+          "py": "jīn",
+          "meaning": "today"
+        },
+        {
+          "zh": "天",
+          "py": "tiān",
+          "meaning": "day"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "is"
+        },
+        {
+          "zh": "星",
+          "py": "xīng",
+          "meaning": "star"
+        },
+        {
+          "zh": "期",
+          "py": "qī",
+          "meaning": "week"
+        },
+        {
+          "zh": "几",
+          "py": "jǐ",
+          "meaning": "what number"
+        }
+      ]
+    },
+    {
+      "chinese": "我明天要去上班。",
+      "pinyin": "Wǒ míngtiān yào qù shàngbān.",
+      "translation": "I'm going to work tomorrow.",
+      "usage": "Saying you will work the next day",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "明",
+          "py": "míng",
+          "meaning": "tomorrow"
+        },
+        {
+          "zh": "天",
+          "py": "tiān",
+          "meaning": "day"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "want to"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "go"
+        },
+        {
+          "zh": "上",
+          "py": "shàng",
+          "meaning": "up / to go to"
+        },
+        {
+          "zh": "班",
+          "py": "bān",
+          "meaning": "work shift"
+        }
+      ]
+    },
+    {
+      "chinese": "今天是三月十五日。",
+      "pinyin": "Jīntiān shì sān yuè shí wǔ rì.",
+      "translation": "Today is March fifteenth.",
+      "usage": "Announcing the current date",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "今",
+          "py": "jīn",
+          "meaning": "today"
+        },
+        {
+          "zh": "天",
+          "py": "tiān",
+          "meaning": "day"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "is"
+        },
+        {
+          "zh": "三",
+          "py": "sān",
+          "meaning": "three"
+        },
+        {
+          "zh": "月",
+          "py": "yuè",
+          "meaning": "month"
+        },
+        {
+          "zh": "十",
+          "py": "shí",
+          "meaning": "ten"
+        },
+        {
+          "zh": "五",
+          "py": "wǔ",
+          "meaning": "five"
+        },
+        {
+          "zh": "日",
+          "py": "rì",
+          "meaning": "day"
+        }
+      ]
+    },
+    {
+      "chinese": "我们下周见。",
+      "pinyin": "Wǒmen xià zhōu jiàn.",
+      "translation": "We'll see each other next week.",
+      "usage": "Saying you will meet next week",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "们",
+          "py": "men",
+          "meaning": "plural suffix"
+        },
+        {
+          "zh": "下",
+          "py": "xià",
+          "meaning": "next"
+        },
+        {
+          "zh": "周",
+          "py": "zhōu",
+          "meaning": "week"
+        },
+        {
+          "zh": "见",
+          "py": "jiàn",
+          "meaning": "see"
+        }
+      ]
+    },
+    {
+      "chinese": "这个月有多少天？",
+      "pinyin": "Zhège yuè yǒu duōshǎo tiān?",
+      "translation": "How many days are there in this month?",
+      "usage": "Asking about the number of days in a month",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "个",
+          "py": "gè",
+          "meaning": "measure word"
+        },
+        {
+          "zh": "月",
+          "py": "yuè",
+          "meaning": "month"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "have"
+        },
+        {
+          "zh": "多",
+          "py": "duō",
+          "meaning": "many"
+        },
+        {
+          "zh": "少",
+          "py": "shǎo",
+          "meaning": "few"
+        },
+        {
+          "zh": "天",
+          "py": "tiān",
+          "meaning": "day"
+        }
+      ]
+    },
+    {
+      "chinese": "你几号去旅行？",
+      "pinyin": "Nǐ jǐ hào qù lǚxíng?",
+      "translation": "What date are you going on a trip?",
+      "usage": "Asking someone about their travel date",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "几",
+          "py": "jǐ",
+          "meaning": "what number"
+        },
+        {
+          "zh": "号",
+          "py": "hào",
+          "meaning": "date"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "go"
+        },
+        {
+          "zh": "旅",
+          "py": "lǚ",
+          "meaning": "travel"
+        },
+        {
+          "zh": "行",
+          "py": "xíng",
+          "meaning": "go"
+        }
+      ]
+    },
+    {
+      "chinese": "我生日在二月。",
+      "pinyin": "Wǒ shēngrì zài èr yuè.",
+      "translation": "My birthday is in February.",
+      "usage": "Telling someone when your birthday is",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "生",
+          "py": "shēng",
+          "meaning": "birth"
+        },
+        {
+          "zh": "日",
+          "py": "rì",
+          "meaning": "day"
+        },
+        {
+          "zh": "在",
+          "py": "zài",
+          "meaning": "at"
+        },
+        {
+          "zh": "二",
+          "py": "èr",
+          "meaning": "two"
+        },
+        {
+          "zh": "月",
+          "py": "yuè",
+          "meaning": "month"
+        }
+      ]
+    },
+    {
+      "chinese": "这个星期六我们要加班。",
+      "pinyin": "Zhège xīngqī liù wǒmen yào jiābān.",
+      "translation": "We have to work overtime this Saturday.",
+      "usage": "Telling someone about weekend work",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "个",
+          "py": "gè",
+          "meaning": "measure word"
+        },
+        {
+          "zh": "星",
+          "py": "xīng",
+          "meaning": "star"
+        },
+        {
+          "zh": "期",
+          "py": "qī",
+          "meaning": "week"
+        },
+        {
+          "zh": "六",
+          "py": "liù",
+          "meaning": "six"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "们",
+          "py": "men",
+          "meaning": "plural suffix"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "want to"
+        },
+        {
+          "zh": "加",
+          "py": "jiā",
+          "meaning": "add"
+        },
+        {
+          "zh": "班",
+          "py": "bān",
+          "meaning": "work shift"
+        }
+      ]
+    },
+    {
+      "chinese": "请告诉我今天的日期。",
+      "pinyin": "Qǐng gàosù wǒ jīntiān de rìqī.",
+      "translation": "Please tell me today's date.",
+      "usage": "Formal request for current date",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "告",
+          "py": "gào",
+          "meaning": "tell"
+        },
+        {
+          "zh": "诉",
+          "py": "sù",
+          "meaning": "tell"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "今",
+          "py": "jīn",
+          "meaning": "today"
+        },
+        {
+          "zh": "天",
+          "py": "tiān",
+          "meaning": "day"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive particle"
+        },
+        {
+          "zh": "日",
+          "py": "rì",
+          "meaning": "day"
+        },
+        {
+          "zh": "期",
+          "py": "qī",
+          "meaning": "date"
+        }
+      ]
+    },
+    {
+      "chinese": "我们计划在七月去度假。",
+      "pinyin": "Wǒmen jìhuà zài qī yuè qù dùjià.",
+      "translation": "We plan to go on vacation in July.",
+      "usage": "Telling someone about future vacation plans",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "们",
+          "py": "men",
+          "meaning": "plural suffix"
+        },
+        {
+          "zh": "计",
+          "py": "jì",
+          "meaning": "plan"
+        },
+        {
+          "zh": "划",
+          "py": "huà",
+          "meaning": "plan"
+        },
+        {
+          "zh": "在",
+          "py": "zài",
+          "meaning": "at"
+        },
+        {
+          "zh": "七",
+          "py": "qī",
+          "meaning": "seven"
+        },
+        {
+          "zh": "月",
+          "py": "yuè",
+          "meaning": "month"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "go"
+        },
+        {
+          "zh": "度",
+          "py": "dù",
+          "meaning": "spend"
+        },
+        {
+          "zh": "假",
+          "py": "jià",
+          "meaning": "holiday"
+        }
+      ]
+    },
+    {
+      "chinese": "今天是星期一。",
+      "pinyin": "Jīntiān shì xīngqī yī.",
+      "translation": "Today is Monday.",
+      "usage": "Announcing the current day of the week",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "今",
+          "py": "jīn",
+          "meaning": "today"
+        },
+        {
+          "zh": "天",
+          "py": "tiān",
+          "meaning": "day"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "is"
+        },
+        {
+          "zh": "星",
+          "py": "xīng",
+          "meaning": "star"
+        },
+        {
+          "zh": "期",
+          "py": "qī",
+          "meaning": "week"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        }
+      ]
+    },
+    {
+      "chinese": "下个月我结婚。",
+      "pinyin": "Xià gè yuè wǒ jiéhūn.",
+      "translation": "I'm getting married next month.",
+      "usage": "Telling someone about upcoming wedding",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "下",
+          "py": "xià",
+          "meaning": "next"
+        },
+        {
+          "zh": "个",
+          "py": "gè",
+          "meaning": "measure word"
+        },
+        {
+          "zh": "月",
+          "py": "yuè",
+          "meaning": "month"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "结",
+          "py": "jié",
+          "meaning": "tie"
+        },
+        {
+          "zh": "婚",
+          "py": "hūn",
+          "meaning": "marriage"
+        }
+      ]
+    },
+    {
+      "chinese": "你什么时候生日？",
+      "pinyin": "Nǐ shénme shíhou shēngrì?",
+      "translation": "When is your birthday?",
+      "usage": "Asking someone about their birthday",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "什",
+          "py": "shén",
+          "meaning": "what"
+        },
+        {
+          "zh": "么",
+          "py": "me",
+          "meaning": "what"
+        },
+        {
+          "zh": "时",
+          "py": "shí",
+          "meaning": "time"
+        },
+        {
+          "zh": "候",
+          "py": "hou",
+          "meaning": "when"
+        },
+        {
+          "zh": "生",
+          "py": "shēng",
+          "meaning": "birth"
+        },
+        {
+          "zh": "日",
+          "py": "rì",
+          "meaning": "day"
+        }
+      ]
+    },
+    {
+      "chinese": "我们约定在五号见面。",
+      "pinyin": "Wǒmen yuēdìng zài wǔ hào jiànmiàn.",
+      "translation": "We agreed to meet on the fifth.",
+      "usage": "Telling someone about a planned meeting date",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "们",
+          "py": "men",
+          "meaning": "plural suffix"
+        },
+        {
+          "zh": "约",
+          "py": "yuē",
+          "meaning": "agree"
+        },
+        {
+          "zh": "定",
+          "py": "dìng",
+          "meaning": "decide"
+        },
+        {
+          "zh": "在",
+          "py": "zài",
+          "meaning": "at"
+        },
+        {
+          "zh": "五",
+          "py": "wǔ",
+          "meaning": "five"
+        },
+        {
+          "zh": "号",
+          "py": "hào",
+          "meaning": "date"
+        },
+        {
+          "zh": "见",
+          "py": "jiàn",
+          "meaning": "see"
+        },
+        {
+          "zh": "面",
+          "py": "miàn",
+          "meaning": "face"
+        }
+      ]
+    },
+    {
+      "chinese": "这个月我们去旅行。",
+      "pinyin": "Zhège yuè wǒmen qù lǚxíng.",
+      "translation": "We're going on a trip this month.",
+      "usage": "Telling someone about upcoming trip",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "个",
+          "py": "gè",
+          "meaning": "measure word"
+        },
+        {
+          "zh": "月",
+          "py": "yuè",
+          "meaning": "month"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "们",
+          "py": "men",
+          "meaning": "plural suffix"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "go"
+        },
+        {
+          "zh": "旅",
+          "py": "lǚ",
+          "meaning": "travel"
+        },
+        {
+          "zh": "行",
+          "py": "xíng",
+          "meaning": "travel"
+        }
+      ]
+    },
+    {
+      "chinese": "我需要在下周五之前完成工作。",
+      "pinyin": "Wǒ xūyào zài xià zhōu wǔ zhīqián wánchéng gōngzuò.",
+      "translation": "I need to finish work by next Friday.",
+      "usage": "Telling someone about deadline",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "需",
+          "py": "xū",
+          "meaning": "need"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "want to"
+        },
+        {
+          "zh": "在",
+          "py": "zài",
+          "meaning": "at"
+        },
+        {
+          "zh": "下",
+          "py": "xià",
+          "meaning": "next"
+        },
+        {
+          "zh": "周",
+          "py": "zhōu",
+          "meaning": "week"
+        },
+        {
+          "zh": "五",
+          "py": "wǔ",
+          "meaning": "five"
+        },
+        {
+          "zh": "之",
+          "py": "zhī",
+          "meaning": "of"
+        },
+        {
+          "zh": "前",
+          "py": "qián",
+          "meaning": "before"
+        },
+        {
+          "zh": "完",
+          "py": "wán",
+          "meaning": "complete"
+        },
+        {
+          "zh": "成",
+          "py": "chéng",
+          "meaning": "complete"
+        },
+        {
+          "zh": "工",
+          "py": "gōng",
+          "meaning": "work"
+        },
+        {
+          "zh": "作",
+          "py": "zuò",
+          "meaning": "work"
+        }
+      ]
+    }
+  ]
+}

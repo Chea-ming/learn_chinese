@@ -1,0 +1,226 @@
+{
+  "sentences": [
+    {
+      "chinese": "大使馆",
+      "pinyin": "Dàshǐguǎn",
+      "translation": "Embassy",
+      "usage": "The main diplomatic mission of a country.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "大",
+          "py": "dà",
+          "meaning": "big"
+        },
+        {
+          "zh": "使",
+          "py": "shǐ",
+          "meaning": "envoy"
+        },
+        {
+          "zh": "馆",
+          "py": "guǎn",
+          "meaning": "office"
+        }
+      ]
+    },
+    {
+      "chinese": "领事馆",
+      "pinyin": "Lǐngshìguǎn",
+      "translation": "Consulate",
+      "usage": "A local office for consular services.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "领",
+          "py": "lǐng",
+          "meaning": "lead"
+        },
+        {
+          "zh": "事",
+          "py": "shì",
+          "meaning": "matter"
+        },
+        {
+          "zh": "馆",
+          "py": "guǎn",
+          "meaning": "office"
+        }
+      ]
+    },
+    {
+      "chinese": "签证申请",
+      "pinyin": "Qiānzǐng shēnqǐng",
+      "translation": "Visa application",
+      "usage": "Process to request a visa.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "签",
+          "py": "qiān",
+          "meaning": "sign"
+        },
+        {
+          "zh": "证",
+          "py": "zhèng",
+          "meaning": "certificate"
+        },
+        {
+          "zh": "申",
+          "py": "shēn",
+          "meaning": "apply"
+        },
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "request"
+        }
+      ]
+    },
+    {
+      "chinese": "护照办理",
+      "pinyin": "Hùzhào bànli",
+      "translation": "Passport processing",
+      "usage": "Obtaining or renewing a passport.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "护",
+          "py": "hù",
+          "meaning": "protect"
+        },
+        {
+          "zh": "照",
+          "py": "zhào",
+          "meaning": "document"
+        },
+        {
+          "zh": "办",
+          "py": "bàn",
+          "meaning": "handle"
+        },
+        {
+          "zh": "理",
+          "py": "lǐ",
+          "meaning": "process"
+        }
+      ]
+    },
+    {
+      "chinese": "使馆地址",
+      "pinyin": "Shǐguǎn dìzhǐ",
+      "translation": "Embassy address",
+      "usage": "Location of the embassy.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "使",
+          "py": "shǐ",
+          "meaning": "envoy"
+        },
+        {
+          "zh": "馆",
+          "py": "guǎn",
+          "meaning": "office"
+        },
+        {
+          "zh": "地",
+          "py": "dì",
+          "meaning": "place"
+        },
+        {
+          "zh": "址",
+          "py": "zhǐ",
+          "meaning": "address"
+        }
+      ]
+    },
+    {
+      "chinese": "领事办公室",
+      "pinyin": "Lǐngshì bàngōngshì",
+      "translation": "Consular office",
+      "usage": "Specific area for consular services.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "领",
+          "py": "lǐng",
+          "meaning": "lead"
+        },
+        {
+          "zh": "事",
+          "py": "shì",
+          "meaning": "matter"
+        },
+        {
+          "zh": "办",
+          "py": "bàngōng",
+          "meaning": "handle work"
+        },
+        {
+          "zh": "公",
+          "py": "gōng",
+          "meaning": "public"
+        },
+        {
+          "zh": "室",
+          "py": "shì",
+          "meaning": "room"
+        }
+      ]
+    },
+    {
+      "chinese": "预约服务",
+      "pinyin": "Yùyuē fúwù",
+      "translation": "Appointment service",
+      "usage": "Booking a time for services.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "预",
+          "py": "yù",
+          "meaning": "plan"
+        },
+        {
+          "zh": "约",
+          "py": "yuē",
+          "meaning": "appoint"
+        },
+        {
+          "zh": "服",
+          "py": "fú",
+          "meaning": "serve"
+        },
+        {
+          "zh": "务",
+          "py": "wù",
+          "meaning": "service"
+        }
+      ]
+    },
+    {
+      "chinese": "使馆电话",
+      "pinyin": "Shǐguǎn diànhuà",
+      "translation": "Embassy phone number",
+      "usage": "Contact information for the embassy.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "使",
+          "py": "shǐ",
+          "meaning": "envoy"
+        },
+        {
+          "zh": "馆",
+          "py": "guǎn",
+          "meaning": "office"
+        },
+        {
+          "zh": "电",
+          "py": "diàn",
+          "meaning": "telephone"
+        }
+      ]
+    }
+  ]
+}

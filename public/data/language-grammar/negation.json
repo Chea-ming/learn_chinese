@@ -1,0 +1,253 @@
+{
+  "sentences": [
+    {
+      "chinese": "我不去。",
+      "pinyin": "Wǒ bù qù.",
+      "translation": "I don't go.",
+      "usage": "否定现在或未来的动作",
+      "formality": "中性",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "不",
+          "py": "bù",
+          "meaning": "not"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "to go"
+        }
+      ]
+    },
+    {
+      "chinese": "我没吃过。",
+      "pinyin": "Wǒ méi chī guò.",
+      "translation": "I haven't eaten (before).",
+      "usage": "否定过去经历",
+      "formality": "中性",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "没",
+          "py": "méi",
+          "meaning": "not"
+        },
+        {
+          "zh": "吃过",
+          "py": "chī guò",
+          "meaning": "eaten"
+        }
+      ]
+    },
+    {
+      "chinese": "这里没有。",
+      "pinyin": "Zhèlǐ méiyǒu.",
+      "translation": "There isn't any here.",
+      "usage": "否定存在",
+      "formality": "中性",
+      "words": [
+        {
+          "zh": "这里",
+          "py": "zhèlǐ",
+          "meaning": "here"
+        },
+        {
+          "zh": "没有",
+          "py": "méiyǒu",
+          "meaning": "not exist"
+        }
+      ]
+    },
+    {
+      "chinese": "他不来了。",
+      "pinyin": "Tā bù lái le.",
+      "translation": "He is not coming.",
+      "usage": "否定即将发生的动作",
+      "formality": "中性",
+      "words": [
+        {
+          "zh": "他",
+          "py": "tā",
+          "meaning": "he"
+        },
+        {
+          "zh": "不",
+          "py": "bù",
+          "meaning": "not"
+        },
+        {
+          "zh": "来",
+          "py": "lái",
+          "meaning": "to come"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "change of state"
+        }
+      ]
+    },
+    {
+      "chinese": "别说话。",
+      "pinyin": "Bié shuō huà.",
+      "translation": "Don't talk.",
+      "usage": "禁止性指令",
+      "formality": "中性",
+      "words": [
+        {
+          "zh": "别",
+          "py": "bié",
+          "meaning": "don't"
+        },
+        {
+          "zh": "说",
+          "py": "shuō",
+          "meaning": "to speak"
+        },
+        {
+          "zh": "话",
+          "py": "huà",
+          "meaning": "words"
+        }
+      ]
+    },
+    {
+      "chinese": "我不是学生。",
+      "pinyin": "Wǒ bù shì xuéshēng.",
+      "translation": "I am not a student.",
+      "usage": "否定身份",
+      "formality": "中性",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "不是",
+          "py": "bù shì",
+          "meaning": "am not"
+        },
+        {
+          "zh": "学生",
+          "py": "xuéshēng",
+          "meaning": "student"
+        }
+      ]
+    },
+    {
+      "chinese": "没完成。",
+      "pinyin": "Méi wánchéng.",
+      "translation": "Not completed.",
+      "usage": "否定完成状态",
+      "formality": "中性",
+      "words": [
+        {
+          "zh": "没",
+          "py": "méi",
+          "meaning": "not"
+        },
+        {
+          "zh": "完成",
+          "py": "wánchéng",
+          "meaning": "complete"
+        }
+      ]
+    },
+    {
+      "chinese": "他不高兴。",
+      "pinyin": "Tā bù gāoxìng.",
+      "translation": "He is unhappy.",
+      "usage": "否定形容词状态",
+      "formality": "中性",
+      "words": [
+        {
+          "zh": "他",
+          "py": "tā",
+          "meaning": "he"
+        },
+        {
+          "zh": "不",
+          "py": "bù",
+          "meaning": "not"
+        },
+        {
+          "zh": "高兴",
+          "py": "gāoxìng",
+          "meaning": "happy"
+        }
+      ]
+    },
+    {
+      "chinese": "没时间。",
+      "pinyin": "Méi shíjiān.",
+      "translation": "No time.",
+      "usage": "否定存在",
+      "formality": "中性",
+      "words": [
+        {
+          "zh": "没",
+          "py": "méi",
+          "meaning": "not"
+        },
+        {
+          "zh": "时间",
+          "py": "shíjiān",
+          "meaning": "time"
+        }
+      ]
+    },
+    {
+      "chinese": "别担心。",
+      "pinyin": "Bié dān xī.",
+      "translation": "Don't worry.",
+      "usage": "安慰用语",
+      "formality": "中性",
+      "words": [
+        {
+          "zh": "别",
+          "py": "bié",
+          "meaning": "don't"
+        },
+        {
+          "zh": "担心",
+          "py": "dān xī",
+          "meaning": "worry"
+        }
+      ]
+    },
+    {
+      "chinese": "我不喜欢。",
+      "pinyin": "Wǒ bù xǐhuān.",
+      "translation": "I don't like it.",
+      "usage": "否定喜好",
+      "formality": "中性",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "不",
+          "py": "bù",
+          "meaning": "not"
+        },
+        {
+          "zh": "喜欢",
+          "py": "xǐhuān",
+          "meaning": "like"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,395 @@
+{
+  "sentences": [
+    {
+      "chinese": "你尝尝这个北京烤鸭吧。",
+      "pinyin": "Nǐ cāng cāng zhège Běijīng kǎo yā ba。",
+      "translation": "Try this Peking duck.",
+      "usage": "Casual invitation to taste a dish. Use when sharing food with friends.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "尝尝",
+          "py": "cāng cāng",
+          "meaning": "try"
+        },
+        {
+          "zh": "这个",
+          "py": "zhège",
+          "meaning": "this"
+        },
+        {
+          "zh": "北京烤鸭",
+          "py": "Běijīng kǎo yā",
+          "meaning": "Peking duck"
+        }
+      ]
+    },
+    {
+      "chinese": "麻婆豆腐是四川的经典菜肴。",
+      "pinyin": "Mápó dòufu shì Sìchuān de jīngdiǎn yáwù。",
+      "translation": "Mapo tofu is a classic dish from Sichuan.",
+      "usage": "Informal description of a regional specialty.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "麻婆豆腐",
+          "py": "Mápó dòufu",
+          "meaning": "Mapo tofu"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "is"
+        },
+        {
+          "zh": "四川",
+          "py": "Sìchuān",
+          "meaning": "Sichuan"
+        },
+        {
+          "zh": "经典",
+          "py": "jīngdiǎn",
+          "meaning": "classic"
+        }
+      ]
+    },
+    {
+      "chinese": "这家餐厅的糖醋里脊非常美味。",
+      "pinyin": "Zhè jiā cāntīng de tángcù lǐjǐ fēicháng měiwèi。",
+      "translation": "The sweet-and-sour pork ribs at this restaurant are very delicious.",
+      "usage": "Formal compliment in a dining context.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这家",
+          "py": "zhè jiā",
+          "meaning": "this"
+        },
+        {
+          "zh": "餐厅",
+          "py": "cāntīng",
+          "meaning": "restaurant"
+        },
+        {
+          "zh": "糖醋里脊",
+          "py": "tángcù lǐjǐ",
+          "meaning": "sweet-and-sour pork ribs"
+        }
+      ]
+    },
+    {
+      "chinese": "你听说过杭州的东坡肉吗？",
+      "pinyin": "Nǐ tīngshuō guò Hángzhōu de Dōngpō ròu ma？",
+      "translation": "Have you heard of Dongpo meat from Hangzhou?",
+      "usage": "Informal question about a regional dish.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "听说过",
+          "py": "tīngshuō",
+          "meaning": "heard of"
+        },
+        {
+          "zh": "杭州",
+          "py": "Hángzhōu",
+          "meaning": "Hangzhou"
+        },
+        {
+          "zh": "东坡肉",
+          "py": "Dōngpō ròu",
+          "meaning": "Dongpo meat"
+        }
+      ]
+    },
+    {
+      "chinese": "热干面是武汉的特色早餐。",
+      "pinyin": "Rè gānmian shì Wǔhàn de tèsè zàocān。",
+      "translation": "Hot dry noodles are a specialty breakfast in Wuhan.",
+      "usage": "Neutral statement about a local dish.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "热干面",
+          "py": "Rè gānmian",
+          "meaning": "hot dry noodles"
+        },
+        {
+          "zh": "武汉",
+          "py": "Wǔhàn",
+          "meaning": "Wuhan"
+        },
+        {
+          "zh": "特色",
+          "py": "tèsè",
+          "meaning": "specialty"
+        }
+      ]
+    },
+    {
+      "chinese": "来点小笼包吧，真好吃！",
+      "pinyin": "Lái diǎn xiǎolóngbāo ba，zhēn hǎochī！",
+      "translation": "Have some dumplings, they're really delicious!",
+      "usage": "Casual recommendation for a snack.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "来点",
+          "py": "lái diǎn",
+          "meaning": "have some"
+        },
+        {
+          "zh": "小笼包",
+          "py": "xiǎolóngbāo",
+          "meaning": "steamed dumplings"
+        }
+      ]
+    },
+    {
+      "chinese": "这道菜的汤汁特别浓郁。",
+      "pinyin": "Zhè dàocài de tāngzhī tèbié nóngyù。",
+      "translation": "The soup of this dish is especially rich.",
+      "usage": "Formal description of a dish's flavor.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "汤汁",
+          "py": "tāngzhī",
+          "meaning": "soup"
+        },
+        {
+          "zh": "浓郁",
+          "py": "nóngyù",
+          "meaning": "rich"
+        }
+      ]
+    },
+    {
+      "chinese": "你最喜欢哪种中式美食？",
+      "pinyin": "Nǐ zuì xǐhuān nǎ zhǒng zhōngshì měishí？",
+      "translation": "Which type of Chinese cuisine do you like best?",
+      "usage": "Formal inquiry about food preferences.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "中式",
+          "py": "zhōngshì",
+          "meaning": "Chinese"
+        },
+        {
+          "zh": "美食",
+          "py": "měishí",
+          "meaning": "delicacies"
+        }
+      ]
+    },
+    {
+      "chinese": "宫保鸡丁是川菜的代表。",
+      "pinyin": "Gōngbǎo jīdīng shì chuāncài de dàibiǎo。",
+      "translation": "Kung Pao chicken is a representative dish of Sichuan cuisine.",
+      "usage": "Neutral statement about a dish's status.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "宫保鸡丁",
+          "py": "Gōngbǎo jīdīng",
+          "meaning": "Kung Pao chicken"
+        },
+        {
+          "zh": "川菜",
+          "py": "chuāncài",
+          "meaning": "Sichuan cuisine"
+        }
+      ]
+    },
+    {
+      "chinese": "别忘了尝试一下西湖醋鱼。",
+      "pinyin": "Bié wàngle cānshì yīxià Xīhú cùyú。",
+      "translation": "Don't forget to try the West Lake vinegar fish.",
+      "usage": "Casual reminder to try a dish.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "别忘了",
+          "py": "bié wàngle",
+          "meaning": "don't forget"
+        },
+        {
+          "zh": "西湖醋鱼",
+          "py": "Xīhú cùyú",
+          "meaning": "West Lake vinegar fish"
+        }
+      ]
+    },
+    {
+      "chinese": "这道菜融合了多种烹饪技法。",
+      "pinyin": "Zhè dàocài rónghé le duōzhǒng pēnchún jìfǎ。",
+      "translation": "This dish combines multiple cooking techniques.",
+      "usage": "Formal description of culinary methods.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "融合",
+          "py": "rónghé",
+          "meaning": "combine"
+        },
+        {
+          "zh": "烹饪技法",
+          "py": "pēnchún jìfǎ",
+          "meaning": "cooking techniques"
+        }
+      ]
+    },
+    {
+      "chinese": "你喝点茶吗？这茶很清香。",
+      "pinyin": "Nǐ hē diǎn chá ma？Zhè chá hěn qīngxiāng。",
+      "translation": "Would you like some tea? This tea is very fragrant.",
+      "usage": "Casual offer with a compliment.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "喝点",
+          "py": "hē diǎn",
+          "meaning": "have some"
+        },
+        {
+          "zh": "清香",
+          "py": "qīngxiāng",
+          "meaning": "fragrant"
+        }
+      ]
+    },
+    {
+      "chinese": "这道菜的历史可以追溯到唐朝。",
+      "pinyin": "Zhè dàocài de lìshǐ kěyǐ sùzhuī dào Tángcháo。",
+      "translation": "The history of this dish can be traced back to the Tang Dynasty.",
+      "usage": "Formal statement about a dish's origins.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "追溯",
+          "py": "sùzhuī",
+          "meaning": "trace back"
+        },
+        {
+          "zh": "唐朝",
+          "py": "Tángcháo",
+          "meaning": "Tang Dynasty"
+        }
+      ]
+    },
+    {
+      "chinese": "来份小笼包，配碗热汤。",
+      "pinyin": "Lái fèn xiǎolóngbāo，pèi wǎn rètāng。",
+      "translation": "Have a portion of dumplings with a bowl of hot soup.",
+      "usage": "Casual order for a meal.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "来份",
+          "py": "lái fèn",
+          "meaning": "have a portion"
+        },
+        {
+          "zh": "配碗",
+          "py": "pèi wǎn",
+          "meaning": "with a bowl"
+        }
+      ]
+    },
+    {
+      "chinese": "这道菜体现了中华烹饪的精髓。",
+      "pinyin": "Zhè dàocài tǐxiànle Zhōnghuá pēnchún de jīngsuì。",
+      "translation": "This dish embodies the essence of Chinese cuisine.",
+      "usage": "Formal appreciation of culinary art.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "体现",
+          "py": "tǐxiàn",
+          "meaning": "embodify"
+        },
+        {
+          "zh": "精髓",
+          "py": "jīngsuì",
+          "meaning": "essence"
+        }
+      ]
+    },
+    {
+      "chinese": "你吃了吗？今天想吃点什么？",
+      "pinyin": "Nǐ chīle ma？Jīntiān xiǎng chī diǎn shénme？",
+      "translation": "Have you eaten? What would you like to eat today?",
+      "usage": "Casual conversation about meals.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "吃了吗",
+          "py": "chīle ma",
+          "meaning": "Have you eaten?"
+        }
+      ]
+    },
+    {
+      "chinese": "这道菜的辣度可以根据口味调整。",
+      "pinyin": "Zhè dàocài de làdù kěyǐ gēnjù kǒuwèi tiázhēng。",
+      "translation": "The spiciness of this dish can be adjusted according to taste.",
+      "usage": "Formal explanation of customization options.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "辣度",
+          "py": "làdù",
+          "meaning": "spiciness"
+        },
+        {
+          "zh": "调整",
+          "py": "tiázhēng",
+          "meaning": "adjust"
+        }
+      ]
+    },
+    {
+      "chinese": "这道菜的汤底是用老母鸡熬制的。",
+      "pinyin": "Zhè dàocài de tāngdǐ shì yòng lǎomǔjī áo zhì de。",
+      "translation": "The soup base of this dish is made from old hen.",
+      "usage": "Formal description of ingredients.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "汤底",
+          "py": "tāngdǐ",
+          "meaning": "soup base"
+        },
+        {
+          "zh": "熬制",
+          "py": "áo zhì",
+          "meaning": "simmer"
+        }
+      ]
+    },
+    {
+      "chinese": "你一定要试试这道糖醋排骨。",
+      "pinyin": "Nǐ yīdìng yào shìshì zhè dào tángcù páogē。",
+      "translation": "You must try this sweet-and-sour pork ribs.",
+      "usage": "Strong recommendation for a dish.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "一定要",
+          "py": "yīdìng yào",
+          "meaning": "must"
+        },
+        {
+          "zh": "试试",
+          "py": "shìshì",
+          "meaning": "try"
+        }
+      ]
+    }
+  ]
+}

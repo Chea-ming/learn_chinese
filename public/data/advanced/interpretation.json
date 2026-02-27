@@ -1,0 +1,284 @@
+{
+  "sentences": [
+    {
+      "chinese": "解释",
+      "pinyin": "Jiěshì",
+      "translation": "Explanation",
+      "usage": "To clarify the meaning of something",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "解",
+          "py": "jiě",
+          "meaning": "understand"
+        },
+        {
+          "zh": "释",
+          "py": "shì",
+          "meaning": "release, explain"
+        }
+      ]
+    },
+    {
+      "chinese": "阐释",
+      "pinyin": "Chǎnshì",
+      "translation": "Elucidation",
+      "usage": "To explain the deeper meaning of a concept",
+      "formality": "Academic",
+      "words": [
+        {
+          "zh": "阐",
+          "py": "chǎn",
+          "meaning": "expand"
+        },
+        {
+          "zh": "释",
+          "py": "shì",
+          "meaning": "explain"
+        }
+      ]
+    },
+    {
+      "chinese": "诠释",
+      "pinyin": "Quánshì",
+      "translation": "Interpretation",
+      "usage": "To interpret philosophical or literary works",
+      "formality": "Academic",
+      "words": [
+        {
+          "zh": "诠",
+          "py": "quán",
+          "meaning": "analyze"
+        },
+        {
+          "zh": "释",
+          "py": "shì",
+          "meaning": "explain"
+        }
+      ]
+    },
+    {
+      "chinese": "演绎",
+      "pinyin": "Yǎnyì",
+      "translation": "Deduction",
+      "usage": "Logical derivation from premises",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "演",
+          "py": "yǎn",
+          "meaning": "present"
+        },
+        {
+          "zh": "绎",
+          "py": "yì",
+          "meaning": "unravel"
+        }
+      ]
+    },
+    {
+      "chinese": "诠释学",
+      "pinyin": "Quánshìxué",
+      "translation": "Hermeneutics",
+      "usage": "Philosophy of interpretation",
+      "formality": "Academic",
+      "words": [
+        {
+          "zh": "诠释",
+          "py": "quánshì",
+          "meaning": "interpretation"
+        },
+        {
+          "zh": "学",
+          "py": "xué",
+          "meaning": "study"
+        }
+      ]
+    },
+    {
+      "chinese": "字面解释",
+      "pinyin": "Zìmiàn jiěshì",
+      "translation": "Literal interpretation",
+      "usage": "Interpreting words at face value",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "字面",
+          "py": "zìmian",
+          "meaning": "literal"
+        },
+        {
+          "zh": "解释",
+          "py": "jiěshì",
+          "meaning": "explanation"
+        }
+      ]
+    },
+    {
+      "chinese": "法律解释",
+      "pinyin": "Fǎlǜ jiěshì",
+      "translation": "Legal interpretation",
+      "usage": "Court interpretation of laws",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "法律",
+          "py": "fǎlǜ",
+          "meaning": "law"
+        },
+        {
+          "zh": "解释",
+          "py": "jiěshì",
+          "meaning": "explanation"
+        }
+      ]
+    },
+    {
+      "chinese": "文学阐释",
+      "pinyin": "Wénxué chǎnshì",
+      "translation": "Literary analysis",
+      "usage": "Critical interpretation of literary works",
+      "formality": "Academic",
+      "words": [
+        {
+          "zh": "文学",
+          "py": "wénxué",
+          "meaning": "literature"
+        },
+        {
+          "zh": "阐释",
+          "py": "chǎnshì",
+          "meaning": "elucidation"
+        }
+      ]
+    },
+    {
+      "chinese": "文化诠释",
+      "pinyin": "Wénhuà quánshì",
+      "translation": "Cultural interpretation",
+      "usage": "Understanding expressions in cultural context",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "文化",
+          "py": "wénhuà",
+          "meaning": "culture"
+        },
+        {
+          "zh": "诠释",
+          "py": "quánshì",
+          "meaning": "interpretation"
+        }
+      ]
+    },
+    {
+      "chinese": "哲学诠释",
+      "pinyin": "Zhexue quánshì",
+      "translation": "Philosophical interpretation",
+      "usage": "Analyzing philosophical texts",
+      "formality": "Academic",
+      "words": [
+        {
+          "zh": "哲学",
+          "py": "zhéxué",
+          "meaning": "philosophy"
+        },
+        {
+          "zh": "诠释",
+          "py": "quánshì",
+          "meaning": "interpretation"
+        }
+      ]
+    },
+    {
+      "chinese": "语境分析",
+      "pinyin": "Yǔjìng fēnxī",
+      "translation": "Contextual analysis",
+      "usage": "Examining meaning within context",
+      "formality": "Academic",
+      "words": [
+        {
+          "zh": "语境",
+          "py": "yǔjìng",
+          "meaning": "context"
+        },
+        {
+          "zh": "分析",
+          "py": "fēnxī",
+          "meaning": "analysis"
+        }
+      ]
+    },
+    {
+      "chinese": "符号学解释",
+      "pinyin": "Fúhào xué jiěshì",
+      "translation": "Semiotic explanation",
+      "usage": "Analyzing signs and symbols",
+      "formality": "Academic",
+      "words": [
+        {
+          "zh": "符号学",
+          "py": "fúhàoxué",
+          "meaning": "semiotics"
+        },
+        {
+          "zh": "解释",
+          "py": "jiěshì",
+          "meaning": "explanation"
+        }
+      ]
+    },
+    {
+      "chinese": "文本解构",
+      "pinyin": "Wénběn jiécáigòu",
+      "translation": "Text deconstruction",
+      "usage": "Deconstructing literary texts",
+      "formality": "Academic",
+      "words": [
+        {
+          "zh": "文本",
+          "py": "wénběn",
+          "meaning": "text"
+        },
+        {
+          "zh": "解构",
+          "py": "jiécáigòu",
+          "meaning": "deconstruction"
+        }
+      ]
+    },
+    {
+      "chinese": "意图推定",
+      "pinyin": "Yìtù tuīdìng",
+      "translation": "Intent determination",
+      "usage": "Determining author's intent",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "意图",
+          "py": "yìtù",
+          "meaning": "intent"
+        },
+        {
+          "zh": "推定",
+          "py": "tuīdìng",
+          "meaning": "presumption"
+        }
+      ]
+    },
+    {
+      "chinese": "解释论",
+      "pinyin": "Jiěshì lùn",
+      "translation": "Interpretation theory",
+      "usage": "Academic theory of interpretation",
+      "formality": "Academic",
+      "words": [
+        {
+          "zh": "解释",
+          "py": "jiěshì",
+          "meaning": "explanation"
+        }
+      ]
+    }
+  ]
+}

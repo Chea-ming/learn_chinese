@@ -1,0 +1,194 @@
+{
+  "sentences": [
+    {
+      "chinese": "论点",
+      "pinyin": "Lùn diǎn",
+      "translation": "Argument point",
+      "usage": "Used to introduce a key argument in a debate.",
+      "formality": "Advanced",
+      "words": [
+        {
+          "zh": "论",
+          "py": "Lùn",
+          "meaning": "Discuss"
+        },
+        {
+          "zh": "点",
+          "py": "Diǎn",
+          "meaning": "Point"
+        }
+      ]
+    },
+    {
+      "chinese": "反驳",
+      "pinyin": "Fǎn bó",
+      "translation": "Refute",
+      "usage": "To counter an opponent's argument.",
+      "formality": "Advanced",
+      "words": [
+        {
+          "zh": "反",
+          "py": "Fǎn",
+          "meaning": "Oppose"
+        },
+        {
+          "zh": "驳",
+          "py": "Bó",
+          "meaning": "Rebut"
+        }
+      ]
+    },
+    {
+      "chinese": "逻辑谬误",
+      "pinyin": "Luójí miù wù",
+      "translation": "Logical fallacy",
+      "usage": "Identifies flawed reasoning in an argument.",
+      "formality": "Advanced",
+      "words": [
+        {
+          "zh": "逻辑",
+          "py": "Luójí",
+          "meaning": "Logic"
+        },
+        {
+          "zh": "谬误",
+          "py": "Miù wù",
+          "meaning": "Fallacy"
+        }
+      ]
+    },
+    {
+      "chinese": "举证责任",
+      "pinyin": "Jǔzhèng zérèn",
+      "translation": "Burden of proof",
+      "usage": "Describes the obligation to provide evidence.",
+      "formality": "Advanced",
+      "words": [
+        {
+          "zh": "举证",
+          "py": "Jǔzhèng",
+          "meaning": "Present evidence"
+        },
+        {
+          "zh": "责任",
+          "py": "Zérèn",
+          "meaning": "Responsibility"
+        }
+      ]
+    },
+    {
+      "chinese": "总结陈词",
+      "pinyin": "Zǒngjié chéncí",
+      "translation": "Closing statement",
+      "usage": "Final summary in a formal debate.",
+      "formality": "Advanced",
+      "words": [
+        {
+          "zh": "总结",
+          "py": "Zǒngjié",
+          "meaning": "Summarize"
+        },
+        {
+          "zh": "陈词",
+          "py": "Chéncí",
+          "meaning": "Statement"
+        }
+      ]
+    },
+    {
+      "chinese": "首先",
+      "pinyin": "Shǒuxiān",
+      "translation": "Firstly",
+      "usage": "Introduces the first point in an argument.",
+      "formality": "Advanced",
+      "words": [
+        {
+          "zh": "首",
+          "py": "Shǒu",
+          "meaning": "First"
+        },
+        {
+          "zh": "先",
+          "py": "Xiān",
+          "meaning": "Previously"
+        }
+      ]
+    },
+    {
+      "chinese": "有效论据",
+      "pinyin": "Yǒuxiào lùnjù",
+      "translation": "Effective argument",
+      "usage": "Valid evidence supporting a claim.",
+      "formality": "Advanced",
+      "words": [
+        {
+          "zh": "有效",
+          "py": "Yǒuxiào",
+          "meaning": "Effective"
+        },
+        {
+          "zh": "论据",
+          "py": "Lùnjù",
+          "meaning": "Argument"
+        }
+      ]
+    },
+    {
+      "chinese": "质疑",
+      "pinyin": "Zhì yí",
+      "translation": "Question",
+      "usage": "Challenge the validity of a claim.",
+      "formality": "Advanced",
+      "words": [
+        {
+          "zh": "质",
+          "py": "Zhì",
+          "meaning": "Challenge"
+        },
+        {
+          "zh": "疑",
+          "py": "Yí",
+          "meaning": "Doubt"
+        }
+      ]
+    },
+    {
+      "chinese": "辩证法",
+      "pinyin": "Biànzhèng fǎ",
+      "translation": "Dialectics",
+      "usage": "Philosophical method of analyzing contradictions.",
+      "formality": "Advanced",
+      "words": [
+        {
+          "zh": "辩证",
+          "py": "Biànzhèng",
+          "meaning": "Dialectical"
+        },
+        {
+          "zh": "法",
+          "py": "Fǎ",
+          "meaning": "Method"
+        }
+      ]
+    },
+    {
+      "chinese": "立场",
+      "pinyin": "Lìchǎng",
+      "translation": "Position",
+      "usage": "One's viewpoint in a debate.",
+      "formality": "Advanced",
+      "words": [
+        {
+          "zh": "立",
+          "py": "Lì",
+          "meaning": "Establish"
+        },
+        {
+          "zh": "场",
+          "py": "Chǎng",
+          "meaning": "Position"
+        }
+      ]
+    }
+  ]
+}

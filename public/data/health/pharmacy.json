@@ -1,0 +1,680 @@
+{
+  "sentences": [
+    {
+      "chinese": "你好！",
+      "pinyin": "Nǐ hǎo!",
+      "translation": "Hello!",
+      "usage": "The standard, all-purpose greeting. Suitable for almost any situation.",
+      "formality": "Neutral / Informal",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good / well"
+        }
+      ]
+    },
+    {
+      "chinese": "请问这个药多少钱？",
+      "pinyin": "Qǐngwèn zhège yào duōshǎo qián?",
+      "translation": "How much is this medicine?",
+      "usage": "Asking about the price of a medication at a pharmacy.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "问",
+          "py": "wèn",
+          "meaning": "ask"
+        },
+        {
+          "zh": "这个",
+          "py": "zhège",
+          "meaning": "this"
+        },
+        {
+          "zh": "药",
+          "py": "yào",
+          "meaning": "medicine"
+        },
+        {
+          "zh": "多",
+          "py": "duō",
+          "meaning": "how much"
+        },
+        {
+          "zh": "少",
+          "py": "shǎo",
+          "meaning": "little"
+        },
+        {
+          "zh": "钱",
+          "py": "qián",
+          "meaning": "money"
+        }
+      ]
+    },
+    {
+      "chinese": "医生，这个处方需要去药店取药吗？",
+      "pinyin": "Yīshēng, zhège chūfāng xūyào qù yàodiàn qǔyào ma?",
+      "translation": "Doctor, do I need to go to the pharmacy to get this prescription?",
+      "usage": "Asking a doctor about prescription pickup.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "医生",
+          "py": "yīshēng",
+          "meaning": "doctor"
+        },
+        {
+          "zh": "这个",
+          "py": "zhège",
+          "meaning": "this"
+        },
+        {
+          "zh": "处方",
+          "py": "chūfāng",
+          "meaning": "prescription"
+        },
+        {
+          "zh": "需要",
+          "py": "xūyào",
+          "meaning": "need"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "go"
+        },
+        {
+          "zh": "药店",
+          "py": "yàodiàn",
+          "meaning": "pharmacy"
+        },
+        {
+          "zh": "取药",
+          "py": "qǔyào",
+          "meaning": "get medicine"
+        }
+      ]
+    },
+    {
+      "chinese": "这个药是OTC吗？",
+      "pinyin": "Zhège yào shì OTC ma?",
+      "translation": "Is this medicine OTC?",
+      "usage": "Asking if a medication is over-the-counter.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这个",
+          "py": "zhège",
+          "meaning": "this"
+        },
+        {
+          "zh": "药",
+          "py": "yào",
+          "meaning": "medicine"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "is"
+        },
+        {
+          "zh": "OTC",
+          "py": "OTC",
+          "meaning": "over-the-counter"
+        }
+      ]
+    },
+    {
+      "chinese": "需要处方吗？",
+      "pinyin": "Xūyào chūfāng ma?",
+      "translation": "Do you need a prescription?",
+      "usage": "Asking if a medication requires a prescription.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "需要",
+          "py": "xūyào",
+          "meaning": "need"
+        },
+        {
+          "zh": "处方",
+          "py": "chūfāng",
+          "meaning": "prescription"
+        }
+      ]
+    },
+    {
+      "chinese": "医保可以报销吗？",
+      "pinyin": "Bǐyào kěyǐ báochōng ma?",
+      "translation": "Can this be reimbursed by medical insurance?",
+      "usage": "Inquiring about insurance coverage for medication.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "医保",
+          "py": "bǐyào",
+          "meaning": "medical insurance"
+        },
+        {
+          "zh": "可以",
+          "py": "kěyǐ",
+          "meaning": "can"
+        },
+        {
+          "zh": "报销",
+          "py": "báochōng",
+          "meaning": "reimburse"
+        }
+      ]
+    },
+    {
+      "chinese": "请问药在哪里？",
+      "pinyin": "Qǐngwèn yào zài nǎlǐ?",
+      "translation": "Where is the medicine?",
+      "usage": "Asking for the location of medication in a pharmacy.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "问",
+          "py": "wèn",
+          "meaning": "ask"
+        },
+        {
+          "zh": "药",
+          "py": "yào",
+          "meaning": "medicine"
+        },
+        {
+          "zh": "在",
+          "py": "zài",
+          "meaning": "at"
+        },
+        {
+          "zh": "哪里",
+          "py": "nǎlǐ",
+          "meaning": "where"
+        }
+      ]
+    },
+    {
+      "chinese": "请帮我拿一下这个药。",
+      "pinyin": "Qǐng bāng wǒ ná yīxià zhège yào.",
+      "translation": "Please get this medicine for me.",
+      "usage": "Asking a pharmacy staff to retrieve medication.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "帮",
+          "py": "bāng",
+          "meaning": "help"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "me"
+        },
+        {
+          "zh": "拿",
+          "py": "ná",
+          "meaning": "get"
+        },
+        {
+          "zh": "一下",
+          "py": "yīxià",
+          "meaning": "a bit"
+        },
+        {
+          "zh": "这个",
+          "py": "zhège",
+          "meaning": "this"
+        },
+        {
+          "zh": "药",
+          "py": "yào",
+          "meaning": "medicine"
+        }
+      ]
+    },
+    {
+      "chinese": "这个药每天需要吃几次？",
+      "pinyin": "Zhège yào měi tiān xūyào chī jǐ cì?",
+      "translation": "How many times a day should I take this medicine?",
+      "usage": "Asking about medication dosage frequency.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这个",
+          "py": "zhège",
+          "meaning": "this"
+        },
+        {
+          "zh": "药",
+          "py": "yào",
+          "meaning": "medicine"
+        },
+        {
+          "zh": "每天",
+          "py": "měi tiān",
+          "meaning": "every day"
+        },
+        {
+          "zh": "需要",
+          "py": "xūyào",
+          "meaning": "need"
+        },
+        {
+          "zh": "吃",
+          "py": "chī",
+          "meaning": "take"
+        },
+        {
+          "zh": "几次",
+          "py": "jǐ cì",
+          "meaning": "how many times"
+        }
+      ]
+    },
+    {
+      "chinese": "药效什么时候开始？",
+      "pinyin": "Yàoxiào shénme shíhòu kāishǐ?",
+      "translation": "When does the medication start working?",
+      "usage": "Inquiring about the onset time of a drug's effect.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "药效",
+          "py": "yàoxiào",
+          "meaning": "medication effect"
+        },
+        {
+          "zh": "什么时候",
+          "py": "shénme shíhòu",
+          "meaning": "when"
+        },
+        {
+          "zh": "开始",
+          "py": "kāishǐ",
+          "meaning": "start"
+        }
+      ]
+    },
+    {
+      "chinese": "这个药会有什么副作用吗？",
+      "pinyin": "Zhège yào huì yǒu shénme fùzuòyòng ma?",
+      "translation": "What are the side effects of this medicine?",
+      "usage": "Asking about potential side effects of a medication.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这个",
+          "py": "zhège",
+          "meaning": "this"
+        },
+        {
+          "zh": "药",
+          "py": "yào",
+          "meaning": "medicine"
+        },
+        {
+          "zh": "会",
+          "py": "huì",
+          "meaning": "will"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "have"
+        },
+        {
+          "zh": "什么",
+          "py": "shénme",
+          "meaning": "what"
+        },
+        {
+          "zh": "副作用",
+          "py": "fùzuòyòng",
+          "meaning": "side effect"
+        }
+      ]
+    },
+    {
+      "chinese": "请把药放在哪里？",
+      "pinyin": "Qǐng bǎ yào fàng zài nǎlǐ?",
+      "translation": "Where should I put the medicine?",
+      "usage": "Asking about storage instructions for medication.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "把",
+          "py": "bǎ",
+          "meaning": "put"
+        },
+        {
+          "zh": "药",
+          "py": "yào",
+          "meaning": "medicine"
+        },
+        {
+          "zh": "放在",
+          "py": "fàng zài",
+          "meaning": "put in"
+        },
+        {
+          "zh": "哪里",
+          "py": "nǎlǐ",
+          "meaning": "where"
+        }
+      ]
+    },
+    {
+      "chinese": "药盒上的说明要仔细看。",
+      "pinyin": "Yàohé shàng de shuōmíng yào zǐxī kàn.",
+      "translation": "Read the instructions on the medicine box carefully.",
+      "usage": "Giving advice about medication instructions.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "药盒",
+          "py": "yàohé",
+          "meaning": "medicine box"
+        },
+        {
+          "zh": "上",
+          "py": "shàng",
+          "meaning": "on"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "of"
+        },
+        {
+          "zh": "说明",
+          "py": "shuōmíng",
+          "meaning": "instructions"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "need to"
+        },
+        {
+          "zh": "仔细",
+          "py": "zǐxī",
+          "meaning": "carefully"
+        },
+        {
+          "zh": "看",
+          "py": "kàn",
+          "meaning": "look"
+        }
+      ]
+    },
+    {
+      "chinese": "这个药需要冷藏吗？",
+      "pinyin": "Zhège yào xūyào cánglěng ma?",
+      "translation": "Does this medicine need to be refrigerated?",
+      "usage": "Asking about storage conditions for medication.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这个",
+          "py": "zhège",
+          "meaning": "this"
+        },
+        {
+          "zh": "药",
+          "py": "yào",
+          "meaning": "medicine"
+        },
+        {
+          "zh": "需要",
+          "py": "xūyào",
+          "meaning": "need"
+        },
+        {
+          "zh": "冷藏",
+          "py": "cánglěng",
+          "meaning": "refrigerate"
+        }
+      ]
+    },
+    {
+      "chinese": "请帮我 refill 这个药。",
+      "pinyin": "Qǐng bāng wǒ refill zhège yào.",
+      "translation": "Please refill this medicine for me.",
+      "usage": "Asking for a refill of medication.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "帮",
+          "py": "bāng",
+          "meaning": "help"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "me"
+        },
+        {
+          "zh": "refill",
+          "py": "refill",
+          "meaning": "refill"
+        },
+        {
+          "zh": "这个",
+          "py": "zhège",
+          "meaning": "this"
+        },
+        {
+          "zh": "药",
+          "py": "yào",
+          "meaning": "medicine"
+        }
+      ]
+    },
+    {
+      "chinese": "药过期了怎么办？",
+      "pinyin": "Yào guòqī le bùnán zěnme bàn?",
+      "translation": "What should I do if the medicine has expired?",
+      "usage": "Asking about expired medication.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "药",
+          "py": "yào",
+          "meaning": "medicine"
+        },
+        {
+          "zh": "过期",
+          "py": "guòqī",
+          "meaning": "expired"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "already"
+        },
+        {
+          "zh": "怎么办",
+          "py": "bùnán zěnme bàn",
+          "meaning": "what to do"
+        }
+      ]
+    },
+    {
+      "chinese": "请把药分装成每天的剂量。",
+      "pinyin": "Qǐng bǎ yào fēn zhuāng chéng měi tiān de dòngliàng.",
+      "translation": "Please divide the medicine into daily doses.",
+      "usage": "Asking to split medication into daily portions.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "把",
+          "py": "bǎ",
+          "meaning": "put"
+        },
+        {
+          "zh": "药",
+          "py": "yào",
+          "meaning": "medicine"
+        },
+        {
+          "zh": "分装",
+          "py": "fēn zhuāng",
+          "meaning": "divide into portions"
+        },
+        {
+          "zh": "成",
+          "py": "chéng",
+          "meaning": "into"
+        },
+        {
+          "zh": "每天",
+          "py": "měi tiān",
+          "meaning": "every day"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "of"
+        },
+        {
+          "zh": "剂量",
+          "py": "dòngliàng",
+          "meaning": "dose"
+        }
+      ]
+    },
+    {
+      "chinese": "药不能和哪些食物一起吃？",
+      "pinyin": "Yào bùnéng hé nǎxiē shíwù yīqǐ chī?",
+      "translation": "Which foods should not be taken with this medicine?",
+      "usage": "Asking about food interactions with medication.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "药",
+          "py": "yào",
+          "meaning": "medicine"
+        },
+        {
+          "zh": "不能",
+          "py": "bùnéng",
+          "meaning": "cannot"
+        },
+        {
+          "zh": "和",
+          "py": "hé",
+          "meaning": "with"
+        },
+        {
+          "zh": "哪些",
+          "py": "nǎxiē",
+          "meaning": "which"
+        },
+        {
+          "zh": "食物",
+          "py": "shíwù",
+          "meaning": "food"
+        },
+        {
+          "zh": "一起",
+          "py": "yīqǐ",
+          "meaning": "together"
+        },
+        {
+          "zh": "吃",
+          "py": "chī",
+          "meaning": "eat"
+        }
+      ]
+    },
+    {
+      "chinese": "请把药放在儿童不能拿到的地方。",
+      "pinyin": "Qǐng bǎ yào fàng zài tóngrén bùnéng ná dào de dìfāng.",
+      "translation": "Please put the medicine in a place children cannot reach.",
+      "usage": "Giving safety instructions for medication storage.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "把",
+          "py": "bǎ",
+          "meaning": "put"
+        },
+        {
+          "zh": "药",
+          "py": "yào",
+          "meaning": "medicine"
+        },
+        {
+          "zh": "放在",
+          "py": "fàng zài",
+          "meaning": "put in"
+        },
+        {
+          "zh": "儿童",
+          "py": "tóngrén",
+          "meaning": "children"
+        },
+        {
+          "zh": "不能",
+          "py": "bùnéng",
+          "meaning": "cannot"
+        },
+        {
+          "zh": "拿到",
+          "py": "ná dào",
+          "meaning": "reach"
+        },
+        {
+          "zh": "的地方",
+          "py": "de dìfāng",
+          "meaning": "place"
+        }
+      ]
+    }
+  ]
+}

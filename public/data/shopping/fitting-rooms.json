@@ -1,0 +1,954 @@
+{
+  "sentences": [
+    {
+      "chinese": "这件衣服太大了。",
+      "pinyin": "Zhè jiàn yīfu tài dà le.",
+      "translation": "This piece of clothing is too big.",
+      "usage": "Used when a garment doesn't fit properly and is too large.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "件",
+          "py": "jiàn",
+          "meaning": "piece"
+        },
+        {
+          "zh": "衣",
+          "py": "yī",
+          "meaning": "clothing"
+        },
+        {
+          "zh": "服",
+          "py": "fu",
+          "meaning": "clothing"
+        },
+        {
+          "zh": "太",
+          "py": "tài",
+          "meaning": "too"
+        },
+        {
+          "zh": "大",
+          "py": "dà",
+          "meaning": "big"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "particle indicating completion"
+        }
+      ]
+    },
+    {
+      "chinese": "我想要试穿这件外套。",
+      "pinyin": "Wǒ xiǎng yào shì chuān zhè jiàn wàitáo.",
+      "translation": "I want to try on this coat.",
+      "usage": "Used when requesting to try on a specific item of clothing.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "想",
+          "py": "xiǎng",
+          "meaning": "want to"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "to want"
+        },
+        {
+          "zh": "试",
+          "py": "shì",
+          "meaning": "try"
+        },
+        {
+          "zh": "穿",
+          "py": "chuān",
+          "meaning": "wear"
+        },
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "件",
+          "py": "jiàn",
+          "meaning": "piece"
+        },
+        {
+          "zh": "外",
+          "py": "wài",
+          "meaning": "outer"
+        },
+        {
+          "zh": "套",
+          "py": "táo",
+          "meaning": "coat"
+        }
+      ]
+    },
+    {
+      "chinese": "请问，你们有M码的吗？",
+      "pinyin": "Qǐng wèn, nǐmen yǒu M mǎ de ma?",
+      "translation": "Excuse me, do you have size M?",
+      "usage": "Used when asking for a specific size in a store.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "问",
+          "py": "wèn",
+          "meaning": "ask"
+        },
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "们",
+          "py": "men",
+          "meaning": "plural marker"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "have"
+        },
+        {
+          "zh": "M",
+          "py": "M",
+          "meaning": "size M"
+        },
+        {
+          "zh": "码",
+          "py": "mǎ",
+          "meaning": "size"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive particle"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "这个尺码太小了。",
+      "pinyin": "Zhège chǐmǎ tài xiǎo le.",
+      "translation": "This size is too small.",
+      "usage": "Used when a size doesn't fit properly and is too small.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "个",
+          "py": "ge",
+          "meaning": "classifier"
+        },
+        {
+          "zh": "尺",
+          "py": "chǐ",
+          "meaning": "size"
+        },
+        {
+          "zh": "码",
+          "py": "mǎ",
+          "meaning": "size"
+        },
+        {
+          "zh": "太",
+          "py": "tài",
+          "meaning": "too"
+        },
+        {
+          "zh": "小",
+          "py": "xiǎo",
+          "meaning": "small"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "particle indicating completion"
+        }
+      ]
+    },
+    {
+      "chinese": "可以试一下吗？",
+      "pinyin": "Kěyǐ shì yīxià ma?",
+      "translation": "Can I try it on?",
+      "usage": "Used when asking permission to try on an item.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "可",
+          "py": "kě",
+          "meaning": "can"
+        },
+        {
+          "zh": "以",
+          "py": "yǐ",
+          "meaning": "to be able to"
+        },
+        {
+          "zh": "试",
+          "py": "shì",
+          "meaning": "try"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "下",
+          "py": "xià",
+          "meaning": "a bit"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "我需要一个更大的尺码。",
+      "pinyin": "Wǒ xūyào yīgè gèng dà de chǐmǎ.",
+      "translation": "I need a larger size.",
+      "usage": "Used when requesting a bigger size due to poor fit.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "需",
+          "py": "xū",
+          "meaning": "need"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "want"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "个",
+          "py": "ge",
+          "meaning": "classifier"
+        },
+        {
+          "zh": "更",
+          "py": "gèng",
+          "meaning": "more"
+        },
+        {
+          "zh": "大",
+          "py": "dà",
+          "meaning": "big"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive particle"
+        },
+        {
+          "zh": "尺",
+          "py": "chǐ",
+          "meaning": "size"
+        },
+        {
+          "zh": "码",
+          "py": "mǎ",
+          "meaning": "size"
+        }
+      ]
+    },
+    {
+      "chinese": "这个衣服很合身。",
+      "pinyin": "Zhège yīfu hěn héshēn.",
+      "translation": "This piece of clothing fits well.",
+      "usage": "Used when an item fits perfectly.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "个",
+          "py": "ge",
+          "meaning": "classifier"
+        },
+        {
+          "zh": "衣",
+          "py": "yī",
+          "meaning": "clothing"
+        },
+        {
+          "zh": "服",
+          "py": "fu",
+          "meaning": "clothing"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "合",
+          "py": "hé",
+          "meaning": "fit"
+        },
+        {
+          "zh": "身",
+          "py": "shēn",
+          "meaning": "body"
+        }
+      ]
+    },
+    {
+      "chinese": "我试穿这件衬衫。",
+      "pinyin": "Wǒ shì chuān zhè jiàn chūnshān.",
+      "translation": "I'm trying on this shirt.",
+      "usage": "Used when describing the action of trying on a shirt.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "试",
+          "py": "shì",
+          "meaning": "try"
+        },
+        {
+          "zh": "穿",
+          "py": "chuān",
+          "meaning": "wear"
+        },
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "件",
+          "py": "jiàn",
+          "meaning": "piece"
+        },
+        {
+          "zh": "衬",
+          "py": "chǔn",
+          "meaning": "shirt"
+        },
+        {
+          "zh": "衫",
+          "py": "shān",
+          "meaning": "shirt"
+        }
+      ]
+    },
+    {
+      "chinese": "请问，这件衣服有L码吗？",
+      "pinyin": "Qǐng wèn, zhè jiàn yīfu yǒu L mǎ ma?",
+      "translation": "Excuse me, does this piece of clothing have size L?",
+      "usage": "Used when asking if a specific item is available in a particular size.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "问",
+          "py": "wèn",
+          "meaning": "ask"
+        },
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "件",
+          "py": "jiàn",
+          "meaning": "piece"
+        },
+        {
+          "zh": "衣",
+          "py": "yī",
+          "meaning": "clothing"
+        },
+        {
+          "zh": "服",
+          "py": "fu",
+          "meaning": "clothing"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "have"
+        },
+        {
+          "zh": "L",
+          "py": "L",
+          "meaning": "size L"
+        },
+        {
+          "zh": "码",
+          "py": "mǎ",
+          "meaning": "size"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "这个尺码正好。",
+      "pinyin": "Zhège chǐmǎ zhènghǎo.",
+      "translation": "This size is just right.",
+      "usage": "Used when a size fits perfectly.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "个",
+          "py": "ge",
+          "meaning": "classifier"
+        },
+        {
+          "zh": "尺",
+          "py": "chǐ",
+          "meaning": "size"
+        },
+        {
+          "zh": "码",
+          "py": "mǎ",
+          "meaning": "size"
+        },
+        {
+          "zh": "正",
+          "py": "zhèng",
+          "meaning": "right"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good"
+        }
+      ]
+    },
+    {
+      "chinese": "我需要换一件大一点的。",
+      "pinyin": "Wǒ xūyào huàn yījiàn dà yīdiǎn de.",
+      "translation": "I need to change to one that is a bit bigger.",
+      "usage": "Used when requesting a larger size due to poor fit.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "需",
+          "py": "xū",
+          "meaning": "need"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "want"
+        },
+        {
+          "zh": "换",
+          "py": "huàn",
+          "meaning": "change"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "件",
+          "py": "jiàn",
+          "meaning": "piece"
+        },
+        {
+          "zh": "大",
+          "py": "dà",
+          "meaning": "big"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "点",
+          "py": "diǎn",
+          "meaning": "bit"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive particle"
+        }
+      ]
+    },
+    {
+      "chinese": "这件裙子太紧了。",
+      "pinyin": "Zhè jiàn qúnnǐ tài jǐn le.",
+      "translation": "This skirt is too tight.",
+      "usage": "Used when a skirt doesn't fit properly and is too tight.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "件",
+          "py": "jiàn",
+          "meaning": "piece"
+        },
+        {
+          "zh": "裙",
+          "py": "qún",
+          "meaning": "skirt"
+        },
+        {
+          "zh": "子",
+          "py": "zi",
+          "meaning": "classifier"
+        },
+        {
+          "zh": "太",
+          "py": "tài",
+          "meaning": "too"
+        },
+        {
+          "zh": "紧",
+          "py": "jǐn",
+          "meaning": "tight"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "particle indicating completion"
+        }
+      ]
+    },
+    {
+      "chinese": "可以帮我找一下吗？",
+      "pinyin": "Kěyǐ bāng wǒ zhǎo yīxià ma?",
+      "translation": "Can you help me look for it?",
+      "usage": "Used when asking for assistance in finding a specific size.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "可",
+          "py": "kě",
+          "meaning": "can"
+        },
+        {
+          "zh": "以",
+          "py": "yǐ",
+          "meaning": "to be able to"
+        },
+        {
+          "zh": "帮",
+          "py": "bāng",
+          "meaning": "help"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "找",
+          "py": "zhǎo",
+          "meaning": "find"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "下",
+          "py": "xià",
+          "meaning": "a bit"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "这个衣服有点长。",
+      "pinyin": "Zhège yīfu yǒudiǎn cháng.",
+      "translation": "This piece of clothing is a bit long.",
+      "usage": "Used when an item is slightly too long.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "个",
+          "py": "ge",
+          "meaning": "classifier"
+        },
+        {
+          "zh": "衣",
+          "py": "yī",
+          "meaning": "clothing"
+        },
+        {
+          "zh": "服",
+          "py": "fu",
+          "meaning": "clothing"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "have"
+        },
+        {
+          "zh": "点",
+          "py": "diǎn",
+          "meaning": "bit"
+        },
+        {
+          "zh": "长",
+          "py": "cháng",
+          "meaning": "long"
+        }
+      ]
+    },
+    {
+      "chinese": "我想要一件合身的。",
+      "pinyin": "Wǒ xiǎng yào yījiàn héshēn de.",
+      "translation": "I want a piece that fits well.",
+      "usage": "Used when requesting a well-fitting item.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "想",
+          "py": "xiǎng",
+          "meaning": "want"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "want"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "件",
+          "py": "jiàn",
+          "meaning": "piece"
+        },
+        {
+          "zh": "合",
+          "py": "hé",
+          "meaning": "fit"
+        },
+        {
+          "zh": "身",
+          "py": "shēn",
+          "meaning": "body"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive particle"
+        }
+      ]
+    },
+    {
+      "chinese": "这件外套太大了。",
+      "pinyin": "Zhè jiàn wàitào tài tài le.",
+      "translation": "This coat is too big.",
+      "usage": "Used when a coat doesn't fit properly and is too big.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "件",
+          "py": "jiàn",
+          "meaning": "piece"
+        },
+        {
+          "zh": "外",
+          "py": "wài",
+          "meaning": "outer"
+        },
+        {
+          "zh": "套",
+          "py": "tào",
+          "meaning": "coat"
+        },
+        {
+          "zh": "太",
+          "py": "tài",
+          "meaning": "too"
+        },
+        {
+          "zh": "大",
+          "py": "dà",
+          "meaning": "big"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "particle indicating completion"
+        }
+      ]
+    },
+    {
+      "chinese": "这个尺寸正好合适。",
+      "pinyin": "Zhège chǐcùn zhènghǎo héshì.",
+      "translation": "This size is just right.",
+      "usage": "Used when a size fits perfectly.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "个",
+          "py": "ge",
+          "meaning": "classifier"
+        },
+        {
+          "zh": "尺",
+          "py": "chǐ",
+          "meaning": "size"
+        },
+        {
+          "zh": "寸",
+          "py": "cùn",
+          "meaning": "size"
+        },
+        {
+          "zh": "正",
+          "py": "zhèng",
+          "meaning": "right"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good"
+        },
+        {
+          "zh": "合",
+          "py": "hé",
+          "meaning": "fit"
+        },
+        {
+          "zh": "适",
+          "py": "shì",
+          "meaning": "suitable"
+        }
+      ]
+    },
+    {
+      "chinese": "我试穿一下。",
+      "pinyin": "Wǒ shì chuān yīxià.",
+      "translation": "I'll try it on.",
+      "usage": "Used when describing the action of trying on an item.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "试",
+          "py": "shì",
+          "meaning": "try"
+        },
+        {
+          "zh": "穿",
+          "py": "chuān",
+          "meaning": "wear"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "下",
+          "py": "xià",
+          "meaning": "a bit"
+        }
+      ]
+    },
+    {
+      "chinese": "这件衣服很宽松。",
+      "pinyin": "Zhè jiàn yīfu hěn kuānsōng.",
+      "translation": "This piece of clothing is very loose.",
+      "usage": "Used when describing an item that is loose.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "件",
+          "py": "jiàn",
+          "meaning": "piece"
+        },
+        {
+          "zh": "衣",
+          "py": "yī",
+          "meaning": "clothing"
+        },
+        {
+          "zh": "服",
+          "py": "fu",
+          "meaning": "clothing"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "宽",
+          "py": "kuān",
+          "meaning": "wide"
+        },
+        {
+          "zh": "松",
+          "py": "sōng",
+          "meaning": "loose"
+        }
+      ]
+    },
+    {
+      "chinese": "我需要一件小一点的。",
+      "pinyin": "Wǒ xūyào yījiàn xiǎo yīdiǎn de.",
+      "translation": "I need a piece that is a bit smaller.",
+      "usage": "Used when requesting a smaller size.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "需",
+          "py": "xū",
+          "meaning": "need"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "want"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "件",
+          "py": "jiàn",
+          "meaning": "piece"
+        },
+        {
+          "zh": "小",
+          "py": "xiǎo",
+          "meaning": "small"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "点",
+          "py": "diǎn",
+          "meaning": "bit"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive particle"
+        }
+      ]
+    }
+  ]
+}

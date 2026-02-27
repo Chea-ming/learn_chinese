@@ -1,0 +1,283 @@
+{
+  "sentences": [
+    {
+      "chinese": "我爱音乐。",
+      "pinyin": "Wǒ ài yīnyuè.",
+      "translation": "I love music.",
+      "usage": "Expressing a passion for music.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "爱",
+          "py": "ài",
+          "meaning": "love"
+        },
+        {
+          "zh": "音乐",
+          "py": "yīnyuè",
+          "meaning": "music"
+        }
+      ]
+    },
+    {
+      "chinese": "听歌放松。",
+      "pinyin": "Tīng gē fàngsōng.",
+      "translation": "Listening to music to relax.",
+      "usage": "Relaxation activity.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "听",
+          "py": "tīng",
+          "meaning": "listen"
+        },
+        {
+          "zh": "歌",
+          "py": "gē",
+          "meaning": "song"
+        },
+        {
+          "zh": "放松",
+          "py": "fàngsōng",
+          "meaning": "relax"
+        }
+      ]
+    },
+    {
+      "chinese": "流行音乐。",
+      "pinyin": "Liúxíng yīnyuè.",
+      "translation": "Pop music.",
+      "usage": "Common genre of music.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "流行",
+          "py": "liúxíng",
+          "meaning": "popular"
+        },
+        {
+          "zh": "音乐",
+          "py": "yīnyuè",
+          "meaning": "music"
+        }
+      ]
+    },
+    {
+      "chinese": "古典音乐。",
+      "pinyin": "Gǔdiǎn yīnyuè.",
+      "translation": "Classical music.",
+      "usage": "Refers to traditional Western music.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "古典",
+          "py": "gǔdiǎn",
+          "meaning": "classical"
+        },
+        {
+          "zh": "音乐",
+          "py": "yīnyuè",
+          "meaning": "music"
+        }
+      ]
+    },
+    {
+      "chinese": "摇滚乐队。",
+      "pinyin": "Yáoliàng dánsì.",
+      "translation": "Rock band.",
+      "usage": "Group playing rock music.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "摇滚",
+          "py": "yáoliàng",
+          "meaning": "rock"
+        },
+        {
+          "zh": "乐队",
+          "py": "dánsì",
+          "meaning": "band"
+        }
+      ]
+    },
+    {
+      "chinese": "演唱会门票。",
+      "pinyin": "Yǎnchàng huì ménpiào.",
+      "translation": "Concert ticket.",
+      "usage": "Used to attend a music event.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "演唱会",
+          "py": "yǎnchàng huì",
+          "meaning": "concert"
+        },
+        {
+          "zh": "门票",
+          "py": "ménpiào",
+          "meaning": "ticket"
+        }
+      ]
+    },
+    {
+      "chinese": "这首曲子真动听。",
+      "pinyin": "Zhè shǒu qǔzi zhēn dònghěn.",
+      "translation": "This piece is really pleasant to listen to.",
+      "usage": "Complimenting a song.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "首",
+          "py": "shǒu",
+          "meaning": "piece (of music)"
+        },
+        {
+          "zh": "曲子",
+          "py": "qǔzi",
+          "meaning": "melody"
+        },
+        {
+          "zh": "真",
+          "py": "zhēn",
+          "meaning": "really"
+        },
+        {
+          "zh": "动听",
+          "py": "dònghěn",
+          "meaning": "pleasing to the ear"
+        }
+      ]
+    },
+    {
+      "chinese": "学吉他有趣吗？",
+      "pinyin": "Xué gǔtā yǒuqù ma?",
+      "translation": "Is learning guitar fun?",
+      "usage": "Asking about music learning.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "学",
+          "py": "xué",
+          "meaning": "learn"
+        },
+        {
+          "zh": "吉他",
+          "py": "gǔtā",
+          "meaning": "guitar"
+        },
+        {
+          "zh": "有趣",
+          "py": "yǒuqù",
+          "meaning": "fun"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "音乐节快到了。",
+      "pinyin": "Yīnyuè jié kuài dàole.",
+      "translation": "The music festival is coming soon.",
+      "usage": "Announcing an event.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "音乐节",
+          "py": "yīnyuè jié",
+          "meaning": "music festival"
+        },
+        {
+          "zh": "快",
+          "py": "kuài",
+          "meaning": "soon"
+        },
+        {
+          "zh": "到了",
+          "py": "dàole",
+          "meaning": "has arrived"
+        }
+      ]
+    },
+    {
+      "chinese": "这首歌让我想起家乡。",
+      "pinyin": "Zhè gēng gē ràng wǒ xiǎng qǐ jiāxiāng.",
+      "translation": "This song reminds me of my hometown.",
+      "usage": "Expressing nostalgia.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "首",
+          "py": "shǒu",
+          "meaning": "song"
+        },
+        {
+          "zh": "让",
+          "py": "ràng",
+          "meaning": "makes"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "me"
+        },
+        {
+          "zh": "想起",
+          "py": "xiǎng qǐ",
+          "meaning": "remind of"
+        },
+        {
+          "zh": "家乡",
+          "py": "jiāxiāng",
+          "meaning": "hometown"
+        }
+      ]
+    },
+    {
+      "chinese": "音乐治疗有用吗？",
+      "pinyin": "Yīnyuè zhìliáo yǒuyòng ma?",
+      "translation": "Is music therapy effective?",
+      "usage": "Question about therapeutic benefits.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "音乐",
+          "py": "yīnyuè",
+          "meaning": "music"
+        },
+        {
+          "zh": "治疗",
+          "py": "zhìliáo",
+          "meaning": "therapy"
+        },
+        {
+          "zh": "有用",
+          "py": "yǒuyòng",
+          "meaning": "useful"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    }
+  ]
+}

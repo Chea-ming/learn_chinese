@@ -1,0 +1,202 @@
+{
+  "sentences": [
+    {
+      "chinese": "上座",
+      "pinyin": "Shàng zuò",
+      "translation": "The honored seat",
+      "usage": "Refers to the most respected position at the table, usually for elders or guests.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "上",
+          "py": "Shàng",
+          "meaning": "upper, honored"
+        },
+        {
+          "zh": "座",
+          "py": "zuò",
+          "meaning": "seat"
+        }
+      ]
+    },
+    {
+      "chinese": "请上座",
+      "pinyin": "Qǐng shàng zuò",
+      "translation": "Please take the honored seat",
+      "usage": "Used to invite someone to the most respected position at the table.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "Qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "上",
+          "py": "shàng",
+          "meaning": "upper, honored"
+        },
+        {
+          "zh": "座",
+          "py": "zuò",
+          "meaning": "seat"
+        }
+      ]
+    },
+    {
+      "chinese": "您请先用",
+      "pinyin": "Nín qǐng xiān yòng",
+      "translation": "Please enjoy first",
+      "usage": "Polite phrase to let guests eat first.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "您",
+          "py": "Nín",
+          "meaning": "you (honorific)"
+        },
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "先",
+          "py": "xiān",
+          "meaning": "first"
+        },
+        {
+          "zh": "用",
+          "py": "yòng",
+          "meaning": "use, enjoy"
+        }
+      ]
+    },
+    {
+      "chinese": "我来给您添饭",
+      "pinyin": "Wǒ lái gěi nín tiān fàn",
+      "translation": "I’ll add more rice for you",
+      "usage": "Offer to serve more food to guests or elders.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "我",
+          "py": "Wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "来",
+          "py": "lái",
+          "meaning": "come, to do"
+        },
+        {
+          "zh": "给",
+          "py": "gěi",
+          "meaning": "give to"
+        },
+        {
+          "zh": "您",
+          "py": "nín",
+          "meaning": "you (honorific)"
+        },
+        {
+          "zh": "添",
+          "py": "tiān",
+          "meaning": "add"
+        },
+        {
+          "zh": "饭",
+          "py": "fàn",
+          "meaning": "rice, meal"
+        }
+      ]
+    },
+    {
+      "chinese": "不要把筷子插在饭里",
+      "pinyin": "Bù yào bǎ kuàizi chā zài fàn lǐ",
+      "translation": "Don’t stick chopsticks upright in rice",
+      "usage": "Taboo in Chinese culture, resembling funeral rituals.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "不要",
+          "py": "Bù yào",
+          "meaning": "don’t"
+        },
+        {
+          "zh": "把",
+          "py": "bǎ",
+          "meaning": "used to emphasize action"
+        },
+        {
+          "zh": "筷子",
+          "py": "kuàizi",
+          "meaning": "chopsticks"
+        },
+        {
+          "zh": "插",
+          "py": "chā",
+          "meaning": "stick, insert"
+        },
+        {
+          "zh": "在",
+          "py": "zài",
+          "meaning": "in"
+        },
+        {
+          "zh": "饭",
+          "py": "fàn",
+          "meaning": "rice"
+        },
+        {
+          "zh": "里",
+          "py": "lǐ",
+          "meaning": "inside"
+        }
+      ]
+    },
+    {
+      "chinese": "干杯",
+      "pinyin": "Gān bēi",
+      "translation": "Cheers!",
+      "usage": "Clinking glasses during toasts.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "干",
+          "py": "Gān",
+          "meaning": "dry, finish"
+        },
+        {
+          "zh": "杯",
+          "py": "bēi",
+          "meaning": "glass, cup"
+        }
+      ]
+    },
+    {
+      "chinese": "我先干为敬",
+      "pinyin": "Wǒ xiān gān wéi jìng",
+      "translation": "I’ll finish mine first as a sign of respect",
+      "usage": "Used during toasts to show respect to others.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "我",
+          "py": "Wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "先",
+          "py": "xiān",
+          "meaning": "first"
+        },
+        {
+          "zh": "干",
+          "py": "gān",
+          "meaning": "finish"
+        }
+      ]
+    }
+  ]
+}

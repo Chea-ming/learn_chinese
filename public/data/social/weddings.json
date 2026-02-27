@@ -1,0 +1,242 @@
+{
+  "sentences": [
+    {
+      "chinese": "恭喜结婚！",
+      "pinyin": "Gōngxǐ jiéhūn!",
+      "translation": "Congratulations on your marriage!",
+      "usage": "Common phrase to congratulate a couple on their wedding.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "恭喜",
+          "py": "Gōngxǐ",
+          "meaning": "congratulations"
+        },
+        {
+          "zh": "结婚",
+          "py": "jiéhūn",
+          "meaning": "get married"
+        }
+      ]
+    },
+    {
+      "chinese": "新婚快乐！",
+      "pinyin": "Xīnhūn kuàilè!",
+      "translation": "Happy newlywed life!",
+      "usage": "Wish for a joyful married life.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "新婚",
+          "py": "Xīnhūn",
+          "meaning": "newlywed"
+        },
+        {
+          "zh": "快乐",
+          "py": "kuàilè",
+          "meaning": "happy"
+        }
+      ]
+    },
+    {
+      "chinese": "永结同心",
+      "pinyin": "Yǒng jié tóngxīn",
+      "translation": "Forever united in heart.",
+      "usage": "Traditional marriage vow phrase.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "永",
+          "py": "Yǒng",
+          "meaning": "forever"
+        },
+        {
+          "zh": "结",
+          "py": "jié",
+          "meaning": "tie"
+        },
+        {
+          "zh": "同心",
+          "py": "Tóngxīn",
+          "meaning": "same heart"
+        }
+      ]
+    },
+    {
+      "chinese": "白头偕老",
+      "pinyin": "Báitóu xié lǎo",
+      "translation": "Grow old together.",
+      "usage": "Wish for a lifelong marriage.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "白头",
+          "py": "Báitóu",
+          "meaning": "white-haired"
+        },
+        {
+          "zh": "偕老",
+          "py": "Xié lǎo",
+          "meaning": "grow old together"
+        }
+      ]
+    },
+    {
+      "chinese": "早生贵子",
+      "pinyin": "Zǎo shēng guìzǐ",
+      "translation": "May you have children soon.",
+      "usage": "Traditional wish for a couple to have children.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "早",
+          "py": "Zǎo",
+          "meaning": "early"
+        },
+        {
+          "zh": "生",
+          "py": "shēng",
+          "meaning": "give birth"
+        },
+        {
+          "zh": "贵子",
+          "py": "guìzǐ",
+          "meaning": "son"
+        }
+      ]
+    },
+    {
+      "chinese": "举案齐眉",
+      "pinyin": "Jǔ'àn qí méi",
+      "translation": "Look up to each other as equals.",
+      "usage": "Classical phrase for marital harmony.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "举案",
+          "py": "Jǔ'àn",
+          "meaning": "hold up the tray"
+        },
+        {
+          "zh": "齐眉",
+          "py": "Qí méi",
+          "meaning": "level with eyebrows"
+        }
+      ]
+    },
+    {
+      "chinese": "婚礼致辞",
+      "pinyin": "Hūnlǐ zhìcí",
+      "translation": "Wedding speech.",
+      "usage": "Refers to a speech given during the wedding ceremony.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "婚礼",
+          "py": "Hūnlǐ",
+          "meaning": "wedding"
+        },
+        {
+          "zh": "致辞",
+          "py": "Zhìcí",
+          "meaning": "speech"
+        }
+      ]
+    },
+    {
+      "chinese": "交换戒指",
+      "pinyin": "Jiāohuàn jiànhuān zǐ",
+      "translation": "Exchange wedding rings.",
+      "usage": "Wedding ceremony step.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "交换",
+          "py": "Jiāohuàn",
+          "meaning": "exchange"
+        },
+        {
+          "zh": "戒指",
+          "py": "Jiànhuān zǐ",
+          "meaning": "ring"
+        }
+      ]
+    },
+    {
+      "chinese": "红双喜",
+      "pinyin": "Hóng shuāngxǐ",
+      "translation": "Double happiness.",
+      "usage": "Symbolizes joy in traditional Chinese weddings.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "红",
+          "py": "Hóng",
+          "meaning": "red"
+        },
+        {
+          "zh": "双喜",
+          "py": "Shuāngxǐ",
+          "meaning": "double happiness"
+        }
+      ]
+    },
+    {
+      "chinese": "请柬",
+      "pinyin": "Qǐng jiǎn",
+      "translation": "Wedding invitation.",
+      "usage": "Formal invitation for a wedding.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "Qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "柬",
+          "py": "jiǎn",
+          "meaning": "letter"
+        }
+      ]
+    },
+    {
+      "chinese": "婚车",
+      "pinyin": "Hūn chē",
+      "translation": "Wedding car.",
+      "usage": "Vehicle used to transport the bride and groom.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "婚",
+          "py": "Hūn",
+          "meaning": "wedding"
+        },
+        {
+          "zh": "车",
+          "py": "chē",
+          "meaning": "car"
+        }
+      ]
+    },
+    {
+      "chinese": "喜糖",
+      "pinyin": "Xǐ táng",
+      "translation": "Wedding candy.",
+      "usage": "Candy given to guests at a wedding.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "喜",
+          "py": "Xǐ",
+          "meaning": "happy"
+        },
+        {
+          "zh": "糖",
+          "py": "táng",
+          "meaning": "candy"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,687 @@
+{
+  "sentences": [
+    {
+      "chinese": "你好！",
+      "pinyin": "Nǐ hǎo!",
+      "translation": "Hello!",
+      "usage": "The standard, all-purpose greeting. Suitable for almost any situation.",
+      "formality": "Neutral / Informal",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good / well"
+        }
+      ]
+    },
+    {
+      "chinese": "你叫什么名字？",
+      "pinyin": "Nǐ jiào shénme míngzi?",
+      "translation": "What is your name?",
+      "usage": "Used when meeting someone new to ask for their name.",
+      "formality": "Neutral / Informal",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "叫",
+          "py": "jiào",
+          "meaning": "to be called / to call"
+        },
+        {
+          "zh": "什么",
+          "py": "shénme",
+          "meaning": "what"
+        },
+        {
+          "zh": "名字",
+          "py": "míngzi",
+          "meaning": "name"
+        }
+      ]
+    },
+    {
+      "chinese": "很高兴认识你。",
+      "pinyin": "Hěn hángxǐ rènshi nǐ.",
+      "translation": "Nice to meet you.",
+      "usage": "Used when meeting someone for the first time.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "高兴",
+          "py": "hángxǐ",
+          "meaning": "happy"
+        },
+        {
+          "zh": "认识",
+          "py": "rènshi",
+          "meaning": "to know"
+        },
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        }
+      ]
+    },
+    {
+      "chinese": "我们能一起吃饭吗？",
+      "pinyin": "Wǒmen néng yīqǐ chīfàn ma?",
+      "translation": "Can we eat together?",
+      "usage": "Used when asking someone to have dinner together.",
+      "formality": "Neutral / Informal",
+      "words": [
+        {
+          "zh": "我们",
+          "py": "wǒmen",
+          "meaning": "we"
+        },
+        {
+          "zh": "能",
+          "py": "néng",
+          "meaning": "can"
+        },
+        {
+          "zh": "一起",
+          "py": "yīqǐ",
+          "meaning": "together"
+        },
+        {
+          "zh": "吃饭",
+          "py": "chīfàn",
+          "meaning": "to eat"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "我想和你约会。",
+      "pinyin": "Wǒ xiǎng hé nǐ yuēhuì.",
+      "translation": "I want to go on a date with you.",
+      "usage": "Used when proposing to go on a date.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "想",
+          "py": "xiǎng",
+          "meaning": "want"
+        },
+        {
+          "zh": "和",
+          "py": "hé",
+          "meaning": "with"
+        },
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "约会",
+          "py": "yuēhuì",
+          "meaning": "date"
+        }
+      ]
+    },
+    {
+      "chinese": "你喜欢做什么？",
+      "pinyin": "Nǐ xǐhuān zuò shénme?",
+      "translation": "What do you like to do?",
+      "usage": "Used when getting to know someone's interests.",
+      "formality": "Neutral / Informal",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "喜欢",
+          "py": "xǐhuān",
+          "meaning": "to like"
+        },
+        {
+          "zh": "做",
+          "py": "zuò",
+          "meaning": "to do"
+        },
+        {
+          "zh": "什么",
+          "py": "shénme",
+          "meaning": "what"
+        }
+      ]
+    },
+    {
+      "chinese": "我们是朋友。",
+      "pinyin": "Wǒmen shì péngyou.",
+      "translation": "We are friends.",
+      "usage": "Used to state that two people are friends.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我们",
+          "py": "wǒmen",
+          "meaning": "we"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "to be"
+        },
+        {
+          "zh": "朋友",
+          "py": "péngyou",
+          "meaning": "friend"
+        }
+      ]
+    },
+    {
+      "chinese": "你有男朋友吗？",
+      "pinyin": "Nǐ yǒu nángéngyǒu ma?",
+      "translation": "Do you have a boyfriend?",
+      "usage": "Used when asking about someone's romantic relationship status.",
+      "formality": "Neutral / Informal",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "to have"
+        },
+        {
+          "zh": "男朋友",
+          "py": "nángéngyǒu",
+          "meaning": "boyfriend"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "我喜欢你。",
+      "pinyin": "Wǒ xǐhuān nǐ.",
+      "translation": "I like you.",
+      "usage": "Used to express romantic interest in someone.",
+      "formality": "Neutral / Informal",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "喜欢",
+          "py": "xǐhuān",
+          "meaning": "to like"
+        },
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        }
+      ]
+    },
+    {
+      "chinese": "我们在一起好吗？",
+      "pinyin": "Wǒmen zài yīqǐ hǎo ma?",
+      "translation": "Would you like to be together?",
+      "usage": "Used when asking someone to become a couple.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我们",
+          "py": "wǒmen",
+          "meaning": "we"
+        },
+        {
+          "zh": "在",
+          "py": "zài",
+          "meaning": "at / in"
+        },
+        {
+          "zh": "一起",
+          "py": "yīqǐ",
+          "meaning": "together"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "你愿意和我交往吗？",
+      "pinyin": "Nǐ yuànyì hé wǒ jiāowǎng ma?",
+      "translation": "Would you like to date me?",
+      "usage": "Used when asking someone to start dating.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "愿意",
+          "py": "yuànyì",
+          "meaning": "to be willing"
+        },
+        {
+          "zh": "和",
+          "py": "hé",
+          "meaning": "with"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "交往",
+          "py": "jiāowǎng",
+          "meaning": "to date"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "我们分手吧。",
+      "pinyin": "Wǒmen fēnshǒu ba.",
+      "translation": "Let's break up.",
+      "usage": "Used when ending a romantic relationship.",
+      "formality": "Neutral / Informal",
+      "words": [
+        {
+          "zh": "我们",
+          "py": "wǒmen",
+          "meaning": "we"
+        },
+        {
+          "zh": "分手",
+          "py": "fēnshǒu",
+          "meaning": "to break up"
+        },
+        {
+          "zh": "吧",
+          "py": "ba",
+          "meaning": "particle indicating suggestion"
+        }
+      ]
+    },
+    {
+      "chinese": "我爱他。",
+      "pinyin": "Wǒ ài tā.",
+      "translation": "I love him.",
+      "usage": "Used to express deep romantic feelings for someone.",
+      "formality": "Neutral / Informal",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "爱",
+          "py": "ài",
+          "meaning": "to love"
+        },
+        {
+          "zh": "他",
+          "py": "tā",
+          "meaning": "him"
+        }
+      ]
+    },
+    {
+      "chinese": "我们结婚吧。",
+      "pinyin": "Wǒmen jiéhūn ba.",
+      "translation": "Let's get married.",
+      "usage": "Used when proposing marriage.",
+      "formality": "Neutral / Informal",
+      "words": [
+        {
+          "zh": "我们",
+          "py": "wǒmen",
+          "meaning": "we"
+        },
+        {
+          "zh": "结婚",
+          "py": "jiéhūn",
+          "meaning": "to marry"
+        },
+        {
+          "zh": "吧",
+          "py": "ba",
+          "meaning": "particle indicating suggestion"
+        }
+      ]
+    },
+    {
+      "chinese": "你对我感觉怎么样？",
+      "pinyin": "Nǐ duì wǒ gǎnjué zěnme yàng?",
+      "translation": "What do you feel about me?",
+      "usage": "Used to ask about someone's feelings toward you.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "对",
+          "py": "duì",
+          "meaning": "toward"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "me"
+        },
+        {
+          "zh": "感觉",
+          "py": "gǎnjué",
+          "meaning": "feeling"
+        },
+        {
+          "zh": "怎么样",
+          "py": "zěnme yàng",
+          "meaning": "how"
+        }
+      ]
+    },
+    {
+      "chinese": "我们不合适。",
+      "pinyin": "Wǒmen bù héshì.",
+      "translation": "We're not suitable for each other.",
+      "usage": "Used when ending a relationship because of incompatibility.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我们",
+          "py": "wǒmen",
+          "meaning": "we"
+        },
+        {
+          "zh": "不",
+          "py": "bù",
+          "meaning": "not"
+        },
+        {
+          "zh": "合适",
+          "py": "héshì",
+          "meaning": "suitable"
+        }
+      ]
+    },
+    {
+      "chinese": "你让我很伤心。",
+      "pinyin": "Nǐ ràng wǒ hěn shāngxīn.",
+      "translation": "You made me very sad.",
+      "usage": "Used when expressing hurt feelings because of someone's actions.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "让",
+          "py": "ràng",
+          "meaning": "to let"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "me"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "伤心",
+          "py": "shāngxīn",
+          "meaning": "to be sad"
+        }
+      ]
+    },
+    {
+      "chinese": "我们能重新开始吗？",
+      "pinyin": "Wǒmen néng chóngxīn kāishǐ ma?",
+      "translation": "Can we start over?",
+      "usage": "Used when asking for a second chance in a relationship.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我们",
+          "py": "wǒmen",
+          "meaning": "we"
+        },
+        {
+          "zh": "能",
+          "py": "néng",
+          "meaning": "can"
+        },
+        {
+          "zh": "重新",
+          "py": "chóngxīn",
+          "meaning": "again"
+        },
+        {
+          "zh": "开始",
+          "py": "kāishǐ",
+          "meaning": "to start"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "我喜欢你，但我们需要时间。",
+      "pinyin": "Wǒ xǐhuān nǐ, dàn wǒmen xūyào shíjiān.",
+      "translation": "I like you, but we need time.",
+      "usage": "Used when expressing interest but needing more time to develop feelings.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "喜欢",
+          "py": "xǐhuān",
+          "meaning": "to like"
+        },
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "但",
+          "py": "dàn",
+          "meaning": "but"
+        },
+        {
+          "zh": "我们",
+          "py": "wǒmen",
+          "meaning": "we"
+        },
+        {
+          "zh": "需要",
+          "py": "xūyào",
+          "meaning": "to need"
+        },
+        {
+          "zh": "时间",
+          "py": "shíjiān",
+          "meaning": "time"
+        }
+      ]
+    },
+    {
+      "chinese": "你是我最重要的人。",
+      "pinyin": "Nǐ shì wǒ zuìzhòngyào de rén.",
+      "translation": "You are the most important person to me.",
+      "usage": "Used to express deep feelings of love and importance in a relationship.",
+      "formality": "Neutral / Formal",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "to be"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "me"
+        },
+        {
+          "zh": "最重要",
+          "py": "zuìzhòngyào",
+          "meaning": "most important"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive particle"
+        },
+        {
+          "zh": "人",
+          "py": "rén",
+          "meaning": "person"
+        }
+      ]
+    },
+    {
+      "chinese": "我们在一起很幸福。",
+      "pinyin": "Wǒmen zài yīqǐ hěn xìngfú.",
+      "translation": "We are very happy together.",
+      "usage": "Used to express joy and contentment in a relationship.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我们",
+          "py": "wǒmen",
+          "meaning": "we"
+        },
+        {
+          "zh": "在",
+          "py": "zài",
+          "meaning": "at"
+        },
+        {
+          "zh": "一起",
+          "py": "yīqǐ",
+          "meaning": "together"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "幸福",
+          "py": "xìngfú",
+          "meaning": "happy"
+        }
+      ]
+    },
+    {
+      "chinese": "我想和你一直在一起。",
+      "pinyin": "Wǒ xiǎng hé nǐ yīzhí zài yīqǐ.",
+      "translation": "I want to be with you forever.",
+      "usage": "Used to express desire for long-term relationship or commitment.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "想",
+          "py": "xiǎng",
+          "meaning": "to want"
+        },
+        {
+          "zh": "和",
+          "py": "hé",
+          "meaning": "with"
+        },
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "一直",
+          "py": "yīzhí",
+          "meaning": "forever"
+        },
+        {
+          "zh": "在",
+          "py": "zài",
+          "meaning": "at"
+        },
+        {
+          "zh": "一起",
+          "py": "yīqǐ",
+          "meaning": "together"
+        }
+      ]
+    }
+  ]
+}

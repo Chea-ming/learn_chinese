@@ -1,0 +1,299 @@
+{
+  "sentences": [
+    {
+      "chinese": "京剧",
+      "pinyin": "Jīngjù",
+      "translation": "Peking Opera",
+      "usage": "The most iconic form of Chinese opera.",
+      "words": [
+        {
+          "zh": "京",
+          "py": "Jīng",
+          "meaning": "imperial"
+        },
+        {
+          "zh": "剧",
+          "py": "jù",
+          "meaning": "theater"
+        }
+      ]
+    },
+    {
+      "chinese": "地方戏",
+      "pinyin": "Dìfāng xì",
+      "translation": "Local operas",
+      "usage": "Regional variations of Chinese opera.",
+      "words": [
+        {
+          "zh": "地方",
+          "py": "Dìfāng",
+          "meaning": "local"
+        },
+        {
+          "zh": "戏",
+          "py": "xì",
+          "meaning": "theater"
+        }
+      ]
+    },
+    {
+      "chinese": "生旦净末",
+      "pinyin": "Shēng dàn jìng mò",
+      "translation": "Sheng, Dan, Jing, Mo",
+      "usage": "Main role classifications in Chinese opera.",
+      "words": [
+        {
+          "zh": "生",
+          "py": "shēng",
+          "meaning": "male lead"
+        },
+        {
+          "zh": "旦",
+          "py": "dàn",
+          "meaning": "female lead"
+        },
+        {
+          "zh": "净",
+          "py": "jìng",
+          "meaning": "painted face"
+        },
+        {
+          "zh": "末",
+          "py": "mò",
+          "meaning": "old male role"
+        }
+      ]
+    },
+    {
+      "chinese": "唱念做打",
+      "pinyin": "Chàng niàn zuò dǎ",
+      "translation": "Singing, reciting, acting, fighting",
+      "usage": "The four performance skills in opera.",
+      "words": [
+        {
+          "zh": "唱",
+          "py": "chàng",
+          "meaning": "singing"
+        },
+        {
+          "zh": "念",
+          "py": "niàn",
+          "meaning": "reciting"
+        },
+        {
+          "zh": "做",
+          "py": "zuò",
+          "meaning": "acting"
+        },
+        {
+          "zh": "打",
+          "py": "dǎ",
+          "meaning": "martial arts"
+        }
+      ]
+    },
+    {
+      "chinese": "脸谱",
+      "pinyin": "Liǎn pǔ",
+      "translation": "Opera masks",
+      "usage": "Symbolic facial makeup in Chinese opera.",
+      "words": [
+        {
+          "zh": "脸",
+          "py": "liǎn",
+          "meaning": "face"
+        },
+        {
+          "zh": "谱",
+          "py": "pǔ",
+          "meaning": "pattern"
+        }
+      ]
+    },
+    {
+      "chinese": "亮相",
+      "pinyin": "Liàngxiàng",
+      "translation": "Grand entrance",
+      "usage": "Theatrical pose to introduce a character.",
+      "words": [
+        {
+          "zh": "亮",
+          "py": "liàng",
+          "meaning": "show off"
+        },
+        {
+          "zh": "相",
+          "py": "xiàng",
+          "meaning": "appearance"
+        }
+      ]
+    },
+    {
+      "chinese": "水袖",
+      "pinyin": "Shuǐ xiù",
+      "translation": "Silk sleeves",
+      "usage": "Decorative sleeves used in performances.",
+      "words": [
+        {
+          "zh": "水",
+          "py": "shuǐ",
+          "meaning": "water"
+        },
+        {
+          "zh": "袖",
+          "py": "xiù",
+          "meaning": "sleeve"
+        }
+      ]
+    },
+    {
+      "chinese": "戏台",
+      "pinyin": "Xìtái",
+      "translation": "Opera stage",
+      "usage": "Traditional performance platform.",
+      "words": [
+        {
+          "zh": "戏",
+          "py": "xì",
+          "meaning": "play"
+        },
+        {
+          "zh": "台",
+          "py": "tái",
+          "meaning": "stage"
+        }
+      ]
+    },
+    {
+      "chinese": "看戏",
+      "pinyin": "Kàn xì",
+      "translation": "Watch a play",
+      "usage": "Casual phrase for attending performances.",
+      "words": [
+        {
+          "zh": "看",
+          "py": "kàn",
+          "meaning": "watch"
+        },
+        {
+          "zh": "戏",
+          "py": "xì",
+          "meaning": "play"
+        }
+      ]
+    },
+    {
+      "chinese": "戏比天大",
+      "pinyin": "Xì bǐ tiān dà",
+      "translation": "The play is more important than the sky",
+      "usage": "A proverb about prioritizing performance quality.",
+      "words": [
+        {
+          "zh": "戏",
+          "py": "xì",
+          "meaning": "play"
+        },
+        {
+          "zh": "比",
+          "py": "bǐ",
+          "meaning": "more than"
+        },
+        {
+          "zh": "天",
+          "py": "tiān",
+          "meaning": "sky"
+        },
+        {
+          "zh": "大",
+          "py": "dà",
+          "meaning": "big"
+        }
+      ]
+    },
+    {
+      "chinese": "武生",
+      "pinyin": "Wǔ shēng",
+      "translation": "Martial male lead",
+      "usage": "A specialized role in action scenes.",
+      "words": [
+        {
+          "zh": "武",
+          "py": "wǔ",
+          "meaning": "martial"
+        },
+        {
+          "zh": "生",
+          "py": "shēng",
+          "meaning": "male lead"
+        }
+      ]
+    },
+    {
+      "chinese": "花脸",
+      "pinyin": "Huā liǎn",
+      "translation": "Jing role",
+      "usage": "Term for painted-face characters.",
+      "words": [
+        {
+          "zh": "花",
+          "py": "huā",
+          "meaning": "patterned"
+        },
+        {
+          "zh": "脸",
+          "py": "liǎn",
+          "meaning": "face"
+        }
+      ]
+    },
+    {
+      "chinese": "压轴",
+      "pinyin": "Yā zhóu",
+      "translation": "Finale act",
+      "usage": "The highlight performance at the end.",
+      "words": [
+        {
+          "zh": "压",
+          "py": "yā",
+          "meaning": "press"
+        },
+        {
+          "zh": "轴",
+          "py": "zhóu",
+          "meaning": "axle (stage term)"
+        }
+      ]
+    },
+    {
+      "chinese": "锣鼓",
+      "pinyin": "Luó gǔ",
+      "translation": "Gong and drum",
+      "usage": "Traditional percussion instruments.",
+      "words": [
+        {
+          "zh": "锣",
+          "py": "luó",
+          "meaning": "gong"
+        },
+        {
+          "zh": "鼓",
+          "py": "gǔ",
+          "meaning": "drum"
+        }
+      ]
+    },
+    {
+      "chinese": "唱腔",
+      "pinyin": "Chàng qiāng",
+      "translation": "Vocal style",
+      "usage": "Singing technique in opera.",
+      "words": [
+        {
+          "zh": "唱",
+          "py": "chàng",
+          "meaning": "singing"
+        }
+      ]
+    }
+  ]
+}

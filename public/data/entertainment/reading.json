@@ -1,0 +1,198 @@
+{
+  "sentences": [
+    {
+      "chinese": "我正在读书。",
+      "pinyin": "Wǒ zhèngzài dúshū.",
+      "translation": "I'm reading a book.",
+      "usage": "Used to indicate current reading activity.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "正在",
+          "py": "zhèngzài",
+          "meaning": "currently"
+        },
+        {
+          "zh": "读",
+          "py": "dú",
+          "meaning": "read"
+        },
+        {
+          "zh": "书",
+          "py": "shū",
+          "meaning": "book"
+        }
+      ]
+    },
+    {
+      "chinese": "这本小说很有趣。",
+      "pinyin": "Zhè běn xiǎoshuō hěn yǒu qù.",
+      "translation": "This novel is interesting.",
+      "usage": "Commenting on the content of a book.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "本",
+          "py": "běn",
+          "meaning": "volume"
+        },
+        {
+          "zh": "小说",
+          "py": "xiǎoshuō",
+          "meaning": "novel"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "have"
+        },
+        {
+          "zh": "趣",
+          "py": "qù",
+          "meaning": "fun"
+        }
+      ]
+    },
+    {
+      "chinese": "你最近读了什么书？",
+      "pinyin": "Nǐ zuìjìn dú le shénme shū?",
+      "translation": "What books have you read recently?",
+      "usage": "Asking about recent reading habits.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "最近",
+          "py": "zuìjìn",
+          "meaning": "recently"
+        },
+        {
+          "zh": "读",
+          "py": "dú",
+          "meaning": "read"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "aspect marker"
+        },
+        {
+          "zh": "什么",
+          "py": "shénme",
+          "meaning": "what"
+        },
+        {
+          "zh": "书",
+          "py": "shū",
+          "meaning": "book"
+        }
+      ]
+    },
+    {
+      "chinese": "我喜欢科幻小说。",
+      "pinyin": "Wǒ xǐhuan kēhuàn xiǎoshuō.",
+      "translation": "I like science fiction novels.",
+      "usage": "Expressing genre preference.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "喜欢",
+          "py": "xǐhuān",
+          "meaning": "like"
+        },
+        {
+          "zh": "科幻",
+          "py": "kēhuàn",
+          "meaning": "science fiction"
+        },
+        {
+          "zh": "小说",
+          "py": "xiǎoshuō",
+          "meaning": "novel"
+        }
+      ]
+    },
+    {
+      "chinese": "诗歌总是让我感动。",
+      "pinyin": "Shīgē zǒngshì ràng wǒ gòngdòng.",
+      "translation": "Poems always move me.",
+      "usage": "Expressing emotional connection to poetry.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "诗歌",
+          "py": "shīgē",
+          "meaning": "poetry"
+        },
+        {
+          "zh": "总是",
+          "py": "zǒngshì",
+          "meaning": "always"
+        },
+        {
+          "zh": "让",
+          "py": "ràng",
+          "meaning": "let"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "me"
+        },
+        {
+          "zh": "感动",
+          "py": "gòngdòng",
+          "meaning": "moved"
+        }
+      ]
+    },
+    {
+      "chinese": "经典文学作品",
+      "pinyin": "Jīngdiǎn wénxué zuòpǐn",
+      "translation": "Classic literary works",
+      "usage": "Referring to timeless literature.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "经典",
+          "py": "jīngdiǎn",
+          "meaning": "classic"
+        },
+        {
+          "zh": "文学",
+          "py": "wénxué",
+          "meaning": "literature"
+        },
+        {
+          "zh": "作品",
+          "py": "zuòpǐn",
+          "meaning": "works"
+        }
+      ]
+    }
+  ]
+}

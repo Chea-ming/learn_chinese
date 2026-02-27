@@ -1,0 +1,849 @@
+{
+  "sentences": [
+    {
+      "chinese": "生日快乐！",
+      "pinyin": "Shēngrì kuàilè!",
+      "translation": "Happy birthday!",
+      "usage": "Used to wish someone a happy birthday. Common at birthday parties.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "生",
+          "py": "shēng",
+          "meaning": "birth"
+        },
+        {
+          "zh": "日",
+          "py": "rì",
+          "meaning": "day"
+        },
+        {
+          "zh": "快",
+          "py": "kuài",
+          "meaning": "happy"
+        },
+        {
+          "zh": "乐",
+          "py": "lè",
+          "meaning": "joy"
+        }
+      ]
+    },
+    {
+      "chinese": "恭喜发财！",
+      "pinyin": "Gōngxǐ fācái!",
+      "translation": "Congratulations and good fortune!",
+      "usage": "Used during Chinese New Year celebrations to wish prosperity and success.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "恭",
+          "py": "gōng",
+          "meaning": "respectfully"
+        },
+        {
+          "zh": "喜",
+          "py": "xǐ",
+          "meaning": "happy"
+        },
+        {
+          "zh": "发",
+          "py": "fā",
+          "meaning": "to develop / to become wealthy"
+        },
+        {
+          "zh": "财",
+          "py": "cái",
+          "meaning": "wealth"
+        }
+      ]
+    },
+    {
+      "chinese": "让我们一起庆祝吧！",
+      "pinyin": "Ràng wǒmen yīqǐ qìngzhù ba!",
+      "translation": "Let's celebrate together!",
+      "usage": "Used to invite others to join in a celebration or party.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "让",
+          "py": "ràng",
+          "meaning": "let"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / we"
+        },
+        {
+          "zh": "们",
+          "py": "men",
+          "meaning": "plural marker"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one / together"
+        },
+        {
+          "zh": "起",
+          "py": "qǐ",
+          "meaning": "together"
+        },
+        {
+          "zh": "庆",
+          "py": "qìng",
+          "meaning": "celebrate"
+        },
+        {
+          "zh": "祝",
+          "py": "zhù",
+          "meaning": "to wish"
+        },
+        {
+          "zh": "吧",
+          "py": "ba",
+          "meaning": "particle expressing suggestion"
+        }
+      ]
+    },
+    {
+      "chinese": "这个聚会真棒！",
+      "pinyin": "Zhège jùhuì zhēn bàng!",
+      "translation": "This party is really great!",
+      "usage": "Used to express enthusiasm and enjoyment at a party or gathering.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "个",
+          "py": "gè",
+          "meaning": "classifier for objects"
+        },
+        {
+          "zh": "聚",
+          "py": "jù",
+          "meaning": "gather"
+        },
+        {
+          "zh": "会",
+          "py": "huì",
+          "meaning": "meeting / gathering"
+        },
+        {
+          "zh": "真",
+          "py": "zhēn",
+          "meaning": "really"
+        },
+        {
+          "zh": "棒",
+          "py": "bàng",
+          "meaning": "great / excellent"
+        }
+      ]
+    },
+    {
+      "chinese": "祝你一切顺利！",
+      "pinyin": "Zhù nǐ yīqiè shùnlì!",
+      "translation": "Wishing you all the best!",
+      "usage": "Used to wish someone good luck and success, especially at celebrations.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "祝",
+          "py": "zhù",
+          "meaning": "to wish"
+        },
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "all"
+        },
+        {
+          "zh": "切",
+          "py": "qiè",
+          "meaning": "everything"
+        },
+        {
+          "zh": "顺",
+          "py": "shùn",
+          "meaning": "smooth"
+        },
+        {
+          "zh": "利",
+          "py": "lì",
+          "meaning": "success"
+        }
+      ]
+    },
+    {
+      "chinese": "大家快来参加我的生日派对！",
+      "pinyin": "Dàjiā kuài lái cānjiā wǒ de shēngrì pàiduì!",
+      "translation": "Everyone come quickly to my birthday party!",
+      "usage": "Used to invite people to a birthday celebration, informal tone.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "大",
+          "py": "dà",
+          "meaning": "big / everyone"
+        },
+        {
+          "zh": "家",
+          "py": "jiā",
+          "meaning": "family / people"
+        },
+        {
+          "zh": "快",
+          "py": "kuài",
+          "meaning": "quickly"
+        },
+        {
+          "zh": "来",
+          "py": "lái",
+          "meaning": "come"
+        },
+        {
+          "zh": "参",
+          "py": "cān",
+          "meaning": "to participate"
+        },
+        {
+          "zh": "加",
+          "py": "jiā",
+          "meaning": "to join"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / my"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive marker"
+        },
+        {
+          "zh": "生",
+          "py": "shēng",
+          "meaning": "birth"
+        },
+        {
+          "zh": "日",
+          "py": "rì",
+          "meaning": "day"
+        },
+        {
+          "zh": "派",
+          "py": "pài",
+          "meaning": "party"
+        },
+        {
+          "zh": "对",
+          "py": "duì",
+          "meaning": "party"
+        }
+      ]
+    },
+    {
+      "chinese": "今晚的舞会很精彩！",
+      "pinyin": "Jīnwǎn de wǔhuì hěn jīngcǎi!",
+      "translation": "The dance party tonight is very exciting!",
+      "usage": "Used to describe an enjoyable evening party or dance event.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "今",
+          "py": "jīn",
+          "meaning": "today"
+        },
+        {
+          "zh": "晚",
+          "py": "wǎn",
+          "meaning": "evening"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive marker"
+        },
+        {
+          "zh": "舞",
+          "py": "wǔ",
+          "meaning": "dance"
+        },
+        {
+          "zh": "会",
+          "py": "huì",
+          "meaning": "meeting / gathering"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "精",
+          "py": "jīng",
+          "meaning": "excellent"
+        },
+        {
+          "zh": "彩",
+          "py": "cǎi",
+          "meaning": "colorful / exciting"
+        }
+      ]
+    },
+    {
+      "chinese": "庆祝新年快乐！",
+      "pinyin": "Qìngzhù xīnnián kuàilè!",
+      "translation": "Celebrating the new year happily!",
+      "usage": "Used during Chinese New Year celebrations to express joy and celebration.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "庆",
+          "py": "qìng",
+          "meaning": "celebrate"
+        },
+        {
+          "zh": "祝",
+          "py": "zhù",
+          "meaning": "to wish"
+        },
+        {
+          "zh": "新",
+          "py": "xīn",
+          "meaning": "new"
+        },
+        {
+          "zh": "年",
+          "py": "nián",
+          "meaning": "year"
+        },
+        {
+          "zh": "快",
+          "py": "kuài",
+          "meaning": "happy"
+        },
+        {
+          "zh": "乐",
+          "py": "lè",
+          "meaning": "joy"
+        }
+      ]
+    },
+    {
+      "chinese": "我们来干杯吧！",
+      "pinyin": "Wǒmen lái gānbēi ba!",
+      "translation": "Let's toast!",
+      "usage": "Used during parties or celebrations when raising glasses to drink.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / we"
+        },
+        {
+          "zh": "们",
+          "py": "men",
+          "meaning": "plural marker"
+        },
+        {
+          "zh": "来",
+          "py": "lái",
+          "meaning": "come"
+        },
+        {
+          "zh": "干",
+          "py": "gān",
+          "meaning": "to drink"
+        },
+        {
+          "zh": "杯",
+          "py": "bēi",
+          "meaning": "cup"
+        },
+        {
+          "zh": "吧",
+          "py": "ba",
+          "meaning": "particle expressing suggestion"
+        }
+      ]
+    },
+    {
+      "chinese": "节日快乐！",
+      "pinyin": "Jiérì kuàilè!",
+      "translation": "Happy holiday!",
+      "usage": "Used to wish someone a happy holiday or celebration.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "节",
+          "py": "jié",
+          "meaning": "festival"
+        },
+        {
+          "zh": "日",
+          "py": "rì",
+          "meaning": "day"
+        },
+        {
+          "zh": "快",
+          "py": "kuài",
+          "meaning": "happy"
+        },
+        {
+          "zh": "乐",
+          "py": "lè",
+          "meaning": "joy"
+        }
+      ]
+    },
+    {
+      "chinese": "这真是个好主意！",
+      "pinyin": "Zhè zhēn shì gè hǎo zhǔyi!",
+      "translation": "This is really a good idea!",
+      "usage": "Used to express approval of a party or celebration idea.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "真",
+          "py": "zhēn",
+          "meaning": "really"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "is"
+        },
+        {
+          "zh": "个",
+          "py": "gè",
+          "meaning": "classifier for objects"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good"
+        },
+        {
+          "zh": "主",
+          "py": "zhǔ",
+          "meaning": "main / chief"
+        },
+        {
+          "zh": "意",
+          "py": "yi",
+          "meaning": "idea"
+        }
+      ]
+    },
+    {
+      "chinese": "大家聚在一起真开心！",
+      "pinyin": "Dàjiā jù zài yīqǐ zhēn kāixīn!",
+      "translation": "It's really fun to be together with everyone!",
+      "usage": "Used to express joy at a gathering or party where people are together.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "大",
+          "py": "dà",
+          "meaning": "big / everyone"
+        },
+        {
+          "zh": "家",
+          "py": "jiā",
+          "meaning": "family / people"
+        },
+        {
+          "zh": "聚",
+          "py": "jù",
+          "meaning": "gather"
+        },
+        {
+          "zh": "在",
+          "py": "zài",
+          "meaning": "at / in"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one / together"
+        },
+        {
+          "zh": "起",
+          "py": "qǐ",
+          "meaning": "together"
+        },
+        {
+          "zh": "真",
+          "py": "zhēn",
+          "meaning": "really"
+        },
+        {
+          "zh": "开",
+          "py": "kāi",
+          "meaning": "happy"
+        },
+        {
+          "zh": "心",
+          "py": "xīn",
+          "meaning": "heart"
+        }
+      ]
+    },
+    {
+      "chinese": "恭喜你升职了！",
+      "pinyin": "Gōngxǐ nǐ shēngzhí le!",
+      "translation": "Congratulations on your promotion!",
+      "usage": "Used to congratulate someone on a career advancement or achievement.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "恭",
+          "py": "gōng",
+          "meaning": "respectfully"
+        },
+        {
+          "zh": "喜",
+          "py": "xǐ",
+          "meaning": "happy"
+        },
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "升",
+          "py": "shēng",
+          "meaning": "to rise"
+        },
+        {
+          "zh": "职",
+          "py": "zhí",
+          "meaning": "position / job"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed action marker"
+        }
+      ]
+    },
+    {
+      "chinese": "庆祝成功！",
+      "pinyin": "Qìngzhù chénggōng!",
+      "translation": "Celebrating success!",
+      "usage": "Used to acknowledge and celebrate an achievement or accomplishment.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "庆",
+          "py": "qìng",
+          "meaning": "celebrate"
+        },
+        {
+          "zh": "祝",
+          "py": "zhù",
+          "meaning": "to wish"
+        },
+        {
+          "zh": "成",
+          "py": "chéng",
+          "meaning": "to succeed"
+        },
+        {
+          "zh": "功",
+          "py": "gōng",
+          "meaning": "achievement"
+        }
+      ]
+    },
+    {
+      "chinese": "让我们一起跳舞吧！",
+      "pinyin": "Ràng wǒmen yīqǐ tiàowǔ ba!",
+      "translation": "Let's dance together!",
+      "usage": "Used to invite people to dance at a party or celebration.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "让",
+          "py": "ràng",
+          "meaning": "let"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / we"
+        },
+        {
+          "zh": "们",
+          "py": "men",
+          "meaning": "plural marker"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one / together"
+        },
+        {
+          "zh": "起",
+          "py": "qǐ",
+          "meaning": "together"
+        },
+        {
+          "zh": "跳",
+          "py": "tiào",
+          "meaning": "to dance"
+        },
+        {
+          "zh": "舞",
+          "py": "wǔ",
+          "meaning": "dance"
+        },
+        {
+          "zh": "吧",
+          "py": "ba",
+          "meaning": "particle expressing suggestion"
+        }
+      ]
+    },
+    {
+      "chinese": "祝你生日快乐！",
+      "pinyin": "Zhù nǐ shēngrì kuàilè!",
+      "translation": "Happy birthday to you!",
+      "usage": "Used to wish someone a happy birthday.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "祝",
+          "py": "zhù",
+          "meaning": "to wish"
+        },
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "生",
+          "py": "shēng",
+          "meaning": "birth"
+        },
+        {
+          "zh": "日",
+          "py": "rì",
+          "meaning": "day"
+        },
+        {
+          "zh": "快",
+          "py": "kuài",
+          "meaning": "happy"
+        },
+        {
+          "zh": "乐",
+          "py": "lè",
+          "meaning": "joy"
+        }
+      ]
+    },
+    {
+      "chinese": "这是一个很棒的聚会！",
+      "pinyin": "Zhè shì yīgè hěn bùcuò de jùhuì!",
+      "translation": "This is a great party!",
+      "usage": "Used to describe and express enthusiasm for a party or gathering.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "is"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "个",
+          "py": "gè",
+          "meaning": "classifier for objects"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "不",
+          "py": "bù",
+          "meaning": "not"
+        },
+        {
+          "zh": "错",
+          "py": "cuò",
+          "meaning": "wrong / good"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "possessive particle"
+        },
+        {
+          "zh": "聚",
+          "py": "jù",
+          "meaning": "gather"
+        },
+        {
+          "zh": "会",
+          "py": "huì",
+          "meaning": "meeting / gathering"
+        }
+      ]
+    },
+    {
+      "chinese": "我们来庆祝一下！",
+      "pinyin": "Wǒmen lái qìngzhù yīxià!",
+      "translation": "Let's celebrate a little!",
+      "usage": "Used to suggest celebrating an achievement or event.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / we"
+        },
+        {
+          "zh": "们",
+          "py": "men",
+          "meaning": "plural marker"
+        },
+        {
+          "zh": "来",
+          "py": "lái",
+          "meaning": "come"
+        },
+        {
+          "zh": "庆",
+          "py": "qìng",
+          "meaning": "celebrate"
+        },
+        {
+          "zh": "祝",
+          "py": "zhù",
+          "meaning": "to wish"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "下",
+          "py": "xià",
+          "meaning": "a little"
+        }
+      ]
+    },
+    {
+      "chinese": "新年快乐！",
+      "pinyin": "Xīnnián kuàilè!",
+      "translation": "Happy New Year!",
+      "usage": "Used during Chinese New Year celebrations.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "新",
+          "py": "xīn",
+          "meaning": "new"
+        },
+        {
+          "zh": "年",
+          "py": "nián",
+          "meaning": "year"
+        },
+        {
+          "zh": "快",
+          "py": "kuài",
+          "meaning": "happy"
+        },
+        {
+          "zh": "乐",
+          "py": "lè",
+          "meaning": "joy"
+        }
+      ]
+    },
+    {
+      "chinese": "让我们一起狂欢吧！",
+      "pinyin": "Ràng wǒmen yīqǐ kuánhuān ba!",
+      "translation": "Let's party together!",
+      "usage": "Used to express excitement about a party or celebration.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "让",
+          "py": "ràng",
+          "meaning": "let"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I / we"
+        },
+        {
+          "zh": "们",
+          "py": "men",
+          "meaning": "plural marker"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one / together"
+        },
+        {
+          "zh": "起",
+          "py": "qǐ",
+          "meaning": "together"
+        },
+        {
+          "zh": "狂",
+          "py": "kuán",
+          "meaning": "crazy"
+        },
+        {
+          "zh": "欢",
+          "py": "huān",
+          "meaning": "joy"
+        },
+        {
+          "zh": "吧",
+          "py": "ba",
+          "meaning": "particle expressing suggestion"
+        }
+      ]
+    }
+  ]
+}

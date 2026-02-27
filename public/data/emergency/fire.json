@@ -1,0 +1,194 @@
+{
+  "sentences": [
+    {
+      "chinese": "小心火源",
+      "pinyin": "Xiǎo xīn huǒ yuán",
+      "translation": "Be careful with fire sources.",
+      "usage": "Used to warn people about potential fire hazards.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "小心",
+          "py": "xiǎo xīn",
+          "meaning": "be careful"
+        },
+        {
+          "zh": "火源",
+          "py": "huǒ yuán",
+          "meaning": "fire source"
+        }
+      ]
+    },
+    {
+      "chinese": "火警电话119",
+      "pinyin": "Huǒ jǐng diàn huà 119",
+      "translation": "Fire alarm number 119.",
+      "usage": "Informs people of the emergency fire number.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "火警",
+          "py": "huǒ jǐng",
+          "meaning": "fire alarm"
+        },
+        {
+          "zh": "电话",
+          "py": "diàn huà",
+          "meaning": "phone"
+        }
+      ]
+    },
+    {
+      "chinese": "立即撤离",
+      "pinyin": "Lì jí chè tuí",
+      "translation": "Evacuate immediately.",
+      "usage": "Order given during emergencies.",
+      "formality": "Urgent",
+      "words": [
+        {
+          "zh": "立即",
+          "py": "lì jí",
+          "meaning": "immediately"
+        },
+        {
+          "zh": "撤离",
+          "py": "chè tuí",
+          "meaning": "evacuate"
+        }
+      ]
+    },
+    {
+      "chinese": "保持冷静",
+      "pinyin": "Bǎo chí lěng jìng",
+      "translation": "Stay calm.",
+      "usage": "Advises people to remain composed in emergencies.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "保持",
+          "py": "bǎo chí",
+          "meaning": "maintain"
+        },
+        {
+          "zh": "冷静",
+          "py": "lěng jìng",
+          "meaning": "calm"
+        }
+      ]
+    },
+    {
+      "chinese": "请保持电话畅通",
+      "pinyin": "Qǐng bǎo chí diàn huà chàng tōng",
+      "translation": "Please keep your phone on.",
+      "usage": "Ensures communication during rescue operations.",
+      "formality": "Urgent",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "畅通",
+          "py": "chàng tōng",
+          "meaning": "uninterrupted"
+        }
+      ]
+    },
+    {
+      "chinese": "不要使用电梯",
+      "pinyin": "Bù yào shǐ yòng dià ntí",
+      "translation": "Do not use the elevator.",
+      "usage": "Advises against elevator use during fires.",
+      "formality": "Urgent",
+      "words": [
+        {
+          "zh": "不要",
+          "py": "bù yào",
+          "meaning": "do not"
+        },
+        {
+          "zh": "电梯",
+          "py": "diàn tī",
+          "meaning": "elevator"
+        }
+      ]
+    },
+    {
+      "chinese": "消防员",
+      "pinyin": "Xiāo fáng yuán",
+      "translation": "Firefighter.",
+      "usage": "Refers to emergency personnel.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "消防",
+          "py": "xiāo fáng",
+          "meaning": "fire prevention"
+        },
+        {
+          "zh": "员",
+          "py": "yuán",
+          "meaning": "worker"
+        }
+      ]
+    },
+    {
+      "chinese": "灭火器",
+      "pinyin": "Mǐn huǒ qì",
+      "translation": "Fire extinguisher.",
+      "usage": "Describes a safety tool.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "灭火",
+          "py": "mǐn huǒ",
+          "meaning": "extinguish fire"
+        },
+        {
+          "zh": "器",
+          "py": "qì",
+          "meaning": "device"
+        }
+      ]
+    },
+    {
+      "chinese": "消防栓",
+      "pinyin": "Xiāo fáng shuān",
+      "translation": "Fire hydrant.",
+      "usage": "Identifies emergency water sources.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "消防",
+          "py": "xiāo fáng",
+          "meaning": "fire prevention"
+        },
+        {
+          "zh": "栓",
+          "py": "shuān",
+          "meaning": "plug"
+        }
+      ]
+    },
+    {
+      "chinese": "安全出口",
+      "pinyin": "Ān quán chū kǒu",
+      "translation": "Exit.",
+      "usage": "Labels evacuation routes.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "安全",
+          "py": "ān quán",
+          "meaning": "safe"
+        },
+        {
+          "zh": "出口",
+          "py": "chū kǒu",
+          "meaning": "exit"
+        }
+      ]
+    }
+  ]
+}

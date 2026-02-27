@@ -1,0 +1,301 @@
+{
+  "sentences": [
+    {
+      "chinese": "考试",
+      "pinyin": "Kǎoshì",
+      "translation": "Exam/Test",
+      "usage": "General term for formal assessments",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "考",
+          "py": "kǎo",
+          "meaning": "to take"
+        },
+        {
+          "zh": "试",
+          "py": "shì",
+          "meaning": "test"
+        }
+      ]
+    },
+    {
+      "chinese": "复习",
+      "pinyin": "Fùxí",
+      "translation": "Review",
+      "usage": "Study material again before exams",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "复",
+          "py": "fù",
+          "meaning": "again"
+        },
+        {
+          "zh": "习",
+          "py": "xí",
+          "meaning": "practice"
+        }
+      ]
+    },
+    {
+      "chinese": "作弊",
+      "pinyin": "Cèibiàn",
+      "translation": "Cheating",
+      "usage": "Illegal exam conduct",
+      "formality": "Negative",
+      "words": [
+        {
+          "zh": "作",
+          "py": "zuò",
+          "meaning": "to do"
+        },
+        {
+          "zh": "弊",
+          "py": "bì",
+          "meaning": "corruption"
+        }
+      ]
+    },
+    {
+      "chinese": "开卷考试",
+      "pinyin": "Kāijuàn kǎoshì",
+      "translation": "Open-book exam",
+      "usage": "Exam allowing reference materials",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "开",
+          "py": "kāi",
+          "meaning": "open"
+        },
+        {
+          "zh": "卷",
+          "py": "juàn",
+          "meaning": "book"
+        }
+      ]
+    },
+    {
+      "chinese": "口试",
+      "pinyin": "Kǒushì",
+      "translation": "Oral exam",
+      "usage": "Spoken assessment",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "口",
+          "py": "kǒu",
+          "meaning": "mouth"
+        },
+        {
+          "zh": "试",
+          "py": "shì",
+          "meaning": "test"
+        }
+      ]
+    },
+    {
+      "chinese": "监考",
+      "pinyin": "Jiānkǎo",
+      "translation": "Proctoring",
+      "usage": "Exam supervision",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "监",
+          "py": "jiān",
+          "meaning": "supervise"
+        },
+        {
+          "zh": "考",
+          "py": "kǎo",
+          "meaning": "exam"
+        }
+      ]
+    },
+    {
+      "chinese": "不及格",
+      "pinyin": "Bù jí gé",
+      "translation": "Fail",
+      "usage": "Scoring below passing grade",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "不",
+          "py": "bù",
+          "meaning": "not"
+        },
+        {
+          "zh": "及",
+          "py": "jí",
+          "meaning": "reach"
+        },
+        {
+          "zh": "格",
+          "py": "gé",
+          "meaning": "standard"
+        }
+      ]
+    },
+    {
+      "chinese": "考卷",
+      "pinyin": "Kǎojuàn",
+      "translation": "Exam paper",
+      "usage": "Written test document",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "考",
+          "py": "kǎo",
+          "meaning": "exam"
+        },
+        {
+          "zh": "卷",
+          "py": "juàn",
+          "meaning": "paper"
+        }
+      ]
+    },
+    {
+      "chinese": "临阵磨枪",
+      "pinyin": "Línzhèn mólance",
+      "translation": "Last-minute preparation",
+      "usage": "Idiom for last-minute studying",
+      "formality": "Colloquial",
+      "words": [
+        {
+          "zh": "临",
+          "py": "lín",
+          "meaning": "face"
+        },
+        {
+          "zh": "阵",
+          "py": "zhèn",
+          "meaning": "battle"
+        },
+        {
+          "zh": "磨",
+          "py": "mó",
+          "meaning": "sharpen"
+        },
+        {
+          "zh": "枪",
+          "py": "qiāng",
+          "meaning": "sword"
+        }
+      ]
+    },
+    {
+      "chinese": "考前焦虑",
+      "pinyin": "Kǎo qián jièlǜ",
+      "translation": "Exam anxiety",
+      "usage": "Pre-exam stress",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "考",
+          "py": "kǎo",
+          "meaning": "exam"
+        },
+        {
+          "zh": "前",
+          "py": "qián",
+          "meaning": "before"
+        },
+        {
+          "zh": "焦",
+          "py": "jiāo",
+          "meaning": "anxious"
+        },
+        {
+          "zh": "虑",
+          "py": "lǜ",
+          "meaning": "concern"
+        }
+      ]
+    },
+    {
+      "chinese": "模拟考",
+      "pinyin": "Mónǐ kǎo",
+      "translation": "Mock exam",
+      "usage": "Practice test",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "模",
+          "py": "mó",
+          "meaning": "model"
+        },
+        {
+          "zh": "拟",
+          "py": "nǐ",
+          "meaning": "simulate"
+        },
+        {
+          "zh": "考",
+          "py": "kǎo",
+          "meaning": "exam"
+        }
+      ]
+    },
+    {
+      "chinese": "过五关斩六将",
+      "pinyin": "Guò wǔ guān zhǎn liù jiàng",
+      "translation": "Get through all tests",
+      "usage": "Idiom for overcoming multiple hurdles",
+      "formality": "Colloquial",
+      "words": [
+        {
+          "zh": "过",
+          "py": "guò",
+          "meaning": "pass"
+        },
+        {
+          "zh": "五",
+          "py": "wǔ",
+          "meaning": "five"
+        },
+        {
+          "zh": "关",
+          "py": "guān",
+          "meaning": "passes"
+        },
+        {
+          "zh": "斩",
+          "py": "zhǎn",
+          "meaning": "slay"
+        },
+        {
+          "zh": "六",
+          "py": "liù",
+          "meaning": "six"
+        },
+        {
+          "zh": "将",
+          "py": "jiàng",
+          "meaning": "generals"
+        }
+      ]
+    },
+    {
+      "chinese": "考题",
+      "pinyin": "Kǎotí",
+      "translation": "Exam question",
+      "usage": "Test item",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "考",
+          "py": "kǎo",
+          "meaning": "exam"
+        },
+        {
+          "zh": "题",
+          "py": "tí",
+          "meaning": "question"
+        }
+      ]
+    }
+  ]
+}

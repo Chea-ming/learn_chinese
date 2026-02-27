@@ -1,0 +1,238 @@
+{
+  "sentences": [
+    {
+      "chinese": "宏观经济政策",
+      "pinyin": "Máoxíng jīngjì zhèngcè",
+      "translation": "Macroeconomic policy",
+      "usage": "Used to discuss government measures affecting the overall economy.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "宏观",
+          "py": "Máoxíng",
+          "meaning": "macro-level"
+        },
+        {
+          "zh": "经济",
+          "py": "Jīngjì",
+          "meaning": "economic"
+        },
+        {
+          "zh": "政策",
+          "py": "Zhèngcè",
+          "meaning": "policy"
+        }
+      ]
+    },
+    {
+      "chinese": "量化宽松",
+      "pinyin": "Liàng huà kōng zōng",
+      "translation": "Quantitative easing",
+      "usage": "Refers to monetary policy tools used to stimulate the economy.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "量化",
+          "py": "Liàng huà",
+          "meaning": "quantitative"
+        },
+        {
+          "zh": "宽松",
+          "py": "Kōng zōng",
+          "meaning": "easing"
+        }
+      ]
+    },
+    {
+      "chinese": "通货膨胀率",
+      "pinyin": "Tōng huò zhàn fèng lǜ",
+      "translation": "Inflation rate",
+      "usage": "Used in economic analysis to describe price level increases.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "通货",
+          "py": "Tōng huò",
+          "meaning": "currency"
+        },
+        {
+          "zh": "膨胀",
+          "py": "Zhàn fèng",
+          "meaning": "inflation"
+        },
+        {
+          "zh": "率",
+          "py": "Lǜ",
+          "meaning": "rate"
+        }
+      ]
+    },
+    {
+      "chinese": "结构性调整",
+      "pinyin": "Jiégòu xìng tiáozhěng",
+      "translation": "Structural adjustment",
+      "usage": "Describes fundamental changes in economic systems.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "结构",
+          "py": "Jiégòu",
+          "meaning": "structure"
+        },
+        {
+          "zh": "性",
+          "py": "Xìng",
+          "meaning": "nature"
+        },
+        {
+          "zh": "调整",
+          "py": "Tiáozhěng",
+          "meaning": "adjustment"
+        }
+      ]
+    },
+    {
+      "chinese": "资本流动",
+      "pinyin": "Zīběn liúdòng",
+      "translation": "Capital flow",
+      "usage": "Refers to movement of investments between countries.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "资本",
+          "py": "Zīběn",
+          "meaning": "capital"
+        },
+        {
+          "zh": "流动",
+          "py": "Liúdòng",
+          "meaning": "flow"
+        }
+      ]
+    },
+    {
+      "chinese": "利率市场化",
+      "pinyin": "Lìlǜ shìchǎng huà",
+      "translation": "Interest rate liberalization",
+      "usage": "Describes deregulation of interest rate mechanisms.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "利率",
+          "py": "Lìlǜ",
+          "meaning": "interest rate"
+        },
+        {
+          "zh": "市场",
+          "py": "Shìchǎng",
+          "meaning": "market"
+        },
+        {
+          "zh": "化",
+          "py": "Huà",
+          "meaning": "process of becoming"
+        }
+      ]
+    },
+    {
+      "chinese": "财政赤字",
+      "pinyin": "Cáizhèng chìzì",
+      "translation": "Fiscal deficit",
+      "usage": "Used in government budget discussions.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "财政",
+          "py": "Cái zhèng",
+          "meaning": "fiscal"
+        },
+        {
+          "zh": "赤字",
+          "py": "Chìzì",
+          "meaning": "deficit"
+        }
+      ]
+    },
+    {
+      "chinese": "外汇储备",
+      "pinyin": "Huìfāng chǔbèi",
+      "translation": "Foreign exchange reserves",
+      "usage": "Refers to central bank's foreign currency holdings.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "外汇",
+          "py": "Huìfāng",
+          "meaning": "foreign exchange"
+        },
+        {
+          "zh": "储备",
+          "py": "Chǔbèi",
+          "meaning": "reserves"
+        }
+      ]
+    },
+    {
+      "chinese": "股指期货",
+      "pinyin": "Gǔzhǐ qīhuò",
+      "translation": "Stock index futures",
+      "usage": "Describes financial derivatives tied to stock indices.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "股指",
+          "py": "Gǔzhǐ",
+          "meaning": "stock index"
+        },
+        {
+          "zh": "期货",
+          "py": "Qīhuò",
+          "meaning": "futures"
+        }
+      ]
+    },
+    {
+      "chinese": "风险对冲",
+      "pinyin": "Fēngxiǎn duìchōng",
+      "translation": "Risk hedging",
+      "usage": "Used in investment strategies to minimize losses.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "风险",
+          "py": "Fēngxiǎn",
+          "meaning": "risk"
+        },
+        {
+          "zh": "对冲",
+          "py": "Duìchōng",
+          "meaning": "hedge"
+        }
+      ]
+    },
+    {
+      "chinese": "资产负债表",
+      "pinyin": "Zīchǎn fùzài biǎo",
+      "translation": "Balance sheet",
+      "usage": "Core financial statement analysis term.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "资产",
+          "py": "Zīchǎn",
+          "meaning": "assets"
+        },
+        {
+          "zh": "负债",
+          "py": "Fùzài",
+          "meaning": "liabilities"
+        },
+        {
+          "zh": "表",
+          "py": "Biǎo",
+          "meaning": "statement"
+        }
+      ]
+    }
+  ]
+}

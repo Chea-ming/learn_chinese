@@ -1,0 +1,195 @@
+{
+  "sentences": [
+    {
+      "chinese": "快递",
+      "pinyin": "Kuàidì",
+      "translation": "Express delivery",
+      "usage": "Refers to fast shipping services.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "快",
+          "py": "kuài",
+          "meaning": "fast"
+        },
+        {
+          "zh": "递",
+          "py": "dì",
+          "meaning": "deliver"
+        }
+      ]
+    },
+    {
+      "chinese": "邮费",
+      "pinyin": "Yóufèi",
+      "translation": "Shipping fee",
+      "usage": "Cost charged for package delivery.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "邮",
+          "py": "yóu",
+          "meaning": "mail"
+        },
+        {
+          "zh": "费",
+          "py": "fèi",
+          "meaning": "fee"
+        }
+      ]
+    },
+    {
+      "chinese": "发货",
+      "pinyin": "Fāhuò",
+      "translation": "To ship the goods",
+      "usage": "Used when products are dispatched.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "发",
+          "py": "fā",
+          "meaning": "send"
+        },
+        {
+          "zh": "货",
+          "py": "huò",
+          "meaning": "goods"
+        }
+      ]
+    },
+    {
+      "chinese": "预计到达时间",
+      "pinyin": "Yùjì dàodá shíjiān",
+      "translation": "Estimated arrival time",
+      "usage": "Indicates when a package will arrive.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "预",
+          "py": "yù",
+          "meaning": "anticipate"
+        },
+        {
+          "zh": "计",
+          "py": "jì",
+          "meaning": "calculate"
+        },
+        {
+          "zh": "到",
+          "py": "dào",
+          "meaning": "arrive"
+        },
+        {
+          "zh": "达",
+          "py": "dá",
+          "meaning": "reach"
+        },
+        {
+          "zh": "时间",
+          "py": "shíjiān",
+          "meaning": "time"
+        }
+      ]
+    },
+    {
+      "chinese": "运单号",
+      "pinyin": "Yùndānhào",
+      "translation": "Tracking number",
+      "usage": "Unique identifier for package tracking.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "运",
+          "py": "yùn",
+          "meaning": "transport"
+        },
+        {
+          "zh": "单",
+          "py": "dān",
+          "meaning": "document"
+        },
+        {
+          "zh": "号",
+          "py": "hào",
+          "meaning": "number"
+        }
+      ]
+    },
+    {
+      "chinese": "清关",
+      "pinyin": "Qīngguān",
+      "translation": "Customs clearance",
+      "usage": "Process for imported goods.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "清",
+          "py": "qīng",
+          "meaning": "clear"
+        },
+        {
+          "zh": "关",
+          "py": "guān",
+          "meaning": "customs"
+        }
+      ]
+    },
+    {
+      "chinese": "退货",
+      "pinyin": "Tuìhuò",
+      "translation": "Return goods",
+      "usage": "Returning purchased items.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "退",
+          "py": "tuì",
+          "meaning": "return"
+        },
+        {
+          "zh": "货",
+          "py": "huò",
+          "meaning": "goods"
+        }
+      ]
+    },
+    {
+      "chinese": "运输保险",
+      "pinyin": "Yùnshū bǎoxiǎn",
+      "translation": "Transportation insurance",
+      "usage": "Insurance for shipped items.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "运输",
+          "py": "yùnshū",
+          "meaning": "transport"
+        },
+        {
+          "zh": "保险",
+          "py": "bǎoxiǎn",
+          "meaning": "insurance"
+        }
+      ]
+    },
+    {
+      "chinese": "延迟送达",
+      "pinyin": "Yánchí sòngdá",
+      "translation": "Delayed delivery",
+      "usage": "When delivery is late.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "延迟",
+          "py": "yánchí",
+          "meaning": "delay"
+        },
+        {
+          "zh": "送达",
+          "py": "sòngdá",
+          "meaning": "deliver"
+        }
+      ]
+    }
+  ]
+}

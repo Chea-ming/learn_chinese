@@ -1,0 +1,180 @@
+{
+  "sentences": [
+    {
+      "chinese": "夏朝是中国历史上的第一个朝代。",
+      "pinyin": "Xià cháo shì Zhōngguó lìshǐ shàng de dì yī gè cháo dài.",
+      "translation": "The Xia Dynasty is the first dynasty in Chinese history.",
+      "usage": "Used to introduce the earliest recorded dynasty in Chinese history.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "夏",
+          "py": "Xià",
+          "meaning": "Xia (dynasty)"
+        },
+        {
+          "zh": "朝",
+          "py": "cháo",
+          "meaning": "dynasty"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "is"
+        },
+        {
+          "zh": "中国",
+          "py": "Zhōngguó",
+          "meaning": "China"
+        },
+        {
+          "zh": "历史",
+          "py": "lìshǐ",
+          "meaning": "history"
+        },
+        {
+          "zh": "上",
+          "py": "shàng",
+          "meaning": "in"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "of"
+        },
+        {
+          "zh": "第一",
+          "py": "dì yī",
+          "meaning": "first"
+        },
+        {
+          "zh": "个",
+          "py": "gè",
+          "meaning": "a"
+        },
+        {
+          "zh": "朝代",
+          "py": "cháo dài",
+          "meaning": "dynasty"
+        }
+      ]
+    },
+    {
+      "chinese": "商朝以青铜器闻名。",
+      "pinyin": "Shāng cháo yǐ qīngtóng qì wén míng.",
+      "translation": "The Shang Dynasty is famous for bronze artifacts.",
+      "usage": "Mentions the cultural achievements of the Shang Dynasty.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "商",
+          "py": "Shāng",
+          "meaning": "Shang (dynasty)"
+        },
+        {
+          "zh": "朝",
+          "py": "cháo",
+          "meaning": "dynasty"
+        },
+        {
+          "zh": "以",
+          "py": "yǐ",
+          "meaning": "is famous for"
+        },
+        {
+          "zh": "青铜器",
+          "py": "qīngtóng qì",
+          "meaning": "bronze artifacts"
+        },
+        {
+          "zh": "闻名",
+          "py": "wén míng",
+          "meaning": "famous"
+        }
+      ]
+    },
+    {
+      "chinese": "周朝分为西周和东周两个时期。",
+      "pinyin": "Zhōu cháo fēn wéi Xī Zhōu hé Dōng Zhōu liǎng gè shíqī.",
+      "translation": "The Zhou Dynasty is divided into the Western Zhou and Eastern Zhou periods.",
+      "usage": "Explains the division of the Zhou Dynasty into two distinct eras.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "周",
+          "py": "Zhōu",
+          "meaning": "Zhou (dynasty)"
+        },
+        {
+          "zh": "朝",
+          "py": "cháo",
+          "meaning": "dynasty"
+        },
+        {
+          "zh": "分",
+          "py": "fēn",
+          "meaning": "divided into"
+        },
+        {
+          "zh": "为",
+          "py": "wéi",
+          "meaning": "into"
+        },
+        {
+          "zh": "西周",
+          "py": "Xī Zhōu",
+          "meaning": "Western Zhou"
+        },
+        {
+          "zh": "东周",
+          "py": "Dōng Zhōu",
+          "meaning": "Eastern Zhou"
+        },
+        {
+          "zh": "两个",
+          "py": "liǎng gè",
+          "meaning": "two"
+        },
+        {
+          "zh": "时期",
+          "py": "shíqī",
+          "meaning": "periods"
+        }
+      ]
+    },
+    {
+      "chinese": "秦朝统一了中国。",
+      "pinyin": "Qín cháo tǒng yī le Zhōngguó.",
+      "translation": "The Qin Dynasty unified China.",
+      "usage": "Highlights the unification of China under the Qin Dynasty.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "秦",
+          "py": "Qín",
+          "meaning": "Qin (dynasty)"
+        },
+        {
+          "zh": "朝",
+          "py": "cháo",
+          "meaning": "dynasty"
+        },
+        {
+          "zh": "统一",
+          "py": "tǒng yī",
+          "meaning": "unified"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed action"
+        },
+        {
+          "zh": "中国",
+          "py": "Zhōngguó",
+          "meaning": "China"
+        }
+      ]
+    }
+  ]
+}

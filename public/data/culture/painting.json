@@ -1,0 +1,257 @@
+{
+  "sentences": [
+    {
+      "chinese": "国画",
+      "pinyin": "Guóhuà",
+      "translation": "Traditional Chinese painting",
+      "usage": "The standard term for Chinese painting as a cultural art form.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "国",
+          "py": "Guó",
+          "meaning": "country/China"
+        },
+        {
+          "zh": "画",
+          "py": "huà",
+          "meaning": "painting"
+        }
+      ]
+    },
+    {
+      "chinese": "工笔画",
+      "pinyin": "Gōngbǐ huà",
+      "translation": "Meticulous brush painting",
+      "usage": "A detailed, realistic style of Chinese painting.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "工",
+          "py": "gōng",
+          "meaning": "careful/workmanship"
+        },
+        {
+          "zh": "笔",
+          "py": "bǐ",
+          "meaning": "brush"
+        },
+        {
+          "zh": "画",
+          "py": "huà",
+          "meaning": "painting"
+        }
+      ]
+    },
+    {
+      "chinese": "写意画",
+      "pinyin": "Xiěyì huà",
+      "translation": "Freehand brush painting",
+      "usage": "An expressive, abstract style emphasizing artistic license.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "写",
+          "py": "xiě",
+          "meaning": "write/paint"
+        },
+        {
+          "zh": "意",
+          "py": "yì",
+          "meaning": "intention/meaning"
+        },
+        {
+          "zh": "画",
+          "py": "huà",
+          "meaning": "painting"
+        }
+      ]
+    },
+    {
+      "chinese": "山水画",
+      "pinyin": "Shānshuǐ huà",
+      "translation": "Landscape painting",
+      "usage": "A classical genre depicting mountains and rivers.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "山",
+          "py": "shān",
+          "meaning": "mountain"
+        },
+        {
+          "zh": "水",
+          "py": "shuǐ",
+          "meaning": "water"
+        },
+        {
+          "zh": "画",
+          "py": "huà",
+          "meaning": "painting"
+        }
+      ]
+    },
+    {
+      "chinese": "花鸟画",
+      "pinyin": "Huāniǎo huà",
+      "translation": "Flower-bird painting",
+      "usage": "A traditional genre focusing on flora and fauna.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "花",
+          "py": "huā",
+          "meaning": "flower"
+        },
+        {
+          "zh": "鸟",
+          "py": "niǎo",
+          "meaning": "bird"
+        },
+        {
+          "zh": "画",
+          "py": "huà",
+          "meaning": "painting"
+        }
+      ]
+    },
+    {
+      "chinese": "人物画",
+      "pinyin": "Rénwù huà",
+      "translation": "Figure painting",
+      "usage": "A genre depicting human figures and scenes.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "人",
+          "py": "rén",
+          "meaning": "person"
+        },
+        {
+          "zh": "物",
+          "py": "wù",
+          "meaning": "object/figure"
+        },
+        {
+          "zh": "画",
+          "py": "huà",
+          "meaning": "painting"
+        }
+      ]
+    },
+    {
+      "chinese": "墨色",
+      "pinyin": "Mòsè",
+      "translation": "Ink tone",
+      "usage": "Refers to the gradations of black ink in paintings.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "墨",
+          "py": "mò",
+          "meaning": "ink"
+        },
+        {
+          "zh": "色",
+          "py": "sè",
+          "meaning": "color"
+        }
+      ]
+    },
+    {
+      "chinese": "宣纸",
+      "pinyin": "Xuān zhǐ",
+      "translation": "Xuan paper",
+      "usage": "High-quality paper used for Chinese calligraphy and painting.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "宣",
+          "py": "xuān",
+          "meaning": "Xuan (a place name)"
+        },
+        {
+          "zh": "纸",
+          "py": "zhǐ",
+          "meaning": "paper"
+        }
+      ]
+    },
+    {
+      "chinese": "毛笔",
+      "pinyin": "Máo bǐ",
+      "translation": "Brush pen",
+      "usage": "A traditional writing/painting tool with animal hair bristles.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "毛",
+          "py": "máo",
+          "meaning": "hair"
+        },
+        {
+          "zh": "笔",
+          "py": "bǐ",
+          "meaning": "brush"
+        }
+      ]
+    },
+    {
+      "chinese": "绘画",
+      "pinyin": "Huìhuà",
+      "translation": "Painting",
+      "usage": "General term for the act of creating visual art.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "绘",
+          "py": "huì",
+          "meaning": "to paint"
+        },
+        {
+          "zh": "画",
+          "py": "huà",
+          "meaning": "painting"
+        }
+      ]
+    },
+    {
+      "chinese": "画家",
+      "pinyin": "Huàjiā",
+      "translation": "Painter",
+      "usage": "Someone who creates paintings.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "画",
+          "py": "huà",
+          "meaning": "painting"
+        },
+        {
+          "zh": "家",
+          "py": "jiā",
+          "meaning": "expert"
+        }
+      ]
+    },
+    {
+      "chinese": "文人画",
+      "pinyin": "Wénrén huà",
+      "translation": "Scholar painting",
+      "usage": "Paintings by literati emphasizing poetry and personal style.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "文",
+          "py": "wén",
+          "meaning": "literature"
+        },
+        {
+          "zh": "人",
+          "py": "rén",
+          "meaning": "person"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,606 @@
+{
+  "sentences": [
+    {
+      "chinese": "中医治疗偏头痛有效。",
+      "pinyin": "Zhōng yī zhì liáo piān tóu tòng yǒu xiào.",
+      "translation": "Traditional Chinese medicine is effective for treating migraines.",
+      "usage": "Used when discussing the effectiveness of TCM for migraines.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "中医",
+          "py": "zhōng yī",
+          "meaning": "Traditional Chinese medicine"
+        },
+        {
+          "zh": "治疗",
+          "py": "zhì liáo",
+          "meaning": "treat"
+        },
+        {
+          "zh": "偏头痛",
+          "py": "piān tóu tòng",
+          "meaning": "migraine"
+        },
+        {
+          "zh": "有效",
+          "py": "yǒu xiào",
+          "meaning": "effective"
+        }
+      ]
+    },
+    {
+      "chinese": "你喝中药多久了？",
+      "pinyin": "Nǐ hē zhōng yào duō jiǔ le?",
+      "translation": "How long have you been taking herbal medicine?",
+      "usage": "Used to inquire about someone's experience with herbal remedies.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "喝",
+          "py": "hē",
+          "meaning": "drink"
+        },
+        {
+          "zh": "中药",
+          "py": "zhōng yào",
+          "meaning": "herbal medicine"
+        },
+        {
+          "zh": "多久",
+          "py": "duō jiǔ",
+          "meaning": "how long"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "particle for completed action"
+        }
+      ]
+    },
+    {
+      "chinese": "针灸缓解疼痛效果显著。",
+      "pinyin": "Zhēn jiǔ jiǎn huá téng tòng xiào guǒ zhuān xù.",
+      "translation": "Acupuncture significantly relieves pain.",
+      "usage": "Used to describe the efficacy of acupuncture therapy.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "针灸",
+          "py": "zhēn jiǔ",
+          "meaning": "acupuncture"
+        },
+        {
+          "zh": "缓解",
+          "py": "jiǎn huá",
+          "meaning": "relieve"
+        },
+        {
+          "zh": "疼痛",
+          "py": "téng tòng",
+          "meaning": "pain"
+        },
+        {
+          "zh": "效果",
+          "py": "xiào guǒ",
+          "meaning": "effect"
+        },
+        {
+          "zh": "显著",
+          "py": "zhuān xù",
+          "meaning": "significant"
+        }
+      ]
+    },
+    {
+      "chinese": "食疗是自然疗法的一部分。",
+      "pinyin": "Shí liáo shì zì rán fǎn xiào de yī bù fèn.",
+      "translation": "Dietary therapy is part of natural remedies.",
+      "usage": "Used in discussions about holistic health approaches.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "食疗",
+          "py": "shí liáo",
+          "meaning": "dietary therapy"
+        },
+        {
+          "zh": "自然疗法",
+          "py": "zì rán fǎn xiào",
+          "meaning": "natural remedies"
+        },
+        {
+          "zh": "部分",
+          "py": "bù fèn",
+          "meaning": "part"
+        }
+      ]
+    },
+    {
+      "chinese": "你对艾灸感兴趣吗？",
+      "pinyin": "Nǐ duì ài jù gǎn xìng qù ma?",
+      "translation": "Are you interested in moxibustion?",
+      "usage": "Used to ask about interest in a specific therapy.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "对",
+          "py": "duì",
+          "meaning": "regarding"
+        },
+        {
+          "zh": "艾灸",
+          "py": "ài jù",
+          "meaning": "moxibustion"
+        },
+        {
+          "zh": "感兴趣",
+          "py": "gǎn xìng qù",
+          "meaning": "interested"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "传统医学与现代医学结合更好。",
+      "pinyin": "Chuán tǒng yī xué yǔ xiàn dài yī xué jiē hé gèng hǎo.",
+      "translation": "Combining traditional and modern medicine is better.",
+      "usage": "Used in debates about integrative healthcare.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "传统医学",
+          "py": "chuán tǒng yī xué",
+          "meaning": "traditional medicine"
+        },
+        {
+          "zh": "现代医学",
+          "py": "xiàn dài yī xué",
+          "meaning": "modern medicine"
+        },
+        {
+          "zh": "结合",
+          "py": "jiē hé",
+          "meaning": "combine"
+        },
+        {
+          "zh": "更好",
+          "py": "gèng hǎo",
+          "meaning": "better"
+        }
+      ]
+    },
+    {
+      "chinese": "你最近有尝试草药吗？",
+      "pinyin": "Nǐ zuì jìn yǒu cháng tí shì cǎo yào ma?",
+      "translation": "Have you tried herbal remedies recently?",
+      "usage": "Used to ask about recent use of herbal treatments.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "最近",
+          "py": "zuì jìn",
+          "meaning": "recently"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "have"
+        },
+        {
+          "zh": "尝试",
+          "py": "cháng tí",
+          "meaning": "try"
+        },
+        {
+          "zh": "草药",
+          "py": "cǎo yào",
+          "meaning": "herbal medicine"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "冥想有助于缓解压力。",
+      "pinyin": "Míng xiǎng yǒu zhù yú jiǎn huá yā lì.",
+      "translation": "Meditation helps relieve stress.",
+      "usage": "Used to discuss mental health practices.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "冥想",
+          "py": "míng xiǎng",
+          "meaning": "meditation"
+        },
+        {
+          "zh": "有助于",
+          "py": "yǒu zhù yú",
+          "meaning": "help with"
+        },
+        {
+          "zh": "缓解",
+          "py": "jiǎn huá",
+          "meaning": "relieve"
+        },
+        {
+          "zh": "压力",
+          "py": "yā lì",
+          "meaning": "stress"
+        }
+      ]
+    },
+    {
+      "chinese": "你认为中医比西医更有效吗？",
+      "pinyin": "Nǐ rèn wéi zhōng yī bǐ xī yī gèng yǒu xiào ma?",
+      "translation": "Do you think TCM is more effective than Western medicine?",
+      "usage": "Used in comparative discussions about medical systems.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "认为",
+          "py": "rèn wéi",
+          "meaning": "think"
+        },
+        {
+          "zh": "中医",
+          "py": "zhōng yī",
+          "meaning": "TCM"
+        },
+        {
+          "zh": "比",
+          "py": "bǐ",
+          "meaning": "than"
+        },
+        {
+          "zh": "西医",
+          "py": "xī yī",
+          "meaning": "Western medicine"
+        },
+        {
+          "zh": "更有效",
+          "py": "gèng yǒu xiào",
+          "meaning": "more effective"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "经络调理是中医核心理论。",
+      "pinyin": "Jīng luò diào lǐ shì zhōng yī hé xīn lǐ lùn.",
+      "translation": "Meridian regulation is the core theory of TCM.",
+      "usage": "Used in academic or educational contexts.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "经络",
+          "py": "jīng luò",
+          "meaning": "meridians"
+        },
+        {
+          "zh": "调理",
+          "py": "diào lǐ",
+          "meaning": "regulation"
+        },
+        {
+          "zh": "中医",
+          "py": "zhōng yī",
+          "meaning": "TCM"
+        },
+        {
+          "zh": "核心",
+          "py": "hé xīn",
+          "meaning": "core"
+        },
+        {
+          "zh": "理论",
+          "py": "lǐ lùn",
+          "meaning": "theory"
+        }
+      ]
+    },
+    {
+      "chinese": "你对针灸的副作用了解吗？",
+      "pinyin": "Nǐ duì zhēn jiǔ de fù zuì xiào liǎo ma?",
+      "translation": "Do you know about the side effects of acupuncture?",
+      "usage": "Used to ask about potential risks of a treatment.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "对",
+          "py": "duì",
+          "meaning": "regarding"
+        },
+        {
+          "zh": "针灸",
+          "py": "zhēn jiǔ",
+          "meaning": "acupuncture"
+        },
+        {
+          "zh": "副作用",
+          "py": "fù zuì xiào",
+          "meaning": "side effects"
+        },
+        {
+          "zh": "了解",
+          "py": "liǎo jiě",
+          "meaning": "understand"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "瑜伽有助于提升身体能量。",
+      "pinyin": "Yáng jiā yǒu zhù yú tí shēng shēn tǐ nénɡ liàng.",
+      "translation": "Yoga helps enhance bodily energy.",
+      "usage": "Used to discuss holistic wellness practices.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "瑜伽",
+          "py": "yáng jiā",
+          "meaning": "yoga"
+        },
+        {
+          "zh": "有助于",
+          "py": "yǒu zhù yú",
+          "meaning": "help with"
+        },
+        {
+          "zh": "提升",
+          "py": "tí shēng",
+          "meaning": "enhance"
+        },
+        {
+          "zh": "身体",
+          "py": "shēn tǐ",
+          "meaning": "body"
+        },
+        {
+          "zh": "能量",
+          "py": "néng liàng",
+          "meaning": "energy"
+        }
+      ]
+    },
+    {
+      "chinese": "你愿意尝试自然疗法吗？",
+      "pinyin": "Nǐ yuì yì cháng tí shì zì rán fǎn xiào ma?",
+      "translation": "Are you willing to try natural remedies?",
+      "usage": "Used to ask about openness to alternative treatments.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "愿意",
+          "py": "yuì yì",
+          "meaning": "willing"
+        },
+        {
+          "zh": "尝试",
+          "py": "cháng tí",
+          "meaning": "try"
+        },
+        {
+          "zh": "自然疗法",
+          "py": "zì rán fǎn xiào",
+          "meaning": "natural remedies"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "中医强调阴阳平衡。",
+      "pinyin": "Zhōng yī jiān chēng yīn yáng píng héng.",
+      "translation": "TCM emphasizes yin-yang balance.",
+      "usage": "Used in explanations of TCM principles.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "中医",
+          "py": "zhōng yī",
+          "meaning": "TCM"
+        },
+        {
+          "zh": "强调",
+          "py": "jiān chēng",
+          "meaning": "emphasize"
+        },
+        {
+          "zh": "阴阳",
+          "py": "yīn yáng",
+          "meaning": "yin and yang"
+        },
+        {
+          "zh": "平衡",
+          "py": "píng héng",
+          "meaning": "balance"
+        }
+      ]
+    },
+    {
+      "chinese": "你是否了解草药的使用禁忌？",
+      "pinyin": "Nǐ shì fǒu liǎo jiě cǎo yào de shǐ yòng jìn jì?",
+      "translation": "Do you know the contraindications for herbal use?",
+      "usage": "Used to ask about safety precautions with herbs.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "是否",
+          "py": "shì fǒu",
+          "meaning": "whether"
+        },
+        {
+          "zh": "了解",
+          "py": "liǎo jiě",
+          "meaning": "understand"
+        },
+        {
+          "zh": "草药",
+          "py": "cǎo yào",
+          "meaning": "herbal medicine"
+        },
+        {
+          "zh": "使用",
+          "py": "shǐ yòng",
+          "meaning": "use"
+        },
+        {
+          "zh": "禁忌",
+          "py": "jìn jì",
+          "meaning": "contraindications"
+        }
+      ]
+    },
+    {
+      "chinese": "冥想需要专注和耐心。",
+      "pinyin": "Míng xiǎng xū yào zhuān zhù hé nàixīn.",
+      "translation": "Meditation requires focus and patience.",
+      "usage": "Used to describe the practice of meditation.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "冥想",
+          "py": "míng xiǎng",
+          "meaning": "meditation"
+        },
+        {
+          "zh": "需要",
+          "py": "xū yào",
+          "meaning": "require"
+        },
+        {
+          "zh": "专注",
+          "py": "zhuān zhù",
+          "meaning": "focus"
+        },
+        {
+          "zh": "耐心",
+          "py": "nàixīn",
+          "meaning": "patience"
+        }
+      ]
+    },
+    {
+      "chinese": "你对中医的疗效有信心吗？",
+      "pinyin": "Nǐ duì zhōng yī de liáo xiào yǒu xìn níng ma?",
+      "translation": "Do you have confidence in TCM's effectiveness?",
+      "usage": "Used to assess belief in alternative medicine.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "对",
+          "py": "duì",
+          "meaning": "regarding"
+        },
+        {
+          "zh": "中医",
+          "py": "zhōng yī",
+          "meaning": "TCM"
+        },
+        {
+          "zh": "疗效",
+          "py": "liáo xiào",
+          "meaning": "effectiveness"
+        },
+        {
+          "zh": "信心",
+          "py": "xìn níng",
+          "meaning": "confidence"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "传统疗法需要专业指导。",
+      "pinyin": "Chuán tǒng fǎn xiào xū yào zhuān yè zhǐ dǎo.",
+      "translation": "Traditional therapies require professional guidance.",
+      "usage": "Used in health education contexts.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "传统疗法",
+          "py": "chuán tǒng fǎn xiào",
+          "meaning": "traditional therapies"
+        },
+        {
+          "zh": "需要",
+          "py": "xū yào",
+          "meaning": "require"
+        },
+        {
+          "zh": "专业",
+          "py": "zhuān yè",
+          "meaning": "professional"
+        },
+        {
+          "zh": "指导",
+          "py": "zhǐ dǎo",
+          "meaning": "guidance"
+        }
+      ]
+    }
+  ]
+}

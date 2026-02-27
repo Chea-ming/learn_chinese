@@ -1,0 +1,130 @@
+{
+  "sentences": [
+    {
+      "chinese": "你好，我是你的新同事。",
+      "pinyin": "Nǐ hǎo, wǒ shì nǐ de xīn tóngshì.",
+      "translation": "Hello, I'm your new colleague.",
+      "usage": "Introduction during a first phone call or email.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "is"
+        },
+        {
+          "zh": "新",
+          "py": "xīn",
+          "meaning": "new"
+        },
+        {
+          "zh": "同事",
+          "py": "tóngshì",
+          "meaning": "colleague"
+        }
+      ]
+    },
+    {
+      "chinese": "方便留个联系方式吗？",
+      "pinyin": "Fāngbiàn liú gè liánxì fāngshì ma?",
+      "translation": "Convenient to leave a contact method?",
+      "usage": "Requesting contact information politely.",
+      "formality": "Polite",
+      "words": [
+        {
+          "zh": "方便",
+          "py": "fāngbiàn",
+          "meaning": "convenient"
+        },
+        {
+          "zh": "留",
+          "py": "liú",
+          "meaning": "leave"
+        },
+        {
+          "zh": "联系方式",
+          "py": "liánxì fāngshì",
+          "meaning": "contact method"
+        }
+      ]
+    },
+    {
+      "chinese": "我打这个电话是想确认会议时间。",
+      "pinyin": "Wǒ dǎ zhège diànhuà shì xiǎng quèrèn huìyì shíjiān.",
+      "translation": "I'm calling to confirm the meeting time.",
+      "usage": "Explaining the purpose of a call.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "打",
+          "py": "dǎ",
+          "meaning": "make"
+        },
+        {
+          "zh": "电话",
+          "py": "diànhuà",
+          "meaning": "phone call"
+        },
+        {
+          "zh": "确认",
+          "py": "quèrèn",
+          "meaning": "confirm"
+        },
+        {
+          "zh": "会议",
+          "py": "huìyì",
+          "meaning": "meeting"
+        },
+        {
+          "zh": "时间",
+          "py": "shíjiān",
+          "meaning": "time"
+        }
+      ]
+    },
+    {
+      "chinese": "请查看我的电子邮件获取详细信息。",
+      "pinyin": "Qǐng chákan wǒ de diànzǐ yóujiàn huòqǔ xiàoxì xìxìng.",
+      "translation": "Please check my email for details.",
+      "usage": "Informing someone to refer to an email.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "查看",
+          "py": "chákan",
+          "meaning": "check"
+        },
+        {
+          "zh": "电子邮件",
+          "py": "diànzǐ yóujiàn",
+          "meaning": "email"
+        },
+        {
+          "zh": "获取",
+          "py": "huòqǔ",
+          "meaning": "obtain"
+        },
+        {
+          "zh": "详细",
+          "py": "xiángxì",
+          "meaning": "detailed"
+        }
+      ]
+    }
+  ]
+}

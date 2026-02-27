@@ -1,0 +1,200 @@
+{
+  "sentences": [
+    {
+      "chinese": "公园",
+      "pinyin": "Gōngyuán",
+      "translation": "Park",
+      "usage": "General term for public green spaces.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "公",
+          "py": "Gōng",
+          "meaning": "public"
+        },
+        {
+          "zh": "园",
+          "py": "Yuán",
+          "meaning": "garden"
+        }
+      ]
+    },
+    {
+      "chinese": "自然公园",
+      "pinyin": "Zìrán gōngyuán",
+      "translation": "Nature Park",
+      "usage": "Used for parks preserving natural landscapes.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "自",
+          "py": "Zì",
+          "meaning": "self"
+        },
+        {
+          "zh": "然",
+          "py": "Rán",
+          "meaning": "natural"
+        },
+        {
+          "zh": "公",
+          "py": "Gōng",
+          "meaning": "public"
+        },
+        {
+          "zh": "园",
+          "py": "Yuán",
+          "meaning": "garden"
+        }
+      ]
+    },
+    {
+      "chinese": "植物园",
+      "pinyin": "Zhíwù yuán",
+      "translation": "Botanical Garden",
+      "usage": "Refers to gardens for plant research and display.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "植",
+          "py": "Zhí",
+          "meaning": "plant"
+        },
+        {
+          "zh": "物",
+          "py": "Wù",
+          "meaning": "things"
+        },
+        {
+          "zh": "园",
+          "py": "Yuán",
+          "meaning": "garden"
+        }
+      ]
+    },
+    {
+      "chinese": "山",
+      "pinyin": "Shān",
+      "translation": "Mountain",
+      "usage": "Basic term for mountains in outdoor settings.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "山",
+          "py": "Shān",
+          "meaning": "mountain"
+        }
+      ]
+    },
+    {
+      "chinese": "森林",
+      "pinyin": "Sēnlín",
+      "translation": "Forest",
+      "usage": "Describes wooded areas in natural parks.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "森",
+          "py": "Sēn",
+          "meaning": "dense"
+        },
+        {
+          "zh": "林",
+          "py": "Lín",
+          "meaning": "woods"
+        }
+      ]
+    },
+    {
+      "chinese": "湖",
+      "pinyin": "Hú",
+      "translation": "Lake",
+      "usage": "Used for bodies of water in parks.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "湖",
+          "py": "Hú",
+          "meaning": "lake"
+        }
+      ]
+    },
+    {
+      "chinese": "徒步小径",
+      "pinyin": "Túbù xiǎojìng",
+      "translation": "Hiking Trail",
+      "usage": "Refers to paths for walking or hiking.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "徒",
+          "py": "Tú",
+          "meaning": "bare"
+        },
+        {
+          "zh": "步",
+          "py": "Bù",
+          "meaning": "step"
+        },
+        {
+          "zh": "小",
+          "py": "Xiǎo",
+          "meaning": "small"
+        },
+        {
+          "zh": "径",
+          "py": "Jìng",
+          "meaning": "path"
+        }
+      ]
+    },
+    {
+      "chinese": "野餐区",
+      "pinyin": "Yěcān qū",
+      "translation": "Picnic Area",
+      "usage": "Designates park areas for outdoor meals.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "野",
+          "py": "Yě",
+          "meaning": "wild"
+        },
+        {
+          "zh": "餐",
+          "py": "Cān",
+          "meaning": "meal"
+        },
+        {
+          "zh": "区",
+          "py": "Qū",
+          "meaning": "area"
+        }
+      ]
+    },
+    {
+      "chinese": "游乐场",
+      "pinyin": "Yóuyuè chǎng",
+      "translation": "Playground",
+      "usage": "Refers to park areas for children's play.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "游",
+          "py": "Yóu",
+          "meaning": "to travel"
+        },
+        {
+          "zh": "乐",
+          "py": "Lè",
+          "meaning": "pleasure"
+        },
+        {
+          "zh": "场",
+          "py": "Chǎng",
+          "meaning": "place"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,749 @@
+{
+  "sentences": [
+    {
+      "chinese": "你好！",
+      "pinyin": "Nǐ hǎo!",
+      "translation": "Hello!",
+      "usage": "The standard, all-purpose greeting. Suitable for almost any situation.",
+      "formality": "Neutral / Informal",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good / well"
+        }
+      ]
+    },
+    {
+      "chinese": "早上好！",
+      "pinyin": "Zǎo shàng hǎo!",
+      "translation": "Good morning!",
+      "usage": "Used when greeting someone in the morning hours.",
+      "formality": "Neutral / Formal",
+      "words": [
+        {
+          "zh": "早",
+          "py": "zǎo",
+          "meaning": "morning"
+        },
+        {
+          "zh": "上",
+          "py": "shàng",
+          "meaning": "up / morning"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good / well"
+        }
+      ]
+    },
+    {
+      "chinese": "下午好！",
+      "pinyin": "Xià wǔ hǎo!",
+      "translation": "Good afternoon!",
+      "usage": "Used when greeting someone in the afternoon.",
+      "formality": "Neutral / Formal",
+      "words": [
+        {
+          "zh": "下",
+          "py": "xià",
+          "meaning": "down / afternoon"
+        },
+        {
+          "zh": "午",
+          "py": "wǔ",
+          "meaning": "noon / afternoon"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good / well"
+        }
+      ]
+    },
+    {
+      "chinese": "晚上好！",
+      "pinyin": "Wǎn shàng hǎo!",
+      "translation": "Good evening!",
+      "usage": "Used when greeting someone in the evening.",
+      "formality": "Neutral / Formal",
+      "words": [
+        {
+          "zh": "晚",
+          "py": "wǎn",
+          "meaning": "evening"
+        },
+        {
+          "zh": "上",
+          "py": "shàng",
+          "meaning": "up / evening"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good / well"
+        }
+      ]
+    },
+    {
+      "chinese": "最近怎么样？",
+      "pinyin": "Zuì jìn zěn me yàng?",
+      "translation": "How have you been recently?",
+      "usage": "A casual way to ask about someone's recent well-being.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "最",
+          "py": "zuì",
+          "meaning": "most"
+        },
+        {
+          "zh": "近",
+          "py": "jìn",
+          "meaning": "near / recent"
+        },
+        {
+          "zh": "怎",
+          "py": "zěn",
+          "meaning": "how"
+        },
+        {
+          "zh": "么",
+          "py": "me",
+          "meaning": "what"
+        },
+        {
+          "zh": "样",
+          "py": "yàng",
+          "meaning": "way / manner"
+        }
+      ]
+    },
+    {
+      "chinese": "你吃饭了吗？",
+      "pinyin": "Nǐ chī fàn le ma?",
+      "translation": "Have you eaten yet?",
+      "usage": "A common polite question to start a conversation, especially in China.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "吃",
+          "py": "chī",
+          "meaning": "eat"
+        },
+        {
+          "zh": "饭",
+          "py": "fàn",
+          "meaning": "rice / meal"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "天气真好！",
+      "pinyin": "Tiān qì zhēn hǎo!",
+      "translation": "The weather is really nice!",
+      "usage": "Used to comment on good weather, a common topic for small talk.",
+      "formality": "Neutral / Informal",
+      "words": [
+        {
+          "zh": "天",
+          "py": "tiān",
+          "meaning": "sky / weather"
+        },
+        {
+          "zh": "气",
+          "py": "qì",
+          "meaning": "air / weather"
+        },
+        {
+          "zh": "真",
+          "py": "zhēn",
+          "meaning": "really / truly"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good / well"
+        }
+      ]
+    },
+    {
+      "chinese": "今天天气怎么样？",
+      "pinyin": "Jīn tiān tiān qì zěn me yàng?",
+      "translation": "How is the weather today?",
+      "usage": "A polite way to ask about the weather, often used to start a conversation.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "今",
+          "py": "jīn",
+          "meaning": "today"
+        },
+        {
+          "zh": "天",
+          "py": "tiān",
+          "meaning": "sky / weather"
+        },
+        {
+          "zh": "天",
+          "py": "qì",
+          "meaning": "air / weather"
+        },
+        {
+          "zh": "怎",
+          "py": "zěn",
+          "meaning": "how"
+        },
+        {
+          "zh": "么",
+          "py": "me",
+          "meaning": "what"
+        },
+        {
+          "zh": "样",
+          "py": "yàng",
+          "meaning": "way / manner"
+        }
+      ]
+    },
+    {
+      "chinese": "你周末过得怎么样？",
+      "pinyin": "Nǐ zhōu mò guò de zěn me yàng?",
+      "translation": "How was your weekend?",
+      "usage": "Used to ask about someone's weekend activities, a common topic for small talk.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "周",
+          "py": "zhōu",
+          "meaning": "week"
+        },
+        {
+          "zh": "末",
+          "py": "mò",
+          "meaning": "end"
+        },
+        {
+          "zh": "过",
+          "py": "guò",
+          "meaning": "pass"
+        },
+        {
+          "zh": "得",
+          "py": "de",
+          "meaning": "result particle"
+        },
+        {
+          "zh": "怎",
+          "py": "zěn",
+          "meaning": "how"
+        },
+        {
+          "zh": "么",
+          "py": "me",
+          "meaning": "what"
+        },
+        {
+          "zh": "样",
+          "py": "yàng",
+          "meaning": "way / manner"
+        }
+      ]
+    },
+    {
+      "chinese": "你最近在忙什么？",
+      "pinyin": "Nǐ zuì jìn zài máng shén me?",
+      "translation": "What have you been busy with recently?",
+      "usage": "Used to ask about someone's recent activities or work.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "最",
+          "py": "zuì",
+          "meaning": "most"
+        },
+        {
+          "zh": "近",
+          "py": "jìn",
+          "meaning": "recent"
+        },
+        {
+          "zh": "在",
+          "py": "zài",
+          "meaning": "in / at"
+        },
+        {
+          "zh": "忙",
+          "py": "máng",
+          "meaning": "busy"
+        },
+        {
+          "zh": "什",
+          "py": "shén",
+          "meaning": "what"
+        },
+        {
+          "zh": "么",
+          "py": "me",
+          "meaning": "what"
+        }
+      ]
+    },
+    {
+      "chinese": "你有空吗？",
+      "pinyin": "Nǐ yǒu kòng ma?",
+      "translation": "Are you free?",
+      "usage": "Used to ask if someone has time to meet or talk.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "have"
+        },
+        {
+          "zh": "空",
+          "py": "kòng",
+          "meaning": "space / free time"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "你看过这部电影吗？",
+      "pinyin": "Nǐ kàn guò zhè bù diàn yǐng ma?",
+      "translation": "Have you seen this movie?",
+      "usage": "Used to start a conversation about movies or entertainment.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "看",
+          "py": "kàn",
+          "meaning": "see / watch"
+        },
+        {
+          "zh": "过",
+          "py": "guò",
+          "meaning": "past"
+        },
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "部",
+          "py": "bù",
+          "meaning": "unit / film"
+        },
+        {
+          "zh": "电",
+          "py": "diàn",
+          "meaning": "electricity / film"
+        },
+        {
+          "zh": "影",
+          "py": "yǐng",
+          "meaning": "shadow / film"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "你最喜欢什么运动？",
+      "pinyin": "Nǐ zuì xǐ huān shén me yùn dòng?",
+      "translation": "What's your favorite sport?",
+      "usage": "Used to ask about someone's interests in sports or physical activities.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "最",
+          "py": "zuì",
+          "meaning": "most"
+        },
+        {
+          "zh": "喜",
+          "py": "xǐ",
+          "meaning": "like"
+        },
+        {
+          "zh": "欢",
+          "py": "huān",
+          "meaning": "happy / like"
+        },
+        {
+          "zh": "什",
+          "py": "shén",
+          "meaning": "what"
+        },
+        {
+          "zh": "么",
+          "py": "me",
+          "meaning": "what"
+        },
+        {
+          "zh": "运",
+          "py": "yùn",
+          "meaning": "move / sport"
+        },
+        {
+          "zh": "动",
+          "py": "dòng",
+          "meaning": "move / activity"
+        }
+      ]
+    },
+    {
+      "chinese": "你吃过了吗？",
+      "pinyin": "Nǐ chī guò le ma?",
+      "translation": "Have you eaten yet?",
+      "usage": "A casual way to ask about someone's meal status, often used in informal settings.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "吃",
+          "py": "chī",
+          "meaning": "eat"
+        },
+        {
+          "zh": "过",
+          "py": "guò",
+          "meaning": "past"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "你住在哪里？",
+      "pinyin": "Nǐ zhù zài nǎ lǐ?",
+      "translation": "Where do you live?",
+      "usage": "Used to ask about someone's place of residence, a common question in casual conversation.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "住",
+          "py": "zhù",
+          "meaning": "live"
+        },
+        {
+          "zh": "在",
+          "py": "zài",
+          "meaning": "at / in"
+        },
+        {
+          "zh": "哪",
+          "py": "nǎ",
+          "meaning": "where"
+        },
+        {
+          "zh": "里",
+          "py": "lǐ",
+          "meaning": "inside / place"
+        }
+      ]
+    },
+    {
+      "chinese": "你有什么爱好？",
+      "pinyin": "Nǐ yǒu shén me ài hào?",
+      "translation": "What are your hobbies?",
+      "usage": "Used to ask about someone's interests or pastimes.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "have"
+        },
+        {
+          "zh": "什",
+          "py": "shén",
+          "meaning": "what"
+        },
+        {
+          "zh": "么",
+          "py": "me",
+          "meaning": "what"
+        },
+        {
+          "zh": "爱",
+          "py": "ài",
+          "meaning": "love"
+        },
+        {
+          "zh": "好",
+          "py": "hào",
+          "meaning": "like / hobby"
+        }
+      ]
+    },
+    {
+      "chinese": "你有兄弟姐妹吗？",
+      "pinyin": "Nǐ yǒu xiōng dì jiě mèi ma?",
+      "translation": "Do you have any siblings?",
+      "usage": "Used to ask about family relationships, a common topic for casual conversation.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "have"
+        },
+        {
+          "zh": "兄",
+          "py": "xiōng",
+          "meaning": "older brother"
+        },
+        {
+          "zh": "弟",
+          "py": "dì",
+          "meaning": "younger brother"
+        },
+        {
+          "zh": "姐",
+          "py": "jiě",
+          "meaning": "older sister"
+        },
+        {
+          "zh": "妹",
+          "py": "mèi",
+          "meaning": "younger sister"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "你学过什么语言？",
+      "pinyin": "Nǐ xué guò shén me yǔ yán?",
+      "translation": "What languages have you studied?",
+      "usage": "Used to ask about someone's language learning experience.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "学",
+          "py": "xué",
+          "meaning": "study"
+        },
+        {
+          "zh": "过",
+          "py": "guò",
+          "meaning": "past"
+        },
+        {
+          "zh": "什",
+          "py": "shén",
+          "meaning": "what"
+        },
+        {
+          "zh": "么",
+          "py": "me",
+          "meaning": "what"
+        },
+        {
+          "zh": "语",
+          "py": "yǔ",
+          "meaning": "language"
+        },
+        {
+          "zh": "言",
+          "py": "yán",
+          "meaning": "speech / language"
+        }
+      ]
+    },
+    {
+      "chinese": "你最近有什么新发现？",
+      "pinyin": "Nǐ zuì jìn yǒu shén me xīn fā xiàn?",
+      "translation": "What have you discovered recently?",
+      "usage": "Used to ask about someone's recent experiences or discoveries.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "最",
+          "py": "zuì",
+          "meaning": "most"
+        },
+        {
+          "zh": "近",
+          "py": "jìn",
+          "meaning": "recent"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "have"
+        },
+        {
+          "zh": "什",
+          "py": "shén",
+          "meaning": "what"
+        },
+        {
+          "zh": "么",
+          "py": "me",
+          "meaning": "what"
+        },
+        {
+          "zh": "新",
+          "py": "xīn",
+          "meaning": "new"
+        },
+        {
+          "zh": "发",
+          "py": "fā",
+          "meaning": "discover"
+        },
+        {
+          "zh": "现",
+          "py": "xiàn",
+          "meaning": "find / discovery"
+        }
+      ]
+    },
+    {
+      "chinese": "你最喜欢什么季节？",
+      "pinyin": "Nǐ zuì xǐ huān shén me jì jié?",
+      "translation": "What's your favorite season?",
+      "usage": "Used to ask about someone's preference for seasons or weather.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "最",
+          "py": "zuì",
+          "meaning": "most"
+        },
+        {
+          "zh": "喜",
+          "py": "xǐ",
+          "meaning": "like"
+        },
+        {
+          "zh": "欢",
+          "py": "huān",
+          "meaning": "happy / like"
+        },
+        {
+          "zh": "什",
+          "py": "shén",
+          "meaning": "what"
+        },
+        {
+          "zh": "么",
+          "py": "me",
+          "meaning": "what"
+        },
+        {
+          "zh": "季",
+          "py": "jì",
+          "meaning": "season"
+        },
+        {
+          "zh": "节",
+          "py": "jié",
+          "meaning": "festival / season"
+        }
+      ]
+    }
+  ]
+}

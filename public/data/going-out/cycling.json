@@ -1,0 +1,929 @@
+{
+  "sentences": [
+    {
+      "chinese": "我骑自行车去上班。",
+      "pinyin": "Wǒ qí zìxíngchē qù shàngbān.",
+      "translation": "I ride a bicycle to work.",
+      "usage": "Used to describe commuting by bicycle.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "骑",
+          "py": "qí",
+          "meaning": "to ride"
+        },
+        {
+          "zh": "自",
+          "py": "zì",
+          "meaning": "self"
+        },
+        {
+          "zh": "行",
+          "py": "xíng",
+          "meaning": "go"
+        },
+        {
+          "zh": "车",
+          "py": "chē",
+          "meaning": "vehicle"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "to go"
+        },
+        {
+          "zh": "上",
+          "py": "shàng",
+          "meaning": "up / work"
+        },
+        {
+          "zh": "班",
+          "py": "bān",
+          "meaning": "shift / work"
+        }
+      ]
+    },
+    {
+      "chinese": "我们周末去骑车。",
+      "pinyin": "Wǒmen zhōumò qù qí chē.",
+      "translation": "We go cycling on weekends.",
+      "usage": "Describing weekend recreational cycling activities.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "们",
+          "py": "men",
+          "meaning": "plural marker"
+        },
+        {
+          "zh": "周",
+          "py": "zhōu",
+          "meaning": "week"
+        },
+        {
+          "zh": "末",
+          "py": "mò",
+          "meaning": "end"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "to go"
+        },
+        {
+          "zh": "骑",
+          "py": "qí",
+          "meaning": "to ride"
+        },
+        {
+          "zh": "车",
+          "py": "chē",
+          "meaning": "vehicle"
+        }
+      ]
+    },
+    {
+      "chinese": "这辆自行车很旧了。",
+      "pinyin": "Zhè liàng zìxíngchē hěn jiù le.",
+      "translation": "This bicycle is very old.",
+      "usage": "Describing the age or condition of a bicycle.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "辆",
+          "py": "liàng",
+          "meaning": "vehicle unit"
+        },
+        {
+          "zh": "自",
+          "py": "zì",
+          "meaning": "self"
+        },
+        {
+          "zh": "行",
+          "py": "xíng",
+          "meaning": "go"
+        },
+        {
+          "zh": "车",
+          "py": "chē",
+          "meaning": "vehicle"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "旧",
+          "py": "jiù",
+          "meaning": "old"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed"
+        }
+      ]
+    },
+    {
+      "chinese": "你有自行车吗？",
+      "pinyin": "Nǐ yǒu zìxíngchē ma?",
+      "translation": "Do you have a bicycle?",
+      "usage": "Asking about ownership of a bicycle.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "to have"
+        },
+        {
+          "zh": "自",
+          "py": "zì",
+          "meaning": "self"
+        },
+        {
+          "zh": "行",
+          "py": "xíng",
+          "meaning": "go"
+        },
+        {
+          "zh": "车",
+          "py": "chē",
+          "meaning": "vehicle"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "骑自行车比开车快。",
+      "pinyin": "Qí zìxíngchē bǐ kāichē kuài.",
+      "translation": "Riding a bicycle is faster than driving a car.",
+      "usage": "Comparing the speed of cycling versus driving.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "骑",
+          "py": "qí",
+          "meaning": "to ride"
+        },
+        {
+          "zh": "自",
+          "py": "zì",
+          "meaning": "self"
+        },
+        {
+          "zh": "行",
+          "py": "xíng",
+          "meaning": "go"
+        },
+        {
+          "zh": "车",
+          "py": "chē",
+          "meaning": "vehicle"
+        },
+        {
+          "zh": "比",
+          "py": "bǐ",
+          "meaning": "compared to"
+        },
+        {
+          "zh": "开",
+          "py": "kāi",
+          "meaning": "to drive"
+        },
+        {
+          "zh": "车",
+          "py": "chē",
+          "meaning": "vehicle"
+        },
+        {
+          "zh": "快",
+          "py": "kuài",
+          "meaning": "fast"
+        }
+      ]
+    },
+    {
+      "chinese": "请帮我把自行车放好。",
+      "pinyin": "Qǐng bāng wǒ bǎ zìxíngchē fàng hǎo.",
+      "translation": "Please help me put the bicycle away properly.",
+      "usage": "Requesting assistance with storing a bicycle.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "帮",
+          "py": "bāng",
+          "meaning": "help"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "me"
+        },
+        {
+          "zh": "把",
+          "py": "bǎ",
+          "meaning": "to take"
+        },
+        {
+          "zh": "自",
+          "py": "zì",
+          "meaning": "self"
+        },
+        {
+          "zh": "行",
+          "py": "xíng",
+          "meaning": "go"
+        },
+        {
+          "zh": "车",
+          "py": "chē",
+          "meaning": "vehicle"
+        },
+        {
+          "zh": "放",
+          "py": "fàng",
+          "meaning": "to put"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good"
+        }
+      ]
+    },
+    {
+      "chinese": "我骑自行车去公园。",
+      "pinyin": "Wǒ qí zìxíngchē qù gōngyuán.",
+      "translation": "I ride a bicycle to the park.",
+      "usage": "Describing going to a park by bicycle.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "骑",
+          "py": "qí",
+          "meaning": "to ride"
+        },
+        {
+          "zh": "自",
+          "py": "zì",
+          "meaning": "self"
+        },
+        {
+          "zh": "行",
+          "py": "xíng",
+          "meaning": "go"
+        },
+        {
+          "zh": "车",
+          "py": "chē",
+          "meaning": "vehicle"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "to go"
+        },
+        {
+          "zh": "公",
+          "py": "gōng",
+          "meaning": "public"
+        },
+        {
+          "zh": "园",
+          "py": "yuán",
+          "meaning": "garden"
+        }
+      ]
+    },
+    {
+      "chinese": "自行车停在门口。",
+      "pinyin": "Zìxíngchē tíng zài ménkǒu.",
+      "translation": "The bicycle is parked at the door.",
+      "usage": "Describing where a bicycle is parked.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "自",
+          "py": "zì",
+          "meaning": "self"
+        },
+        {
+          "zh": "行",
+          "py": "xíng",
+          "meaning": "go"
+        },
+        {
+          "zh": "车",
+          "py": "chē",
+          "meaning": "vehicle"
+        },
+        {
+          "zh": "停",
+          "py": "tíng",
+          "meaning": "to stop"
+        },
+        {
+          "zh": "在",
+          "py": "zài",
+          "meaning": "at"
+        },
+        {
+          "zh": "门",
+          "py": "mén",
+          "meaning": "door"
+        },
+        {
+          "zh": "口",
+          "py": "kǒu",
+          "meaning": "mouth"
+        }
+      ]
+    },
+    {
+      "chinese": "我不会骑自行车。",
+      "pinyin": "Wǒ bù huì qí zìxíngchē.",
+      "translation": "I don't know how to ride a bicycle.",
+      "usage": "Expressing inability to ride a bicycle.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "不",
+          "py": "bù",
+          "meaning": "not"
+        },
+        {
+          "zh": "会",
+          "py": "huì",
+          "meaning": "to know how to"
+        },
+        {
+          "zh": "骑",
+          "py": "qí",
+          "meaning": "to ride"
+        },
+        {
+          "zh": "自",
+          "py": "zì",
+          "meaning": "self"
+        },
+        {
+          "zh": "行",
+          "py": "xíng",
+          "meaning": "go"
+        },
+        {
+          "zh": "车",
+          "py": "chē",
+          "meaning": "vehicle"
+        }
+      ]
+    },
+    {
+      "chinese": "骑车很锻炼身体。",
+      "pinyin": "Qí chē hěn duànliàn shēntǐ.",
+      "translation": "Cycling is very good for physical fitness.",
+      "usage": "Describing the health benefits of cycling.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "骑",
+          "py": "qí",
+          "meaning": "to ride"
+        },
+        {
+          "zh": "车",
+          "py": "chē",
+          "meaning": "vehicle"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "锻",
+          "py": "duàn",
+          "meaning": "to forge"
+        },
+        {
+          "zh": "炼",
+          "py": "liàn",
+          "meaning": "to refine"
+        },
+        {
+          "zh": "身",
+          "py": "shēn",
+          "meaning": "body"
+        },
+        {
+          "zh": "体",
+          "py": "tǐ",
+          "meaning": "body"
+        }
+      ]
+    },
+    {
+      "chinese": "我们去爬山，骑车回家。",
+      "pinyin": "Wǒmen qù páshān, qí chē huíjiā.",
+      "translation": "We go hiking and cycle home.",
+      "usage": "Describing a combination of hiking and cycling activities.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "们",
+          "py": "men",
+          "meaning": "plural marker"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "to go"
+        },
+        {
+          "zh": "爬",
+          "py": "pá",
+          "meaning": "to climb"
+        },
+        {
+          "zh": "山",
+          "py": "shān",
+          "meaning": "mountain"
+        },
+        {
+          "zh": "骑",
+          "py": "qí",
+          "meaning": "to ride"
+        },
+        {
+          "zh": "车",
+          "py": "chē",
+          "meaning": "vehicle"
+        },
+        {
+          "zh": "回",
+          "py": "huí",
+          "meaning": "to return"
+        },
+        {
+          "zh": "家",
+          "py": "jiā",
+          "meaning": "home"
+        }
+      ]
+    },
+    {
+      "chinese": "这自行车太贵了。",
+      "pinyin": "Zhè zìxíngchē tài guì le.",
+      "translation": "This bicycle is too expensive.",
+      "usage": "Expressing that a bicycle is too costly.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "自",
+          "py": "zì",
+          "meaning": "self"
+        },
+        {
+          "zh": "行",
+          "py": "xíng",
+          "meaning": "go"
+        },
+        {
+          "zh": "车",
+          "py": "chē",
+          "meaning": "vehicle"
+        },
+        {
+          "zh": "太",
+          "py": "tài",
+          "meaning": "too"
+        },
+        {
+          "zh": "贵",
+          "py": "guì",
+          "meaning": "expensive"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completed"
+        }
+      ]
+    },
+    {
+      "chinese": "你骑自行车去学校吗？",
+      "pinyin": "Nǐ qí zìxíngchē qù xuéxiào ma?",
+      "translation": "Do you ride a bicycle to school?",
+      "usage": "Asking about someone's commuting method to school.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "骑",
+          "py": "qí",
+          "meaning": "to ride"
+        },
+        {
+          "zh": "自",
+          "py": "zì",
+          "meaning": "self"
+        },
+        {
+          "zh": "行",
+          "py": "xíng",
+          "meaning": "go"
+        },
+        {
+          "zh": "车",
+          "py": "chē",
+          "meaning": "vehicle"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "to go"
+        },
+        {
+          "zh": "学",
+          "py": "xué",
+          "meaning": "study"
+        },
+        {
+          "zh": "校",
+          "py": "xiào",
+          "meaning": "school"
+        },
+        {
+          "zh": "吗",
+          "py": "ma",
+          "meaning": "question particle"
+        }
+      ]
+    },
+    {
+      "chinese": "骑自行车很环保。",
+      "pinyin": "Qí zìxíngchē hěn huánbǎo.",
+      "translation": "Riding a bicycle is very environmentally friendly.",
+      "usage": "Describing the environmental benefits of cycling.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "骑",
+          "py": "qí",
+          "meaning": "to ride"
+        },
+        {
+          "zh": "自",
+          "py": "zì",
+          "meaning": "self"
+        },
+        {
+          "zh": "行",
+          "py": "xíng",
+          "meaning": "go"
+        },
+        {
+          "zh": "车",
+          "py": "chē",
+          "meaning": "vehicle"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "环",
+          "py": "huán",
+          "meaning": "environment"
+        },
+        {
+          "zh": "保",
+          "py": "bǎo",
+          "meaning": "to protect"
+        }
+      ]
+    },
+    {
+      "chinese": "骑车去公园。",
+      "pinyin": "Qí chē qù gōngyuán.",
+      "translation": "Cycle to the park.",
+      "usage": "Giving instructions to go to the park by bicycle.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "骑",
+          "py": "qí",
+          "meaning": "to ride"
+        },
+        {
+          "zh": "车",
+          "py": "chē",
+          "meaning": "vehicle"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "to go"
+        },
+        {
+          "zh": "公",
+          "py": "gōng",
+          "meaning": "public"
+        },
+        {
+          "zh": "园",
+          "py": "yuán",
+          "meaning": "garden"
+        }
+      ]
+    },
+    {
+      "chinese": "自行车要定期保养。",
+      "pinyin": "Zìxíngchē yào dìngqī bǎoyǎng.",
+      "translation": "Bicycles need regular maintenance.",
+      "usage": "Describing the need for regular bicycle maintenance.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "自",
+          "py": "zì",
+          "meaning": "self"
+        },
+        {
+          "zh": "行",
+          "py": "xíng",
+          "meaning": "go"
+        },
+        {
+          "zh": "车",
+          "py": "chē",
+          "meaning": "vehicle"
+        },
+        {
+          "zh": "要",
+          "py": "yào",
+          "meaning": "need"
+        },
+        {
+          "zh": "定",
+          "py": "dìng",
+          "meaning": "fixed"
+        },
+        {
+          "zh": "期",
+          "py": "qī",
+          "meaning": "period"
+        },
+        {
+          "zh": "保",
+          "py": "bǎo",
+          "meaning": "to protect"
+        },
+        {
+          "zh": "养",
+          "py": "yǎng",
+          "meaning": "to raise"
+        }
+      ]
+    },
+    {
+      "chinese": "我骑自行车上班。",
+      "pinyin": "Wǒ qí zìxíngchē shàngbān.",
+      "translation": "I ride a bicycle to work.",
+      "usage": "Describing commuting to work by bicycle.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "骑",
+          "py": "qí",
+          "meaning": "to ride"
+        },
+        {
+          "zh": "自",
+          "py": "zì",
+          "meaning": "self"
+        },
+        {
+          "zh": "行",
+          "py": "xíng",
+          "meaning": "go"
+        },
+        {
+          "zh": "车",
+          "py": "chē",
+          "meaning": "vehicle"
+        },
+        {
+          "zh": "上",
+          "py": "shàng",
+          "meaning": "up"
+        },
+        {
+          "zh": "班",
+          "py": "bān",
+          "meaning": "shift"
+        }
+      ]
+    },
+    {
+      "chinese": "自行车轮胎漏气。",
+      "pinyin": "Zìxíngchē lúntaì lòu qì.",
+      "translation": "The bicycle tire is leaking air.",
+      "usage": "Describing a bicycle tire that is leaking air.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "自",
+          "py": "zì",
+          "meaning": "self"
+        },
+        {
+          "zh": "行",
+          "py": "xíng",
+          "meaning": "go"
+        },
+        {
+          "zh": "车",
+          "py": "chē",
+          "meaning": "vehicle"
+        },
+        {
+          "zh": "轮",
+          "py": "lún",
+          "meaning": "wheel"
+        },
+        {
+          "zh": "胎",
+          "py": "tāi",
+          "meaning": "tire"
+        },
+        {
+          "zh": "漏",
+          "py": "lòu",
+          "meaning": "to leak"
+        },
+        {
+          "zh": "气",
+          "py": "qì",
+          "meaning": "air"
+        }
+      ]
+    },
+    {
+      "chinese": "我骑车去旅行。",
+      "pinyin": "Wǒ qí chē qù lǚxíng.",
+      "translation": "I go traveling by bicycle.",
+      "usage": "Describing going on a trip by bicycle.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "骑",
+          "py": "qí",
+          "meaning": "to ride"
+        },
+        {
+          "zh": "车",
+          "py": "chē",
+          "meaning": "vehicle"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "to go"
+        },
+        {
+          "zh": "旅",
+          "py": "lǚ",
+          "meaning": "travel"
+        },
+        {
+          "zh": "行",
+          "py": "xíng",
+          "meaning": "to go"
+        }
+      ]
+    },
+    {
+      "chinese": "骑自行车是一种运动。",
+      "pinyin": "Qí zìxíngchē shì yī zhǒng yùndòng.",
+      "translation": "Riding a bicycle is a kind of sport.",
+      "usage": "Describing cycling as a sport.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "骑",
+          "py": "qí",
+          "meaning": "to ride"
+        },
+        {
+          "zh": "自",
+          "py": "zì",
+          "meaning": "self"
+        },
+        {
+          "zh": "行",
+          "py": "xíng",
+          "meaning": "go"
+        },
+        {
+          "zh": "车",
+          "py": "chē",
+          "meaning": "vehicle"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "to be"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "种",
+          "py": "zhǒng",
+          "meaning": "kind"
+        },
+        {
+          "zh": "运",
+          "py": "yùn",
+          "meaning": "to move"
+        },
+        {
+          "zh": "动",
+          "py": "dòng",
+          "meaning": "motion"
+        }
+      ]
+    }
+  ]
+}

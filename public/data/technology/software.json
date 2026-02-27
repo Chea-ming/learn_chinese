@@ -1,0 +1,213 @@
+{
+  "sentences": [
+    {
+      "chinese": "安装软件",
+      "pinyin": "Ān zhuāng ruǎn jiàn",
+      "translation": "Install software",
+      "usage": "Used when setting up a new program.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "安装",
+          "py": "ān zhuāng",
+          "meaning": "install"
+        },
+        {
+          "zh": "软件",
+          "py": "ruǎn jiàn",
+          "meaning": "software"
+        }
+      ]
+    },
+    {
+      "chinese": "卸载程序",
+      "pinyin": "Xiè zǎi chéng xù",
+      "translation": "Uninstall program",
+      "usage": "Used to remove an application from a system.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "卸载",
+          "py": "xiè zǎi",
+          "meaning": "uninstall"
+        },
+        {
+          "zh": "程序",
+          "py": "chéng xù",
+          "meaning": "program"
+        }
+      ]
+    },
+    {
+      "chinese": "更新系统",
+      "pinyin": "Gēng xīn xì tǒng",
+      "translation": "Update system",
+      "usage": "For upgrading operating system software.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "更新",
+          "py": "gēng xīn",
+          "meaning": "update"
+        },
+        {
+          "zh": "系统",
+          "py": "xì tǒng",
+          "meaning": "system"
+        }
+      ]
+    },
+    {
+      "chinese": "运行程序",
+      "pinyin": "Yùn xíng chéng xù",
+      "translation": "Run program",
+      "usage": "To execute a software application.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "运行",
+          "py": "yùn xíng",
+          "meaning": "run"
+        },
+        {
+          "zh": "程序",
+          "py": "chéng xù",
+          "meaning": "program"
+        }
+      ]
+    },
+    {
+      "chinese": "保存文件",
+      "pinyin": "Bǎo cún wén jiàn",
+      "translation": "Save file",
+      "usage": "To store data in a document or script.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "保存",
+          "py": "bǎo cún",
+          "meaning": "save"
+        },
+        {
+          "zh": "文件",
+          "py": "wén jiàn",
+          "meaning": "file"
+        }
+      ]
+    },
+    {
+      "chinese": "关闭应用",
+      "pinyin": "Guān bì yìng yòng",
+      "translation": "Close application",
+      "usage": "To terminate a running software.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "关闭",
+          "py": "guān bì",
+          "meaning": "close"
+        },
+        {
+          "zh": "应用",
+          "py": "yìng yòng",
+          "meaning": "application"
+        }
+      ]
+    },
+    {
+      "chinese": "修复错误",
+      "pinyin": "Xiū fù cuò wù",
+      "translation": "Fix error",
+      "usage": "To resolve a malfunction in software.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "修复",
+          "py": "xiū fù",
+          "meaning": "fix"
+        },
+        {
+          "zh": "错误",
+          "py": "cuò wù",
+          "meaning": "error"
+        }
+      ]
+    },
+    {
+      "chinese": "配置设置",
+      "pinyin": "Pèi zhì shè zhì",
+      "translation": "Configure settings",
+      "usage": "Adjust preferences in a program.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "配置",
+          "py": "pèi zhì",
+          "meaning": "configure"
+        },
+        {
+          "zh": "设置",
+          "py": "shè zhì",
+          "meaning": "settings"
+        }
+      ]
+    },
+    {
+      "chinese": "调试代码",
+      "pinyin": "Diào shì dài mǎ",
+      "translation": "Debug code",
+      "usage": "To identify and fix code issues.",
+      "formality": "Technical",
+      "words": [
+        {
+          "zh": "调试",
+          "py": "diào shì",
+          "meaning": "debug"
+        },
+        {
+          "zh": "代码",
+          "py": "dài mǎ",
+          "meaning": "code"
+        }
+      ]
+    },
+    {
+      "chinese": "编译程序",
+      "pinyin": "Biān yì chéng xù",
+      "translation": "Compile program",
+      "usage": "To translate source code into executable.",
+      "formality": "Technical",
+      "words": [
+        {
+          "zh": "编译",
+          "py": "biān yì",
+          "meaning": "compile"
+        },
+        {
+          "zh": "程序",
+          "py": "chéng xù",
+          "meaning": "program"
+        }
+      ]
+    },
+    {
+      "chinese": "系统故障",
+      "pinyin": "Xì tǒng gù zhàng",
+      "translation": "System failure",
+      "usage": "When software ceases to function.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "系统",
+          "py": "xì tǒng",
+          "meaning": "system"
+        },
+        {
+          "zh": "故障",
+          "py": "gù zhàng",
+          "meaning": "failure"
+        }
+      ]
+    }
+  ]
+}

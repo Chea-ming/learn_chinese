@@ -1,0 +1,232 @@
+{
+  "sentences": [
+    {
+      "chinese": "流媒体服务",
+      "pinyin": "Liú méi tǐ fúwù",
+      "translation": "Streaming service",
+      "usage": "General term for platforms that deliver video/audio content online.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "流媒体",
+          "py": "Liú méi tǐ",
+          "meaning": "Streaming media"
+        },
+        {
+          "zh": "服务",
+          "py": "Fúwù",
+          "meaning": "Service"
+        }
+      ]
+    },
+    {
+      "chinese": "在线观看",
+      "pinyin": "Zài x́n guān kàn",
+      "translation": "Watch online",
+      "usage": "Used to describe the action of viewing content via the internet.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "在线",
+          "py": "Zài x́n",
+          "meaning": "Online"
+        },
+        {
+          "zh": "观看",
+          "py": "Guān kàn",
+          "meaning": "Watch"
+        }
+      ]
+    },
+    {
+      "chinese": "订阅服务",
+      "pinyin": "Dì yuē fúwù",
+      "translation": "Subscription service",
+      "usage": "Refers to paid access to streaming platforms (e.g., Netflix, Disney+).",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "订阅",
+          "py": "Dì yuē",
+          "meaning": "Subscribe"
+        },
+        {
+          "zh": "服务",
+          "py": "Fúwù",
+          "meaning": "Service"
+        }
+      ]
+    },
+    {
+      "chinese": "高清播放",
+      "pinyin": "Gāo qīng bōfàng",
+      "translation": "HD playback",
+      "usage": "Describes high-definition streaming quality.",
+      "formality": "Technical",
+      "words": [
+        {
+          "zh": "高清",
+          "py": "Gāo qīng",
+          "meaning": "High definition"
+        },
+        {
+          "zh": "播放",
+          "py": "Bōfàng",
+          "meaning": "Playback"
+        }
+      ]
+    },
+    {
+      "chinese": "影视平台",
+      "pinyin": "Yǐngshì píngtái",
+      "translation": "Streaming platform",
+      "usage": "General term for video content platforms (e.g., YouTube, Hulu).",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "影视",
+          "py": "Yǐngshì",
+          "meaning": "Movies/shows"
+        },
+        {
+          "zh": "平台",
+          "py": "Píngtái",
+          "meaning": "Platform"
+        }
+      ]
+    },
+    {
+      "chinese": "视频点播",
+      "pinyin": "Shìpín diǎn bō",
+      "translation": "On-demand streaming",
+      "usage": "Refers to content available anytime, not scheduled.",
+      "formality": "Technical",
+      "words": [
+        {
+          "zh": "视频",
+          "py": "Shìpín",
+          "meaning": "Video"
+        },
+        {
+          "zh": "点播",
+          "py": "Diǎn bō",
+          "meaning": "On-demand"
+        }
+      ]
+    },
+    {
+      "chinese": "4K超清",
+      "pinyin": "Sì Kè chāo qīng",
+      "translation": "4K ultra HD",
+      "usage": "Describes the highest quality streaming resolution.",
+      "formality": "Technical",
+      "words": [
+        {
+          "zh": "4K",
+          "py": "Sì Kè",
+          "meaning": "4K resolution"
+        },
+        {
+          "zh": "超清",
+          "py": "Chāo qīng",
+          "meaning": "Ultra HD"
+        }
+      ]
+    },
+    {
+      "chinese": "离线下载",
+      "pinyin": "Líxiàn xiǎnzài",
+      "translation": "Offline download",
+      "usage": "Feature allowing content to be saved for offline viewing.",
+      "formality": "Technical",
+      "words": [
+        {
+          "zh": "离线",
+          "py": "Líxiàn",
+          "meaning": "Offline"
+        },
+        {
+          "zh": "下载",
+          "py": "Xiǎnzài",
+          "meaning": "Download"
+        }
+      ]
+    },
+    {
+      "chinese": "会员专区",
+      "pinyin": "Huìyuán zhuān qū",
+      "translation": "Premium subscription area",
+      "usage": "Content reserved for paying subscribers.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "会员",
+          "py": "Huìyuán",
+          "meaning": "Member"
+        },
+        {
+          "zh": "专区",
+          "py": "Zhuān qū",
+          "meaning": "Exclusive section"
+        }
+      ]
+    },
+    {
+      "chinese": "推荐算法",
+      "pinyin": "Tuījiàn suàn fǎ",
+      "translation": "Recommendation algorithm",
+      "usage": "System used to suggest content based on user preferences.",
+      "formality": "Technical",
+      "words": [
+        {
+          "zh": "推荐",
+          "py": "Tuījiàn",
+          "meaning": "Recommend"
+        },
+        {
+          "zh": "算法",
+          "py": "Suàn fǎ",
+          "meaning": "Algorithm"
+        }
+      ]
+    },
+    {
+      "chinese": "观看历史",
+      "pinyin": "Guānkàn lìshǐ",
+      "translation": "Watch history",
+      "usage": "Record of previously viewed content on a platform.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "观看",
+          "py": "Guānkàn",
+          "meaning": "Watch"
+        },
+        {
+          "zh": "历史",
+          "py": "Lìshǐ",
+          "meaning": "History"
+        }
+      ]
+    },
+    {
+      "chinese": "多设备同步",
+      "pinyin": "Duō shèbèi tóngbù",
+      "translation": "Multi-device sync",
+      "usage": "Feature allowing access to content across devices.",
+      "formality": "Technical",
+      "words": [
+        {
+          "zh": "多设备",
+          "py": "Duō shèbèi",
+          "meaning": "Multiple devices"
+        },
+        {
+          "zh": "同步",
+          "py": "Tóngbù",
+          "meaning": "Sync"
+        }
+      ]
+    }
+  ]
+}

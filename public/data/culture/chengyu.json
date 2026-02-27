@@ -1,0 +1,236 @@
+{
+  "sentences": [
+    {
+      "chinese": "画龙点睛",
+      "pinyin": "Huà lóng diǎn jīng",
+      "translation": "Add the finishing touch",
+      "usage": "To describe a crucial detail that completes a work.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "画",
+          "py": "huà",
+          "meaning": "draw"
+        },
+        {
+          "zh": "龙",
+          "py": "lóng",
+          "meaning": "dragon"
+        },
+        {
+          "zh": "点",
+          "py": "diǎn",
+          "meaning": "dot"
+        },
+        {
+          "zh": "睛",
+          "py": "jīng",
+          "meaning": "eye"
+        }
+      ]
+    },
+    {
+      "chinese": "百闻不如一见",
+      "pinyin": "Bǎi wén bù rú yī jiàn",
+      "translation": "A 1000 words can't match one sight",
+      "usage": "To emphasize the value of seeing something firsthand.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "百",
+          "py": "bǎi",
+          "meaning": "hundred"
+        },
+        {
+          "zh": "闻",
+          "py": "wén",
+          "meaning": "hear"
+        },
+        {
+          "zh": "不",
+          "py": "bù",
+          "meaning": "not"
+        },
+        {
+          "zh": "如",
+          "py": "rú",
+          "meaning": "like"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "见",
+          "py": "jiàn",
+          "meaning": "see"
+        }
+      ]
+    },
+    {
+      "chinese": "守株待兔",
+      "pinyin": "Shǒu zhū dài tù",
+      "translation": "Waiting for a rabbit by a stump",
+      "usage": "Idly waiting for something to happen.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "守",
+          "py": "shǒu",
+          "meaning": "guard"
+        },
+        {
+          "zh": "株",
+          "py": "zhū",
+          "meaning": "tree stump"
+        },
+        {
+          "zh": "待",
+          "py": "dài",
+          "meaning": "wait"
+        },
+        {
+          "zh": "兔",
+          "py": "tù",
+          "meaning": "rabbit"
+        }
+      ]
+    },
+    {
+      "chinese": "刻舟求剑",
+      "pinyin": "Kè zhōu qiú jiàn",
+      "translation": "Carving a boat to find a sword",
+      "usage": "Clinging to outdated methods.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "刻",
+          "py": "kè",
+          "meaning": "carve"
+        },
+        {
+          "zh": "舟",
+          "py": "zhōu",
+          "meaning": "boat"
+        },
+        {
+          "zh": "求",
+          "py": "qiú",
+          "meaning": "seek"
+        },
+        {
+          "zh": "剑",
+          "py": "jiàn",
+          "meaning": "sword"
+        }
+      ]
+    },
+    {
+      "chinese": "精卫填海",
+      "pinyin": "Jīng wèi tián hǎi",
+      "translation": "Jingwei filling the sea",
+      "usage": "Perseverance against impossible odds.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "精",
+          "py": "jīng",
+          "meaning": "spirit"
+        },
+        {
+          "zh": "卫",
+          "py": "wèi",
+          "meaning": "guard"
+        },
+        {
+          "zh": "填",
+          "py": "tián",
+          "meaning": "fill"
+        },
+        {
+          "zh": "海",
+          "py": "hǎi",
+          "meaning": "sea"
+        }
+      ]
+    },
+    {
+      "chinese": "井底之蛙",
+      "pinyin": "Jǐng dǐ zhī wā",
+      "translation": "A frog in a well",
+      "usage": "Limited perspective due to ignorance.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "井",
+          "py": "jǐng",
+          "meaning": "well"
+        },
+        {
+          "zh": "底",
+          "py": "dǐ",
+          "meaning": "bottom"
+        },
+        {
+          "zh": "之",
+          "py": "zhī",
+          "meaning": "of"
+        },
+        {
+          "zh": "蛙",
+          "py": "wā",
+          "meaning": "frog"
+        }
+      ]
+    },
+    {
+      "chinese": "对牛弹琴",
+      "pinyin": "Duì niú tán qín",
+      "translation": "Playing the zither to a cow",
+      "usage": "Wasting effort on an uninterested audience.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "对",
+          "py": "duì",
+          "meaning": "to"
+        },
+        {
+          "zh": "牛",
+          "py": "niú",
+          "meaning": "cow"
+        },
+        {
+          "zh": "弹",
+          "py": "tán",
+          "meaning": "play"
+        },
+        {
+          "zh": "琴",
+          "py": "qín",
+          "meaning": "zither"
+        }
+      ]
+    },
+    {
+      "chinese": "掩耳盗铃",
+      "pinyin": "Yǎn ěr dào líng",
+      "translation": "Stealing a bell with ears covered",
+      "usage": "Self-deception.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "掩",
+          "py": "yǎn",
+          "meaning": "cover"
+        },
+        {
+          "zh": "耳",
+          "py": "ěr",
+          "meaning": "ear"
+        }
+      ]
+    }
+  ]
+}

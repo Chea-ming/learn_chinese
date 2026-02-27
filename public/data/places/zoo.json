@@ -1,0 +1,130 @@
+{
+  "sentences": [
+    {
+      "chinese": "动物园里有很多动物。",
+      "pinyin": "Dòngwù yuán lǐ yǒu hěn duō dòngwù.",
+      "translation": "There are many animals in the zoo.",
+      "usage": "Describing the diversity of animals.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "动物园",
+          "py": "dòngwù yuán",
+          "meaning": "zoo"
+        },
+        {
+          "zh": "里",
+          "py": "lǐ",
+          "meaning": "inside"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "have"
+        },
+        {
+          "zh": "很多",
+          "py": "hěn duō",
+          "meaning": "many"
+        },
+        {
+          "zh": "动物",
+          "py": "dòngwù",
+          "meaning": "animals"
+        }
+      ]
+    },
+    {
+      "chinese": "熊猫是中国的国宝。",
+      "pinyin": "Xióngmāo shì Zhōngguó de guó bǎo.",
+      "translation": "Pandas are China's national treasure.",
+      "usage": "Highlighting cultural significance.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "熊猫",
+          "py": "xióngmāo",
+          "meaning": "panda"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "are"
+        },
+        {
+          "zh": "中国",
+          "py": "Zhōngguó",
+          "meaning": "China"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "of"
+        },
+        {
+          "zh": "国宝",
+          "py": "guó bǎo",
+          "meaning": "national treasure"
+        }
+      ]
+    },
+    {
+      "chinese": "动物园的开放时间是什么时候？",
+      "pinyin": "Dòngwù yuán de kāifàng shíjiān shì shénme shíhòu?",
+      "translation": "What are the zoo's opening hours?",
+      "usage": "Asking about operating hours.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "动物园",
+          "py": "dòngwù yuán",
+          "meaning": "zoo"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "of"
+        },
+        {
+          "zh": "开放",
+          "py": "kāifàng",
+          "meaning": "open"
+        },
+        {
+          "zh": "时间",
+          "py": "shíjiān",
+          "meaning": "time"
+        },
+        {
+          "zh": "是什么时候",
+          "py": "shì shénme shíhòu",
+          "meaning": "what time"
+        }
+      ]
+    },
+    {
+      "chinese": "你可以喂长颈鹿。",
+      "pinyin": "Nǐ kěyǐ wèi chángjǐnglù.",
+      "translation": "You can feed the giraffe.",
+      "usage": "Instruction for zoo activities.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "可以",
+          "py": "kěyǐ",
+          "meaning": "can"
+        },
+        {
+          "zh": "喂",
+          "py": "wèi",
+          "meaning": "feed"
+        }
+      ]
+    }
+  ]
+}

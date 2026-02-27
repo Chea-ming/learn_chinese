@@ -1,0 +1,194 @@
+{
+  "sentences": [
+    {
+      "chinese": "沙漠",
+      "pinyin": "Shā mò",
+      "translation": "Desert",
+      "usage": "The general term for a large arid region with sand.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "沙",
+          "py": "shā",
+          "meaning": "sand"
+        },
+        {
+          "zh": "漠",
+          "py": "mò",
+          "meaning": "vast/empty"
+        }
+      ]
+    },
+    {
+      "chinese": "沙丘",
+      "pinyin": "Shā qiū",
+      "translation": "Sand dune",
+      "usage": "A hill of sand formed by wind.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "沙",
+          "py": "shā",
+          "meaning": "sand"
+        },
+        {
+          "zh": "丘",
+          "py": "qiū",
+          "meaning": "hill"
+        }
+      ]
+    },
+    {
+      "chinese": "沙尘暴",
+      "pinyin": "Shā chén bào",
+      "translation": "Sandstorm",
+      "usage": "A severe weather phenomenon in arid regions.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "沙",
+          "py": "shā",
+          "meaning": "sand"
+        },
+        {
+          "zh": "尘",
+          "py": "chén",
+          "meaning": "dust"
+        },
+        {
+          "zh": "暴",
+          "py": "bào",
+          "meaning": "storm"
+        }
+      ]
+    },
+    {
+      "chinese": "绿洲",
+      "pinyin": "Lǜ zhōu",
+      "translation": "Oasis",
+      "usage": "A fertile area in a desert.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "绿",
+          "py": "lǜ",
+          "meaning": "green"
+        },
+        {
+          "zh": "洲",
+          "py": "zhōu",
+          "meaning": "island/area"
+        }
+      ]
+    },
+    {
+      "chinese": "骆驼",
+      "pinyin": "Lù tuó",
+      "translation": "Camel",
+      "usage": "A desert-adapted animal with humps.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "骆",
+          "py": "luò",
+          "meaning": "camel"
+        },
+        {
+          "zh": "驼",
+          "py": "tuó",
+          "meaning": "to carry"
+        }
+      ]
+    },
+    {
+      "chinese": "荒漠",
+      "pinyin": "Huāng mò",
+      "translation": "Barren land",
+      "usage": "A desolate desert with no vegetation.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "荒",
+          "py": "huāng",
+          "meaning": "wasteland"
+        },
+        {
+          "zh": "漠",
+          "py": "mò",
+          "meaning": "vast"
+        }
+      ]
+    },
+    {
+      "chinese": "塔克拉玛干沙漠",
+      "pinyin": "Tǎ kè lā mǎ gān shā mò",
+      "translation": "Taklamakan Desert",
+      "usage": "One of China's largest deserts in Xinjiang.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "塔克拉玛干",
+          "py": "tǎ kè lā mǎ gān",
+          "meaning": "Taklamakan"
+        },
+        {
+          "zh": "沙漠",
+          "py": "shā mò",
+          "meaning": "desert"
+        }
+      ]
+    },
+    {
+      "chinese": "瓜亚塔日沙漠",
+      "pinyin": "Gūā yà tài rì shā mò",
+      "translation": "Gobi Desert",
+      "usage": "A cold desert in northern China.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "瓜亚塔日",
+          "py": "guā yà tài rì",
+          "meaning": "Gobi"
+        },
+        {
+          "zh": "沙漠",
+          "py": "shā mò",
+          "meaning": "desert"
+        }
+      ]
+    },
+    {
+      "chinese": "沙粒",
+      "pinyin": "Shā lì",
+      "translation": "Sand grain",
+      "usage": "A single particle of sand.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "沙",
+          "py": "shā",
+          "meaning": "sand"
+        },
+        {
+          "zh": "粒",
+          "py": "lì",
+          "meaning": "grain"
+        }
+      ]
+    },
+    {
+      "chinese": "干旱",
+      "pinyin": "Gān hàn",
+      "translation": "Arid",
+      "usage": "Describing a dry climate.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "干",
+          "py": "gān",
+          "meaning": "dry"
+        }
+      ]
+    }
+  ]
+}

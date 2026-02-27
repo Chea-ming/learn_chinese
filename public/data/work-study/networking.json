@@ -1,0 +1,252 @@
+{
+  "sentences": [
+    {
+      "chinese": "很高兴认识您。",
+      "pinyin": "Hěn gāo xìng rèn shí nín.",
+      "translation": "Pleased to meet you.",
+      "usage": "Formal greeting when meeting someone for the first time.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "高兴",
+          "py": "gāoxìng",
+          "meaning": "happy"
+        },
+        {
+          "zh": "认识",
+          "py": "rènshí",
+          "meaning": "meet"
+        },
+        {
+          "zh": "您",
+          "py": "nín",
+          "meaning": "you (formal)"
+        }
+      ]
+    },
+    {
+      "chinese": "我们可以交换名片吗？",
+      "pinyin": "Wǒmen kěyǐ jiāohuàn míngpiào ma?",
+      "translation": "May we exchange business cards?",
+      "usage": "Polite request to exchange contact information.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "我们",
+          "py": "wǒmen",
+          "meaning": "we"
+        },
+        {
+          "zh": "可以",
+          "py": "kěyǐ",
+          "meaning": "can"
+        },
+        {
+          "zh": "交换",
+          "py": "jiāohuàn",
+          "meaning": "exchange"
+        },
+        {
+          "zh": "名片",
+          "py": "míngpiào",
+          "meaning": "business card"
+        }
+      ]
+    },
+    {
+      "chinese": "您对这个项目有什么建议？",
+      "pinyin": "Nín duì zhège xiàngmù yǒu shénme jiànyì?",
+      "translation": "What suggestions do you have for this project?",
+      "usage": "Asking for professional advice.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "您",
+          "py": "nín",
+          "meaning": "you (formal)"
+        },
+        {
+          "zh": "对",
+          "py": "duì",
+          "meaning": "regarding"
+        },
+        {
+          "zh": "这个",
+          "py": "zhège",
+          "meaning": "this"
+        },
+        {
+          "zh": "项目",
+          "py": "xiàngmù",
+          "meaning": "project"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "have"
+        },
+        {
+          "zh": "什么",
+          "py": "shénme",
+          "meaning": "what"
+        },
+        {
+          "zh": "建议",
+          "py": "jiànyì",
+          "meaning": "suggestion"
+        }
+      ]
+    },
+    {
+      "chinese": "期待与您合作。",
+      "pinyin": "Chídào yǔ nín hézuò.",
+      "translation": "Looking forward to working with you.",
+      "usage": "Closing statement after a professional meeting.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "期待",
+          "py": "chídào",
+          "meaning": "look forward to"
+        },
+        {
+          "zh": "与",
+          "py": "yǔ",
+          "meaning": "with"
+        },
+        {
+          "zh": "您",
+          "py": "nín",
+          "meaning": "you (formal)"
+        },
+        {
+          "zh": "合作",
+          "py": "hézuò",
+          "meaning": "cooperate"
+        }
+      ]
+    },
+    {
+      "chinese": "请问您如何结识新客户？",
+      "pinyin": "Qǐngwèn nín rúhé jiéshí xīn kèhù?",
+      "translation": "How do you meet new clients?",
+      "usage": "Asking about networking strategies.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请问",
+          "py": "qǐngwèn",
+          "meaning": "excuse me"
+        },
+        {
+          "zh": "您",
+          "py": "nín",
+          "meaning": "you (formal)"
+        },
+        {
+          "zh": "如何",
+          "py": "rúhé",
+          "meaning": "how"
+        },
+        {
+          "zh": "结识",
+          "py": "jiéshí",
+          "meaning": "get to know"
+        },
+        {
+          "zh": "新",
+          "py": "xīn",
+          "meaning": "new"
+        },
+        {
+          "zh": "客户",
+          "py": "kèhù",
+          "meaning": "client"
+        }
+      ]
+    },
+    {
+      "chinese": "这是我们公司的最新方案。",
+      "pinyin": "Zhè shì wǒmen gōngsī de zuìxīn fāng'àn.",
+      "translation": "This is our company's latest proposal.",
+      "usage": "Presenting a business plan professionally.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "这是",
+          "py": "zhè shì",
+          "meaning": "this is"
+        },
+        {
+          "zh": "我们",
+          "py": "wǒmen",
+          "meaning": "our"
+        },
+        {
+          "zh": "公司",
+          "py": "gōngsī",
+          "meaning": "company"
+        },
+        {
+          "zh": "的",
+          "py": "de",
+          "meaning": "of"
+        },
+        {
+          "zh": "最新",
+          "py": "zuìxīn",
+          "meaning": "latest"
+        },
+        {
+          "zh": "方案",
+          "py": "fāng'àn",
+          "meaning": "proposal"
+        }
+      ]
+    },
+    {
+      "chinese": "您方便时可以联系我吗？",
+      "pinyin": "Nín fāngbiàn shí kěyǐ liánsì wǒ ma?",
+      "translation": "May I contact you when it's convenient?",
+      "usage": "Polite way to request a follow-up.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "您",
+          "py": "nín",
+          "meaning": "you (formal)"
+        },
+        {
+          "zh": "方便",
+          "py": "fāngbiàn",
+          "meaning": "convenient"
+        },
+        {
+          "zh": "时",
+          "py": "shí",
+          "meaning": "when"
+        },
+        {
+          "zh": "可以",
+          "py": "kěyǐ",
+          "meaning": "can"
+        },
+        {
+          "zh": "联系",
+          "py": "liánsì",
+          "meaning": "contact"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "me"
+        }
+      ]
+    }
+  ]
+}

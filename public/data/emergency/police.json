@@ -1,0 +1,114 @@
+{
+  "sentences": [
+    {
+      "chinese": "打110报警",
+      "pinyin": "Dǎ yī yī líng bào jǐng",
+      "translation": "Call 110 to report an emergency",
+      "usage": "Used to request police assistance in urgent situations",
+      "formality": "Urgent",
+      "words": [
+        {
+          "zh": "打",
+          "py": "dǎ",
+          "meaning": "call"
+        },
+        {
+          "zh": "110",
+          "py": "yī yī líng",
+          "meaning": "emergency police number"
+        },
+        {
+          "zh": "报警",
+          "py": "bào jǐng",
+          "meaning": "report police"
+        }
+      ]
+    },
+    {
+      "chinese": "我需要帮助",
+      "pinyin": "Wǒ xū yào bāng zhù",
+      "translation": "I need help",
+      "usage": "General request for assistance",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "需要",
+          "py": "xū yào",
+          "meaning": "need"
+        },
+        {
+          "zh": "帮助",
+          "py": "bāng zhù",
+          "meaning": "help"
+        }
+      ]
+    },
+    {
+      "chinese": "这里发生了一起犯罪",
+      "pinyin": "Zhè lǐ fā shēng le yī qǐ fàn zuì",
+      "translation": "A crime is happening here",
+      "usage": "Alerting authorities about criminal activity",
+      "formality": "Urgent",
+      "words": [
+        {
+          "zh": "这里",
+          "py": "zhè lǐ",
+          "meaning": "here"
+        },
+        {
+          "zh": "发生",
+          "py": "fā shēng",
+          "meaning": "occur"
+        },
+        {
+          "zh": "犯罪",
+          "py": "fàn zuì",
+          "meaning": "crime"
+        }
+      ]
+    },
+    {
+      "chinese": "有人受伤了",
+      "pinyin": "Yǒu rén shòu shāng le",
+      "translation": "Someone is injured",
+      "usage": "Reporting injuries during emergencies",
+      "formality": "Urgent",
+      "words": [
+        {
+          "zh": "有人",
+          "py": "yǒu rén",
+          "meaning": "someone"
+        },
+        {
+          "zh": "受伤",
+          "py": "shòu shāng",
+          "meaning": "injured"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completion marker"
+        }
+      ]
+    },
+    {
+      "chinese": "偷了我的钱包",
+      "pinyin": "Tōu le wǒ de qián bāo",
+      "translation": "My wallet was stolen",
+      "usage": "Reporting theft",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "偷",
+          "py": "tōu",
+          "meaning": "steal"
+        }
+      ]
+    }
+  ]
+}

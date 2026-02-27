@@ -1,0 +1,232 @@
+{
+  "sentences": [
+    {
+      "chinese": "打篮球",
+      "pinyin": "Dǎ lánqíu",
+      "translation": "Play basketball",
+      "usage": "A common way to refer to playing basketball.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "打",
+          "py": "dǎ",
+          "meaning": "to play"
+        },
+        {
+          "zh": "篮球",
+          "py": "lánqiú",
+          "meaning": "basketball"
+        }
+      ]
+    },
+    {
+      "chinese": "踢足球",
+      "pinyin": "Tī zúqiú",
+      "translation": "Play soccer",
+      "usage": "Used to describe playing soccer.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "踢",
+          "py": "tī",
+          "meaning": "to kick"
+        },
+        {
+          "zh": "足球",
+          "py": "zúqiú",
+          "meaning": "soccer"
+        }
+      ]
+    },
+    {
+      "chinese": "打羽毛球",
+      "pinyin": "Dǎ yǔnmá qiú",
+      "translation": "Play badminton",
+      "usage": "Refers to playing badminton.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "打",
+          "py": "dǎ",
+          "meaning": "to play"
+        },
+        {
+          "zh": "羽毛球",
+          "py": "yǔnmá qiú",
+          "meaning": "badminton"
+        }
+      ]
+    },
+    {
+      "chinese": "游泳",
+      "pinyin": "Yóuyǒng",
+      "translation": "Swim",
+      "usage": "Used for swimming activities.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "游",
+          "py": "yóu",
+          "meaning": "to swim"
+        },
+        {
+          "zh": "泳",
+          "py": "yǒng",
+          "meaning": "swimming"
+        }
+      ]
+    },
+    {
+      "chinese": "打乒乓球",
+      "pinyin": "Dǎ pīngpāng qiú",
+      "translation": "Play table tennis",
+      "usage": "Describes playing table tennis.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "打",
+          "py": "dǎ",
+          "meaning": "to play"
+        },
+        {
+          "zh": "乒乓球",
+          "py": "pīngpāng qiú",
+          "meaning": "table tennis"
+        }
+      ]
+    },
+    {
+      "chinese": "跑步",
+      "pinyin": "Pǎobù",
+      "translation": "Run",
+      "usage": "Used for jogging or running exercises.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "跑",
+          "py": "pǎo",
+          "meaning": "to run"
+        },
+        {
+          "zh": "步",
+          "py": "bù",
+          "meaning": "step"
+        }
+      ]
+    },
+    {
+      "chinese": "打网球",
+      "pinyin": "Dǎ wǎngqiú",
+      "translation": "Play tennis",
+      "usage": "Refers to playing tennis.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "打",
+          "py": "dǎ",
+          "meaning": "to play"
+        },
+        {
+          "zh": "网球",
+          "py": "wǎngqiú",
+          "meaning": "tennis"
+        }
+      ]
+    },
+    {
+      "chinese": "打高尔夫球",
+      "pinyin": "Dǎ gāo lǎng sī fēi qiú",
+      "translation": "Play golf",
+      "usage": "Used to describe playing golf.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "打",
+          "py": "dǎ",
+          "meaning": "to play"
+        },
+        {
+          "zh": "高尔夫球",
+          "py": "gāolǎngsīfēi qiú",
+          "meaning": "golf"
+        }
+      ]
+    },
+    {
+      "chinese": "登山",
+      "pinyin": "Dēngshān",
+      "translation": "Climb a mountain",
+      "usage": "Used for mountain climbing activities.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "登",
+          "py": "dēng",
+          "meaning": "to climb"
+        },
+        {
+          "zh": "山",
+          "py": "shān",
+          "meaning": "mountain"
+        }
+      ]
+    },
+    {
+      "chinese": "骑自行车",
+      "pinyin": "Qí zìxíngchē",
+      "translation": "Ride a bicycle",
+      "usage": "Describes cycling activities.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "骑",
+          "py": "qí",
+          "meaning": "to ride"
+        },
+        {
+          "zh": "自行车",
+          "py": "zìxíngchē",
+          "meaning": "bicycle"
+        }
+      ]
+    },
+    {
+      "chinese": "打拳",
+      "pinyin": "Dǎ quán",
+      "translation": "Do boxing",
+      "usage": "Used for boxing or martial arts.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "打",
+          "py": "dǎ",
+          "meaning": "to do"
+        },
+        {
+          "zh": "拳",
+          "py": "quán",
+          "meaning": "boxing"
+        }
+      ]
+    },
+    {
+      "chinese": "跳绳",
+      "pinyin": "Tiào shéng",
+      "translation": "Jump rope",
+      "usage": "Refers to skipping rope.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "跳",
+          "py": "tiào",
+          "meaning": "to jump"
+        },
+        {
+          "zh": "绳",
+          "py": "shéng",
+          "meaning": "rope"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "sentences": [
+    {
+      "chinese": "您好，我是XXX。",
+      "pinyin": "Nín hǎo, wǒ shì XXX.",
+      "translation": "Hello, I am XXX.",
+      "usage": "Standard introduction at the start of an interview.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "您",
+          "py": "nín",
+          "meaning": "you (formal)"
+        },
+        {
+          "zh": "好",
+          "py": "hǎo",
+          "meaning": "good"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "am"
+        }
+      ]
+    },
+    {
+      "chinese": "请问这个职位的主要职责是什么？",
+      "pinyin": "Qǐng wèn zhège zhíwèi de zhǔyào zéwù shì shénme?",
+      "translation": "May I ask what are the main responsibilities of this position?",
+      "usage": "Asking about job requirements.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "问",
+          "py": "wèn",
+          "meaning": "ask"
+        },
+        {
+          "zh": "这个",
+          "py": "zhège",
+          "meaning": "this"
+        },
+        {
+          "zh": "职位",
+          "py": "zhíwèi",
+          "meaning": "position"
+        },
+        {
+          "zh": "主要",
+          "py": "zhǔyào",
+          "meaning": "main"
+        },
+        {
+          "zh": "职责",
+          "py": "zéwù",
+          "meaning": "responsibilities"
+        }
+      ]
+    },
+    {
+      "chinese": "我有相关行业经验吗？",
+      "pinyin": "Wǒ yǒu xiāngguān hángyè jīngyàn ma?",
+      "translation": "Do I have relevant industry experience?",
+      "usage": "Discussing qualifications.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "相关",
+          "py": "xiāngguān",
+          "meaning": "related"
+        },
+        {
+          "zh": "行业",
+          "py": "hángyè",
+          "meaning": "industry"
+        },
+        {
+          "zh": "经验",
+          "py": "jīngyàn",
+          "meaning": "experience"
+        }
+      ]
+    }
+  ]
+}

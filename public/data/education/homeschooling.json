@@ -1,0 +1,143 @@
+{
+  "sentences": [
+    {
+      "chinese": "家庭教育",
+      "pinyin": "jiā tíng jiào yù",
+      "translation": "homeschooling",
+      "usage": "The term for education provided at home by parents or tutors.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "家",
+          "py": "jiā",
+          "meaning": "family"
+        },
+        {
+          "zh": "庭",
+          "py": "tíng",
+          "meaning": "household"
+        },
+        {
+          "zh": "教",
+          "py": "jiào",
+          "meaning": "teach"
+        },
+        {
+          "zh": "育",
+          "py": "yù",
+          "meaning": "cultivate/educate"
+        }
+      ]
+    },
+    {
+      "chinese": "教育课程",
+      "pinyin": "jiào yù kè chéng",
+      "translation": "homeschooling curriculum",
+      "usage": "Refers to the structured educational plan followed in homeschooling.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "教",
+          "py": "jiào",
+          "meaning": "teach"
+        },
+        {
+          "zh": "育",
+          "py": "yù",
+          "meaning": "cultivate/educate"
+        },
+        {
+          "zh": "课",
+          "py": "kè",
+          "meaning": "lesson"
+        },
+        {
+          "zh": "程",
+          "py": "chéng",
+          "meaning": "program"
+        }
+      ]
+    },
+    {
+      "chinese": "自学",
+      "pinyin": "zì xué",
+      "translation": "self-study",
+      "usage": "A method where students learn independently without formal instruction.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "自",
+          "py": "zì",
+          "meaning": "self"
+        },
+        {
+          "zh": "学",
+          "py": "xué",
+          "meaning": "study"
+        }
+      ]
+    },
+    {
+      "chinese": "辅导",
+      "pinyin": "fǔ dǎo",
+      "translation": "tutoring",
+      "usage": "Additional support provided by parents or tutors to reinforce learning.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "辅",
+          "py": "fǔ",
+          "meaning": "assist"
+        },
+        {
+          "zh": "导",
+          "py": "dǎo",
+          "meaning": "guide"
+        }
+      ]
+    },
+    {
+      "chinese": "教材",
+      "pinyin": "jiào cí",
+      "translation": "teaching materials",
+      "usage": "Resources such as books, workbooks, and online tools used in education.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "教",
+          "py": "jiào",
+          "meaning": "teach"
+        },
+        {
+          "zh": "材",
+          "py": "cái",
+          "meaning": "materials"
+        }
+      ]
+    },
+    {
+      "chinese": "教育局",
+      "pinyin": "jiào yù jú",
+      "translation": "education bureau",
+      "usage": "Government office overseeing educational policies and standards.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "教",
+          "py": "jiào",
+          "meaning": "teach"
+        },
+        {
+          "zh": "育",
+          "py": "yù",
+          "meaning": "cultivate/educate"
+        },
+        {
+          "zh": "局",
+          "py": "jú",
+          "meaning": "bureau"
+        }
+      ]
+    }
+  ]
+}

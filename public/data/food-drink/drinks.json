@@ -1,0 +1,724 @@
+{
+  "sentences": [
+    {
+      "chinese": "我想喝一杯水。",
+      "pinyin": "Wǒ xiǎng hē yī bēi shuǐ.",
+      "translation": "I want to drink a glass of water.",
+      "usage": "Used when asking for water at a restaurant or cafe.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "想",
+          "py": "xiǎng",
+          "meaning": "want to"
+        },
+        {
+          "zh": "喝",
+          "py": "hē",
+          "meaning": "to drink"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "杯",
+          "py": "bēi",
+          "meaning": "cup"
+        },
+        {
+          "zh": "水",
+          "py": "shuǐ",
+          "meaning": "water"
+        }
+      ]
+    },
+    {
+      "chinese": "这杯茶太烫了。",
+      "pinyin": "Zhè bēi chá tài tàng le.",
+      "translation": "This cup of tea is too hot.",
+      "usage": "Used when tea is too hot to drink immediately.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "杯",
+          "py": "bēi",
+          "meaning": "cup"
+        },
+        {
+          "zh": "茶",
+          "py": "chá",
+          "meaning": "tea"
+        },
+        {
+          "zh": "太",
+          "py": "tài",
+          "meaning": "too"
+        },
+        {
+          "zh": "烫",
+          "py": "tàng",
+          "meaning": "hot"
+        }
+      ]
+    },
+    {
+      "chinese": "请给我一杯咖啡。",
+      "pinyin": "Qǐng gěi wǒ yī bēi kāfēi.",
+      "translation": "Please give me a cup of coffee.",
+      "usage": "Ordering coffee in a café or restaurant.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "给",
+          "py": "gěi",
+          "meaning": "to give"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "me"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "杯",
+          "py": "bēi",
+          "meaning": "cup"
+        },
+        {
+          "zh": "咖啡",
+          "py": "kāfēi",
+          "meaning": "coffee"
+        }
+      ]
+    },
+    {
+      "chinese": "我今天不想喝太多饮料。",
+      "pinyin": "Wǒ jīntiān bù xiǎng hē tài duō yǐnliào.",
+      "translation": "I don't want to drink too much beverage today.",
+      "usage": "Used when limiting consumption of drinks.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "今天",
+          "py": "jīntiān",
+          "meaning": "today"
+        },
+        {
+          "zh": "不",
+          "py": "bù",
+          "meaning": "not"
+        },
+        {
+          "zh": "想",
+          "py": "xiǎng",
+          "meaning": "want to"
+        },
+        {
+          "zh": "喝",
+          "py": "hē",
+          "meaning": "to drink"
+        },
+        {
+          "zh": "太",
+          "py": "tài",
+          "meaning": "too"
+        },
+        {
+          "zh": "多",
+          "py": "duō",
+          "meaning": "much"
+        },
+        {
+          "zh": "饮料",
+          "py": "yǐnliào",
+          "meaning": "beverage"
+        }
+      ]
+    },
+    {
+      "chinese": "你喜欢喝什么饮料？",
+      "pinyin": "Nǐ xǐhuān hē shénme yǐnliào?",
+      "translation": "What beverage do you like to drink?",
+      "usage": "Asking someone about their drink preferences.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "喜欢",
+          "py": "xǐhuān",
+          "meaning": "like"
+        },
+        {
+          "zh": "喝",
+          "py": "hē",
+          "meaning": "to drink"
+        },
+        {
+          "zh": "什么",
+          "py": "shénme",
+          "meaning": "what"
+        },
+        {
+          "zh": "饮料",
+          "py": "yǐnliào",
+          "meaning": "beverage"
+        }
+      ]
+    },
+    {
+      "chinese": "这个果汁很新鲜。",
+      "pinyin": "Zhège guǒzhī shuì hěn xīnxiān.",
+      "translation": "This fruit juice is very fresh.",
+      "usage": "Describing the quality of fresh juice.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这个",
+          "py": "zhège",
+          "meaning": "this"
+        },
+        {
+          "zh": "果汁",
+          "py": "guǒzhī shuì",
+          "meaning": "fruit juice"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "新鲜",
+          "py": "xīnxiān",
+          "meaning": "fresh"
+        }
+      ]
+    },
+    {
+      "chinese": "我想要一杯橙汁。",
+      "pinyin": "Wǒ xiǎng yào yī bēi chéngzhī.",
+      "translation": "I want a glass of orange juice.",
+      "usage": "Ordering orange juice at a restaurant.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "想要",
+          "py": "xiǎng yào",
+          "meaning": "want to"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "杯",
+          "py": "bēi",
+          "meaning": "cup"
+        },
+        {
+          "zh": "橙汁",
+          "py": "chéngzhī",
+          "meaning": "orange juice"
+        }
+      ]
+    },
+    {
+      "chinese": "请给我一杯冰水。",
+      "pinyin": "Qǐng gěi wǒ yī bēi bīngshuǐ.",
+      "translation": "Please give me a glass of ice water.",
+      "usage": "Ordering ice water at a restaurant.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "给",
+          "py": "gěi",
+          "meaning": "to give"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "me"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "杯",
+          "py": "bēi",
+          "meaning": "cup"
+        },
+        {
+          "zh": "冰水",
+          "py": "bīngshuǐ",
+          "meaning": "ice water"
+        }
+      ]
+    },
+    {
+      "chinese": "这瓶饮料太甜了。",
+      "pinyin": "Zhè píng yǐnliào tài tián le.",
+      "translation": "This bottle of beverage is too sweet.",
+      "usage": "Commenting on overly sweet drinks.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "瓶",
+          "py": "píng",
+          "meaning": "bottle"
+        },
+        {
+          "zh": "饮料",
+          "py": "yǐnliào",
+          "meaning": "beverage"
+        },
+        {
+          "zh": "太",
+          "py": "tài",
+          "meaning": "too"
+        },
+        {
+          "zh": "甜",
+          "py": "tián",
+          "meaning": "sweet"
+        }
+      ]
+    },
+    {
+      "chinese": "我们去喝杯茶吧。",
+      "pinyin": "Wǒmen qù hē bēi chá ba.",
+      "translation": "Let's go have a cup of tea.",
+      "usage": "Suggesting to have tea together.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "我们",
+          "py": "wǒmen",
+          "meaning": "we"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "go"
+        },
+        {
+          "zh": "喝",
+          "py": "hē",
+          "meaning": "to drink"
+        },
+        {
+          "zh": "杯",
+          "py": "bēi",
+          "meaning": "cup"
+        },
+        {
+          "zh": "茶",
+          "py": "chá",
+          "meaning": "tea"
+        }
+      ]
+    },
+    {
+      "chinese": "他每天喝很多咖啡。",
+      "pinyin": "Tā měitiān hē hěn duō kāfēi.",
+      "translation": "He drinks a lot of coffee every day.",
+      "usage": "Describing someone's daily coffee habit.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "他",
+          "py": "tā",
+          "meaning": "he"
+        },
+        {
+          "zh": "每天",
+          "py": "měitiān",
+          "meaning": "every day"
+        },
+        {
+          "zh": "喝",
+          "py": "hē",
+          "meaning": "to drink"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "多",
+          "py": "duō",
+          "meaning": "much"
+        },
+        {
+          "zh": "咖啡",
+          "py": "kāfēi",
+          "meaning": "coffee"
+        }
+      ]
+    },
+    {
+      "chinese": "这种饮料很好喝。",
+      "pinyin": "Zhè zhǒng yǐnliào hěn hǎo hē.",
+      "translation": "This kind of beverage is very delicious.",
+      "usage": "Expressing that a drink tastes good.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这种",
+          "py": "zhè zhǒng",
+          "meaning": "this kind of"
+        },
+        {
+          "zh": "饮料",
+          "py": "yǐnliào",
+          "meaning": "beverage"
+        },
+        {
+          "zh": "很",
+          "py": "hěn",
+          "meaning": "very"
+        },
+        {
+          "zh": "好喝",
+          "py": "hǎo hē",
+          "meaning": "tasty"
+        }
+      ]
+    },
+    {
+      "chinese": "我喝完这杯水就去洗手间。",
+      "pinyin": "Wǒ hē wán zhè bēi shuǐ jiù qù xǐ shǒujiān.",
+      "translation": "I will go to the restroom after finishing this cup of water.",
+      "usage": "Explaining your plans after drinking water.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "喝完",
+          "py": "hē wán",
+          "meaning": "finish drinking"
+        },
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "杯",
+          "py": "bēi",
+          "meaning": "cup"
+        },
+        {
+          "zh": "水",
+          "py": "shuǐ",
+          "meaning": "water"
+        },
+        {
+          "zh": "就",
+          "py": "jiù",
+          "meaning": "then"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "go"
+        },
+        {
+          "zh": "洗手间",
+          "py": "xǐ shǒujiān",
+          "meaning": "restroom"
+        }
+      ]
+    },
+    {
+      "chinese": "请给我一杯柠檬水。",
+      "pinyin": "Qǐng gěi wǒ yī bēi níngméngshuǐ.",
+      "translation": "Please give me a glass of lemon water.",
+      "usage": "Ordering lemon water at a restaurant.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请",
+          "py": "qǐng",
+          "meaning": "please"
+        },
+        {
+          "zh": "给",
+          "py": "gěi",
+          "meaning": "to give"
+        },
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "me"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "杯",
+          "py": "bēi",
+          "meaning": "cup"
+        },
+        {
+          "zh": "柠檬水",
+          "py": "níngméngshuǐ",
+          "meaning": "lemon water"
+        }
+      ]
+    },
+    {
+      "chinese": "这饮料太酸了。",
+      "pinyin": "Zhè yǐnliào tài suān le.",
+      "translation": "This drink is too sour.",
+      "usage": "Commenting on overly sour beverages.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "饮料",
+          "py": "yǐnliào",
+          "meaning": "beverage"
+        },
+        {
+          "zh": "太",
+          "py": "tài",
+          "meaning": "too"
+        },
+        {
+          "zh": "酸",
+          "py": "suān",
+          "meaning": "sour"
+        }
+      ]
+    },
+    {
+      "chinese": "你喝什么饮料？",
+      "pinyin": "Nǐ hē shénme yǐnliào?",
+      "translation": "What beverage do you drink?",
+      "usage": "Asking about someone's preferred drinks.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "你",
+          "py": "nǐ",
+          "meaning": "you"
+        },
+        {
+          "zh": "喝",
+          "py": "hē",
+          "meaning": "to drink"
+        },
+        {
+          "zh": "什么",
+          "py": "shénme",
+          "meaning": "what"
+        },
+        {
+          "zh": "饮料",
+          "py": "yǐnliào",
+          "meaning": "beverage"
+        }
+      ]
+    },
+    {
+      "chinese": "我想要一杯热茶。",
+      "pinyin": "Wǒ xiǎng yào yī bēi rè chá.",
+      "translation": "I want a cup of hot tea.",
+      "usage": "Ordering hot tea at a restaurant.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "想要",
+          "py": "xiǎng yào",
+          "meaning": "want"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "杯",
+          "py": "bēi",
+          "meaning": "cup"
+        },
+        {
+          "zh": "热茶",
+          "py": "rè chá",
+          "meaning": "hot tea"
+        }
+      ]
+    },
+    {
+      "chinese": "我们去喝点东西吧。",
+      "pinyin": "Wǒmen qù hē diǎn dōngxi ba.",
+      "translation": "Let's go have something to drink.",
+      "usage": "Suggesting to get drinks together.",
+      "formality": "Informal",
+      "words": [
+        {
+          "zh": "我们",
+          "py": "wǒmen",
+          "meaning": "we"
+        },
+        {
+          "zh": "去",
+          "py": "qù",
+          "meaning": "go"
+        },
+        {
+          "zh": "喝",
+          "py": "hē",
+          "meaning": "to drink"
+        },
+        {
+          "zh": "点",
+          "py": "diǎn",
+          "meaning": "some"
+        },
+        {
+          "zh": "东西",
+          "py": "dōngxi",
+          "meaning": "thing"
+        }
+      ]
+    },
+    {
+      "chinese": "这杯饮料有点凉。",
+      "pinyin": "Zhè bēi yǐnliào yǒudiǎn liáng.",
+      "translation": "This cup of beverage is a bit cold.",
+      "usage": "Commenting on the temperature of a drink.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "这",
+          "py": "zhè",
+          "meaning": "this"
+        },
+        {
+          "zh": "杯",
+          "py": "bēi",
+          "meaning": "cup"
+        },
+        {
+          "zh": "饮料",
+          "py": "yǐnliào",
+          "meaning": "beverage"
+        },
+        {
+          "zh": "有点",
+          "py": "yǒudiǎn",
+          "meaning": "a bit"
+        },
+        {
+          "zh": "凉",
+          "py": "liáng",
+          "meaning": "cold"
+        }
+      ]
+    },
+    {
+      "chinese": "我每天喝一杯水。",
+      "pinyin": "Wǒ měitiān hē yī bēi shuǐ.",
+      "translation": "I drink a cup of water every day.",
+      "usage": "Describing daily water drinking habit.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "每天",
+          "py": "měitiān",
+          "meaning": "every day"
+        },
+        {
+          "zh": "喝",
+          "py": "hē",
+          "meaning": "to drink"
+        },
+        {
+          "zh": "一",
+          "py": "yī",
+          "meaning": "one"
+        },
+        {
+          "zh": "杯",
+          "py": "bēi",
+          "meaning": "cup"
+        },
+        {
+          "zh": "水",
+          "py": "shuǐ",
+          "meaning": "water"
+        }
+      ]
+    }
+  ]
+}

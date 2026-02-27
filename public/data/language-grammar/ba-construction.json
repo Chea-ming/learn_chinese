@@ -1,0 +1,277 @@
+{
+  "sentences": [
+    {
+      "chinese": "把书放在桌子上。",
+      "pinyin": "Bǎ shū fàng zài zhuōzi shàng.",
+      "translation": "Put the book on the table.",
+      "usage": "Emphasizes the action of placing the object in a specific location.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "把",
+          "py": "bǎ",
+          "meaning": "structural particle introducing the object"
+        },
+        {
+          "zh": "书",
+          "py": "shū",
+          "meaning": "book"
+        },
+        {
+          "zh": "放",
+          "py": "fàng",
+          "meaning": "to put/place"
+        },
+        {
+          "zh": "在",
+          "py": "zài",
+          "meaning": "at/on"
+        },
+        {
+          "zh": "桌子",
+          "py": "zhuōzi",
+          "meaning": "table"
+        },
+        {
+          "zh": "上",
+          "py": "shàng",
+          "meaning": "on"
+        }
+      ]
+    },
+    {
+      "chinese": "把衣服洗干净了。",
+      "pinyin": "Bǎ yīfu xǐ gānjìng le.",
+      "translation": "Washed the clothes clean.",
+      "usage": "Highlights the result of the action (cleaning).",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "把",
+          "py": "bǎ"
+        },
+        {
+          "zh": "衣服",
+          "py": "yīfu",
+          "meaning": "clothes"
+        },
+        {
+          "zh": "洗",
+          "py": "xǐ",
+          "meaning": "to wash"
+        },
+        {
+          "zh": "干净",
+          "py": "gānjìng",
+          "meaning": "clean"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completion marker"
+        }
+      ]
+    },
+    {
+      "chinese": "把门关上。",
+      "pinyin": "Bǎ mén guān shàng.",
+      "translation": "Close the door.",
+      "usage": "Imperative sentence showing a direct request.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "把",
+          "py": "bǎ"
+        },
+        {
+          "zh": "门",
+          "py": "mén",
+          "meaning": "door"
+        },
+        {
+          "zh": "关",
+          "py": "guān",
+          "meaning": "to close"
+        },
+        {
+          "zh": "上",
+          "py": "shàng",
+          "meaning": "completive particle"
+        }
+      ]
+    },
+    {
+      "chinese": "把问题解决了。",
+      "pinyin": "Bǎ wèntí jiějué le.",
+      "translation": "Solved the problem.",
+      "usage": "Emphasizes the resolution of an issue.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "把",
+          "py": "bǎ"
+        },
+        {
+          "zh": "问题",
+          "py": "wèntí",
+          "meaning": "problem"
+        },
+        {
+          "zh": "解决",
+          "py": "jiějué",
+          "meaning": "to resolve"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completion"
+        }
+      ]
+    },
+    {
+      "chinese": "把信寄出去了。",
+      "pinyin": "Bǎ xìn jì chūqù le.",
+      "translation": "Sent the letter out.",
+      "usage": "Indicates movement of the object away from the speaker.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "把",
+          "py": "bǎ"
+        },
+        {
+          "zh": "信",
+          "py": "xìn",
+          "meaning": "letter"
+        },
+        {
+          "zh": "寄",
+          "py": "jì",
+          "meaning": "to mail"
+        },
+        {
+          "zh": "出去",
+          "py": "chūqù",
+          "meaning": "out"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completion"
+        }
+      ]
+    },
+    {
+      "chinese": "把灯打开。",
+      "pinyin": "Bǎ dēng dǎkāi.",
+      "translation": "Turn on the light.",
+      "usage": "Common command for activating objects.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "把",
+          "py": "bǎ"
+        },
+        {
+          "zh": "灯",
+          "py": "dēng",
+          "meaning": "light"
+        },
+        {
+          "zh": "打开",
+          "py": "dǎkāi",
+          "meaning": "to turn on"
+        }
+      ]
+    },
+    {
+      "chinese": "把错误改正了。",
+      "pinyin": "Bǎ cuòwù gǎizhèng le.",
+      "translation": "Corrected the mistake.",
+      "usage": "Focuses on correcting an error.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "把",
+          "py": "bǎ"
+        },
+        {
+          "zh": "错误",
+          "py": "cuòwù",
+          "meaning": "mistake"
+        },
+        {
+          "zh": "改正",
+          "py": "gǎizhèng",
+          "meaning": "to correct"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completion"
+        }
+      ]
+    },
+    {
+      "chinese": "把食物吃光了。",
+      "pinyin": "Bǎ shíwù chī guāngle.",
+      "translation": "Ate all the food.",
+      "usage": "Emphasizes complete consumption.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "把",
+          "py": "bǎ"
+        },
+        {
+          "zh": "食物",
+          "py": "shíwù",
+          "meaning": "food"
+        },
+        {
+          "zh": "吃",
+          "py": "chī",
+          "meaning": "to eat"
+        },
+        {
+          "zh": "光",
+          "py": "guāng",
+          "meaning": "all"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completion"
+        }
+      ]
+    },
+    {
+      "chinese": "把窗户打开了。",
+      "pinyin": "Bǎ chuānhuà dǎkāi le.",
+      "translation": "Opened the window.",
+      "usage": "Describes a completed action with result.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "把",
+          "py": "bǎ"
+        },
+        {
+          "zh": "窗户",
+          "py": "chuānhuà",
+          "meaning": "window"
+        },
+        {
+          "zh": "打开",
+          "py": "dǎkāi",
+          "meaning": "to open"
+        },
+        {
+          "zh": "了",
+          "py": "le",
+          "meaning": "completion"
+        }
+      ]
+    }
+  ]
+}

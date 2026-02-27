@@ -1,0 +1,33 @@
+{
+  "sentences": [
+    {
+      "chinese": "君子和而不同",
+      "pinyin": "Jūnzǐ hé ér bù tóng",
+      "translation": "Harmony without uniformity",
+      "usage": "Promotes mutual respect while preserving differences.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "君子",
+          "py": "Jūnzǐ",
+          "meaning": "gentleman"
+        },
+        {
+          "zh": "和",
+          "py": "Hé",
+          "meaning": "harmony"
+        },
+        {
+          "zh": "而",
+          "py": "Ér",
+          "meaning": "but"
+        },
+        {
+          "zh": "不同",
+          "py": "Bù tóng",
+          "meaning": "not the same"
+        }
+      ]
+    }
+  ]
+}

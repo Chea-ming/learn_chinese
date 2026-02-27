@@ -1,0 +1,156 @@
+{
+  "sentences": [
+    {
+      "chinese": "古筝",
+      "pinyin": "Gǔzhēng",
+      "translation": "Zither",
+      "usage": "Traditional Chinese plucked string instrument.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "古",
+          "py": "gǔ",
+          "meaning": "ancient"
+        },
+        {
+          "zh": "筝",
+          "py": "zhēng",
+          "meaning": "zither"
+        }
+      ]
+    },
+    {
+      "chinese": "二胡",
+      "pinyin": "Érhú",
+      "translation": "Erhu",
+      "usage": "Two-stringed Chinese bowed instrument.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "二",
+          "py": "èr",
+          "meaning": "two"
+        },
+        {
+          "zh": "胡",
+          "py": "hú",
+          "meaning": "Hu (ethnic group name) + musical instrument suffix"
+        }
+      ]
+    },
+    {
+      "chinese": "琵琶",
+      "pinyin": "Pípá",
+      "translation": "Pipa",
+      "usage": "Chinese lute with pear-shaped body.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "琵",
+          "py": "pí",
+          "meaning": "plucked"
+        },
+        {
+          "zh": "琶",
+          "py": "pá",
+          "meaning": "lute"
+        }
+      ]
+    },
+    {
+      "chinese": "古琴",
+      "pinyin": "Gǔqín",
+      "translation": "Guqin",
+      "usage": "Ancient Chinese seven-stringed zither.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "古",
+          "py": "gǔ",
+          "meaning": "ancient"
+        },
+        {
+          "zh": "琴",
+          "py": "qín",
+          "meaning": "stringed instrument"
+        }
+      ]
+    },
+    {
+      "chinese": "钢琴",
+      "pinyin": "Gēngqín",
+      "translation": "Piano",
+      "usage": "Western keyboard instrument, translated as 'hammered qin'.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "钢",
+          "py": "gāng",
+          "meaning": "steel"
+        },
+        {
+          "zh": "琴",
+          "py": "qín",
+          "meaning": "stringed instrument"
+        }
+      ]
+    },
+    {
+      "chinese": "小提琴",
+      "pinyin": "Xiǎotíqín",
+      "translation": "Violin",
+      "usage": "Western four-stringed bowed instrument.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "小",
+          "py": "xiǎo",
+          "meaning": "small"
+        },
+        {
+          "zh": "提",
+          "py": "tí",
+          "meaning": "carry"
+        },
+        {
+          "zh": "琴",
+          "py": "qín",
+          "meaning": "stringed instrument"
+        }
+      ]
+    },
+    {
+      "chinese": "笛子",
+      "pinyin": "Dízi",
+      "translation": "Dizi",
+      "usage": "Chinese bamboo flute.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "笛",
+          "py": "dí",
+          "meaning": "flute"
+        },
+        {
+          "zh": "子",
+          "py": "zi",
+          "meaning": "classifier for small objects"
+        }
+      ]
+    },
+    {
+      "chinese": "唢呐",
+      "pinyin": "Suǒnà",
+      "translation": "Suona",
+      "usage": "Chinese double-reed horn.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "唢",
+          "py": "suǎ",
+          "meaning": "shorn"
+        }
+      ]
+    }
+  ]
+}

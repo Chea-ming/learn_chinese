@@ -1,0 +1,271 @@
+{
+  "sentences": [
+    {
+      "chinese": "经常锻炼",
+      "pinyin": "Jīngcháng duànliàn",
+      "translation": "Exercise regularly",
+      "usage": "Encourages consistent physical activity for health.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "经常",
+          "py": "jīngcháng",
+          "meaning": "often"
+        },
+        {
+          "zh": "锻炼",
+          "py": "duànliàn",
+          "meaning": "exercise"
+        }
+      ]
+    },
+    {
+      "chinese": "均衡饮食",
+      "pinyin": "Jūnhéng yǐnshí",
+      "translation": "Balanced diet",
+      "usage": "Emphasizes eating a variety of nutrients.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "均衡",
+          "py": "jūnhéng",
+          "meaning": "balanced"
+        },
+        {
+          "zh": "饮食",
+          "py": "yǐnshí",
+          "meaning": "diet"
+        }
+      ]
+    },
+    {
+      "chinese": "早睡早起",
+      "pinyin": "Zǎoshuì zǎoqǐ",
+      "translation": "Go to bed early and wake up early",
+      "usage": "Traditional advice for good sleep hygiene.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "早",
+          "py": "zǎo",
+          "meaning": "early"
+        },
+        {
+          "zh": "睡",
+          "py": "shuì",
+          "meaning": "sleep"
+        },
+        {
+          "zh": "起",
+          "py": "qǐ",
+          "meaning": "get up"
+        }
+      ]
+    },
+    {
+      "chinese": "每天喝水",
+      "pinyin": "Měitiān hē shuǐ",
+      "translation": "Drink water daily",
+      "usage": "Promotes hydration as part of a healthy routine.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "每天",
+          "py": "měitiān",
+          "meaning": "every day"
+        },
+        {
+          "zh": "喝",
+          "py": "hē",
+          "meaning": "drink"
+        },
+        {
+          "zh": "水",
+          "py": "shuǐ",
+          "meaning": "water"
+        }
+      ]
+    },
+    {
+      "chinese": "心情愉快",
+      "pinyin": "Xīnqíng yúkuài",
+      "translation": "Happy mood",
+      "usage": "Encourages mental and emotional well-being.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "心情",
+          "py": "xīnqíng",
+          "meaning": "mood"
+        },
+        {
+          "zh": "愉快",
+          "py": "yúkuài",
+          "meaning": "happy"
+        }
+      ]
+    },
+    {
+      "chinese": "戒烟限酒",
+      "pinyin": "Jiè yān xiàn jiǔ",
+      "translation": "Quit smoking and limit alcohol",
+      "usage": "Advises avoiding harmful habits.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "戒",
+          "py": "jiè",
+          "meaning": "quit"
+        },
+        {
+          "zh": "烟",
+          "py": "yān",
+          "meaning": "smoking"
+        },
+        {
+          "zh": "限",
+          "py": "xiàn",
+          "meaning": "limit"
+        },
+        {
+          "zh": "酒",
+          "py": "jiǔ",
+          "meaning": "alcohol"
+        }
+      ]
+    },
+    {
+      "chinese": "适量运动",
+      "pinyin": "Shìliàng yùndòng",
+      "translation": "Moderate exercise",
+      "usage": "Recommends avoiding overexertion.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "适量",
+          "py": "shìliàng",
+          "meaning": "moderate"
+        },
+        {
+          "zh": "运动",
+          "py": "yùndòng",
+          "meaning": "exercise"
+        }
+      ]
+    },
+    {
+      "chinese": "控制体重",
+      "pinyin": "Kòngzhì tǐzhòng",
+      "translation": "Control weight",
+      "usage": "Focuses on maintaining a healthy body weight.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "控制",
+          "py": "kòngzhì",
+          "meaning": "control"
+        },
+        {
+          "zh": "体重",
+          "py": "tǐzhòng",
+          "meaning": "body weight"
+        }
+      ]
+    },
+    {
+      "chinese": "多吃蔬菜",
+      "pinyin": "Duō chī shūcài",
+      "translation": "Eat more vegetables",
+      "usage": "Encourages nutrient-rich food choices.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "多",
+          "py": "duō",
+          "meaning": "more"
+        },
+        {
+          "zh": "吃",
+          "py": "chī",
+          "meaning": "eat"
+        },
+        {
+          "zh": "蔬菜",
+          "py": "shūcài",
+          "meaning": "vegetables"
+        }
+      ]
+    },
+    {
+      "chinese": "保持卫生",
+      "pinyin": "Bǎochí wēishēng",
+      "translation": "Maintain hygiene",
+      "usage": "Relates to cleanliness and disease prevention.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "保持",
+          "py": "bǎochí",
+          "meaning": "maintain"
+        },
+        {
+          "zh": "卫生",
+          "py": "wēishēng",
+          "meaning": "hygiene"
+        }
+      ]
+    },
+    {
+      "chinese": "定期体检",
+      "pinyin": "Dìngqī tǐjiǎn",
+      "translation": "Regular health check-ups",
+      "usage": "Advises proactive health monitoring.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "定期",
+          "py": "dìngqī",
+          "meaning": "regularly"
+        },
+        {
+          "zh": "体检",
+          "py": "tǐjiǎn",
+          "meaning": "health check-up"
+        }
+      ]
+    },
+    {
+      "chinese": "减少压力",
+      "pinyin": "Jiǎnshǎo yālì",
+      "translation": "Reduce stress",
+      "usage": "Focuses on mental health and relaxation.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "减少",
+          "py": "jiǎnshǎo",
+          "meaning": "reduce"
+        },
+        {
+          "zh": "压力",
+          "py": "yālì",
+          "meaning": "stress"
+        }
+      ]
+    },
+    {
+      "chinese": "规律作息",
+      "pinyin": "Guīlǜ xiūxī",
+      "translation": "Regular schedule",
+      "usage": "Encourages consistent daily routines.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "规律",
+          "py": "guīlǜ",
+          "meaning": "regular"
+        }
+      ]
+    }
+  ]
+}

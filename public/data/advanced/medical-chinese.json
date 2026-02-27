@@ -1,0 +1,67 @@
+{
+  "sentences": [
+    {
+      "chinese": "您最近有头痛或发热的症状吗？",
+      "pinyin": "Nín zuìjìn yǒu tóutòng huò fāshāi de zhèngzhuàng ma?",
+      "translation": "Have you had symptoms like headache or fever recently?",
+      "usage": "Used to inquire about recent symptoms during a medical consultation.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "您",
+          "py": "nín",
+          "meaning": "you (polite)"
+        },
+        {
+          "zh": "最近",
+          "py": "zuìjìn",
+          "meaning": "recently"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "have"
+        },
+        {
+          "zh": "头痛",
+          "py": "tóutòng",
+          "meaning": "headache"
+        },
+        {
+          "zh": "或",
+          "py": "huò",
+          "meaning": "or"
+        },
+        {
+          "zh": "发热",
+          "py": "fāshāi",
+          "meaning": "fever"
+        },
+        {
+          "zh": "症状",
+          "py": "zhèngzhuàng",
+          "meaning": "symptoms"
+        }
+      ]
+    },
+    {
+      "chinese": "您的血糖水平正常吗？",
+      "pinyin": "Nín de xuètáng shuǐpíng chángzhuàng ma?",
+      "translation": "Is your blood sugar level normal?",
+      "usage": "Asking a patient about blood sugar levels during a diabetes check-up.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "血糖",
+          "py": "xuètáng",
+          "meaning": "blood sugar"
+        },
+        {
+          "zh": "水平",
+          "py": "shuǐpíng",
+          "meaning": "level"
+        }
+      ]
+    }
+  ]
+}

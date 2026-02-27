@@ -1,0 +1,666 @@
+{
+  "sentences": [
+    {
+      "chinese": "我有医疗保险。",
+      "pinyin": "Wǒ yǒu yībǎo xiànbǎo。",
+      "translation": "I have health insurance.",
+      "usage": "To state possession of health insurance. Use in personal contexts or when registering services.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我",
+          "py": "wǒ",
+          "meaning": "I"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "have"
+        },
+        {
+          "zh": "医疗",
+          "py": "yīliáo",
+          "meaning": "medical"
+        },
+        {
+          "zh": "保险",
+          "py": "bǎoxiǎn",
+          "meaning": "insurance"
+        }
+      ]
+    },
+    {
+      "chinese": "请问您有医疗保险吗？",
+      "pinyin": "Qǐngwèn nín yǒu yībǎo xiànbǎo ma？",
+      "translation": "May I ask if you have health insurance?",
+      "usage": "Formal inquiry when verifying coverage for others or in official settings.",
+      "formality": "Formal",
+      "words": [
+        {
+          "zh": "请问",
+          "py": "qǐngwèn",
+          "meaning": "may I ask"
+        },
+        {
+          "zh": "您",
+          "py": "nín",
+          "meaning": "you (formal)"
+        },
+        {
+          "zh": "有",
+          "py": "yǒu",
+          "meaning": "have"
+        },
+        {
+          "zh": "医疗",
+          "py": "yīliáo",
+          "meaning": "medical"
+        },
+        {
+          "zh": "保险",
+          "py": "bǎoxiǎn",
+          "meaning": "insurance"
+        }
+      ]
+    },
+    {
+      "chinese": "医保覆盖哪些项目？",
+      "pinyin": "Yībǎo fùgài nǎxiē xiàngmù？",
+      "translation": "What does health insurance cover?",
+      "usage": "Inquiring about coverage scope when selecting a plan or verifying benefits.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "医保",
+          "py": "yībǎo",
+          "meaning": "health insurance"
+        },
+        {
+          "zh": "覆盖",
+          "py": "fùgài",
+          "meaning": "cover"
+        },
+        {
+          "zh": "哪些",
+          "py": "nǎxiē",
+          "meaning": "which"
+        },
+        {
+          "zh": "项目",
+          "py": "xiàngmù",
+          "meaning": "items / projects"
+        }
+      ]
+    },
+    {
+      "chinese": "医疗保险的报销比例是多少？",
+      "pinyin": "Yībǎo xiànbǎo de bàochān bǐlǜ shì duōshǎo？",
+      "translation": "What is the reimbursement ratio for health insurance?",
+      "usage": "Asking about reimbursement rates when submitting claims.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "医疗",
+          "py": "yīliáo",
+          "meaning": "medical"
+        },
+        {
+          "zh": "保险",
+          "py": "bǎoxiǎn",
+          "meaning": "insurance"
+        },
+        {
+          "zh": "报销",
+          "py": "bàochān",
+          "meaning": "reimbursement"
+        },
+        {
+          "zh": "比例",
+          "py": "bǐlǜ",
+          "meaning": "ratio / proportion"
+        }
+      ]
+    },
+    {
+      "chinese": "我需要提交哪些文件来申请报销？",
+      "pinyin": "Wǒ xūyào tíjiāo nǎxiē wénjiàn lái qǐnɡēn bàochān？",
+      "translation": "What documents do I need to submit to apply for reimbursement?",
+      "usage": "When preparing paperwork for a health insurance claim.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "需要",
+          "py": "xūyào",
+          "meaning": "need"
+        },
+        {
+          "zh": "提交",
+          "py": "tíjiāo",
+          "meaning": "submit"
+        },
+        {
+          "zh": "哪些",
+          "py": "nǎxiē",
+          "meaning": "which"
+        },
+        {
+          "zh": "文件",
+          "py": "wénjiàn",
+          "meaning": "documents"
+        },
+        {
+          "zh": "申请",
+          "py": "qǐnɡēn",
+          "meaning": "apply for"
+        },
+        {
+          "zh": "报销",
+          "py": "bàochān",
+          "meaning": "reimbursement"
+        }
+      ]
+    },
+    {
+      "chinese": "医疗保险的 deductible 是多少？",
+      "pinyin": "Yībǎo xiànbǎo de dédǔcè shì duōshǎo？",
+      "translation": "What is the deductible for health insurance?",
+      "usage": "Inquiring about out-of-pocket costs before coverage applies.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "医疗",
+          "py": "yīliáo",
+          "meaning": "medical"
+        },
+        {
+          "zh": "保险",
+          "py": "bǎoxiǎn",
+          "meaning": "insurance"
+        },
+        {
+          "zh": " deductible",
+          "py": "dédǔcè",
+          "meaning": "deductible"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "is"
+        },
+        {
+          "zh": "多少",
+          "py": "duōshǎo",
+          "meaning": "how much"
+        }
+      ]
+    },
+    {
+      "chinese": "如何申请医疗保险报销？",
+      "pinyin": "Rúhé qǐnɡēn yībǎo xiànbǎo bàochān？",
+      "translation": "How to apply for health insurance reimbursement?",
+      "usage": "Guidance for first-time claimants or when unsure of procedures.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "如何",
+          "py": "rúhé",
+          "meaning": "how"
+        },
+        {
+          "zh": "申请",
+          "py": "qǐnɡēn",
+          "meaning": "apply for"
+        },
+        {
+          "zh": "医疗",
+          "py": "yīliáo",
+          "meaning": "medical"
+        },
+        {
+          "zh": "保险",
+          "py": "bǎoxiǎn",
+          "meaning": "insurance"
+        },
+        {
+          "zh": "报销",
+          "py": "bàochān",
+          "meaning": "reimbursement"
+        }
+      ]
+    },
+    {
+      "chinese": "医保卡在哪里可以办理？",
+      "pinyin": "Yībǎo kǎ zài nǎlǐ kěyǐ bàn lǐ？",
+      "translation": "Where can I apply for a medical insurance card?",
+      "usage": "When setting up or replacing a health insurance card.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "医保",
+          "py": "yībǎo",
+          "meaning": "health insurance"
+        },
+        {
+          "zh": "卡",
+          "py": "kǎ",
+          "meaning": "card"
+        },
+        {
+          "zh": "哪里",
+          "py": "nǎlǐ",
+          "meaning": "where"
+        },
+        {
+          "zh": "可以",
+          "py": "kěyǐ",
+          "meaning": "can"
+        },
+        {
+          "zh": "办理",
+          "py": "bàn lǐ",
+          "meaning": "process / handle"
+        }
+      ]
+    },
+    {
+      "chinese": "医疗保险的等待期是多久？",
+      "pinyin": "Yībǎo xiànbǎo de děngdài qī shì duōjiǔ？",
+      "translation": "How long is the waiting period for health insurance?",
+      "usage": "When enrolling in a new plan or after policy changes.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "医疗",
+          "py": "yīliáo",
+          "meaning": "medical"
+        },
+        {
+          "zh": "保险",
+          "py": "bǎoxiǎn",
+          "meaning": "insurance"
+        },
+        {
+          "zh": "等待期",
+          "py": "děngdài qī",
+          "meaning": "waiting period"
+        },
+        {
+          "zh": "多久",
+          "py": "duōjiǔ",
+          "meaning": "how long"
+        }
+      ]
+    },
+    {
+      "chinese": "我的医疗保险是否覆盖住院费用？",
+      "pinyin": "Wǒ de yībǎo xiànbǎo shìfǒu fùgài zhùyuàn fèiyù？",
+      "translation": "Does my health insurance cover inpatient costs?",
+      "usage": "Verifying coverage for hospitalization expenses.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我的",
+          "py": "wǒ de",
+          "meaning": "my"
+        },
+        {
+          "zh": "医疗",
+          "py": "yīliáo",
+          "meaning": "medical"
+        },
+        {
+          "zh": "保险",
+          "py": "bǎoxiǎn",
+          "meaning": "insurance"
+        },
+        {
+          "zh": "是否",
+          "py": "shìfǒu",
+          "meaning": "whether"
+        },
+        {
+          "zh": "覆盖",
+          "py": "fùgài",
+          "meaning": "cover"
+        },
+        {
+          "zh": "住院",
+          "py": "zhùyuàn",
+          "meaning": "inpatient"
+        },
+        {
+          "zh": "费用",
+          "py": "fèiyù",
+          "meaning": "expenses"
+        }
+      ]
+    },
+    {
+      "chinese": "医疗保险的报销流程是怎样的？",
+      "pinyin": "Yībǎo xiànbǎo de bàochān liúchéng shì zěnme de？",
+      "translation": "What is the process for health insurance reimbursement?",
+      "usage": "When needing step-by-step guidance for claims.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "医疗",
+          "py": "yīliáo",
+          "meaning": "medical"
+        },
+        {
+          "zh": "保险",
+          "py": "bǎoxiǎn",
+          "meaning": "insurance"
+        },
+        {
+          "zh": "报销",
+          "py": "bàochān",
+          "meaning": "reimbursement"
+        },
+        {
+          "zh": "流程",
+          "py": "liúchéng",
+          "meaning": "process"
+        },
+        {
+          "zh": "是怎样的",
+          "py": "shì zěnme de",
+          "meaning": "what is the way"
+        }
+      ]
+    },
+    {
+      "chinese": "医保卡可以用来支付哪些费用？",
+      "pinyin": "Yībǎo kǎ kěyǐ yòng lái zhīfù nǎxiē fèiyù？",
+      "translation": "What expenses can a medical insurance card cover?",
+      "usage": "When checking usage limits for the insurance card.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "医保",
+          "py": "yībǎo",
+          "meaning": "health insurance"
+        },
+        {
+          "zh": "卡",
+          "py": "kǎ",
+          "meaning": "card"
+        },
+        {
+          "zh": "可以",
+          "py": "kěyǐ",
+          "meaning": "can"
+        },
+        {
+          "zh": "用来",
+          "py": "yòng lái",
+          "meaning": "used to"
+        },
+        {
+          "zh": "支付",
+          "py": "zhīfù",
+          "meaning": "pay"
+        },
+        {
+          "zh": "哪些",
+          "py": "nǎxiē",
+          "meaning": "which"
+        },
+        {
+          "zh": "费用",
+          "py": "fèiyù",
+          "meaning": "expenses"
+        }
+      ]
+    },
+    {
+      "chinese": "如何查询医疗保险的报销进度？",
+      "pinyin": "Rúhé cháxún yībǎo xiànbǎo de bàochān jìndù？",
+      "translation": "How to check the reimbursement progress of health insurance?",
+      "usage": "When tracking claim status after submission.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "如何",
+          "py": "rúhé",
+          "meaning": "how"
+        },
+        {
+          "zh": "查询",
+          "py": "cháxún",
+          "meaning": "check / inquire"
+        },
+        {
+          "zh": "医疗",
+          "py": "yīliáo",
+          "meaning": "medical"
+        },
+        {
+          "zh": "保险",
+          "py": "bǎoxiǎn",
+          "meaning": "insurance"
+        },
+        {
+          "zh": "报销",
+          "py": "bàochān",
+          "meaning": "reimbursement"
+        },
+        {
+          "zh": "进度",
+          "py": "jìndù",
+          "meaning": "progress"
+        }
+      ]
+    },
+    {
+      "chinese": "医疗保险的报销上限是多少？",
+      "pinyin": "Yībǎo xiànbǎo de bàochān shàngxiàn shì duōshǎo？",
+      "translation": "What is the maximum reimbursement limit for health insurance?",
+      "usage": "When understanding coverage caps.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "医疗",
+          "py": "yīliáo",
+          "meaning": "medical"
+        },
+        {
+          "zh": "保险",
+          "py": "bǎoxiǎn",
+          "meaning": "insurance"
+        },
+        {
+          "zh": "报销",
+          "py": "bàochān",
+          "meaning": "reimbursement"
+        },
+        {
+          "zh": "上限",
+          "py": "shàngxiàn",
+          "meaning": "upper limit"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "is"
+        },
+        {
+          "zh": "多少",
+          "py": "duōshǎo",
+          "meaning": "how much"
+        }
+      ]
+    },
+    {
+      "chinese": "我的医疗保险是否覆盖门诊费用？",
+      "pinyin": "Wǒ de yībǎo xiànbǎo shìfǒu fùgài ménzhōng fèiyù？",
+      "translation": "Does my health insurance cover outpatient expenses?",
+      "usage": "Verifying coverage for non-hospitalization costs.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我的",
+          "py": "wǒ de",
+          "meaning": "my"
+        },
+        {
+          "zh": "医疗",
+          "py": "yīliáo",
+          "meaning": "medical"
+        },
+        {
+          "zh": "保险",
+          "py": "bǎoxiǎn",
+          "meaning": "insurance"
+        },
+        {
+          "zh": "是否",
+          "py": "shìfǒu",
+          "meaning": "whether"
+        },
+        {
+          "zh": "覆盖",
+          "py": "fùgài",
+          "meaning": "cover"
+        },
+        {
+          "zh": "门诊",
+          "py": "ménzhōng",
+          "meaning": "outpatient"
+        },
+        {
+          "zh": "费用",
+          "py": "fèiyù",
+          "meaning": "expenses"
+        }
+      ]
+    },
+    {
+      "chinese": "医疗保险的报销比例是多少？",
+      "pinyin": "Yībǎo xiànbǎo de bàochān bǐlǜ shì duōshǎo？",
+      "translation": "What is the reimbursement ratio for health insurance?",
+      "usage": "When understanding how much of the cost is covered.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "医疗",
+          "py": "yīliáo",
+          "meaning": "medical"
+        },
+        {
+          "zh": "保险",
+          "py": "bǎoxiǎn",
+          "meaning": "insurance"
+        },
+        {
+          "zh": "报销",
+          "py": "bàochān",
+          "meaning": "reimbursement"
+        },
+        {
+          "zh": "比例",
+          "py": "bǐlǜ",
+          "meaning": "ratio / proportion"
+        },
+        {
+          "zh": "是",
+          "py": "shì",
+          "meaning": "is"
+        },
+        {
+          "zh": "多少",
+          "py": "duōshǎo",
+          "meaning": "how much"
+        }
+      ]
+    },
+    {
+      "chinese": "我的医疗保险是否覆盖药品费用？",
+      "pinyin": "Wǒ de yībǎo xiànbǎo shìfǒu fùgài yàopǐn fèiyù？",
+      "translation": "Does my health insurance cover drug expenses?",
+      "usage": "Verifying coverage for prescription medications.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "我的",
+          "py": "wǒ de",
+          "meaning": "my"
+        },
+        {
+          "zh": "医疗",
+          "py": "yīliáo",
+          "meaning": "medical"
+        },
+        {
+          "zh": "保险",
+          "py": "bǎoxiǎn",
+          "meaning": "insurance"
+        },
+        {
+          "zh": "是否",
+          "py": "shìfǒu",
+          "meaning": "whether"
+        },
+        {
+          "zh": "覆盖",
+          "py": "fùgài",
+          "meaning": "cover"
+        },
+        {
+          "zh": "药品",
+          "py": "yàopǐn",
+          "meaning": "drugs"
+        },
+        {
+          "zh": "费用",
+          "py": "fèiyù",
+          "meaning": "expenses"
+        }
+      ]
+    },
+    {
+      "chinese": "如何申请医疗保险的特殊门诊？",
+      "pinyin": "Rúhé qǐnɡēn yībǎo xiànbǎo de tèshū ménzhōng？",
+      "translation": "How to apply for special outpatient services under health insurance?",
+      "usage": "When requiring coverage for specific medical treatments.",
+      "formality": "Neutral",
+      "words": [
+        {
+          "zh": "如何",
+          "py": "rúhé",
+          "meaning": "how"
+        },
+        {
+          "zh": "申请",
+          "py": "qǐnɡēn",
+          "meaning": "apply for"
+        },
+        {
+          "zh": "医疗",
+          "py": "yīliáo",
+          "meaning": "medical"
+        },
+        {
+          "zh": "保险",
+          "py": "bǎoxiǎn",
+          "meaning": "insurance"
+        },
+        {
+          "zh": "报销",
+          "py": "bàochān",
+          "meaning": "reimbursement"
+        },
+        {
+          "zh": "特殊",
+          "py": "tèshū",
+          "meaning": "special"
+        },
+        {
+          "zh": "门诊",
+          "py": "ménzhōng",
+          "meaning": "outpatient"
+        }
+      ]
+    }
+  ]
+}
