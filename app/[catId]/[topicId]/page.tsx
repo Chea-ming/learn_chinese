@@ -60,7 +60,14 @@ export default async function TopicPage({ params }: Props) {
           </div>
         ) : (
           sentences.map((s, i) => (
-            <SentenceBlock key={i} sentence={s} index={i} voice={TTS_VOICES[i % TTS_VOICES.length]} />
+            <SentenceBlock
+              key={i}
+              sentence={s}
+              index={i}
+              voice={TTS_VOICES[i % TTS_VOICES.length]}
+              catId={catId}
+              topicId={topicId}
+            />
           ))
         )}
       </div>

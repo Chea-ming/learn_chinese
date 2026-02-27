@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useCallback, useRef, useEffect } from 'react';
+import { useState, useCallback, useRef } from 'react';
 import type { Sentence, TtsVoice } from '@/lib/types';
 
 function PlayIcon() {
@@ -17,23 +17,41 @@ function PauseIcon() {
     </svg>
   );
 }
-function SlowIcon() {
-  return (
-    <svg viewBox="0 0 24 24" fill="currentColor" width="14" height="14">
-      <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zm3.5-9c.83 0 1.5-.67 1.5-1.5S16.33 8 15.5 8 14 8.67 14 9.5s.67 1.5 1.5 1.5zm-7 0c.83 0 1.5-.67 1.5-1.5S9.33 8 8.5 8 7 8.67 7 9.5 7.67 11 8.5 11zm3.5 6.5c2.33 0 4.31-1.46 5.11-3.5H6.89c.8 2.04 2.78 3.5 5.11 3.5z" />
-    </svg>
-  );
+
+// ── 1. Static pre-generated audio ─────────────────────────────────────────
+async function speakStatic(
+  catId: string,
+  topicId: string,
+  index: number,
+  speed: number,
+  audioRef: React.MutableRefObject<HTMLAudioElement | null>,
+  onEnd: () => void,
+): Promise<boolean> {
+  try {
+    const url = `/audio/${catId}/${topicId}/${index}.mp3`;
+    const head = await fetch(url, { method: 'HEAD' });
+    if (!head.ok) return false;
+
+    stopAudio(audioRef);
+    const audio = new Audio(url);
+    audio.playbackRate = speed;
+    audioRef.current = audio;
+    audio.onended = onEnd;
+    audio.onerror = onEnd;
+    await audio.play();
+    return true;
+  } catch {
+    return false;
+  }
 }
 
-// ── Edge-TTS via API route ──────────────────────────────────────────────────
-// onEnd is passed in so handlers are registered BEFORE audio.play() is called,
-// which prevents the race condition where 'ended' fires before the handler is set.
+// ── 2. Live Edge-TTS API ───────────────────────────────────────────────────
 async function speakEdgeTTS(
   text: string,
   voice: TtsVoice,
+  speed: number,
   audioRef: React.MutableRefObject<HTMLAudioElement | null>,
   onEnd: () => void,
-  speed: number = 1,
 ): Promise<boolean> {
   try {
     const url = `/api/tts?text=${encodeURIComponent(text)}&voice=${encodeURIComponent(voice)}`;
@@ -41,77 +59,61 @@ async function speakEdgeTTS(
     if (!res.ok) return false;
 
     const blob = await res.blob();
-    // Guard: if the server returned an empty body, bail out
     if (blob.size === 0) return false;
 
-    const objectUrl = URL.createObjectURL(blob);
-
-    // Stop and clean up any previous audio element
-    if (audioRef.current) {
-      audioRef.current.pause();
-      if (audioRef.current.src.startsWith('blob:')) {
-        URL.revokeObjectURL(audioRef.current.src);
-      }
-    }
-
-    const audio = new Audio(objectUrl);
+    stopAudio(audioRef);
+    const audio = new Audio(URL.createObjectURL(blob));
     audio.playbackRate = speed;
     audioRef.current = audio;
-
-    // Register handlers BEFORE play() so we never miss the events
     audio.onended = onEnd;
     audio.onerror = onEnd;
-
-    try {
-      await audio.play();
-      return true;
-    } catch {
-      onEnd();
-      return false;
-    }
+    await audio.play();
+    return true;
   } catch {
     return false;
   }
 }
 
-// ── Browser TTS fallback ────────────────────────────────────────────────────
-function speakBrowserTTS(text: string, onEnd: () => void, speed: number = 1) {
+// ── 3. Browser TTS fallback ────────────────────────────────────────────────
+function speakBrowserTTS(text: string, speed: number, onEnd: () => void) {
   if (!window.speechSynthesis) { onEnd(); return; }
   window.speechSynthesis.cancel();
   const u = new SpeechSynthesisUtterance(text);
   u.lang = 'zh-CN';
-  u.rate = 0.85 * speed;
+  u.rate  = 0.85 * speed;
   const v = window.speechSynthesis.getVoices().find(v => v.lang.startsWith('zh'));
   if (v) u.voice = v;
-  u.onend = onEnd;
+  u.onend  = onEnd;
   u.onerror = onEnd;
   window.speechSynthesis.speak(u);
+}
+
+function stopAudio(audioRef: React.MutableRefObject<HTMLAudioElement | null>) {
+  if (!audioRef.current) return;
+  audioRef.current.pause();
+  if (audioRef.current.src.startsWith('blob:')) {
+    URL.revokeObjectURL(audioRef.current.src);
+  }
+  audioRef.current = null;
 }
 
 // ───────────────────────────────────────────────────────────────────────────
 interface SentenceBlockProps {
   sentence: Sentence;
+  /** Position within the topic — used for static file lookup & voice rotation */
   index: number;
   voice: TtsVoice;
+  catId: string;
+  topicId: string;
 }
 
-export default function SentenceBlock({ sentence, index, voice }: SentenceBlockProps) {
+export default function SentenceBlock({ sentence, index, voice, catId, topicId }: SentenceBlockProps) {
   const [playing, setPlaying] = useState(false);
-  const [speed, setSpeed] = useState(1);
+  const [speed,   setSpeed  ] = useState(1);
   const audioRef = useRef<HTMLAudioElement | null>(null);
 
-  // Update playback rate if audio is currently playing
-  useEffect(() => {
-    if (audioRef.current && playing) {
-      audioRef.current.playbackRate = speed;
-    }
-  }, [speed, playing]);
-
   const stop = useCallback(() => {
-    if (audioRef.current) {
-      audioRef.current.pause();
-      audioRef.current.currentTime = 0;
-    }
+    stopAudio(audioRef);
     if (window.speechSynthesis) window.speechSynthesis.cancel();
     setPlaying(false);
   }, []);
@@ -122,12 +124,13 @@ export default function SentenceBlock({ sentence, index, voice }: SentenceBlockP
 
     const done = () => setPlaying(false);
 
-    const success = await speakEdgeTTS(sentence.chinese, voice, audioRef, done, speed);
-    if (!success) {
-      // Fallback to browser TTS
-      speakBrowserTTS(sentence.chinese, done, speed);
-    }
-  }, [playing, sentence.chinese, voice, stop, speed]);
+    // Priority: static file → live API → browser TTS
+    const ok =
+      await speakStatic(catId, topicId, index, speed, audioRef, done) ||
+      await speakEdgeTTS(sentence.chinese, voice, speed, audioRef, done);
+
+    if (!ok) speakBrowserTTS(sentence.chinese, speed, done);
+  }, [playing, sentence.chinese, voice, catId, topicId, index, speed, stop]);
 
   return (
     <div className="s-block" style={{ animationDelay: `${index * 35}ms` }}>
@@ -139,9 +142,10 @@ export default function SentenceBlock({ sentence, index, voice }: SentenceBlockP
           </div>
           <div className="s-py">{sentence.pinyin}</div>
           <div className="s-tr">{sentence.translation}</div>
-          {sentence.usage && <div className="s-usage">{sentence.usage}</div>}
+          {sentence.usage    && <div className="s-usage">{sentence.usage}</div>}
           {sentence.formality && <div className="s-formality">Formality: {sentence.formality}</div>}
         </div>
+
         <div className="controls">
           <button
             className={`play-btn${playing ? ' playing' : ''}`}
@@ -151,23 +155,9 @@ export default function SentenceBlock({ sentence, index, voice }: SentenceBlockP
             {playing ? <PauseIcon /> : <PlayIcon />}
           </button>
           <div className="speed-control">
-            <button
-              className="speed-btn"
-              onClick={() => setSpeed(Math.max(0.5, speed - 0.25))}
-              title="Slower"
-              aria-label="Slower"
-            >
-              <SlowIcon />
-            </button>
-            <span className="speed-value">{(speed * 100).toFixed(0)}%</span>
-            <button
-              className="speed-btn"
-              onClick={() => setSpeed(Math.min(2, speed + 0.25))}
-              title="Faster"
-              aria-label="Faster"
-            >
-              <span style={{ fontWeight: 'bold' }}>+</span>
-            </button>
+            <button className="speed-btn" onClick={() => setSpeed(s => Math.max(0.5, s - 0.25))} title="Slower">−</button>
+            <span className="speed-value">{Math.round(speed * 100)}%</span>
+            <button className="speed-btn" onClick={() => setSpeed(s => Math.min(2, s + 0.25))} title="Faster">+</button>
           </div>
         </div>
       </div>

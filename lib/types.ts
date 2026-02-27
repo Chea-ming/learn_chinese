@@ -37,8 +37,8 @@ export const TTS_VOICES = [
   'zh-CN-XiaoxiaoNeural', // female, warm
   'zh-CN-YunxiNeural',    // male, youthful
   'zh-CN-YunyangNeural',  // male, neutral
-  'zh-CN-XiaomengNeural', // female, youthful
-  'zh-CN-XiaoqiuNeural'
+  'zh-CN-XiaoyiNeural',   // female, youthful
+  'zh-CN-XiaoxuanNeural'
 ] as const;
 
 export type TtsVoice = (typeof TTS_VOICES)[number];
